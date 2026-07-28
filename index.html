@@ -130,8 +130,10 @@ function render(){
   const addRow=(c,rank,isTop)=>{
     const r=vRoas(c);
     const tr=document.createElement('tr'); tr.className='row';
+    tr.style.borderLeft=`4px solid ${isTop?'var(--good)':'var(--bad)'}`;
+    tr.style.background=isTop?'rgba(46,204,113,0.05)':'rgba(231,76,60,0.05)';
     tr.innerHTML=`<td class="num">${rank}</td>
-      <td><b>${esc(c.key)}</b><div style="color:var(--tx2);font-size:11px">${isTop?'🏆 상위':'📉 하위'}${c.analyzed?'':' · <span style=color:#e0a63a>분석대기</span>'}</div></td>
+      <td><b>${esc(c.key)}</b>${c.analyzed?'':' <span style="color:#e0a63a;font-size:11px">· 분석대기</span>'}</td>
       <td>${badges(c.platforms)}</td>
       <td class="num"><span class="roas" style="background:${roasColor(r)};color:#0b0d10">${r??'–'}</span></td>
       <td class="num">${fCur(vSpend(c))}</td>
@@ -143,8 +145,15 @@ function render(){
     tr.onclick=()=>{det.style.display=det.style.display==='none'?'':'none'};
     tb.appendChild(tr); tb.appendChild(det);
   };
+  const sectionRow=(label,color,sub)=>{
+    const tr=document.createElement('tr');
+    tr.innerHTML=`<td colspan="8" style="background:${color};color:#0b0d10;font-weight:800;font-size:13px;padding:8px 12px;letter-spacing:.5px">${label} <span style="font-weight:600;opacity:.75">${sub||''}</span></td>`;
+    tb.appendChild(tr);
+  };
+  const avgLbl=arr=>arr.length?`평균 ROAS ${avg(arr)}`:'';
+  sectionRow(`🏆 상위 소재 ${tops.length}개`, 'var(--good)', avgLbl(tops));
   tops.forEach((c,i)=>addRow(c,i+1,true));
-  if(omitted>0){const sep=document.createElement('tr');sep.innerHTML=`<td colspan="8" style="text-align:center;color:var(--tx2);font-size:12px;padding:8px;background:var(--bg)">··· 중략 ${omitted}개 ···</td>`;tb.appendChild(sep);}
+  sectionRow(`📉 하위 소재 ${bots.length}개`, 'var(--bad)', (omitted>0?`· 중간 ${omitted}개 생략 · `:'')+avgLbl(bots));
   bots.forEach((c,i)=>addRow(c,sorted.length-bots.length+i+1,false));
 }
 function buildViewTabs(){
