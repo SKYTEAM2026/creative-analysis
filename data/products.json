@@ -14,11 +14,11 @@
       "counts": {
         "last_14d": {
           "n": 35,
-          "analyzed": 30
+          "analyzed": 33
         },
         "last_30d": {
           "n": 47,
-          "analyzed": 42
+          "analyzed": 47
         }
       },
       "generated": "2026-07-28",
@@ -60,11 +60,11 @@
       "counts": {
         "last_14d": {
           "n": 30,
-          "analyzed": 27
+          "analyzed": 29
         },
         "last_30d": {
           "n": 37,
-          "analyzed": 33
+          "analyzed": 37
         }
       },
       "generated": "2026-07-28",
