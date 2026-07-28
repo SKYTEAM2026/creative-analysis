@@ -1,0 +1,100 @@
+{
+  "ranges": [
+    "last_14d",
+    "last_30d"
+  ],
+  "products": [
+    {
+      "code": "th",
+      "product": "써마드",
+      "files": {
+        "last_14d": "creative_analysis_th_last_14d.json",
+        "last_30d": "creative_analysis_th_last_30d.json"
+      },
+      "counts": {
+        "last_14d": {
+          "n": 35,
+          "analyzed": 30
+        },
+        "last_30d": {
+          "n": 47,
+          "analyzed": 42
+        }
+      },
+      "generated": "2026-07-28",
+      "ranges": [
+        "last_14d",
+        "last_30d"
+      ]
+    },
+    {
+      "code": "nb",
+      "product": "뉴베로",
+      "files": {
+        "last_14d": "creative_analysis_nb_last_14d.json",
+        "last_30d": "creative_analysis_nb_last_30d.json"
+      },
+      "counts": {
+        "last_14d": {
+          "n": 23,
+          "analyzed": 23
+        },
+        "last_30d": {
+          "n": 24,
+          "analyzed": 24
+        }
+      },
+      "generated": "2026-07-28",
+      "ranges": [
+        "last_14d",
+        "last_30d"
+      ]
+    },
+    {
+      "code": "tw",
+      "product": "아큐스터",
+      "files": {
+        "last_14d": "creative_analysis_tw_last_14d.json",
+        "last_30d": "creative_analysis_tw_last_30d.json"
+      },
+      "counts": {
+        "last_14d": {
+          "n": 30,
+          "analyzed": 27
+        },
+        "last_30d": {
+          "n": 37,
+          "analyzed": 33
+        }
+      },
+      "generated": "2026-07-28",
+      "ranges": [
+        "last_14d",
+        "last_30d"
+      ]
+    },
+    {
+      "code": "am",
+      "product": "아치핀 맥스",
+      "files": {
+        "last_14d": "creative_analysis_am_last_14d.json",
+        "last_30d": "creative_analysis_am_last_30d.json"
+      },
+      "counts": {
+        "last_14d": {
+          "n": 14,
+          "analyzed": 14
+        },
+        "last_30d": {
+          "n": 17,
+          "analyzed": 17
+        }
+      },
+      "generated": "2026-07-28",
+      "ranges": [
+        "last_14d",
+        "last_30d"
+      ]
+    }
+  ]
+}
