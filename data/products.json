@@ -14,11 +14,11 @@
       "counts": {
         "last_14d": {
           "n": 40,
-          "analyzed": 28
+          "analyzed": 40
         },
         "last_30d": {
           "n": 47,
-          "analyzed": 35
+          "analyzed": 47
         }
       },
       "generated": "2026-08-03",
@@ -37,11 +37,11 @@
       "counts": {
         "last_14d": {
           "n": 25,
-          "analyzed": 15
+          "analyzed": 25
         },
         "last_30d": {
           "n": 24,
-          "analyzed": 19
+          "analyzed": 24
         }
       },
       "generated": "2026-08-03",
@@ -60,11 +60,11 @@
       "counts": {
         "last_14d": {
           "n": 31,
-          "analyzed": 25
+          "analyzed": 31
         },
         "last_30d": {
           "n": 39,
-          "analyzed": 34
+          "analyzed": 39
         }
       },
       "generated": "2026-08-03",
@@ -83,11 +83,11 @@
       "counts": {
         "last_14d": {
           "n": 11,
-          "analyzed": 7
+          "analyzed": 11
         },
         "last_30d": {
           "n": 20,
-          "analyzed": 16
+          "analyzed": 20
         }
       },
       "generated": "2026-08-03",
