@@ -129,7 +129,7 @@ function render(){
     ['지출('+viewLabel+')']:fCur([...tops,...bots].reduce((s,c)=>s+(vSpend(c)||0),0))
   }).map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join('');
   const tb=document.getElementById('tb'); tb.innerHTML='';
-  if(!sorted.length){tb.innerHTML='<tr><td colspan="8" class="empty">이 매체에 유의미 지출(50만↑) 소재가 없습니다</td></tr>';return}
+  if(!pool.length){tb.innerHTML='<tr><td colspan="8" class="empty">이 매체에 유의미 지출(50만↑) 소재가 없습니다</td></tr>';return}
   const addRow=(c,rank,isTop)=>{
     const r=vRoas(c);
     const tr=document.createElement('tr'); tr.className='row';
@@ -157,7 +157,7 @@ function render(){
   sectionRow(`🏆 상위 소재 ${tops.length}개`, 'var(--good)', avgLbl(tops));
   tops.forEach((c,i)=>addRow(c,i+1,true));
   sectionRow(`📉 하위 소재 ${bots.length}개`, 'var(--bad)', (omitted>0?`· 중간 ${omitted}개 생략 · `:'')+avgLbl(bots));
-  bots.forEach((c,i)=>addRow(c,sorted.length-bots.length+i+1,false));
+  bots.forEach((c,i)=>addRow(c,i+1,false));
 }
 function buildViewTabs(){
   const el=document.getElementById('viewTabs');
