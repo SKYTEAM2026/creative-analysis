@@ -13,15 +13,15 @@
       },
       "counts": {
         "last_14d": {
-          "n": 35,
-          "analyzed": 35
+          "n": 40,
+          "analyzed": 28
         },
         "last_30d": {
           "n": 47,
-          "analyzed": 47
+          "analyzed": 35
         }
       },
-      "generated": "2026-07-28",
+      "generated": "2026-08-03",
       "ranges": [
         "last_14d",
         "last_30d"
@@ -36,15 +36,15 @@
       },
       "counts": {
         "last_14d": {
-          "n": 23,
-          "analyzed": 23
+          "n": 25,
+          "analyzed": 15
         },
         "last_30d": {
           "n": 24,
-          "analyzed": 24
+          "analyzed": 19
         }
       },
-      "generated": "2026-07-28",
+      "generated": "2026-08-03",
       "ranges": [
         "last_14d",
         "last_30d"
@@ -59,15 +59,15 @@
       },
       "counts": {
         "last_14d": {
-          "n": 30,
-          "analyzed": 30
+          "n": 31,
+          "analyzed": 25
         },
         "last_30d": {
-          "n": 37,
-          "analyzed": 37
+          "n": 39,
+          "analyzed": 34
         }
       },
-      "generated": "2026-07-28",
+      "generated": "2026-08-03",
       "ranges": [
         "last_14d",
         "last_30d"
@@ -82,15 +82,15 @@
       },
       "counts": {
         "last_14d": {
-          "n": 14,
-          "analyzed": 14
+          "n": 11,
+          "analyzed": 7
         },
         "last_30d": {
-          "n": 17,
-          "analyzed": 17
+          "n": 20,
+          "analyzed": 16
         }
       },
-      "generated": "2026-07-28",
+      "generated": "2026-08-03",
       "ranges": [
         "last_14d",
         "last_30d"
