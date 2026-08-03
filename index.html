@@ -115,10 +115,13 @@ function detailHTML(c){
 
 const TOPN=10;
 function render(){
-  const sorted=DATA.creatives.filter(inView).sort((a,b)=>vScore(b)-vScore(a));
-  let tops,bots,omitted=0;
-  if(sorted.length<=2*TOPN){const half=Math.ceil(sorted.length/2);tops=sorted.slice(0,half);bots=sorted.slice(half);}
-  else{tops=sorted.slice(0,TOPN);bots=sorted.slice(-TOPN);omitted=sorted.length-2*TOPN;}
+  const pool=DATA.creatives.filter(inView);
+  // 🏆상위 = 지출가중 ROAS 상위 / 📉하위 = 순수 ROAS 최저(고ROAS는 하위 제외)
+  const tops=[...pool].sort((a,b)=>vScore(b)-vScore(a)).slice(0,TOPN);
+  const topKeys=new Set(tops.map(c=>c.key));
+  const botSel=pool.filter(c=>!topKeys.has(c.key)&&vRoas(c)!=null).sort((a,b)=>vRoas(a)-vRoas(b)).slice(0,TOPN);
+  const bots=[...botSel].sort((a,b)=>vRoas(b)-vRoas(a));
+  const omitted=Math.max(0,pool.length-tops.length-bots.length);
   const avg=arr=>arr.length?(arr.reduce((s,c)=>s+(vRoas(c)||0),0)/arr.length).toFixed(2):'–';
   const viewLabel=(VIEWS.find(v=>v[0]===curView)||[])[1]||'';
   document.getElementById('kpis').innerHTML=Object.entries({

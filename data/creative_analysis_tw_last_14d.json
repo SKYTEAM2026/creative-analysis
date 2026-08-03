@@ -3,7 +3,7 @@
   "product": "아큐스터",
   "range": "last_14d",
   "generated": "2026-08-03",
-  "criteria": "상·하위는 단순 ROAS가 아니라 '지출 가중 ROAS(ROAS×√지출)'로 뽑음 — 지출 큰 핵심 소재가 정당하게 상위로, 지출 적은 요행 고ROAS는 걸러짐. '통합'=3매체 합산 기준, '메타/틱톡/구글' 탭은 각 매체별로 독립 선정·랭킹(그 매체 지출 50만↑). 대상은 영상 원본 매칭 소재만(지출 임계값 3,000,000원, 제품 규모 자동 조정), PPL·이미지는 내용분석 불가라 제외.",
+  "criteria": "유의미 지출(3,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
     "tiktok",
@@ -1904,32 +1904,41 @@
       "why": "금지 훅이 클릭은 극대화하나 과장 서사가 전환을 못 받쳐 효율 낭비. 대물량(2,876만원) 대비 재점검 대상."
     },
     {
-      "key": "tw엠버PPL_T",
+      "key": "tw중년힘들어Ⅰ_AN",
       "rank_note": "bottom",
       "roas": 1.51,
-      "spend": 808434.0,
-      "ctr": 0.96,
-      "purchases": 23.0,
+      "spend": 2769634.0,
+      "ctr": 4.25,
+      "purchases": 79.000153,
       "platforms": [
         "google",
-        "meta"
+        "meta",
+        "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 14.0,
+          "spend": 36117.0,
+          "revenue": 243517.0,
+          "roas": 6.74,
+          "ctr": 1.02,
+          "cpa": 7223,
+          "purchases": 5.000153
+        },
+        "tiktok": {
+          "spend": 52302.0,
           "revenue": 0.0,
           "roas": 0.0,
-          "ctr": 0.0,
+          "ctr": 12.5,
           "cpa": null,
           "purchases": 0.0
         },
         "meta": {
-          "spend": 808420.0,
-          "revenue": 1218300.0,
-          "roas": 1.51,
-          "ctr": 0.96,
-          "cpa": 35149,
-          "purchases": 23.0
+          "spend": 2681215.0,
+          "revenue": 3935500.0,
+          "roas": 1.47,
+          "ctr": 3.81,
+          "cpa": 36233,
+          "purchases": 74.0
         }
       },
       "frames": [
@@ -1937,53 +1946,52 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_7.0s.jpg",
-        "f05_14.1s.jpg",
-        "f06_21.1s.jpg",
-        "f07_28.1s.jpg",
-        "f08_35.2s.jpg",
-        "f09_42.2s.jpg"
+        "f04_9.0s.jpg",
+        "f05_18.0s.jpg",
+        "f06_27.0s.jpg",
+        "f07_35.9s.jpg",
+        "f08_44.9s.jpg",
+        "f09_53.9s.jpg"
       ],
-      "transcript": "다이어트해도 아랫배만 볼록 나와 있는 분들? 똥배 쏙 들어가는 홈케어 루틴 바로 알려드릴게요 제가 100일 다이어트 중이잖아요 근데 이 아쿠스터가 복분의 장지방 없애는데 진짜 도움되더라고요 167개의 지압볼로 림프순환 뚫어주면서 양방향 트위스터가 아랫배 옆구리살을 잡아주는 구조인데 10분 정도 돌리고 나면 코어에 힘이 들어가면서 배가 점점 납작해지는 게 보이더라고요 살처임 없이 라인을 탄탄하게 세워주고 발바닥 지압으로 노폐물까지 빼주는 회전 발판이라 재활해부학 공부한 입장에서 봤을 때 진짜 잘 만들었다 싶었어요 족부 의학 전문가들이 5만 건 데이터를 기반으로 1mm까지 정밀 설계했다는데 예비 트레이너가 봐도 디테일이 미쳤습니다 2주 정도 매일 기상 직구와 취침 전에 10번 스텝 후 100번 트위스트 마무리로 10번 스텝 루틴 반복했더니 복부가 전이랑 비교했을 때 많이 납작해졌어요 볼록한 똥배 살처임 없이 무너진 체형 라인 되돌리고 싶다면 무조건 이거 꼭 보세요 지금 49% 할인에 100% 환불보장 이벤트도 하고 있으니 이 좋은 기회 꼭 쟁여보세요",
+      "transcript": "요즘 중년 여성들은 완전히 멘탈이 나가버렸습니다. 굶어도 봤다가 땡볕에 러닝까지 했는데도 그대로였던 뱃살 근데 이거 하루 10분 발로 밟고 돌리기만 했는데 감쪽같이 사라졌습니다. 이게 가능했던 이유는 정체된 하체 혈류를 정상화시켜 지방 배출문을 활짝 열어줬기 때문 우리 발바닥에는 157개의 지하 포인트가 있는데 전문가들은 이곳을 노폐물과 지방이 배출되는 지방문이라 부릅니다. 이 문이 닫히면 발끝 혈액이 막히고 혈액이 막히면 순환 속도가 느려져요. 지방은 혈액을 타고 이동해서 태워지는 건데 순환이 느려지면 지방을 실어날 힘이 없어지는 거죠. 그러니까 아무리 굶고 뛰어도 지방을 옮길 길이 막혀 있었으니 뱃살만 그대로였던 거예요. 그래서 요즘 난리난 게 바로 야큐스터 하루 10분 TV 보면서 밟고 돌리면 끝 힘들게 참고 굶고 버틸 필요 없이 림프 지압불로 닫혀있던 지방문 열어주면서 가만히 있어도 뱃살이 잘 빠지는 몸으로 만들어주는 원리 찜통 더위에 땀 흘리며 운동할 필요 없이 그냥 밟고 돌리기만 하면 끝 지금 이 영상 보고 계신 분들이라면 이미 다 해보고 지쳐 있으신 분들일 거예요. 더 이상 굶지 마시고 더 이상 자책하지 마시고 오늘부터 하루 10분 밟고 돌려 지방문만 열어주세요.",
       "analyzed": true,
       "base": {
-        "hook_type": "체형 공감+전문성형",
-        "first_3s": "집에서 앉은 인플루언서 + '하루 10분, 뱃살 쏙 들어가는 홈케어 루틴'",
-        "appeal_angle": "재활해부학·족부의학 전문성으로 신뢰 + 아랫배 저격",
-        "cta": "49% 할인+100% 환불",
+        "hook_type": "중년 공감형",
+        "first_3s": "애니, '중년 여성들 멘탈 나가버렸다'",
+        "appeal_angle": "뱃살·지방문",
+        "cta": "",
         "keywords": [
-          "하루 10분",
-          "아랫배",
-          "167개 지압볼",
-          "족부의학 5만건",
-          "49% 환불"
+          "중년 여성",
+          "굶고 러닝",
+          "지방문",
+          "157개 지하포인트"
         ]
       },
       "audio": {
-        "opening_line": "다이어트해도 아랫배만 볼록 나와 있는 분들?",
-        "voice_style": "차분한 전문성 후기체",
-        "narration_mode": "1인칭 사용기+전문 설명"
+        "opening_line": "요즘 중년 여성들은 완전히 멘탈이 나가버렸습니다",
+        "voice_style": "공감 호소체",
+        "narration_mode": "해설형"
       },
       "visual": {
-        "format": "실사 인플루언서 PPL",
-        "mechanism_viz": "지압볼·양방향 트위스터 원리 설명",
-        "before_after": "2주 납작해짐 언급",
-        "subtitle_style": "감성 자막"
+        "format": "AI 애니",
+        "mechanism_viz": "지방문·혈류 정상화",
+        "before_after": "뱃살 사라짐",
+        "subtitle_style": "자막"
       },
       "target": {
         "gender": "여성",
-        "age": "20·30대",
-        "segment": "다이어트해도 아랫배만 남는 층",
-        "appeal_axis": "체형 저격+전문성 신뢰"
+        "age": "40·50대",
+        "segment": "중년 뱃살",
+        "appeal_axis": "다이어트(뱃살)"
       },
       "trust": {
-        "evidence": "족부의학 5만건·1mm 설계 주장",
-        "refund": "100% 환불",
-        "discount": "49%",
-        "compliance": "⚠ 재활해부학·족부의학 전문가 프레임+장지방·노폐물 제거 표현(과장·전문성 근거 확인 권장)"
+        "evidence": "157개 지하포인트",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
       },
-      "one_liner": "재활해부학·족부의학이라는 전문성으로 신뢰를 쌓고 49%+환불로 밀지만, ROAS 1.85로 tw 전 소재 중 최저 — 전문성 어필이 전환으로는 잘 연결되지 않은 소재.",
-      "why": "전문성 프레임은 신뢰를 주나 전환 효율은 최저. 소구가 무겁고 훅 즉발력이 약한 편."
+      "one_liner": "중년 공감 훅에 '지방문' 메커니즘을 얹었지만 애니 체감이 약하고 소액이라 0.94로 저조.",
+      "why": "공감·원리는 있으나 체감 약함 + 소액."
     },
     {
       "key": "tw왕년에퀸카Ⅰ_AN",
@@ -2303,87 +2311,6 @@
       "why": "원리 우선 설명 → 훅 부재 + 긴 호흡."
     },
     {
-      "key": "tw밟아여성Ⅰ_AN",
-      "rank_note": "bottom",
-      "roas": 0.89,
-      "spend": 965681.0,
-      "ctr": 3.13,
-      "purchases": 17.0,
-      "platforms": [
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 15522.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 22.73,
-          "cpa": null,
-          "purchases": 0.0
-        },
-        "meta": {
-          "spend": 950159.0,
-          "revenue": 859200.0,
-          "roas": 0.9,
-          "ctr": 1.74,
-          "cpa": 55892,
-          "purchases": 17.0
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.6s.jpg",
-        "f05_11.2s.jpg",
-        "f06_16.8s.jpg",
-        "f07_22.3s.jpg",
-        "f08_27.9s.jpg",
-        "f09_33.5s.jpg"
-      ],
-      "transcript": "뒤틀어 Twisted Vibe 발끝에서 changing my body frame I used to drop it down What's up? I believe 내 뱃살 fresh and light I used to make it real 삼키대로 멈춰 있던 내 뱃살 근데 발 밑에 I used to drop it down 숨겹살 Bye 내 뱃살은 전부 Goodbye",
-      "analyzed": true,
-      "base": {
-        "hook_type": "영어랩 노래형",
-        "first_3s": "애니, 영어 랩 '내 뱃살 goodbye'",
-        "appeal_angle": "뱃살·트렌디",
-        "cta": "",
-        "keywords": [
-          "영어 랩",
-          "트위스티드 바이브",
-          "뱃살 bye",
-          "노래"
-        ]
-      },
-      "audio": {
-        "opening_line": "뒤틀어 Twisted Vibe … 내 뱃살은 전부 Goodbye",
-        "voice_style": "영어 랩 노래",
-        "narration_mode": "노래형"
-      },
-      "visual": {
-        "format": "AI 애니",
-        "mechanism_viz": "–",
-        "before_after": "뱃살 사라짐",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "다이어트",
-        "appeal_axis": "다이어트(무드)"
-      },
-      "trust": {
-        "evidence": "거의 없음",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "영어 랩 무드 소재인데 정보·근거가 거의 없어 최하위권(0.98). 무드만으로는 고가 기구 전환 불가.",
-      "why": "무드 과잉·근거 전무. 전환 실패."
-    },
-    {
       "key": "tw신기해서Ⅰ_AN",
       "rank_note": "top",
       "roas": 0.89,
@@ -2463,6 +2390,87 @@
       },
       "one_liner": "'신기해서 샀는데 의외로 대박'이라는 낮은 기대→반전 구조가 신뢰를 준다. 2.02 경계선.",
       "why": "의외성 반전 후기. 담백한 신뢰."
+    },
+    {
+      "key": "tw밟아여성Ⅰ_AN",
+      "rank_note": "bottom",
+      "roas": 0.89,
+      "spend": 965681.0,
+      "ctr": 3.13,
+      "purchases": 17.0,
+      "platforms": [
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 15522.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 22.73,
+          "cpa": null,
+          "purchases": 0.0
+        },
+        "meta": {
+          "spend": 950159.0,
+          "revenue": 859200.0,
+          "roas": 0.9,
+          "ctr": 1.74,
+          "cpa": 55892,
+          "purchases": 17.0
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_5.6s.jpg",
+        "f05_11.2s.jpg",
+        "f06_16.8s.jpg",
+        "f07_22.3s.jpg",
+        "f08_27.9s.jpg",
+        "f09_33.5s.jpg"
+      ],
+      "transcript": "뒤틀어 Twisted Vibe 발끝에서 changing my body frame I used to drop it down What's up? I believe 내 뱃살 fresh and light I used to make it real 삼키대로 멈춰 있던 내 뱃살 근데 발 밑에 I used to drop it down 숨겹살 Bye 내 뱃살은 전부 Goodbye",
+      "analyzed": true,
+      "base": {
+        "hook_type": "영어랩 노래형",
+        "first_3s": "애니, 영어 랩 '내 뱃살 goodbye'",
+        "appeal_angle": "뱃살·트렌디",
+        "cta": "",
+        "keywords": [
+          "영어 랩",
+          "트위스티드 바이브",
+          "뱃살 bye",
+          "노래"
+        ]
+      },
+      "audio": {
+        "opening_line": "뒤틀어 Twisted Vibe … 내 뱃살은 전부 Goodbye",
+        "voice_style": "영어 랩 노래",
+        "narration_mode": "노래형"
+      },
+      "visual": {
+        "format": "AI 애니",
+        "mechanism_viz": "–",
+        "before_after": "뱃살 사라짐",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "다이어트",
+        "appeal_axis": "다이어트(무드)"
+      },
+      "trust": {
+        "evidence": "거의 없음",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "영어 랩 무드 소재인데 정보·근거가 거의 없어 최하위권(0.98). 무드만으로는 고가 기구 전환 불가.",
+      "why": "무드 과잉·근거 전무. 전환 실패."
     }
   ]
 }
