@@ -174,7 +174,7 @@ function buildViewTabs(){
 function boot(d){
   DATA=d; curView='overall';
   document.getElementById('prod').textContent=d.product||'써마드';
-  const rangeLbl={last_30d:'최근 30일',last_7d:'최근 7일'}[d.range]||d.range||'';
+  const rangeLbl={last_14d:'최근 2주',last_30d:'최근 한달',last_90d:'최근 3개월'}[d.range]||d.range||'';
   document.getElementById('sub').innerHTML=`📅 <b>${rangeLbl}</b> 기준 · 최종 업데이트 <b>${d.generated||'—'}</b> · <span style="color:var(--accent)">매주 월요일 자동 갱신</span> · 소재 ${d.creatives.length}개`;
   document.getElementById('criteria').innerHTML=`<b>📌 선정 기준</b> ${esc(d.criteria||'')}`;
   const P=d.patterns||{};
@@ -186,7 +186,7 @@ function boot(d){
 }
 
 let PRODUCTS=[], curProd=0, curRange='last_30d';
-const RANGELBL={last_14d:'최근 2주',last_30d:'최근 한달'};
+const RANGELBL={last_14d:'최근 2주',last_30d:'최근 한달',last_90d:'최근 3개월'};
 function loadCur(){
   const p=PRODUCTS[curProd]; if(!p)return;
   if(!p.files[curRange]) curRange=p.ranges[p.ranges.length-1];  // 해당 기간 없으면 마지막 기간

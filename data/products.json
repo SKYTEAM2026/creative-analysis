@@ -1,7 +1,8 @@
 {
   "ranges": [
     "last_14d",
-    "last_30d"
+    "last_30d",
+    "last_90d"
   ],
   "products": [
     {
@@ -9,7 +10,8 @@
       "product": "써마드",
       "files": {
         "last_14d": "creative_analysis_th_last_14d.json",
-        "last_30d": "creative_analysis_th_last_30d.json"
+        "last_30d": "creative_analysis_th_last_30d.json",
+        "last_90d": "creative_analysis_th_last_90d.json"
       },
       "counts": {
         "last_14d": {
@@ -19,12 +21,17 @@
         "last_30d": {
           "n": 43,
           "analyzed": 43
+        },
+        "last_90d": {
+          "n": 46,
+          "analyzed": 28
         }
       },
-      "generated": "2026-08-03",
+      "generated": "2026-08-04",
       "ranges": [
         "last_14d",
-        "last_30d"
+        "last_30d",
+        "last_90d"
       ]
     },
     {
@@ -32,7 +39,8 @@
       "product": "뉴베로",
       "files": {
         "last_14d": "creative_analysis_nb_last_14d.json",
-        "last_30d": "creative_analysis_nb_last_30d.json"
+        "last_30d": "creative_analysis_nb_last_30d.json",
+        "last_90d": "creative_analysis_nb_last_90d.json"
       },
       "counts": {
         "last_14d": {
@@ -42,12 +50,17 @@
         "last_30d": {
           "n": 24,
           "analyzed": 24
+        },
+        "last_90d": {
+          "n": 25,
+          "analyzed": 21
         }
       },
-      "generated": "2026-08-03",
+      "generated": "2026-08-04",
       "ranges": [
         "last_14d",
-        "last_30d"
+        "last_30d",
+        "last_90d"
       ]
     },
     {
@@ -55,7 +68,8 @@
       "product": "아큐스터",
       "files": {
         "last_14d": "creative_analysis_tw_last_14d.json",
-        "last_30d": "creative_analysis_tw_last_30d.json"
+        "last_30d": "creative_analysis_tw_last_30d.json",
+        "last_90d": "creative_analysis_tw_last_90d.json"
       },
       "counts": {
         "last_14d": {
@@ -65,12 +79,17 @@
         "last_30d": {
           "n": 38,
           "analyzed": 38
+        },
+        "last_90d": {
+          "n": 45,
+          "analyzed": 25
         }
       },
-      "generated": "2026-08-03",
+      "generated": "2026-08-04",
       "ranges": [
         "last_14d",
-        "last_30d"
+        "last_30d",
+        "last_90d"
       ]
     },
     {
@@ -78,7 +97,8 @@
       "product": "아치핀 맥스",
       "files": {
         "last_14d": "creative_analysis_am_last_14d.json",
-        "last_30d": "creative_analysis_am_last_30d.json"
+        "last_30d": "creative_analysis_am_last_30d.json",
+        "last_90d": "creative_analysis_am_last_90d.json"
       },
       "counts": {
         "last_14d": {
@@ -88,12 +108,17 @@
         "last_30d": {
           "n": 19,
           "analyzed": 19
+        },
+        "last_90d": {
+          "n": 32,
+          "analyzed": 12
         }
       },
-      "generated": "2026-08-03",
+      "generated": "2026-08-04",
       "ranges": [
         "last_14d",
-        "last_30d"
+        "last_30d",
+        "last_90d"
       ]
     }
   ]
