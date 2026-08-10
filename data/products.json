@@ -16,15 +16,15 @@
       "counts": {
         "last_14d": {
           "n": 35,
-          "analyzed": 32
+          "analyzed": 35
         },
         "last_30d": {
           "n": 45,
-          "analyzed": 43
+          "analyzed": 45
         },
         "last_90d": {
           "n": 48,
-          "analyzed": 45
+          "analyzed": 48
         }
       },
       "generated": "2026-08-10",
