@@ -32,6 +32,8 @@
       "roas": 2.99,
       "spend": 555380.0,
       "ctr": 1.42,
+      "cvr": 5.54,
+      "cpa": 17915,
       "purchases": 31.0,
       "platforms": [
         "meta"
@@ -42,8 +44,11 @@
           "revenue": 1660500.0,
           "roas": 2.99,
           "ctr": 1.42,
+          "cvr": 5.54,
           "cpa": 17915,
-          "purchases": 31.0
+          "purchases": 31.0,
+          "hook_rate": 21.6,
+          "hold_rate": 17.1
         }
       },
       "frames": [
@@ -105,6 +110,8 @@
       "roas": 2.56,
       "spend": 1528133.0,
       "ctr": 1.88,
+      "cvr": 4.02,
+      "cpa": 20650,
       "purchases": 74.0,
       "platforms": [
         "meta",
@@ -116,16 +123,22 @@
           "revenue": 79766.0,
           "roas": 1.47,
           "ctr": 14.34,
+          "cvr": 0.1,
           "cpa": 54226,
-          "purchases": 1.0
+          "purchases": 1.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1473907.0,
           "revenue": 3835200.0,
           "roas": 2.6,
           "ctr": 0.89,
+          "cvr": 9.1,
           "cpa": 20191,
-          "purchases": 73.0
+          "purchases": 73.0,
+          "hook_rate": 21.2,
+          "hold_rate": 22.6
         }
       },
       "frames": [
@@ -186,6 +199,8 @@
       "roas": 2.27,
       "spend": 1437286.0,
       "ctr": 3.41,
+      "cvr": 1.31,
+      "cpa": 22112,
       "purchases": 65.0,
       "platforms": [
         "meta",
@@ -197,16 +212,22 @@
           "revenue": 860514.0,
           "roas": 6.59,
           "ctr": 2.98,
+          "cvr": 0.74,
           "cpa": 7679,
-          "purchases": 17.0
+          "purchases": 17.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1306736.0,
           "revenue": 2401200.0,
           "roas": 1.84,
           "ctr": 3.9,
+          "cvr": 1.79,
           "cpa": 27224,
-          "purchases": 48.0
+          "purchases": 48.0,
+          "hook_rate": 41.6,
+          "hold_rate": 48.6
         }
       },
       "frames": [
@@ -265,8 +286,10 @@
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
       "roas": 2.01,
-      "spend": 37417027.0,
+      "spend": 37417247.0,
       "ctr": 1.28,
+      "cvr": 6.39,
+      "cpa": 25146,
       "purchases": 1488.0,
       "platforms": [
         "meta",
@@ -278,16 +301,22 @@
           "revenue": 0.0,
           "roas": 0.0,
           "ctr": 19.53,
+          "cvr": 0.0,
           "cpa": null,
-          "purchases": 0.0
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 37367907.0,
+          "spend": 37368127.0,
           "revenue": 75124976.0,
           "roas": 2.01,
           "ctr": 1.22,
+          "cvr": 6.7,
           "cpa": 25113,
-          "purchases": 1488.0
+          "purchases": 1488.0,
+          "hook_rate": 26.6,
+          "hold_rate": 41.6
         }
       },
       "frames": [
@@ -346,20 +375,25 @@
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
       "roas": 1.98,
-      "spend": 9007944.0,
+      "spend": 9007991.0,
       "ctr": 1.13,
+      "cvr": 5.57,
+      "cpa": 22690,
       "purchases": 397.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 9007944.0,
+          "spend": 9007991.0,
           "revenue": 17842900.0,
           "roas": 1.98,
           "ctr": 1.13,
+          "cvr": 5.57,
           "cpa": 22690,
-          "purchases": 397.0
+          "purchases": 397.0,
+          "hook_rate": 16.6,
+          "hold_rate": 19.8
         }
       },
       "frames": [
@@ -415,8 +449,10 @@
       "key": "am짝퉁넘쳐Ⅵ_T",
       "rank_note": "top",
       "roas": 1.55,
-      "spend": 2421657.0,
+      "spend": 2421663.0,
       "ctr": 18.65,
+      "cvr": 0.18,
+      "cpa": 35613,
       "purchases": 68.0,
       "platforms": [
         "meta",
@@ -424,20 +460,26 @@
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 1411548.0,
-          "revenue": 1679742.0,
+          "spend": 1411554.0,
+          "revenue": 1679749.0,
           "roas": 1.19,
           "ctr": 23.56,
+          "cvr": 0.09,
           "cpa": 45534,
-          "purchases": 31.0
+          "purchases": 31.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1010109.0,
           "revenue": 2065000.0,
           "roas": 2.04,
           "ctr": 3.97,
+          "cvr": 1.83,
           "cpa": 27300,
-          "purchases": 37.0
+          "purchases": 37.0,
+          "hook_rate": 34.2,
+          "hold_rate": 70.3
         }
       },
       "frames": [
@@ -491,20 +533,25 @@
       "key": "am엉덩이조여Ⅰ_T",
       "rank_note": "top",
       "roas": 1.52,
-      "spend": 14394403.0,
+      "spend": 14394420.0,
       "ctr": 1.76,
+      "cvr": 7.0,
+      "cpa": 30051,
       "purchases": 479.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 14394403.0,
+          "spend": 14394420.0,
           "revenue": 21909005.0,
           "roas": 1.52,
           "ctr": 1.76,
+          "cvr": 7.0,
           "cpa": 30051,
-          "purchases": 479.0
+          "purchases": 479.0,
+          "hook_rate": 29.7,
+          "hold_rate": 19.7
         }
       },
       "frames": [
@@ -565,6 +612,8 @@
       "roas": 1.38,
       "spend": 2394799.0,
       "ctr": 15.16,
+      "cvr": 0.3,
+      "cpa": 33261,
       "purchases": 72.0,
       "platforms": [
         "meta",
@@ -576,16 +625,22 @@
           "revenue": 1254477.0,
           "roas": 1.41,
           "ctr": 22.4,
+          "cvr": 0.11,
           "cpa": 35705,
-          "purchases": 25.0
+          "purchases": 25.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1502184.0,
           "revenue": 2056100.0,
           "roas": 1.37,
           "ctr": 2.05,
+          "cvr": 4.06,
           "cpa": 31961,
-          "purchases": 47.0
+          "purchases": 47.0,
+          "hook_rate": 30.8,
+          "hold_rate": 27.4
         }
       },
       "frames": [
@@ -646,6 +701,8 @@
       "roas": 1.22,
       "spend": 515611.0,
       "ctr": 1.95,
+      "cvr": 7.69,
+      "cpa": 36829,
       "purchases": 14.0,
       "platforms": [
         "meta"
@@ -656,8 +713,11 @@
           "revenue": 628600.0,
           "roas": 1.22,
           "ctr": 1.95,
+          "cvr": 7.69,
           "cpa": 36829,
-          "purchases": 14.0
+          "purchases": 14.0,
+          "hook_rate": 42.4,
+          "hold_rate": 21.4
         }
       },
       "frames": [
@@ -718,6 +778,8 @@
       "roas": 1.14,
       "spend": 599444.0,
       "ctr": 2.57,
+      "cvr": 3.35,
+      "cpa": 39963,
       "purchases": 15.0,
       "platforms": [
         "meta",
@@ -729,16 +791,22 @@
           "revenue": 0.0,
           "roas": 0.0,
           "ctr": 10.54,
+          "cvr": 0.0,
           "cpa": null,
-          "purchases": 0.0
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 596082.0,
           "revenue": 685500.0,
           "roas": 1.15,
           "ctr": 2.43,
+          "cvr": 3.6,
           "cpa": 39739,
-          "purchases": 15.0
+          "purchases": 15.0,
+          "hook_rate": 38.2,
+          "hold_rate": 21.5
         }
       },
       "frames": [
@@ -799,6 +867,8 @@
       "roas": 1.1,
       "spend": 1746089.0,
       "ctr": 18.07,
+      "cvr": 0.3,
+      "cpa": 41574,
       "purchases": 42.0,
       "platforms": [
         "meta",
@@ -810,16 +880,22 @@
           "revenue": 98031.0,
           "roas": 0.29,
           "ctr": 29.29,
+          "cvr": 0.02,
           "cpa": 169020,
-          "purchases": 2.0
+          "purchases": 2.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1408050.0,
           "revenue": 1818900.0,
           "roas": 1.29,
           "ctr": 2.54,
+          "cvr": 4.91,
           "cpa": 35201,
-          "purchases": 40.0
+          "purchases": 40.0,
+          "hook_rate": 26.9,
+          "hold_rate": 24.1
         }
       },
       "frames": [
@@ -880,6 +956,8 @@
       "roas": 1.07,
       "spend": 1155717.0,
       "ctr": 5.4,
+      "cvr": 1.98,
+      "cpa": 46229,
       "purchases": 25.0,
       "platforms": [
         "meta"
@@ -890,8 +968,11 @@
           "revenue": 1235400.0,
           "roas": 1.07,
           "ctr": 5.4,
+          "cvr": 1.98,
           "cpa": 46229,
-          "purchases": 25.0
+          "purchases": 25.0,
+          "hook_rate": 55.2,
+          "hold_rate": 63.5
         }
       },
       "frames": [
@@ -952,6 +1033,8 @@
       "roas": 0.89,
       "spend": 1086538.0,
       "ctr": 3.48,
+      "cvr": 1.7,
+      "cpa": 49388,
       "purchases": 22.0,
       "platforms": [
         "meta",
@@ -963,16 +1046,22 @@
           "revenue": 0.0,
           "roas": 0.0,
           "ctr": 6.58,
+          "cvr": 0.0,
           "cpa": null,
-          "purchases": 0.0
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1052243.0,
           "revenue": 972200.0,
           "roas": 0.92,
           "ctr": 2.43,
+          "cvr": 3.27,
           "cpa": 47829,
-          "purchases": 22.0
+          "purchases": 22.0,
+          "hook_rate": 40.1,
+          "hold_rate": 44.8
         }
       },
       "frames": [
@@ -1033,6 +1122,8 @@
       "roas": 0.86,
       "spend": 588556.0,
       "ctr": 3.0,
+      "cvr": 1.81,
+      "cpa": 58856,
       "purchases": 10.0,
       "platforms": [
         "meta"
@@ -1043,8 +1134,11 @@
           "revenue": 503800.0,
           "roas": 0.86,
           "ctr": 3.0,
+          "cvr": 1.81,
           "cpa": 58856,
-          "purchases": 10.0
+          "purchases": 10.0,
+          "hook_rate": 40.1,
+          "hold_rate": 22.7
         }
       },
       "frames": [
@@ -1104,6 +1198,8 @@
       "roas": 0.72,
       "spend": 511592.0,
       "ctr": 3.62,
+      "cvr": 1.88,
+      "cpa": 63949,
       "purchases": 8.0,
       "platforms": [
         "meta"
@@ -1114,8 +1210,11 @@
           "revenue": 368500.0,
           "roas": 0.72,
           "ctr": 3.62,
+          "cvr": 1.88,
           "cpa": 63949,
-          "purchases": 8.0
+          "purchases": 8.0,
+          "hook_rate": 53.3,
+          "hold_rate": 57.6
         }
       },
       "frames": [
@@ -1174,8 +1273,10 @@
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
       "roas": 0.52,
-      "spend": 4025483.0,
+      "spend": 4025487.0,
       "ctr": 3.49,
+      "cvr": 0.14,
+      "cpa": 103218,
       "purchases": 39.0,
       "platforms": [
         "meta",
@@ -1187,16 +1288,22 @@
           "revenue": 0.0,
           "roas": 0.0,
           "ctr": 100.0,
+          "cvr": 0.0,
           "cpa": null,
-          "purchases": 0.0
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 4025443.0,
+          "spend": 4025447.0,
           "revenue": 2089200.0,
           "roas": 0.52,
           "ctr": 3.49,
-          "cpa": 103216,
-          "purchases": 39.0
+          "cvr": 0.14,
+          "cpa": 103217,
+          "purchases": 39.0,
+          "hook_rate": 78.4,
+          "hold_rate": 55.2
         }
       },
       "frames": [
@@ -1258,6 +1365,8 @@
       "roas": 0.44,
       "spend": 582764.0,
       "ctr": 3.74,
+      "cvr": 0.94,
+      "cpa": 97127,
       "purchases": 6.0,
       "platforms": [
         "meta"
@@ -1268,8 +1377,11 @@
           "revenue": 256300.0,
           "roas": 0.44,
           "ctr": 3.74,
+          "cvr": 0.94,
           "cpa": 97127,
-          "purchases": 6.0
+          "purchases": 6.0,
+          "hook_rate": 53.6,
+          "hold_rate": 62.5
         }
       },
       "frames": [

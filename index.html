@@ -56,9 +56,9 @@
   <div class="patterns" id="patterns"></div>
   <table id="tbl"><thead><tr>
     <th data-k="rank">#</th><th data-k="key">소재</th><th data-k="platforms">플랫폼</th>
-    <th data-k="roas" class="num">ROAS</th><th data-k="spend" class="num">지출</th>
+    <th data-k="roas" class="num">ROAS</th><th data-k="spend" class="num">지출</th><th data-k="cpa" class="num">CPA</th>
     <th data-k="hook">훅타입</th><th data-k="angle">소구앵글</th><th data-k="one">한줄평</th>
-  </tr></thead><tbody id="tb"><tr><td colspan="8" class="empty">데이터 로딩…</td></tr></tbody></table>
+  </tr></thead><tbody id="tb"><tr><td colspan="9" class="empty">데이터 로딩…</td></tr></tbody></table>
   <div class="sub" style="margin-top:14px">행을 클릭하면 프레임·태그·대사·한줄평 상세가 열립니다.</div>
 </div>
 <script>
@@ -69,6 +69,7 @@ let DATA=null, curView='overall';
 const VIEWS=[['overall','통합'],['meta','메타'],['tiktok','틱톡'],['google','구글']];
 const vRoas=c=>curView==='overall'?c.roas:(c.platform_metrics&&c.platform_metrics[curView]?c.platform_metrics[curView].roas:null);
 const vSpend=c=>curView==='overall'?c.spend:(c.platform_metrics&&c.platform_metrics[curView]?c.platform_metrics[curView].spend:0);
+const vCpa=c=>curView==='overall'?c.cpa:(c.platform_metrics&&c.platform_metrics[curView]?c.platform_metrics[curView].cpa:null);
 const vCtr=c=>curView==='overall'?c.ctr:(c.platform_metrics&&c.platform_metrics[curView]?c.platform_metrics[curView].ctr:null);
 const inView=c=>curView==='overall'?true:(c.platform_metrics&&c.platform_metrics[curView]&&(c.platform_metrics[curView].spend||0)>=500000&&c.platform_metrics[curView].roas!=null);
 const vScore=c=>{const r=vRoas(c),s=vSpend(c);return (r==null||!s||s<=0)?-1:r*Math.sqrt(s);};  // 지출 가중 ROAS
@@ -77,14 +78,19 @@ function esc(s){return (s==null?'':String(s)).replace(/[&<>]/g,c=>({'&':'&amp;',
 function chips(arr){return (arr||[]).map(x=>`<span class="chip">${esc(x)}</span>`).join('')}
 
 const PLN={meta:'메타',tiktok:'틱톡',google:'구글'};
+const pct=v=>v==null?'–':v+'%';
+function fstep(l,v){return `<span style="background:#242a36;border:1px solid var(--bd);border-radius:6px;padding:2px 7px;white-space:nowrap"><span style="color:var(--tx2)">${l}</span> <b>${v}</b></span>`}
 function pmBlock(c){
   const pm=c.platform_metrics||{}; const rows=Object.keys(pm).filter(k=>pm[k]&&pm[k].spend);
   if(!rows.length)return '';
-  const cells=rows.map(k=>{const m=pm[k];return `<div style="flex:1;min-width:96px;background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:7px 9px">
-    <div style="font-size:11px;color:var(--tx2)">${PLN[k]||k}</div>
-    <div style="font-size:15px;font-weight:700;color:${roasColor(m.roas)}">${m.roas??'–'}</div>
-    <div style="font-size:11px;color:var(--tx2)">${fCur(m.spend)}</div></div>`}).join('');
-  return `<div style="display:flex;gap:6px;flex-wrap:wrap">${cells}</div>`;
+  const card=k=>{const m=pm[k];return `<div style="background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:8px 10px;margin-bottom:6px">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:4px">
+      <b style="font-size:12.5px">${PLN[k]||k}</b>
+      <span style="font-size:11px;color:var(--tx2)">ROAS <b style="color:${roasColor(m.roas)}">${m.roas??'–'}</b> · ${fCur(m.spend)} · CPA ${fCur(m.cpa)}</span></div>
+    <div style="display:flex;gap:4px;align-items:center;font-size:11px;flex-wrap:wrap">
+      ${fstep('훅률',pct(m.hook_rate))}<span style="color:var(--tx2)">→</span>${fstep('홀드',pct(m.hold_rate))}<span style="color:var(--tx2)">→</span>${fstep('CTR',pct(m.ctr))}<span style="color:var(--tx2)">→</span>${fstep('CVR',pct(m.cvr))}</div></div>`};
+  return `<div class="tg"><h4>📊 매체별 퍼널</h4>${rows.map(card).join('')}
+    <div style="font-size:10.5px;color:var(--tx2)">훅률=3초재생/노출 · 홀드=ThruPlay/3초 · CTR=클릭/노출 · CVR=전환/클릭 <span style="color:#e0a63a">(훅률·홀드는 메타만 제공)</span></div></div>`;
 }
 function kv(label,val){return val?`<div class="kv"><b>${label}</b><span>${esc(val)}</span></div>`:''}
 function tagBlock(title,obj,rows){return `<div class="tg"><h4>${title}</h4>${rows.map(([l,k])=>kv(l,obj?.[k])).join('')}</div>`}
@@ -129,7 +135,7 @@ function render(){
     ['지출('+viewLabel+')']:fCur([...tops,...bots].reduce((s,c)=>s+(vSpend(c)||0),0))
   }).map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join('');
   const tb=document.getElementById('tb'); tb.innerHTML='';
-  if(!pool.length){tb.innerHTML='<tr><td colspan="8" class="empty">이 매체에 유의미 지출(50만↑) 소재가 없습니다</td></tr>';return}
+  if(!pool.length){tb.innerHTML='<tr><td colspan="9" class="empty">이 매체에 유의미 지출(50만↑) 소재가 없습니다</td></tr>';return}
   const addRow=(c,rank,isTop)=>{
     const r=vRoas(c);
     const tr=document.createElement('tr'); tr.className='row';
@@ -140,17 +146,18 @@ function render(){
       <td>${badges(c.platforms)}</td>
       <td class="num"><span class="roas" style="background:${roasColor(r)};color:#0b0d10">${r??'–'}</span></td>
       <td class="num">${fCur(vSpend(c))}</td>
+      <td class="num">${fCur(vCpa(c))}</td>
       <td>${esc(c.base?.hook_type||'–')}</td>
       <td>${esc(c.base?.appeal_angle||'–')}</td>
       <td class="oneliner">${esc((c.one_liner||'').slice(0,70))}${(c.one_liner||'').length>70?'…':''}</td>`;
     const det=document.createElement('tr'); det.className='detail'; det.style.display='none';
-    det.innerHTML=`<td colspan="8">${detailHTML(c)}</td>`;
+    det.innerHTML=`<td colspan="9">${detailHTML(c)}</td>`;
     tr.onclick=()=>{det.style.display=det.style.display==='none'?'':'none'};
     tb.appendChild(tr); tb.appendChild(det);
   };
   const sectionRow=(label,color,sub)=>{
     const tr=document.createElement('tr');
-    tr.innerHTML=`<td colspan="8" style="background:${color};color:#0b0d10;font-weight:800;font-size:13px;padding:8px 12px;letter-spacing:.5px">${label} <span style="font-weight:600;opacity:.75">${sub||''}</span></td>`;
+    tr.innerHTML=`<td colspan="9" style="background:${color};color:#0b0d10;font-weight:800;font-size:13px;padding:8px 12px;letter-spacing:.5px">${label} <span style="font-weight:600;opacity:.75">${sub||''}</span></td>`;
     tb.appendChild(tr);
   };
   const avgLbl=arr=>arr.length?`평균 ROAS ${avg(arr)}`:'';

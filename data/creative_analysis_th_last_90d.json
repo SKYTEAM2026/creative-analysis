@@ -31,10 +31,12 @@
     {
       "key": "th스르르Ⅵ_AN",
       "rank_note": "top",
-      "roas": 5.61,
-      "spend": 20498160.0,
-      "ctr": 0.88,
-      "purchases": 761.388599,
+      "roas": 5.67,
+      "spend": 20778758.0,
+      "ctr": 0.87,
+      "cvr": 2.21,
+      "cpa": 26706,
+      "purchases": 778.061004,
       "platforms": [
         "google",
         "meta",
@@ -42,28 +44,37 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 17825156.0,
-          "revenue": 110234270.0,
-          "roas": 6.18,
+          "spend": 18105565.0,
+          "revenue": 112948387.0,
+          "roas": 6.24,
           "ctr": 0.81,
-          "cpa": 24438,
-          "purchases": 729.388599
+          "cvr": 2.36,
+          "cpa": 24268,
+          "purchases": 746.061004,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 820376.0,
           "revenue": 2157589.0,
           "roas": 2.63,
           "ctr": 3.17,
+          "cvr": 0.61,
           "cpa": 58598,
-          "purchases": 14.0
+          "purchases": 14.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 1852628.0,
+          "spend": 1852817.0,
           "revenue": 2701000.0,
           "roas": 1.46,
           "ctr": 1.79,
-          "cpa": 102924,
-          "purchases": 18.0
+          "cvr": 1.34,
+          "cpa": 102934,
+          "purchases": 18.0,
+          "hook_rate": 35.7,
+          "hold_rate": 20.2
         }
       },
       "frames": [
@@ -122,29 +133,37 @@
       "key": "th단종될Ⅰ_T",
       "rank_note": "top",
       "roas": 5.28,
-      "spend": 136170993.0,
+      "spend": 136499054.0,
       "ctr": 1.84,
-      "purchases": 4693.680292,
+      "cvr": 1.98,
+      "cpa": 29019,
+      "purchases": 4703.776354,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 130848665.0,
-          "revenue": 710090738.0,
-          "roas": 5.43,
+          "spend": 131176726.0,
+          "revenue": 711494231.0,
+          "roas": 5.42,
           "ctr": 0.8,
-          "cpa": 28220,
-          "purchases": 4636.680292
+          "cvr": 4.7,
+          "cpa": 28230,
+          "purchases": 4646.776354,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 5322328.0,
           "revenue": 9047958.0,
           "roas": 1.7,
           "ctr": 24.19,
+          "cvr": 0.04,
           "cpa": 93374,
-          "purchases": 57.0
+          "purchases": 57.0,
+          "hook_rate": null,
+          "hold_rate": null
         }
       },
       "frames": [
@@ -199,23 +218,117 @@
       "why": "타겟 확장(여성 다이어트) + 희소성 훅 + 즉각 미용 베네핏. 다만 지흡 대체 표현은 관찰 필요."
     },
     {
+      "key": "th우주뱅사Ⅵ_AI",
+      "rank_note": "top",
+      "roas": 5.11,
+      "spend": 11418674.0,
+      "ctr": 1.29,
+      "cvr": 2.46,
+      "cpa": 30075,
+      "purchases": 379.677599,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 8600619.0,
+          "revenue": 53039240.0,
+          "roas": 6.17,
+          "ctr": 1.17,
+          "cvr": 2.64,
+          "cpa": 24809,
+          "purchases": 346.677599,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "meta": {
+          "spend": 2818055.0,
+          "revenue": 5270000.0,
+          "roas": 1.87,
+          "ctr": 3.14,
+          "cvr": 1.45,
+          "cpa": 85396,
+          "purchases": 33.0,
+          "hook_rate": 48.6,
+          "hold_rate": 50.6
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_6.7s.jpg",
+        "f05_13.4s.jpg",
+        "f06_20.1s.jpg",
+        "f07_26.8s.jpg",
+        "f08_33.5s.jpg",
+        "f09_40.2s.jpg"
+      ],
+      "transcript": "우주 탐사가 본격화되던 시절, 나사가 최종의 우주비행사들을 장기간 우주로 파견함. 문제는 직으로 귀환했을 때 터진 무중력 상태에서 하체 근육이 단기간에 20% 넘게 녹아내려 권장했던 비행사들이 필체어에 실려 나온 거임. 최고급 인재들의 처참한 하체 부실에 나사가 발칵 뒤집힌. 우주에선 바벨을 드는 웨이트 트레이닝 자체가 불가능하니 도대체 무슨수로 근력을 지키냐며 천문학적인 돈을 쏟아보어 연구함. 그렇게 탄생한 게 바로 EMS 기술임. 뇌의 명령이나 힘든 움직임 없이도 전류가 꽂히자마자 근육이 미친듯이 수축하며 스스로 펌핑되는 원리. 진짜 놀라운 건 우주비행사를 살려낸 이 근력 재생 원리가 최근 예전같지 않은 하체때문에 고개 숙인 남성들을 위해 완벽하게 진화했다는 거임. 이 기술을 그대로 가져와 국내 유일 엑스텐스 10.0 고밀도 파장으로 초흠축시킨 하체 속근육 전용 발판 서마드 PLX가 개발됨. 이제 연구를 달아가며 억지로 스쿼트할 필요 없이 하루 15분 발만 올려두면 우주비행사들처럼 잃어버린 하체 근력을 돌덩이처럼 꽉꽉 채울 수 있음.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "기원스토리·밈형",
+        "first_3s": "'나사가 우주비행사를 파견함... 하체 근육이 20% 녹아내려'",
+        "appeal_angle": "기술 기원·호기심",
+        "cta": "국내 유일 기술 강조",
+        "keywords": [
+          "나사",
+          "무중력 근손실",
+          "EMS 탄생",
+          "~임 반말체"
+        ]
+      },
+      "audio": {
+        "opening_line": "우주 탐사가 본격화되던 시절, 나사가 우주비행사들을 장기간 파견함",
+        "voice_style": "'~함/~임' 밈 반말체(젊고 가벼움)",
+        "narration_mode": "썰 풀이형"
+      },
+      "visual": {
+        "format": "AI 실사풍",
+        "mechanism_viz": "우주·근수축 전류 시각화",
+        "before_after": "약함",
+        "subtitle_style": "썰형 자막"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "40·50대",
+        "segment": "호기심·정보성 콘텐츠 선호",
+        "appeal_axis": "기술 기원 호기심"
+      },
+      "trust": {
+        "evidence": "나사 기원 서사",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "같은 나사 기원 소재라도 '~임' 밈 반말체로 풀어 답인이유보다 젊고 가볍게 먹혔다. 3플랫폼 동시 운영에서 고르게 4.25를 낸 안정형.",
+      "why": "썰 형식이 정보 전달을 오락처럼 소화시킴 + 나사 권위. 틱톡 톤과도 궁합 좋음."
+    },
+    {
       "key": "th임하룡근력Ⅵ_T",
       "rank_note": "top",
-      "roas": 4.91,
-      "spend": 40298712.0,
+      "roas": 4.92,
+      "spend": 40341230.0,
       "ctr": 1.34,
-      "purchases": 1217.342903,
+      "cvr": 2.03,
+      "cpa": 33026,
+      "purchases": 1221.482897,
       "platforms": [
         "google"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 40298712.0,
-          "revenue": 197862515.0,
-          "roas": 4.91,
+          "spend": 40341230.0,
+          "revenue": 198336417.0,
+          "roas": 4.92,
           "ctr": 1.34,
-          "cpa": 33104,
-          "purchases": 1217.342903
+          "cvr": 2.03,
+          "cpa": 33026,
+          "purchases": 1221.482897,
+          "hook_rate": null,
+          "hold_rate": null
         }
       },
       "frames": [
@@ -273,9 +386,11 @@
       "key": "th사라진Ⅵ_T",
       "rank_note": "top",
       "roas": 4.84,
-      "spend": 67148009.0,
+      "spend": 67152002.0,
       "ctr": 1.56,
-      "purchases": 2161.927966,
+      "cvr": 1.6,
+      "cpa": 31059,
+      "purchases": 2162.085103,
       "platforms": [
         "google",
         "tiktok"
@@ -283,19 +398,25 @@
       "platform_metrics": {
         "google": {
           "spend": 48329960.0,
-          "revenue": 276933425.0,
+          "revenue": 276955267.0,
           "roas": 5.73,
           "ctr": 0.78,
-          "cpa": 26267,
-          "purchases": 1839.927966
+          "cvr": 3.3,
+          "cpa": 26265,
+          "purchases": 1840.085103,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
-          "spend": 18818049.0,
-          "revenue": 48257651.0,
+          "spend": 18822042.0,
+          "revenue": 48267913.0,
           "roas": 2.56,
           "ctr": 5.16,
-          "cpa": 58441,
-          "purchases": 322.0
+          "cvr": 0.41,
+          "cpa": 58454,
+          "purchases": 322.0,
+          "hook_rate": null,
+          "hold_rate": null
         }
       },
       "frames": [
@@ -356,6 +477,8 @@
       "roas": 4.84,
       "spend": 26795600.0,
       "ctr": 3.03,
+      "cvr": 1.44,
+      "cpa": 31592,
       "purchases": 848.165831,
       "platforms": [
         "google",
@@ -367,16 +490,22 @@
           "revenue": 99957831.0,
           "roas": 8.79,
           "ctr": 1.32,
+          "cvr": 3.41,
           "cpa": 17525,
-          "purchases": 649.165831
+          "purchases": 649.165831,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 15419072.0,
           "revenue": 29692500.0,
           "roas": 1.93,
           "ctr": 7.98,
+          "cvr": 0.5,
           "cpa": 77483,
-          "purchases": 199.0
+          "purchases": 199.0,
+          "hook_rate": 72.0,
+          "hold_rate": 36.9
         }
       },
       "frames": [
@@ -436,29 +565,37 @@
       "key": "th안되지않Ⅵ_T",
       "rank_note": "top",
       "roas": 4.73,
-      "spend": 94466797.0,
+      "spend": 94813779.0,
       "ctr": 0.85,
-      "purchases": 2890.729438,
+      "cvr": 3.67,
+      "cpa": 32664,
+      "purchases": 2902.724098,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 93258835.0,
-          "revenue": 442993448.0,
+          "spend": 93605233.0,
+          "revenue": 444660701.0,
           "roas": 4.75,
           "ctr": 0.81,
-          "cpa": 32566,
-          "purchases": 2863.729438
+          "cvr": 3.87,
+          "cpa": 32550,
+          "purchases": 2875.724098,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
-          "spend": 1207962.0,
-          "revenue": 3780921.0,
+          "spend": 1208546.0,
+          "revenue": 3782749.0,
           "roas": 3.13,
           "ctr": 5.03,
-          "cpa": 44739,
-          "purchases": 27.0
+          "cvr": 0.57,
+          "cpa": 44761,
+          "purchases": 27.0,
+          "hook_rate": null,
+          "hold_rate": null
         }
       },
       "frames": [
@@ -514,102 +651,14 @@
       "why": "금기 폭로 훅 + 실사 제품 노출 + 트레이너 권위. 물량이 커 효율은 상위 중 하단."
     },
     {
-      "key": "th우주뱅사Ⅵ_AI",
-      "rank_note": "top",
-      "roas": 4.66,
-      "spend": 13134247.0,
-      "ctr": 1.85,
-      "purchases": 402.486687,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 8600619.0,
-          "revenue": 53012703.0,
-          "roas": 6.16,
-          "ctr": 1.17,
-          "cpa": 24822,
-          "purchases": 346.486687
-        },
-        "tiktok": {
-          "spend": 1715573.0,
-          "revenue": 2967941.0,
-          "roas": 1.73,
-          "ctr": 4.05,
-          "cpa": 74590,
-          "purchases": 23.0
-        },
-        "meta": {
-          "spend": 2818055.0,
-          "revenue": 5270000.0,
-          "roas": 1.87,
-          "ctr": 3.14,
-          "cpa": 85396,
-          "purchases": 33.0
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.7s.jpg",
-        "f05_13.4s.jpg",
-        "f06_20.1s.jpg",
-        "f07_26.8s.jpg",
-        "f08_33.5s.jpg",
-        "f09_40.2s.jpg"
-      ],
-      "transcript": "우주 탐사가 본격화되던 시절, 나사가 최종의 우주비행사들을 장기간 우주로 파견함. 문제는 직으로 귀환했을 때 터진 무중력 상태에서 하체 근육이 단기간에 20% 넘게 녹아내려 권장했던 비행사들이 필체어에 실려 나온 거임. 최고급 인재들의 처참한 하체 부실에 나사가 발칵 뒤집힌. 우주에선 바벨을 드는 웨이트 트레이닝 자체가 불가능하니 도대체 무슨수로 근력을 지키냐며 천문학적인 돈을 쏟아보어 연구함. 그렇게 탄생한 게 바로 EMS 기술임. 뇌의 명령이나 힘든 움직임 없이도 전류가 꽂히자마자 근육이 미친듯이 수축하며 스스로 펌핑되는 원리. 진짜 놀라운 건 우주비행사를 살려낸 이 근력 재생 원리가 최근 예전같지 않은 하체때문에 고개 숙인 남성들을 위해 완벽하게 진화했다는 거임. 이 기술을 그대로 가져와 국내 유일 엑스텐스 10.0 고밀도 파장으로 초흠축시킨 하체 속근육 전용 발판 서마드 PLX가 개발됨. 이제 연구를 달아가며 억지로 스쿼트할 필요 없이 하루 15분 발만 올려두면 우주비행사들처럼 잃어버린 하체 근력을 돌덩이처럼 꽉꽉 채울 수 있음.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "기원스토리·밈형",
-        "first_3s": "'나사가 우주비행사를 파견함... 하체 근육이 20% 녹아내려'",
-        "appeal_angle": "기술 기원·호기심",
-        "cta": "국내 유일 기술 강조",
-        "keywords": [
-          "나사",
-          "무중력 근손실",
-          "EMS 탄생",
-          "~임 반말체"
-        ]
-      },
-      "audio": {
-        "opening_line": "우주 탐사가 본격화되던 시절, 나사가 우주비행사들을 장기간 파견함",
-        "voice_style": "'~함/~임' 밈 반말체(젊고 가벼움)",
-        "narration_mode": "썰 풀이형"
-      },
-      "visual": {
-        "format": "AI 실사풍",
-        "mechanism_viz": "우주·근수축 전류 시각화",
-        "before_after": "약함",
-        "subtitle_style": "썰형 자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "40·50대",
-        "segment": "호기심·정보성 콘텐츠 선호",
-        "appeal_axis": "기술 기원 호기심"
-      },
-      "trust": {
-        "evidence": "나사 기원 서사",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "같은 나사 기원 소재라도 '~임' 밈 반말체로 풀어 답인이유보다 젊고 가볍게 먹혔다. 3플랫폼 동시 운영에서 고르게 4.25를 낸 안정형.",
-      "why": "썰 형식이 정보 전달을 오락처럼 소화시킴 + 나사 권위. 틱톡 톤과도 궁합 좋음."
-    },
-    {
       "key": "th할인해줘Ⅰ_TP",
       "rank_note": "top",
       "roas": 4.11,
-      "spend": 241279754.0,
+      "spend": 241698161.0,
       "ctr": 7.09,
-      "purchases": 6245.242631,
+      "cvr": 0.6,
+      "cpa": 38648,
+      "purchases": 6253.826595,
       "platforms": [
         "google",
         "meta",
@@ -617,28 +666,37 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 79001827.0,
-          "revenue": 549083719.0,
-          "roas": 6.95,
+          "spend": 79264195.0,
+          "revenue": 550121873.0,
+          "roas": 6.94,
           "ctr": 1.11,
-          "cpa": 23146,
-          "purchases": 3413.242631
+          "cvr": 4.15,
+          "cpa": 23178,
+          "purchases": 3419.826595,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
-          "spend": 43387188.0,
-          "revenue": 141568111.0,
+          "spend": 43542601.0,
+          "revenue": 142068176.0,
           "roas": 3.26,
-          "ctr": 17.32,
-          "cpa": 47366,
-          "purchases": 916.0
+          "ctr": 17.34,
+          "cvr": 0.13,
+          "cpa": 47432,
+          "purchases": 918.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 118890739.0,
+          "spend": 118891365.0,
           "revenue": 300902544.0,
           "roas": 2.53,
           "ctr": 8.18,
+          "cvr": 0.71,
           "cpa": 62052,
-          "purchases": 1916.0
+          "purchases": 1916.0,
+          "hook_rate": 57.2,
+          "hold_rate": 65.4
         }
       },
       "frames": [
@@ -694,11 +752,102 @@
       "why": "상황극 오퍼 훅 + 희소성 + 압도적 물량. 크로스제품 검증된 포맷."
     },
     {
+      "key": "th아버지풀버전Ⅵ_AI",
+      "rank_note": "top",
+      "roas": 3.8,
+      "spend": 1276750.0,
+      "ctr": 2.2,
+      "cvr": 2.76,
+      "cpa": 39378,
+      "purchases": 32.423286000000004,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 1090077.0,
+          "revenue": 3183109.0,
+          "roas": 2.92,
+          "ctr": 2.31,
+          "cvr": 1.96,
+          "cpa": 53374,
+          "purchases": 20.423286,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "meta": {
+          "spend": 186673.0,
+          "revenue": 1668000.0,
+          "roas": 8.94,
+          "ctr": 1.61,
+          "cvr": 8.89,
+          "cpa": 15556,
+          "purchases": 12.0,
+          "hook_rate": 26.8,
+          "hold_rate": 22.7
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_20.9s.jpg",
+        "f05_41.8s.jpg",
+        "f06_62.7s.jpg",
+        "f07_83.6s.jpg",
+        "f08_104.5s.jpg",
+        "f09_125.4s.jpg"
+      ],
+      "transcript": "아버지 다리가 자꾸만 얇아지고 계단 앞에서 한참을 쉬시던 날 작은 발판 하나 조용히 놓아줘 허벅지가 이 주만에 단단해지고 아버지 다시 걸어요 산으로 깨어나고 돌덩이처럼 단단해진 두 다시 우리 재화 바로 그 어지 다시 웃어요 자랑하시죠 전사 허벅지 안 불어 다시 날처럼 다시",
+      "analyzed": true,
+      "base": {
+        "hook_type": "효도 감성 노래형",
+        "first_3s": "'아버지 다리가 자꾸 얇아지고 계단 앞에서 쉬시던 날'",
+        "appeal_angle": "효도·부모 근력",
+        "cta": "",
+        "keywords": [
+          "아버지 다리",
+          "계단",
+          "2주 단단",
+          "다시 걸어요"
+        ]
+      },
+      "audio": {
+        "opening_line": "아버지 다리가 자꾸만 얇아지고 계단 앞에서 한참을 쉬시던 날",
+        "voice_style": "감성 발라드",
+        "narration_mode": "노래 스토리"
+      },
+      "visual": {
+        "format": "AI",
+        "mechanism_viz": "–",
+        "before_after": "아버지 다리 회복",
+        "subtitle_style": "감성 자막"
+      },
+      "target": {
+        "gender": "혼성(구매=자녀)",
+        "age": "30·40대→부모",
+        "segment": "부모 효도",
+        "appeal_axis": "효도(근력)"
+      },
+      "trust": {
+        "evidence": "2주 체감",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "감성 노래로 효도(아버지 다리 회복)를 그린다. 간접 타겟인데도 2.97로 선방 — 감정 몰입이 효도 소구를 밀어줌.",
+      "why": "감성 노래 몰입 + 효도. 간접 타겟 한계 상쇄."
+    },
+    {
       "key": "th줄인비결Ⅰ_T",
       "rank_note": "bottom",
       "roas": 3.72,
       "spend": 862888.0,
       "ctr": 6.51,
+      "cvr": 0.43,
+      "cpa": 39460,
       "purchases": 21.867559999999997,
       "platforms": [
         "google",
@@ -710,16 +859,22 @@
           "revenue": 2375585.0,
           "roas": 10.05,
           "ctr": 1.01,
+          "cvr": 6.64,
           "cpa": 14900,
-          "purchases": 15.86756
+          "purchases": 15.86756,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 626467.0,
           "revenue": 833554.0,
           "roas": 1.33,
           "ctr": 8.91,
+          "cvr": 0.12,
           "cpa": 104411,
-          "purchases": 6.0
+          "purchases": 6.0,
+          "hook_rate": null,
+          "hold_rate": null
         }
       },
       "frames": [
@@ -781,6 +936,8 @@
       "roas": 3.54,
       "spend": 2409893.0,
       "ctr": 1.59,
+      "cvr": 1.95,
+      "cpa": 41183,
       "purchases": 58.516397,
       "platforms": [
         "google",
@@ -793,24 +950,33 @@
           "revenue": 7186648.0,
           "roas": 10.26,
           "ctr": 0.77,
+          "cvr": 4.77,
           "cpa": 14141,
-          "purchases": 49.516397
+          "purchases": 49.516397,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 194981.0,
           "revenue": 267124.0,
           "roas": 1.37,
           "ctr": 1.62,
+          "cvr": 0.72,
           "cpa": 97490,
-          "purchases": 2.0
+          "purchases": 2.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1514677.0,
           "revenue": 1072000.0,
           "roas": 0.71,
           "ctr": 4.64,
+          "cvr": 0.42,
           "cpa": 216382,
-          "purchases": 7.0
+          "purchases": 7.0,
+          "hook_rate": 64.1,
+          "hold_rate": 65.4
         }
       },
       "frames": [
@@ -868,30 +1034,38 @@
     {
       "key": "th초특가노래Ⅵ_TP",
       "rank_note": "top",
-      "roas": 3.16,
-      "spend": 6708436.0,
-      "ctr": 7.24,
-      "purchases": 141.0,
+      "roas": 3.18,
+      "spend": 6847541.0,
+      "ctr": 7.77,
+      "cvr": 0.65,
+      "cpa": 47224,
+      "purchases": 145.0,
       "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 2701315.0,
-          "revenue": 8786951.0,
-          "roas": 3.25,
-          "ctr": 6.63,
-          "cpa": 46574,
-          "purchases": 58.0
+          "spend": 2840420.0,
+          "revenue": 9340642.0,
+          "roas": 3.29,
+          "ctr": 7.54,
+          "cvr": 0.47,
+          "cpa": 45813,
+          "purchases": 62.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 4007121.0,
           "revenue": 12434000.0,
           "roas": 3.1,
           "ctr": 8.13,
+          "cvr": 0.92,
           "cpa": 48279,
-          "purchases": 83.0
+          "purchases": 83.0,
+          "hook_rate": 42.6,
+          "hold_rate": 55.1
         }
       },
       "frames": [
@@ -951,9 +1125,11 @@
       "key": "th아무리땀Ⅵ_AI",
       "rank_note": "top",
       "roas": 3.05,
-      "spend": 9699561.0,
-      "ctr": 6.41,
-      "purchases": 192.222692,
+      "spend": 9773104.0,
+      "ctr": 6.45,
+      "cvr": 0.28,
+      "cpa": 50579,
+      "purchases": 193.222692,
       "platforms": [
         "google",
         "meta",
@@ -965,24 +1141,33 @@
           "revenue": 14946797.0,
           "roas": 4.85,
           "ctr": 1.13,
+          "cvr": 2.28,
           "cpa": 31384,
-          "purchases": 98.222692
+          "purchases": 98.222692,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
-          "spend": 5834944.0,
-          "revenue": 14120564.0,
+          "spend": 5908487.0,
+          "revenue": 14298539.0,
           "roas": 2.42,
-          "ctr": 9.45,
-          "cpa": 64833,
-          "purchases": 90.0
+          "ctr": 9.48,
+          "cvr": 0.14,
+          "cpa": 64928,
+          "purchases": 91.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 781959.0,
           "revenue": 556000.0,
           "roas": 0.71,
           "ctr": 2.61,
+          "cvr": 1.03,
           "cpa": 195490,
-          "purchases": 4.0
+          "purchases": 4.0,
+          "hook_rate": 44.0,
+          "hold_rate": 26.3
         }
       },
       "frames": [
@@ -1041,9 +1226,11 @@
       "key": "th통나무가Ⅰ_AI",
       "rank_note": "top",
       "roas": 3.0,
-      "spend": 56883878.0,
+      "spend": 56883918.0,
       "ctr": 1.44,
-      "purchases": 1163.833968,
+      "cvr": 1.5,
+      "cpa": 48876,
+      "purchases": 1163.834461,
       "platforms": [
         "google",
         "meta",
@@ -1052,27 +1239,36 @@
       "platform_metrics": {
         "google": {
           "spend": 17091718.0,
-          "revenue": 100781989.0,
+          "revenue": 100782057.0,
           "roas": 5.9,
           "ctr": 0.55,
+          "cvr": 3.05,
           "cpa": 24885,
-          "purchases": 686.833968
+          "purchases": 686.834461,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 5721207.0,
           "revenue": 14016957.0,
           "roas": 2.45,
           "ctr": 5.59,
+          "cvr": 0.35,
           "cpa": 62870,
-          "purchases": 91.0
+          "purchases": 91.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 34070953.0,
+          "spend": 34070993.0,
           "revenue": 56037400.0,
           "roas": 1.64,
           "ctr": 3.53,
+          "cvr": 1.34,
           "cpa": 88267,
-          "purchases": 386.0
+          "purchases": 386.0,
+          "hook_rate": 44.2,
+          "hold_rate": 37.0
         }
       },
       "frames": [
@@ -1130,10 +1326,12 @@
     {
       "key": "th잘만들어Ⅵ_T",
       "rank_note": "top",
-      "roas": 2.83,
-      "spend": 52917348.0,
-      "ctr": 1.46,
-      "purchases": 999.739098,
+      "roas": 2.84,
+      "spend": 52968968.0,
+      "ctr": 1.45,
+      "cvr": 2.03,
+      "cpa": 52748,
+      "purchases": 1004.197977,
       "platforms": [
         "google",
         "meta",
@@ -1141,28 +1339,37 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 18155229.0,
-          "revenue": 78948227.0,
-          "roas": 4.35,
+          "spend": 18205926.0,
+          "revenue": 79613366.0,
+          "roas": 4.37,
           "ctr": 0.59,
-          "cpa": 34337,
-          "purchases": 528.739098
+          "cvr": 3.22,
+          "cpa": 34145,
+          "purchases": 533.197977,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 1876599.0,
           "revenue": 3528006.0,
           "roas": 1.88,
           "ctr": 10.06,
+          "cvr": 0.13,
           "cpa": 81591,
-          "purchases": 23.0
+          "purchases": 23.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 32885520.0,
+          "spend": 32886443.0,
           "revenue": 67367000.0,
           "roas": 2.05,
           "ctr": 3.53,
-          "cpa": 73405,
-          "purchases": 448.0
+          "cvr": 2.95,
+          "cpa": 73407,
+          "purchases": 448.0,
+          "hook_rate": 43.9,
+          "hold_rate": 26.5
         }
       },
       "frames": [
@@ -1223,6 +1430,8 @@
       "roas": 2.69,
       "spend": 2645749.0,
       "ctr": 5.91,
+      "cvr": 0.39,
+      "cpa": 57843,
       "purchases": 45.739931999999996,
       "platforms": [
         "google",
@@ -1235,24 +1444,33 @@
           "revenue": 2584812.0,
           "roas": 4.02,
           "ctr": 1.4,
+          "cvr": 2.06,
           "cpa": 40881,
-          "purchases": 15.739932
+          "purchases": 15.739932,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 1500604.0,
           "revenue": 4246709.0,
           "roas": 2.83,
           "ctr": 7.92,
+          "cvr": 0.26,
           "cpa": 53593,
-          "purchases": 28.0
+          "purchases": 28.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 501680.0,
           "revenue": 276000.0,
           "roas": 0.55,
           "ctr": 1.86,
+          "cvr": 1.55,
           "cpa": 250840,
-          "purchases": 2.0
+          "purchases": 2.0,
+          "hook_rate": 24.6,
+          "hold_rate": 26.0
         }
       },
       "frames": [
@@ -1309,102 +1527,13 @@
       "why": "정보 밀도가 높고 62초로 길어 메타 피드에서는 초반 이탈이 크다(메타 CTR 1.86). 메타는 끄고 구글·틱톡으로 예산을 몰아주는 게 맞다."
     },
     {
-      "key": "th홈쇼핑체중계Ⅰ_AI",
-      "rank_note": "top",
-      "roas": 2.69,
-      "spend": 5679197.0,
-      "ctr": 3.45,
-      "purchases": 91.159535,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 4213034.0,
-          "revenue": 11622363.0,
-          "roas": 2.76,
-          "ctr": 1.24,
-          "cpa": 61811,
-          "purchases": 68.159535
-        },
-        "tiktok": {
-          "spend": 956829.0,
-          "revenue": 2746099.0,
-          "roas": 2.87,
-          "ctr": 16.62,
-          "cpa": 56284,
-          "purchases": 17.0
-        },
-        "meta": {
-          "spend": 509334.0,
-          "revenue": 893000.0,
-          "roas": 1.75,
-          "ctr": 1.62,
-          "cpa": 84889,
-          "purchases": 6.0
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_13.7s.jpg",
-        "f05_27.4s.jpg",
-        "f06_41.1s.jpg",
-        "f07_54.9s.jpg",
-        "f08_68.6s.jpg",
-        "f09_82.3s.jpg"
-      ],
-      "transcript": "여러분, 착각하시면 안 됩니다. 이거 체중계 아니에요. 홈쇼핑 완판 핵열세운 하체 디톡스 발판입니다. 맞습니다. 리듬체조 선수들 대회 직전 다리 라인 잡던 바로 그 방식이에요. 발바닥 60개 혈자리 따라 콕콕 자극해서 종아리 지나 허벅지 안쪽까지 전류를 쫙 태워 올리는 거예요. 어머, 잠깐만요. 발만 올렸는데 진짜 종아리, 아니 허벅지 안쪽이 찌릿찌릿찌릿 뭔가 조여드는 느낌이 나는데요. 그저 겉만 주무르는 마사지랑은 차원이 달라요. 눈에 보이지 않는 미세전류가 피부 7mm 아래까지 파고들어서 종일 정체됐던 붓기랑 묵은 높현물까지 쫙쫙 빠지는 겁니다. 솔직히 샵 가서 관리받는 거 그냥 관리받으면 좋아지겠지 막연히 믿는 건데 이건 진짜 다리에 직접 느껴지는 자극이 달라요. 맞습니다. 이건 국내 유일 엑스텐스 10점형 기술로 허벅지 탄력 개선, 붓기 감소, 셀룰 라이트 개선, 임상까지 끝낸 기기라 자극뿐만 아니라 실제 효과까지 다른 거죠. 어쩐지 여러분 정말 딱 2주만 밟아보세요. 하루 15분이면 저녁마다 코끼리처럼 퉁퉁 붓고 무겁던 다리가 아이돌 다리 암부럽게 가벼워진다니까요. 정말 이런 제품 다시는 못 볼 것 같아요. 뜨끈한 온열까지 돼서 다리 피로도 싹 풀리고요. 여러분 이거 국내 유일 스펙이고요. 언제까지 이 스펙 유지할지 몰라요. 집에서 아이돌 관리급 케어를 받은 거거든요. 지금 L사, H사, C사 국내 홈쇼핑 업계에서 모셔가려고 난리인 디톡스 발판. 어렵게 어렵게 구해왔는데 심지어 47% 더 특별한 할인가. 놓치기 전에 얼른 만나보세요.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "오인 정정형",
-        "first_3s": "AI 쇼호스트가 발판을 들고 '여러분, 착각하시면 안 됩니다! 이거 체중계 아니에요'",
-        "appeal_angle": "홈쇼핑사들이 줄 선 혁명의 디톡스 발판",
-        "cta": "47% 특별 할인, 놓치기 전에",
-        "keywords": [
-          "체중계 아니에요",
-          "발바닥 60개 혈자리",
-          "리듬체조 선수",
-          "임상",
-          "47% 할인"
-        ]
-      },
-      "audio": {
-        "opening_line": "여러분, 착각하시면 안 됩니다. 이거 체중계 아니에요",
-        "voice_style": "홈쇼핑 쇼호스트 하이텐션 존댓말 2인 합",
-        "narration_mode": "쇼호스트 2인 대화형"
-      },
-      "visual": {
-        "format": "AI 생성 홈쇼핑 세트(쇼호스트 2인)",
-        "mechanism_viz": "약함 — 말로 설명, 제품 실물 중심",
-        "before_after": "없음",
-        "subtitle_style": "상단 고정 타이틀바 + 하단 상시 가격 바(Thermard PLX 최대 47% 할인)"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40·50대",
-        "segment": "홈쇼핑 구매 익숙한 층",
-        "appeal_axis": "권위(홈쇼핑) + 가격"
-      },
-      "trust": {
-        "evidence": "허벅지 탄력·붓기·셀룰라이트 임상, 국가대표 리듬체조 관리 기기",
-        "refund": "–",
-        "discount": "최대 47% 상시 노출",
-        "compliance": "AI 생성 고지 있음(양호) / ⚠ '국내 유일' 최상급"
-      },
-      "one_liner": "3매체 모두에서 돌아가며 14일 ROAS 2.69. 하단에 가격 바를 상시 띄워 96초 내내 오퍼를 붙잡아 두는 구조가 이 소재의 핵심이다.",
-      "why": "실제 홈쇼핑을 찍지 않고 AI로 홈쇼핑 문법(2인 합·상시 가격 바)만 빌려온 게 주효했다. 제작비 대비 회수가 좋아 다른 제품으로 이식 가능한 포맷."
-    },
-    {
       "key": "th막을수없는Ⅵ_AI",
       "rank_note": "bottom",
       "roas": 2.57,
       "spend": 20061011.0,
       "ctr": 3.05,
+      "cvr": 1.34,
+      "cpa": 59923,
       "purchases": 334.77747,
       "platforms": [
         "google",
@@ -1417,24 +1546,33 @@
           "revenue": 31495853.0,
           "roas": 4.66,
           "ctr": 1.48,
+          "cvr": 3.09,
           "cpa": 32372,
-          "purchases": 208.77747
+          "purchases": 208.77747,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 2065616.0,
           "revenue": 2891862.0,
           "roas": 1.4,
           "ctr": 8.5,
+          "cvr": 0.17,
           "cpa": 108717,
-          "purchases": 19.0
+          "purchases": 19.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 11236778.0,
           "revenue": 17089000.0,
           "roas": 1.52,
           "ctr": 3.02,
+          "cvr": 1.56,
           "cpa": 105017,
-          "purchases": 107.0
+          "purchases": 107.0,
+          "hook_rate": 44.1,
+          "hold_rate": 33.4
         }
       },
       "frames": [
@@ -1495,6 +1633,8 @@
       "roas": 2.52,
       "spend": 2587086.0,
       "ctr": 1.77,
+      "cvr": 1.31,
+      "cpa": 60267,
       "purchases": 42.926804,
       "platforms": [
         "google",
@@ -1507,24 +1647,33 @@
           "revenue": 6154378.0,
           "roas": 2.76,
           "ctr": 1.11,
+          "cvr": 2.22,
           "cpa": 54505,
-          "purchases": 40.926804
+          "purchases": 40.926804,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 176449.0,
           "revenue": 238206.0,
           "roas": 1.35,
           "ctr": 4.69,
+          "cvr": 0.14,
           "cpa": 176449,
-          "purchases": 1.0
+          "purchases": 1.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 179939.0,
           "revenue": 139000.0,
           "roas": 0.77,
           "ctr": 15.74,
+          "cvr": 0.14,
           "cpa": 179939,
-          "purchases": 1.0
+          "purchases": 1.0,
+          "hook_rate": 65.1,
+          "hold_rate": 67.9
         }
       },
       "frames": [
@@ -1586,6 +1735,8 @@
       "roas": 2.5,
       "spend": 5571123.0,
       "ctr": 9.93,
+      "cvr": 0.27,
+      "cpa": 60582,
       "purchases": 91.95990599999999,
       "platforms": [
         "google",
@@ -1598,24 +1749,33 @@
           "revenue": 8838541.0,
           "roas": 4.23,
           "ctr": 1.26,
+          "cvr": 3.16,
           "cpa": 36656,
-          "purchases": 56.959906
+          "purchases": 56.959906,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 2032113.0,
           "revenue": 4531612.0,
           "roas": 2.23,
           "ctr": 17.4,
+          "cvr": 0.1,
           "cpa": 65552,
-          "purchases": 31.0
+          "purchases": 31.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1451104.0,
           "revenue": 532400.0,
           "roas": 0.37,
           "ctr": 7.17,
+          "cvr": 0.21,
           "cpa": 362776,
-          "purchases": 4.0
+          "purchases": 4.0,
+          "hook_rate": 66.3,
+          "hold_rate": 57.7
         }
       },
       "frames": [
@@ -1676,7 +1836,9 @@
       "roas": 2.48,
       "spend": 4362600.0,
       "ctr": 3.27,
-      "purchases": 73.615696,
+      "cvr": 1.12,
+      "cpa": 59259,
+      "purchases": 73.619373,
       "platforms": [
         "google",
         "meta",
@@ -1685,27 +1847,36 @@
       "platform_metrics": {
         "google": {
           "spend": 2101567.0,
-          "revenue": 9185163.0,
+          "revenue": 9185673.0,
           "roas": 4.37,
           "ctr": 1.53,
-          "cpa": 33563,
-          "purchases": 62.615696
+          "cvr": 3.01,
+          "cpa": 33561,
+          "purchases": 62.619373,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 767715.0,
           "revenue": 898227.0,
           "roas": 1.17,
           "ctr": 8.55,
+          "cvr": 0.17,
           "cpa": 127952,
-          "purchases": 6.0
+          "purchases": 6.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1493318.0,
           "revenue": 736000.0,
           "roas": 0.49,
           "ctr": 3.95,
+          "cvr": 0.56,
           "cpa": 298664,
-          "purchases": 5.0
+          "purchases": 5.0,
+          "hook_rate": 50.5,
+          "hold_rate": 20.0
         }
       },
       "frames": [
@@ -1767,6 +1938,8 @@
       "roas": 2.44,
       "spend": 945807.0,
       "ctr": 1.05,
+      "cvr": 1.44,
+      "cpa": 59253,
       "purchases": 15.962064,
       "platforms": [
         "google"
@@ -1777,8 +1950,11 @@
           "revenue": 2306591.0,
           "roas": 2.44,
           "ctr": 1.05,
+          "cvr": 1.44,
           "cpa": 59253,
-          "purchases": 15.962064
+          "purchases": 15.962064,
+          "hook_rate": null,
+          "hold_rate": null
         }
       },
       "frames": [
@@ -1839,6 +2015,8 @@
       "roas": 2.37,
       "spend": 2561983.0,
       "ctr": 0.85,
+      "cvr": 2.1,
+      "cpa": 60395,
       "purchases": 42.420208,
       "platforms": [
         "google"
@@ -1849,8 +2027,11 @@
           "revenue": 6078896.0,
           "roas": 2.37,
           "ctr": 0.85,
+          "cvr": 2.1,
           "cpa": 60395,
-          "purchases": 42.420208
+          "purchases": 42.420208,
+          "hook_rate": null,
+          "hold_rate": null
         }
       },
       "frames": [
@@ -1909,8 +2090,10 @@
       "key": "th홈쇼핑국대급Ⅵ_AI",
       "rank_note": "top",
       "roas": 2.35,
-      "spend": 14481662.0,
+      "spend": 14481827.0,
       "ctr": 2.16,
+      "cvr": 3.03,
+      "cpa": 64197,
       "purchases": 225.582828,
       "platforms": [
         "google",
@@ -1922,16 +2105,22 @@
           "revenue": 454878.0,
           "roas": 2.94,
           "ctr": 1.09,
+          "cvr": 1.68,
           "cpa": 59888,
-          "purchases": 2.582828
+          "purchases": 2.582828,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 14326982.0,
+          "spend": 14327147.0,
           "revenue": 33621789.0,
           "roas": 2.35,
           "ctr": 2.2,
+          "cvr": 3.06,
           "cpa": 64247,
-          "purchases": 223.0
+          "purchases": 223.0,
+          "hook_rate": 35.5,
+          "hold_rate": 15.9
         }
       },
       "frames": [
@@ -1992,6 +2181,8 @@
       "roas": 2.32,
       "spend": 4531089.0,
       "ctr": 6.76,
+      "cvr": 0.26,
+      "cpa": 66327,
       "purchases": 68.314528,
       "platforms": [
         "google",
@@ -2004,24 +2195,33 @@
           "revenue": 4200717.0,
           "roas": 2.06,
           "ctr": 0.93,
+          "cvr": 1.61,
           "cpa": 69569,
-          "purchases": 29.314528
+          "purchases": 29.314528,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 2019594.0,
           "revenue": 5230748.0,
           "roas": 2.59,
           "ctr": 12.62,
+          "cvr": 0.18,
           "cpa": 63112,
-          "purchases": 32.0
+          "purchases": 32.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 472105.0,
           "revenue": 1072000.0,
           "roas": 2.27,
           "ctr": 12.52,
+          "cvr": 0.11,
           "cpa": 67444,
-          "purchases": 7.0
+          "purchases": 7.0,
+          "hook_rate": 78.9,
+          "hold_rate": 13.1
         }
       },
       "frames": [
@@ -2077,12 +2277,102 @@
       "why": "권위 앵커 대비 밋밋한 후기 + 긴 호흡."
     },
     {
+      "key": "th버틴분들Ⅵ_TP",
+      "rank_note": "top",
+      "roas": 2.3,
+      "spend": 8298449.0,
+      "ctr": 5.47,
+      "cvr": 0.65,
+      "cpa": 68582,
+      "purchases": 121.0,
+      "platforms": [
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 3626384.0,
+          "revenue": 12293442.0,
+          "roas": 3.39,
+          "ctr": 6.56,
+          "cvr": 0.51,
+          "cpa": 45904,
+          "purchases": 79.0,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "meta": {
+          "spend": 4672065.0,
+          "revenue": 6812000.0,
+          "roas": 1.46,
+          "ctr": 2.91,
+          "cvr": 1.42,
+          "cpa": 111240,
+          "purchases": 42.0,
+          "hook_rate": 28.2,
+          "hold_rate": 23.4
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_10.4s.jpg",
+        "f05_20.9s.jpg",
+        "f06_31.3s.jpg",
+        "f07_41.8s.jpg",
+        "f08_52.2s.jpg",
+        "f09_62.6s.jpg"
+      ],
+      "transcript": "재활센터 VIP룸 원장님부터 깐깐한 재활 전문가까지 입을 모아 엄지척 중년 하체 돌덩이 보여서 마드같이",
+      "analyzed": true,
+      "base": {
+        "hook_type": "전문가 추천형",
+        "first_3s": "'재활센터 원장부터 전문가까지 엄지척'",
+        "appeal_angle": "전문가 신뢰",
+        "cta": "",
+        "keywords": [
+          "재활센터 VIP",
+          "전문가 엄지척",
+          "중년 하체 돌덩이"
+        ]
+      },
+      "audio": {
+        "opening_line": "재활센터 VIP룸 원장님부터 전문가까지 입을 모아 엄지척",
+        "voice_style": "권위 나열체",
+        "narration_mode": "3인칭 추천"
+      },
+      "visual": {
+        "format": "실사/템플릿",
+        "mechanism_viz": "–",
+        "before_after": "중년 하체 돌덩이",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "50·60대",
+        "segment": "전문가 신뢰 중시",
+        "appeal_axis": "권위"
+      },
+      "trust": {
+        "evidence": "재활 전문가 추천",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "전문가 다수의 추천을 나열해 신뢰를 쌓는다. 소액이지만 3.31로 효율 좋음.",
+      "why": "전문가 소셜프루프. 신뢰 기반 전환."
+    },
+    {
       "key": "th아빠다리Ⅵ_AI",
       "rank_note": "bottom",
-      "roas": 2.29,
-      "spend": 18423791.0,
-      "ctr": 9.38,
-      "purchases": 274.274155,
+      "roas": 2.26,
+      "spend": 19164168.0,
+      "ctr": 9.5,
+      "cvr": 0.17,
+      "cpa": 68022,
+      "purchases": 281.73319000000004,
       "platforms": [
         "google",
         "meta",
@@ -2090,28 +2380,37 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 540454.0,
-          "revenue": 4275740.0,
-          "roas": 7.91,
+          "spend": 640336.0,
+          "revenue": 4855546.0,
+          "roas": 7.58,
           "ctr": 1.73,
-          "cpa": 19115,
-          "purchases": 28.274155
+          "cvr": 2.3,
+          "cpa": 20179,
+          "purchases": 31.73319,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
-          "spend": 8763226.0,
-          "revenue": 21557536.0,
-          "roas": 2.46,
-          "ctr": 11.71,
-          "cpa": 61713,
-          "purchases": 142.0
+          "spend": 9403446.0,
+          "revenue": 22192133.0,
+          "roas": 2.36,
+          "ctr": 11.65,
+          "cvr": 0.09,
+          "cpa": 64407,
+          "purchases": 146.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 9120111.0,
+          "spend": 9120386.0,
           "revenue": 16271000.0,
           "roas": 1.78,
           "ctr": 2.27,
-          "cpa": 87693,
-          "purchases": 104.0
+          "cvr": 1.47,
+          "cpa": 87696,
+          "purchases": 104.0,
+          "hook_rate": 49.3,
+          "hold_rate": 21.0
         }
       },
       "frames": [
@@ -2168,91 +2467,13 @@
       "why": "효도 선물이라는 각도는 유효하나 주인공을 해골로 그리면서 애정이 아니라 거부감이 먼저 온다 — 물량이 큰 만큼 실사 아버지 버전으로 교체 테스트할 가치가 크다."
     },
     {
-      "key": "th버틴분들Ⅵ_TP",
-      "rank_note": "top",
-      "roas": 2.25,
-      "spend": 8187062.0,
-      "ctr": 5.3,
-      "purchases": 117.0,
-      "platforms": [
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 3515212.0,
-          "revenue": 11635352.0,
-          "roas": 3.31,
-          "ctr": 6.36,
-          "cpa": 46869,
-          "purchases": 75.0
-        },
-        "meta": {
-          "spend": 4671850.0,
-          "revenue": 6812000.0,
-          "roas": 1.46,
-          "ctr": 2.91,
-          "cpa": 111235,
-          "purchases": 42.0
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_10.4s.jpg",
-        "f05_20.9s.jpg",
-        "f06_31.3s.jpg",
-        "f07_41.8s.jpg",
-        "f08_52.2s.jpg",
-        "f09_62.6s.jpg"
-      ],
-      "transcript": "재활센터 VIP룸 원장님부터 깐깐한 재활 전문가까지 입을 모아 엄지척 중년 하체 돌덩이 보여서 마드같이",
-      "analyzed": true,
-      "base": {
-        "hook_type": "전문가 추천형",
-        "first_3s": "'재활센터 원장부터 전문가까지 엄지척'",
-        "appeal_angle": "전문가 신뢰",
-        "cta": "",
-        "keywords": [
-          "재활센터 VIP",
-          "전문가 엄지척",
-          "중년 하체 돌덩이"
-        ]
-      },
-      "audio": {
-        "opening_line": "재활센터 VIP룸 원장님부터 전문가까지 입을 모아 엄지척",
-        "voice_style": "권위 나열체",
-        "narration_mode": "3인칭 추천"
-      },
-      "visual": {
-        "format": "실사/템플릿",
-        "mechanism_viz": "–",
-        "before_after": "중년 하체 돌덩이",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "50·60대",
-        "segment": "전문가 신뢰 중시",
-        "appeal_axis": "권위"
-      },
-      "trust": {
-        "evidence": "재활 전문가 추천",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "전문가 다수의 추천을 나열해 신뢰를 쌓는다. 소액이지만 3.31로 효율 좋음.",
-      "why": "전문가 소셜프루프. 신뢰 기반 전환."
-    },
-    {
       "key": "th대청소Ⅰ_AI",
       "rank_note": "top",
       "roas": 2.1,
       "spend": 19986372.0,
       "ctr": 12.04,
+      "cvr": 0.18,
+      "cpa": 71636,
       "purchases": 279.0,
       "platforms": [
         "meta",
@@ -2264,16 +2485,22 @@
           "revenue": 19540359.0,
           "roas": 1.94,
           "ctr": 15.85,
+          "cvr": 0.09,
           "cpa": 79939,
-          "purchases": 126.0
+          "purchases": 126.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 9914022.0,
           "revenue": 22530000.0,
           "roas": 2.27,
           "ctr": 3.43,
+          "cvr": 1.12,
           "cpa": 64798,
-          "purchases": 153.0
+          "purchases": 153.0,
+          "hook_rate": 32.1,
+          "hold_rate": 21.3
         }
       },
       "frames": [
@@ -2335,6 +2562,8 @@
       "roas": 2.07,
       "spend": 1803423.0,
       "ctr": 4.76,
+      "cvr": 0.31,
+      "cpa": 69169,
       "purchases": 26.072858,
       "platforms": [
         "google",
@@ -2346,16 +2575,22 @@
           "revenue": 2811361.0,
           "roas": 2.18,
           "ctr": 0.87,
+          "cvr": 1.59,
           "cpa": 67489,
-          "purchases": 19.072858
+          "purchases": 19.072858,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 516210.0,
           "revenue": 921000.0,
           "roas": 1.78,
           "ctr": 18.01,
+          "cvr": 0.1,
           "cpa": 73744,
-          "purchases": 7.0
+          "purchases": 7.0,
+          "hook_rate": 79.0,
+          "hold_rate": 83.2
         }
       },
       "frames": [
@@ -2416,6 +2651,8 @@
       "roas": 2.03,
       "spend": 15076768.0,
       "ctr": 9.52,
+      "cvr": 0.55,
+      "cpa": 72308,
       "purchases": 208.507425,
       "platforms": [
         "google",
@@ -2428,24 +2665,33 @@
           "revenue": 70534.0,
           "roas": 1.48,
           "ctr": 1.01,
+          "cvr": 1.81,
           "cpa": 93947,
-          "purchases": 0.507425
+          "purchases": 0.507425,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 502235.0,
           "revenue": 969314.0,
           "roas": 1.93,
           "ctr": 20.85,
+          "cvr": 0.06,
           "cpa": 71748,
-          "purchases": 7.0
+          "purchases": 7.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 14526862.0,
           "revenue": 29491000.0,
           "roas": 2.03,
           "ctr": 7.53,
+          "cvr": 0.8,
           "cpa": 72273,
-          "purchases": 201.0
+          "purchases": 201.0,
+          "hook_rate": 46.5,
+          "hold_rate": 48.5
         }
       },
       "frames": [
@@ -2507,6 +2753,8 @@
       "roas": 2.0,
       "spend": 1569809.0,
       "ctr": 1.28,
+      "cvr": 2.24,
+      "cpa": 73254,
       "purchases": 21.429777,
       "platforms": [
         "google",
@@ -2518,16 +2766,22 @@
           "revenue": 1898592.0,
           "roas": 2.72,
           "ctr": 0.86,
+          "cvr": 2.33,
           "cpa": 56087,
-          "purchases": 12.429777
+          "purchases": 12.429777,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 872661.0,
           "revenue": 1247000.0,
           "roas": 1.43,
           "ctr": 3.24,
+          "cvr": 2.12,
           "cpa": 96962,
-          "purchases": 9.0
+          "purchases": 9.0,
+          "hook_rate": 46.9,
+          "hold_rate": 18.4
         }
       },
       "frames": [
@@ -2588,6 +2842,8 @@
       "roas": 1.95,
       "spend": 20962166.0,
       "ctr": 3.41,
+      "cvr": 0.96,
+      "cpa": 77067,
       "purchases": 272.0,
       "platforms": [
         "meta"
@@ -2598,8 +2854,11 @@
           "revenue": 40918000.0,
           "roas": 1.95,
           "ctr": 3.41,
+          "cvr": 0.96,
           "cpa": 77067,
-          "purchases": 272.0
+          "purchases": 272.0,
+          "hook_rate": 37.5,
+          "hold_rate": 35.1
         }
       },
       "frames": [
@@ -2661,6 +2920,8 @@
       "roas": 1.91,
       "spend": 1881693.0,
       "ctr": 1.95,
+      "cvr": 0.81,
+      "cpa": 85074,
       "purchases": 22.118277,
       "platforms": [
         "google",
@@ -2673,24 +2934,33 @@
           "revenue": 2781747.0,
           "roas": 3.98,
           "ctr": 0.79,
+          "cvr": 2.51,
           "cpa": 40844,
-          "purchases": 17.118277
+          "purchases": 17.118277,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 120132.0,
           "revenue": 157373.0,
           "roas": 1.31,
           "ctr": 4.12,
+          "cvr": 0.08,
           "cpa": 120132,
-          "purchases": 1.0
+          "purchases": 1.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 1062381.0,
           "revenue": 650000.0,
           "roas": 0.61,
           "ctr": 3.46,
+          "cvr": 0.46,
           "cpa": 265595,
-          "purchases": 4.0
+          "purchases": 4.0,
+          "hook_rate": 44.3,
+          "hold_rate": 36.6
         }
       },
       "frames": [
@@ -2746,93 +3016,13 @@
       "why": "셀럽 권위 대비 평범한 훅 + 니치."
     },
     {
-      "key": "th비오기전Ⅺ_T",
-      "rank_note": "bottom",
-      "roas": 1.89,
-      "spend": 1839092.0,
-      "ctr": 8.54,
-      "purchases": 21.639094,
-      "platforms": [
-        "google",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 675906.0,
-          "revenue": 1752568.0,
-          "roas": 2.59,
-          "ctr": 0.74,
-          "cpa": 63530,
-          "purchases": 10.639094
-        },
-        "tiktok": {
-          "spend": 1163186.0,
-          "revenue": 1721515.0,
-          "roas": 1.48,
-          "ctr": 14.8,
-          "cpa": 105744,
-          "purchases": 11.0
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.4s.jpg",
-        "f05_10.8s.jpg",
-        "f06_16.3s.jpg",
-        "f07_21.7s.jpg",
-        "f08_27.1s.jpg",
-        "f09_32.5s.jpg"
-      ],
-      "transcript": "비우기 전날 기상청보다 내 무릎이 먼저 반응한다고요? 그렇다면 당장 써마드 발판부터 쓰셔야 합니다 그거 연골이 사포에 박박 긁히면 가루가 되고 있다는 끔찍한 신호거든요 가체를 지탱할 속근육이 싹 녹아내려 무릎 연골이 온몸에 체중을 맨몸으로 짓눌리며 버티는 겁니다 이럴 때 근력 키운다고 억지로 무게 치면 남은 연골 마저 싹 다 갉아 놓고 평생 남의 불축박도 살아야 합니다 당장 다 멈추고 소파에 편하게 앉아 죽은 속근육만 강제로 깨우는 써마드 발판에 발만 올리세요 국보적인 엑스텐스 10점형 미세 점유가 피부 7mm 아래 텅 빈 속근육을 찾아내 초당 1200건 무자비하게 탁약해서 돌덩이처럼 꽉꽉 채워줍니다 가체 기둥이 철근처럼 짱짱하게 서요 짓눌리던 관절이 비로소 숨을 쉬고 제리제리하던 통증도 물밀듯 사라집니다 연골 다 달아 평생 후회하기 전에 가루 15분 무조건 이거 쓰셔야 해요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "증상 진단형(공포)",
-        "first_3s": "번개 치는 밤하늘에 '비 오기 전날 기상청보다 내 무릎이 먼저 반응한다고요?'",
-        "appeal_angle": "연골 마모 공포 → 속근육으로 체중 분산",
-        "cta": "연골 다 닳아 평생 후회하기 전에 하루 15분",
-        "keywords": [
-          "무릎 시큰",
-          "연골이 사포에",
-          "속근육",
-          "초당 1200번",
-          "평생 부축"
-        ]
-      },
-      "audio": {
-        "opening_line": "비 오기 전날 기상청보다 내 무릎이 먼저 반응한다고요?",
-        "voice_style": "중년 남성 배우의 강한 호소·경고톤",
-        "narration_mode": "인물 직접 화법(카메라 응시)"
-      },
-      "visual": {
-        "format": "실사 배우 연기 + 무릎 해부 CG",
-        "mechanism_viz": "무릎 연골·근육 해부 3D",
-        "before_after": "없음",
-        "subtitle_style": "굵은 흰/노랑 자막, 공포 키워드 붉은색"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "50·60대",
-        "segment": "무릎 통증 있는 중장년",
-        "appeal_axis": "관절 공포"
-      },
-      "trust": {
-        "evidence": "X-TENS 10.0, 초당 1200번",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ 연골 마모·평생 부축 등 공포소구가 강하고 질환 암시에 가까움 — 의료기기 오인 주의"
-      },
-      "one_liner": "세 기간 모두 동일 수치로 잡히는 걸 보면 이미 집행이 멈춘 소재다. ROAS 1.89·구글 2.59로 나쁘지 않았지만 공포 강도 대비 회수가 크지 않았다.",
-      "why": "관절 공포는 클릭(CTR 8.54)은 잘 뽑지만 '치료 기대'로 오독되면 구매까지 가지 않는다. 컴플라이언스 관점에서도 표현 완화가 필요한 라인."
-    },
-    {
       "key": "th뇌의명령Ⅵ_AI",
       "rank_note": "bottom",
-      "roas": 1.8,
-      "spend": 1022924.0,
-      "ctr": 4.65,
+      "roas": 1.78,
+      "spend": 1037419.0,
+      "ctr": 4.6,
+      "cvr": 0.46,
+      "cpa": 101926,
       "purchases": 10.178201999999999,
       "platforms": [
         "google",
@@ -2840,20 +3030,26 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 134118.0,
+          "spend": 148613.0,
           "revenue": 1192776.0,
-          "roas": 8.89,
-          "ctr": 0.46,
-          "cpa": 21708,
-          "purchases": 6.178202
+          "roas": 8.03,
+          "ctr": 0.51,
+          "cvr": 3.57,
+          "cpa": 24054,
+          "purchases": 6.178202,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 888806.0,
           "revenue": 653000.0,
           "roas": 0.73,
           "ctr": 14.01,
+          "cvr": 0.19,
           "cpa": 222202,
-          "purchases": 4.0
+          "purchases": 4.0,
+          "hook_rate": 65.7,
+          "hold_rate": 72.5
         }
       },
       "frames": [
@@ -2914,6 +3110,8 @@
       "roas": 1.77,
       "spend": 714247.0,
       "ctr": 2.61,
+      "cvr": 1.24,
+      "cpa": 90299,
       "purchases": 7.909833,
       "platforms": [
         "google",
@@ -2925,16 +3123,22 @@
           "revenue": 1126557.0,
           "roas": 5.49,
           "ctr": 0.97,
+          "cvr": 5.86,
           "cpa": 29702,
-          "purchases": 6.909833
+          "purchases": 6.909833,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 509012.0,
           "revenue": 139000.0,
           "roas": 0.27,
           "ctr": 4.23,
+          "cvr": 0.19,
           "cpa": 509012,
-          "purchases": 1.0
+          "purchases": 1.0,
+          "hook_rate": 67.0,
+          "hold_rate": 45.7
         }
       },
       "frames": [
@@ -2991,12 +3195,62 @@
       "why": "증상이 없는 사람에게 필요를 만드는 비유는 강한데, 뒤가 스펙·할인 나열로 길어지면서 초반 몰입이 흩어짐."
     },
     {
+      "key": "th허벅지얇Ⅵ_T",
+      "rank_note": "bottom",
+      "roas": 1.71,
+      "spend": 1601726.0,
+      "ctr": 5.42,
+      "cvr": 0.18,
+      "cpa": 87603,
+      "purchases": 18.283939,
+      "platforms": [
+        "google",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 536795.0,
+          "revenue": 456467.0,
+          "roas": 0.85,
+          "ctr": 0.69,
+          "cvr": 0.52,
+          "cpa": 163461,
+          "purchases": 3.283939,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "tiktok": {
+          "spend": 1064931.0,
+          "revenue": 2278952.0,
+          "roas": 2.14,
+          "ctr": 9.81,
+          "cvr": 0.16,
+          "cpa": 70995,
+          "purchases": 15.0,
+          "hook_rate": null,
+          "hold_rate": null
+        }
+      },
+      "frames": [],
+      "transcript": "",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
       "key": "th비교비결Ⅵ_T",
       "rank_note": "bottom",
       "roas": 1.7,
-      "spend": 30444867.0,
+      "spend": 30445233.0,
       "ctr": 1.96,
-      "purchases": 349.318124,
+      "cvr": 2.09,
+      "cpa": 87156,
+      "purchases": 349.318766,
       "platforms": [
         "google",
         "meta"
@@ -3004,19 +3258,25 @@
       "platform_metrics": {
         "google": {
           "spend": 190250.0,
-          "revenue": 815252.0,
+          "revenue": 815405.0,
           "roas": 4.29,
           "ctr": 1.11,
-          "cpa": 35774,
-          "purchases": 5.318124
+          "cvr": 1.25,
+          "cpa": 35770,
+          "purchases": 5.318766,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 30254617.0,
+          "spend": 30254983.0,
           "revenue": 50822900.0,
           "roas": 1.68,
           "ctr": 2.0,
-          "cpa": 87949,
-          "purchases": 344.0
+          "cvr": 2.11,
+          "cpa": 87951,
+          "purchases": 344.0,
+          "hook_rate": 31.7,
+          "hold_rate": 27.9
         }
       },
       "frames": [
@@ -3072,11 +3332,287 @@
       "why": "진부한 훅 + 고지출. 소재 피로/차별성 부족으로 효율 하락."
     },
     {
+      "key": "th무릎아프Ⅺ_AI",
+      "rank_note": "bottom",
+      "roas": 1.64,
+      "spend": 858415.0,
+      "ctr": 8.06,
+      "cvr": 0.08,
+      "cpa": 87205,
+      "purchases": 9.843655,
+      "platforms": [
+        "google",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 207027.0,
+          "revenue": 554713.0,
+          "roas": 2.68,
+          "ctr": 1.22,
+          "cvr": 1.8,
+          "cpa": 53862,
+          "purchases": 3.843655,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "tiktok": {
+          "spend": 651388.0,
+          "revenue": 853318.0,
+          "roas": 1.31,
+          "ctr": 8.95,
+          "cvr": 0.05,
+          "cpa": 108565,
+          "purchases": 6.0,
+          "hook_rate": null,
+          "hold_rate": null
+        }
+      },
+      "frames": [],
+      "transcript": "",
+      "analyzed": true,
+      "base": {
+        "hook_type": "관절 통증형",
+        "first_3s": "(음성 약함) 무릎 통증",
+        "appeal_angle": "무릎·관절",
+        "cta": "",
+        "keywords": [
+          "무릎 통증",
+          "Ⅺ 관절",
+          "AI"
+        ]
+      },
+      "audio": {
+        "opening_line": "(명확한 대사 적음)",
+        "voice_style": "–",
+        "narration_mode": "AI"
+      },
+      "visual": {
+        "format": "AI",
+        "mechanism_viz": "–",
+        "before_after": "–",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "혼성",
+        "age": "50·60대",
+        "segment": "무릎 관절통·시니어",
+        "appeal_axis": "통증회피(수동)"
+      },
+      "trust": {
+        "evidence": "–",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ 관절통증 앵글"
+      },
+      "one_liner": "Ⅺ 관절 앵글 + 음성 정보 약함 + 소액(0.6M)으로 1.39 저조. 써마드 통증회피 앵글의 전형적 약세.",
+      "why": "관절·시니어 수동 소구 + 정보 부족."
+    },
+    {
+      "key": "th타고난여Ⅰ_T",
+      "rank_note": "bottom",
+      "roas": 1.64,
+      "spend": 1605769.0,
+      "ctr": 18.12,
+      "cvr": 0.06,
+      "cpa": 97977,
+      "purchases": 16.389296,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 6160.0,
+          "revenue": 92652.0,
+          "roas": 15.04,
+          "ctr": 0.91,
+          "cvr": 7.79,
+          "cpa": 15823,
+          "purchases": 0.389296,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "tiktok": {
+          "spend": 1336634.0,
+          "revenue": 2018317.0,
+          "roas": 1.51,
+          "ctr": 17.95,
+          "cvr": 0.06,
+          "cpa": 102818,
+          "purchases": 13.0,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "meta": {
+          "spend": 262975.0,
+          "revenue": 516000.0,
+          "roas": 1.96,
+          "ctr": 20.05,
+          "cvr": 0.09,
+          "cpa": 87658,
+          "purchases": 3.0,
+          "hook_rate": 90.7,
+          "hold_rate": 80.3
+        }
+      },
+      "frames": [],
+      "transcript": "",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "th인증함Ⅺ_T",
+      "rank_note": "bottom",
+      "roas": 1.59,
+      "spend": 3025411.0,
+      "ctr": 21.67,
+      "cvr": 0.06,
+      "cpa": 104325,
+      "purchases": 29.0,
+      "platforms": [
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 1271968.0,
+          "revenue": 2098747.0,
+          "roas": 1.65,
+          "ctr": 19.89,
+          "cvr": 0.06,
+          "cpa": 97844,
+          "purchases": 13.0,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "meta": {
+          "spend": 1753443.0,
+          "revenue": 2714000.0,
+          "roas": 1.55,
+          "ctr": 23.72,
+          "cvr": 0.07,
+          "cpa": 109590,
+          "purchases": 16.0,
+          "hook_rate": 85.7,
+          "hold_rate": 74.2
+        }
+      },
+      "frames": [],
+      "transcript": "",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "th쳐짐땜에Ⅳ_T",
+      "rank_note": "bottom",
+      "roas": 1.58,
+      "spend": 6385037.0,
+      "ctr": 2.42,
+      "cvr": 2.3,
+      "cpa": 91859,
+      "purchases": 69.508854,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 290004.0,
+          "revenue": 903142.0,
+          "roas": 3.11,
+          "ctr": 0.52,
+          "cvr": 4.15,
+          "cpa": 44555,
+          "purchases": 6.508854,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "meta": {
+          "spend": 6095033.0,
+          "revenue": 9188000.0,
+          "roas": 1.51,
+          "ctr": 3.03,
+          "cvr": 2.2,
+          "cpa": 96747,
+          "purchases": 63.0,
+          "hook_rate": 41.4,
+          "hold_rate": 36.4
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_6.5s.jpg",
+        "f05_13.0s.jpg",
+        "f06_19.5s.jpg",
+        "f07_25.9s.jpg",
+        "f08_32.4s.jpg",
+        "f09_38.9s.jpg"
+      ],
+      "transcript": "허벅지 처짐 때문에 피부과 오시는 분들 전 무조건 이걸 추천해요 제가 진짜 답답해서 말씀드리는 건데 그 처진 허벅지 살은 단순한 지방이 아닙니다 속근육이 죽으면서 지방이 지지대를 잃고 중력에 그대로 흘러내려 굳어버린 거예요 마사지 받고 붓기 크림 바르겠다고요? 절대 소용 없습니다 이건 순환 문제가 아니라 속근육이 죽어서 생기는 거니까요 분살 안에서 밤새 지방이 쌓이니 아침마다 허벅지가 퉁퉁 붓고 오렌지 껍질처럼 울퉁불퉁 셀룰라이트가 생기는 거죠 이건 주무르려고 해도 한계가 있습니다 이미 속근육 깊숙이 자리 잡아서 겉에서는 절대 안 빠지거든요 그래서 썸하드가 필요합니다 단순히 붓기만 빼는 게 아니라 엑스텐지 10.0 고밀도 전류가 허벅지 속근육을 스케일링하듯 싹 훑고 지나가면 퉁퉁 붙던 이물감은 싹 사라지고 허벅지가 안에서부터 탄탄하게 차오릅니다 매일 아침 허벅지 처짐 걱정하며 군살 끌어안고 사는 고통 이제 마사지 말고 썸하드로 싹 녹여버리세요 매일 아침 다리 컨디션이 달라집니다",
+      "analyzed": true,
+      "base": {
+        "hook_type": "미용 문제해결형",
+        "first_3s": "'허벅지 처짐 때문에 피부과 오시는 분들 전 무조건 이걸 추천'",
+        "appeal_angle": "셀룰라이트·처짐(미용)",
+        "cta": "약함",
+        "keywords": [
+          "허벅지 처짐",
+          "셀룰라이트",
+          "속근육 지지대",
+          "스케일링"
+        ]
+      },
+      "audio": {
+        "opening_line": "허벅지 처짐 때문에 피부과 오시는 분들 전 무조건 이걸 추천해요",
+        "voice_style": "전문가 조언 톤",
+        "narration_mode": "피부과 전문가 시점"
+      },
+      "visual": {
+        "format": "실사",
+        "mechanism_viz": "속근육 스케일링 비유",
+        "before_after": "처짐·셀룰라이트 개선",
+        "subtitle_style": "일반"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "허벅지 처짐·셀룰라이트 미용",
+        "appeal_axis": "미용(처짐 개선)"
+      },
+      "trust": {
+        "evidence": "엑스텐스10.0",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "미용 효과 주장 관찰"
+      },
+      "one_liner": "셀룰라이트·처짐이라는 미용 앵글은 써마드(EMS 근력)와 결이 멀고 여성 미용 시장에선 경쟁이 치열하다. 메타 단독·최저 ROAS(1.26)로, 제품 포지셔닝과 안 맞는 각.",
+      "why": "제품 본질(근력)과 소구(미용) 괴리 + 단일 플랫폼. 20개 중 최하위."
+    },
+    {
       "key": "th판매금지Ⅺ_T",
       "rank_note": "bottom",
       "roas": 1.54,
       "spend": 7920973.0,
       "ctr": 1.95,
+      "cvr": 1.8,
+      "cpa": 97467,
       "purchases": 81.268453,
       "platforms": [
         "google",
@@ -3088,16 +3624,22 @@
           "revenue": 1749510.0,
           "roas": 5.4,
           "ctr": 1.73,
+          "cvr": 2.05,
           "cpa": 28737,
-          "purchases": 11.268453
+          "purchases": 11.268453,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 7597146.0,
           "revenue": 10438000.0,
           "roas": 1.37,
           "ctr": 1.98,
+          "cvr": 1.77,
           "cpa": 108531,
-          "purchases": 70.0
+          "purchases": 70.0,
+          "hook_rate": 41.8,
+          "hold_rate": 21.7
         }
       },
       "frames": [
@@ -3157,6 +3699,8 @@
       "roas": 1.53,
       "spend": 10588677.0,
       "ctr": 3.38,
+      "cvr": 0.87,
+      "cpa": 98403,
       "purchases": 107.605316,
       "platforms": [
         "google",
@@ -3168,16 +3712,22 @@
           "revenue": 1331468.0,
           "roas": 3.13,
           "ctr": 0.86,
+          "cvr": 2.04,
           "cpa": 49372,
-          "purchases": 8.605316
+          "purchases": 8.605316,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 10163815.0,
           "revenue": 14868000.0,
           "roas": 1.46,
           "ctr": 3.77,
+          "cvr": 0.82,
           "cpa": 102665,
-          "purchases": 99.0
+          "purchases": 99.0,
+          "hook_rate": 66.0,
+          "hold_rate": 64.6
         }
       },
       "frames": [
@@ -3239,6 +3789,8 @@
       "roas": 1.49,
       "spend": 7628837.0,
       "ctr": 9.22,
+      "cvr": 0.59,
+      "cpa": 101718,
       "purchases": 75.0,
       "platforms": [
         "google",
@@ -3251,24 +3803,33 @@
           "revenue": 0.0,
           "roas": 0.0,
           "ctr": 0.65,
+          "cvr": 0.0,
           "cpa": null,
-          "purchases": 0.0
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 417866.0,
           "revenue": 279970.0,
           "roas": 0.67,
           "ctr": 3.03,
+          "cvr": 0.36,
           "cpa": 208933,
-          "purchases": 2.0
+          "purchases": 2.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 7208231.0,
           "revenue": 11090000.0,
           "roas": 1.54,
           "ctr": 10.22,
+          "cvr": 0.6,
           "cpa": 98743,
-          "purchases": 73.0
+          "purchases": 73.0,
+          "hook_rate": 66.4,
+          "hold_rate": 50.4
         }
       },
       "frames": [
@@ -3330,6 +3891,8 @@
       "roas": 1.48,
       "spend": 5908446.0,
       "ctr": 3.18,
+      "cvr": 0.55,
+      "cpa": 100199,
       "purchases": 58.96722,
       "platforms": [
         "google",
@@ -3342,24 +3905,33 @@
           "revenue": 451580.0,
           "roas": 4.29,
           "ctr": 0.62,
+          "cvr": 1.77,
           "cpa": 35436,
-          "purchases": 2.96722
+          "purchases": 2.96722,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 2090464.0,
           "revenue": 4536307.0,
           "roas": 2.17,
           "ctr": 3.76,
+          "cvr": 0.36,
           "cpa": 72085,
-          "purchases": 29.0
+          "purchases": 29.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 3712836.0,
           "revenue": 3741000.0,
           "roas": 1.01,
           "ctr": 2.61,
+          "cvr": 1.1,
           "cpa": 137512,
-          "purchases": 27.0
+          "purchases": 27.0,
+          "hook_rate": 36.3,
+          "hold_rate": 46.6
         }
       },
       "frames": [
@@ -3416,261 +3988,14 @@
       "why": "훅이 '멘탈이 나갔습니다'라는 3인칭 보도체라 내 얘기로 당겨지지 않고, CTR 3.18로 초반 이탈이 컸다. 매체별 편차가 커 메타 예산은 정리 후보."
     },
     {
-      "key": "th그러니까Ⅵ_AI",
-      "rank_note": "bottom",
-      "roas": 1.47,
-      "spend": 3292389.0,
-      "ctr": 6.6,
-      "purchases": 32.0,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 35072.0,
-          "revenue": 173.0,
-          "roas": 0.0,
-          "ctr": 1.24,
-          "cpa": null,
-          "purchases": 0.0
-        },
-        "tiktok": {
-          "spend": 1754754.0,
-          "revenue": 3720078.0,
-          "roas": 2.12,
-          "ctr": 7.95,
-          "cpa": 73115,
-          "purchases": 24.0
-        },
-        "meta": {
-          "spend": 1502563.0,
-          "revenue": 1112000.0,
-          "roas": 0.74,
-          "ctr": 1.61,
-          "cpa": 187820,
-          "purchases": 8.0
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.1s.jpg",
-        "f05_12.1s.jpg",
-        "f06_18.2s.jpg",
-        "f07_24.3s.jpg",
-        "f08_30.3s.jpg",
-        "f09_36.4s.jpg"
-      ],
-      "transcript": "그러니까 야들야들 묵은지 허벅지 때문에 스트레스 받으시는 분들은 자기 전에 이 루틴만 추가해보세요 그게 사실 운동이 부족해서도 아니고 나이 들어서도 절대 아니에요 속근육이 퇴사하고 있다는 신호입니다 국가대표 재활센터에서요 이 증상에 대해 너무 잘 알아요 그래서 재활훈련 때마다 엑스텐스 10.0이라는 기술을 씁니다 피부 7mm 아래 속근육까지 한번 꽂히면 초당 1200회씩 퇴사한 근섬유를 당대로 깨워버립니다 새로 사라지려는 속근육 닿자마자 붙잡아버립니다 단순히 겉근육만 자극하는 게 아니라 속근육 뿌리부터 회복할 수 있도록 근육 재생 환경을 만드는 거죠 2주 지나면 운동 안 해도 말벅지처럼 속이 꽉 찬 다리는 순식간이라네요 속근육 재생 환경부터 만드세요 그래야 진짜 끝이 납니다 지금 47% 할인에 효과없음 100% 환불이라니깐 늦게 밟을수록 손해입니다",
-      "analyzed": true,
-      "base": {
-        "hook_type": "전문가 설명형",
-        "first_3s": "'묵은지 허벅지, 속근육이 퇴사하고 있다는 신호'",
-        "appeal_angle": "근비대",
-        "cta": "자기 전 이 루틴만",
-        "keywords": [
-          "묵은지 허벅지",
-          "속근육 퇴사",
-          "국대 재활",
-          "1200회"
-        ]
-      },
-      "audio": {
-        "opening_line": "그러니까 야들야들 묵은지 허벅지 때문에 스트레스 받으시는 분들은",
-        "voice_style": "설명 나열체",
-        "narration_mode": "해설형"
-      },
-      "visual": {
-        "format": "AI",
-        "mechanism_viz": "속근육 자극",
-        "before_after": "–",
-        "subtitle_style": "정보 자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "40·50대",
-        "segment": "근력 저하",
-        "appeal_axis": "근비대"
-      },
-      "trust": {
-        "evidence": "국대 재활·1200회",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "'속근육 퇴사'라는 비유는 좋으나 훅이 설명형으로 밋밋하고 3M 대비 1.28로 저조.",
-      "why": "훅 약한 설명형 도입 + 대비 저효율."
-    },
-    {
-      "key": "th무릎아프Ⅺ_AI",
-      "rank_note": "bottom",
-      "roas": 1.47,
-      "spend": 829896.0,
-      "ctr": 8.14,
-      "purchases": 8.652368,
-      "platforms": [
-        "google",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 178508.0,
-          "revenue": 368113.0,
-          "roas": 2.06,
-          "ctr": 1.2,
-          "cpa": 67301,
-          "purchases": 2.652368
-        },
-        "tiktok": {
-          "spend": 651388.0,
-          "revenue": 853318.0,
-          "roas": 1.31,
-          "ctr": 8.95,
-          "cpa": 108565,
-          "purchases": 6.0
-        }
-      },
-      "frames": [],
-      "transcript": "",
-      "analyzed": true,
-      "base": {
-        "hook_type": "관절 통증형",
-        "first_3s": "(음성 약함) 무릎 통증",
-        "appeal_angle": "무릎·관절",
-        "cta": "",
-        "keywords": [
-          "무릎 통증",
-          "Ⅺ 관절",
-          "AI"
-        ]
-      },
-      "audio": {
-        "opening_line": "(명확한 대사 적음)",
-        "voice_style": "–",
-        "narration_mode": "AI"
-      },
-      "visual": {
-        "format": "AI",
-        "mechanism_viz": "–",
-        "before_after": "–",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "혼성",
-        "age": "50·60대",
-        "segment": "무릎 관절통·시니어",
-        "appeal_axis": "통증회피(수동)"
-      },
-      "trust": {
-        "evidence": "–",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ 관절통증 앵글"
-      },
-      "one_liner": "Ⅺ 관절 앵글 + 음성 정보 약함 + 소액(0.6M)으로 1.39 저조. 써마드 통증회피 앵글의 전형적 약세.",
-      "why": "관절·시니어 수동 소구 + 정보 부족."
-    },
-    {
-      "key": "th헬스삼년Ⅵ_AI",
-      "rank_note": "bottom",
-      "roas": 1.43,
-      "spend": 26046435.0,
-      "ctr": 2.63,
-      "purchases": 250.38899,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 202629.0,
-          "revenue": 985069.0,
-          "roas": 4.86,
-          "ctr": 1.18,
-          "cpa": 31715,
-          "purchases": 6.38899
-        },
-        "tiktok": {
-          "spend": 28285.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 12.1,
-          "cpa": null,
-          "purchases": 0.0
-        },
-        "meta": {
-          "spend": 25815521.0,
-          "revenue": 36219000.0,
-          "roas": 1.4,
-          "ctr": 2.6,
-          "cpa": 105801,
-          "purchases": 244.0
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.7s.jpg",
-        "f05_15.3s.jpg",
-        "f06_23.0s.jpg",
-        "f07_30.7s.jpg",
-        "f08_38.3s.jpg",
-        "f09_46.0s.jpg"
-      ],
-      "transcript": "헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신이 매일 이걸 밟으면 생기는 변화입니다. 밟기 전에는 속근육 소실 특성상 매년 1%씩 근육이 증발하고 스쿼트 100세트 쳐봤자 겉은 번지를 하는데 속은 텅 빈 과자봉지 같은 다리가 되는데 계단만 봐도 무릎이 항복선을 하는 인생을 맞이하게 됩니다. 이때 써마드를 밟으면 엑스텐스 10.0 고밀도 전류가 폐업 직전이던 속근육에 직접 고쳐서 초당 1200회씩 강제로 두드려 끼우는데 2주 정도 지나면 과자봉지 같은 허벅지에 시멘트 들어 붙듯 속부터 꽉 차오르면서 어느새 무릎도 조용해지고 말벅지처럼 속이 꽉 찬 다리가 유지되는 거죠? 이게 아무 EMS를 쓰면 안 되고 나사 우주비행사 근력 재활용으로 개발된 피부 7mm 아래까지 파고드는 엑스텐스 10.0 기술이 탑재된 써마드를 써야만 이런 효과를 볼 수 있습니다. 롯데 홈쇼핑 1시간 만에 10억 완판될 만큼 효과는 이미 증명됐는데 지금 47% 할인 중이니까 아래 링크에서 현명한 소비하시길 바랍니다.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "before-after 변화형",
-        "first_3s": "AI 해부(파란 남성 골격), '헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신'",
-        "appeal_angle": "남성 근비대",
-        "cta": "매일 밟으면 생기는 변화",
-        "keywords": [
-          "헬스 3년",
-          "묵은지 허벅지",
-          "1200회 타격",
-          "말벅지"
-        ]
-      },
-      "audio": {
-        "opening_line": "헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신",
-        "voice_style": "차분한 설명형",
-        "narration_mode": "변화 시뮬레이션"
-      },
-      "visual": {
-        "format": "AI 3D 해부 시각화",
-        "mechanism_viz": "속근육 시멘트 채움",
-        "before_after": "과자봉지→말벅지",
-        "subtitle_style": "정보형"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "30·40대",
-        "segment": "헬스해도 안 되는 남성",
-        "appeal_axis": "근비대(추상)"
-      },
-      "trust": {
-        "evidence": "나사 개발, 1200회",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "통나무가와 완전히 같은 포맷·템플릿인데 22M을 태우고 1.51. '헬스 3년 남성 근비대'라는 좁은 타겟 + '속근육 밀도'라는 추상적 베네핏이 발목. 같은 틀도 타겟·베네핏이 성패를 가른다는 결정적 증거.",
-      "why": "타겟 협소 + 베네핏 비가시성. 통나무가(여성·다리라인·즉각체감)와 A/B로 대비됨. 예산 재배분 시급."
-    },
-    {
       "key": "th순두부Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 1.4,
-      "spend": 6614672.0,
-      "ctr": 21.87,
-      "purchases": 62.16735,
+      "roas": 1.44,
+      "spend": 6661543.0,
+      "ctr": 21.65,
+      "cvr": 0.06,
+      "cpa": 103054,
+      "purchases": 64.64142,
       "platforms": [
         "google",
         "meta",
@@ -3678,28 +4003,37 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 363219.0,
-          "revenue": 162262.0,
-          "roas": 0.45,
-          "ctr": 0.88,
-          "cpa": 311148,
-          "purchases": 1.16735
+          "spend": 410090.0,
+          "revenue": 506155.0,
+          "roas": 1.23,
+          "ctr": 0.9,
+          "cvr": 0.99,
+          "cpa": 112618,
+          "purchases": 3.64142,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 4196662.0,
           "revenue": 5875327.0,
           "roas": 1.4,
           "ctr": 26.55,
+          "cvr": 0.04,
           "cpa": 110438,
-          "purchases": 38.0
+          "purchases": 38.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 2054791.0,
           "revenue": 3191000.0,
           "roas": 1.55,
           "ctr": 11.13,
+          "cvr": 0.24,
           "cpa": 89339,
-          "purchases": 23.0
+          "purchases": 23.0,
+          "hook_rate": 68.7,
+          "hold_rate": 59.1
         }
       },
       "frames": [
@@ -3756,32 +4090,52 @@
       "why": "'남편이 몰래 썼다'는 서사가 시청은 강하게 끌지만 가격·할인·보증 어느 것도 제시하지 않고 끝난다. 후반 30%에 오퍼를 붙이면 회수가 달라질 소재."
     },
     {
-      "key": "th사십넘어Ⅵ_T",
+      "key": "th헬스삼년Ⅵ_AI",
       "rank_note": "bottom",
-      "roas": 1.37,
-      "spend": 3250043.0,
-      "ctr": 1.45,
-      "purchases": 29.387145,
+      "roas": 1.43,
+      "spend": 26047282.0,
+      "ctr": 2.63,
+      "cvr": 1.5,
+      "cpa": 104027,
+      "purchases": 250.38899,
       "platforms": [
         "google",
-        "meta"
+        "meta",
+        "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 161153.0,
-          "revenue": 607831.0,
-          "roas": 3.77,
-          "ctr": 0.72,
-          "cpa": 36733,
-          "purchases": 4.387145
+          "spend": 202629.0,
+          "revenue": 985069.0,
+          "roas": 4.86,
+          "ctr": 1.18,
+          "cvr": 3.8,
+          "cpa": 31715,
+          "purchases": 6.38899,
+          "hook_rate": null,
+          "hold_rate": null
+        },
+        "tiktok": {
+          "spend": 29132.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 12.03,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
-          "spend": 3088890.0,
-          "revenue": 3858000.0,
-          "roas": 1.25,
-          "ctr": 1.75,
-          "cpa": 123556,
-          "purchases": 25.0
+          "spend": 25815521.0,
+          "revenue": 36219000.0,
+          "roas": 1.4,
+          "ctr": 2.6,
+          "cvr": 1.53,
+          "cpa": 105801,
+          "purchases": 244.0,
+          "hook_rate": 51.5,
+          "hold_rate": 30.8
         }
       },
       "frames": [
@@ -3789,53 +4143,52 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_7.2s.jpg",
-        "f05_14.3s.jpg",
-        "f06_21.5s.jpg",
-        "f07_28.6s.jpg",
-        "f08_35.8s.jpg",
-        "f09_43.0s.jpg"
+        "f04_7.7s.jpg",
+        "f05_15.3s.jpg",
+        "f06_23.0s.jpg",
+        "f07_30.7s.jpg",
+        "f08_38.3s.jpg",
+        "f09_46.0s.jpg"
       ],
-      "transcript": "40대 넘어 다리가 성냥깨비처럼 빈약해지는 중년 남자들 주목 사라진 하체 근력을 되살려주는 4세대 EMS 근육 재생 기술이 이미 개발됐는데 되지도 않는 스쿼트는 이제 그만 정작 허벅지 두께를 결정하는 속근육은 그 사이에도 쪼그라들고 있다는 거 국가대표 재활 트레이너 지인이 나처럼 속근육 텅 빈 사람한테 딱이라며 서마드를 추천해 주더라고 그냥 발마사지기가 아니라 국내 유일 엑스텐즈 10.0 기술이 들어간 4세대 속근육 재생 기계래 발 올리자마자 주서바늘이 혈관 딱 차자 꽂히듯 전류가 허벅지 안쪽 깊숙이 쫙 꽂히는데 헬스 10년 동안 못 느껴봤던 찐 자극이 오더라고 2주 이상 사용하면 속근육 섬유 밀도를 170% 이상 높여줘서 매년 1%씩 증발하던 근육을 폭발적으로 되살려준다 아내보다 가는 다리로 놀리던 동창들 다리에 뭔 짓했냐고 물어보더라 국가대표 선수들도 재활 훈련대 필수로 쓸 정도로 하루 15분이면 전문 PT 15회 받는 효과라니 남자 자존감 다시 세우고 싶다면 이거 한번 써봐라",
+      "transcript": "헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신이 매일 이걸 밟으면 생기는 변화입니다. 밟기 전에는 속근육 소실 특성상 매년 1%씩 근육이 증발하고 스쿼트 100세트 쳐봤자 겉은 번지를 하는데 속은 텅 빈 과자봉지 같은 다리가 되는데 계단만 봐도 무릎이 항복선을 하는 인생을 맞이하게 됩니다. 이때 써마드를 밟으면 엑스텐스 10.0 고밀도 전류가 폐업 직전이던 속근육에 직접 고쳐서 초당 1200회씩 강제로 두드려 끼우는데 2주 정도 지나면 과자봉지 같은 허벅지에 시멘트 들어 붙듯 속부터 꽉 차오르면서 어느새 무릎도 조용해지고 말벅지처럼 속이 꽉 찬 다리가 유지되는 거죠? 이게 아무 EMS를 쓰면 안 되고 나사 우주비행사 근력 재활용으로 개발된 피부 7mm 아래까지 파고드는 엑스텐스 10.0 기술이 탑재된 써마드를 써야만 이런 효과를 볼 수 있습니다. 롯데 홈쇼핑 1시간 만에 10억 완판될 만큼 효과는 이미 증명됐는데 지금 47% 할인 중이니까 아래 링크에서 현명한 소비하시길 바랍니다.",
       "analyzed": true,
       "base": {
-        "hook_type": "타겟 호명형",
-        "first_3s": "탈의실에서 자기 다리를 내려다보는 중년 남성 + '40대 넘어 다리가 성냥개비처럼 빈약해지는'",
-        "appeal_angle": "4세대 EMS 속근육 재생, 스쿼트 무용론",
-        "cta": "남자 자존감 다시 세우고 싶다면 써봐라",
+        "hook_type": "before-after 변화형",
+        "first_3s": "AI 해부(파란 남성 골격), '헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신'",
+        "appeal_angle": "남성 근비대",
+        "cta": "매일 밟으면 생기는 변화",
         "keywords": [
-          "성냥개비 다리",
-          "속근육",
-          "매년 1% 근육",
-          "국가대표 재활",
-          "PT 15회 효과"
+          "헬스 3년",
+          "묵은지 허벅지",
+          "1200회 타격",
+          "말벅지"
         ]
       },
       "audio": {
-        "opening_line": "40대 넘어 다리가 성냥개비처럼 빈약해지는 중년 남자들 주목",
-        "voice_style": "반말 남성 지인 추천톤",
-        "narration_mode": "1인 후기형"
+        "opening_line": "헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신",
+        "voice_style": "차분한 설명형",
+        "narration_mode": "변화 시뮬레이션"
       },
       "visual": {
-        "format": "실사 UGC + 스톡(국가대표 트랙) + CG",
-        "mechanism_viz": "다리 전류 CG, MRI 무릎, 모드 UI",
-        "before_after": "약함",
-        "subtitle_style": "흰 자막, 붉은 강조 키워드"
+        "format": "AI 3D 해부 시각화",
+        "mechanism_viz": "속근육 시멘트 채움",
+        "before_after": "과자봉지→말벅지",
+        "subtitle_style": "정보형"
       },
       "target": {
         "gender": "남성",
-        "age": "40·50대",
-        "segment": "마른 다리 중년 남성",
-        "appeal_axis": "남성 자존감"
+        "age": "30·40대",
+        "segment": "헬스해도 안 되는 남성",
+        "appeal_axis": "근비대(추상)"
       },
       "trust": {
-        "evidence": "근섬유 밀도 170%, 국가대표 재활, PT 15회 효과",
+        "evidence": "나사 개발, 1200회",
         "refund": "–",
         "discount": "–",
-        "compliance": "⚠ 'PT 15회 받는 효과' 등 비교 과장"
+        "compliance": "양호"
       },
-      "one_liner": "CTR 1.45로 훅 자체가 약했고 메타 ROAS 1.25에 그쳤다. '성냥개비'라는 자기비하 라벨을 남성에게 직접 붙이는 방식이 방어기제를 자극한 것으로 보인다.",
-      "why": "같은 남성 타겟이라도 '퇴직하고' 처럼 제3자(친구) 목격담으로 우회한 소재가 훨씬 잘 나왔다. 직접 호명·비하형 훅은 남성 세그먼트에서 불리하다."
+      "one_liner": "통나무가와 완전히 같은 포맷·템플릿인데 22M을 태우고 1.51. '헬스 3년 남성 근비대'라는 좁은 타겟 + '속근육 밀도'라는 추상적 베네핏이 발목. 같은 틀도 타겟·베네핏이 성패를 가른다는 결정적 증거.",
+      "why": "타겟 협소 + 베네핏 비가시성. 통나무가(여성·다리라인·즉각체감)와 A/B로 대비됨. 예산 재배분 시급."
     },
     {
       "key": "th완전비추Ⅰ_TP",
@@ -3843,6 +4196,8 @@
       "roas": 1.32,
       "spend": 9441733.0,
       "ctr": 8.96,
+      "cvr": 0.4,
+      "cpa": 113756,
       "purchases": 83.0,
       "platforms": [
         "meta",
@@ -3854,16 +4209,22 @@
           "revenue": 1107136.0,
           "roas": 1.34,
           "ctr": 14.66,
+          "cvr": 0.07,
           "cpa": 103278,
-          "purchases": 8.0
+          "purchases": 8.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 8615512.0,
           "revenue": 11338000.0,
           "roas": 1.32,
           "ctr": 6.26,
+          "cvr": 0.76,
           "cpa": 114873,
-          "purchases": 75.0
+          "purchases": 75.0,
+          "hook_rate": 44.1,
+          "hold_rate": 58.4
         }
       },
       "frames": [
@@ -3925,6 +4286,8 @@
       "roas": 1.32,
       "spend": 7609170.0,
       "ctr": 3.71,
+      "cvr": 0.54,
+      "cpa": 117853,
       "purchases": 64.564975,
       "platforms": [
         "google",
@@ -3937,24 +4300,33 @@
           "revenue": 652642.0,
           "roas": 3.22,
           "ctr": 1.23,
+          "cvr": 2.1,
           "cpa": 44388,
-          "purchases": 4.564975
+          "purchases": 4.564975,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "tiktok": {
           "spend": 584246.0,
           "revenue": 590088.0,
           "roas": 1.01,
           "ctr": 12.67,
+          "cvr": 0.07,
           "cpa": 116849,
-          "purchases": 5.0
+          "purchases": 5.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 6822294.0,
           "revenue": 8823000.0,
           "roas": 1.29,
           "ctr": 1.8,
+          "cvr": 1.25,
           "cpa": 124042,
-          "purchases": 55.0
+          "purchases": 55.0,
+          "hook_rate": 34.5,
+          "hold_rate": 27.4
         }
       },
       "frames": [

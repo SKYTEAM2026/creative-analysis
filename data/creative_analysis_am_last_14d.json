@@ -32,6 +32,8 @@
       "roas": 2.99,
       "spend": 555380.0,
       "ctr": 1.42,
+      "cvr": 5.54,
+      "cpa": 17915,
       "purchases": 31.0,
       "platforms": [
         "meta"
@@ -42,8 +44,11 @@
           "revenue": 1660500.0,
           "roas": 2.99,
           "ctr": 1.42,
+          "cvr": 5.54,
           "cpa": 17915,
-          "purchases": 31.0
+          "purchases": 31.0,
+          "hook_rate": 21.6,
+          "hold_rate": 17.1
         }
       },
       "frames": [
@@ -103,20 +108,25 @@
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
       "roas": 2.13,
-      "spend": 16852317.0,
+      "spend": 16852537.0,
       "ctr": 1.22,
+      "cvr": 6.32,
+      "cpa": 23636,
       "purchases": 713.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 16852317.0,
+          "spend": 16852537.0,
           "revenue": 35879025.0,
           "roas": 2.13,
           "ctr": 1.22,
+          "cvr": 6.32,
           "cpa": 23636,
-          "purchases": 713.0
+          "purchases": 713.0,
+          "hook_rate": 28.1,
+          "hold_rate": 47.5
         }
       },
       "frames": [
@@ -177,6 +187,8 @@
       "roas": 2.11,
       "spend": 545444.0,
       "ctr": 2.07,
+      "cvr": 4.88,
+      "cpa": 24793,
       "purchases": 22.0,
       "platforms": [
         "meta"
@@ -187,8 +199,11 @@
           "revenue": 1153400.0,
           "roas": 2.11,
           "ctr": 2.07,
+          "cvr": 4.88,
           "cpa": 24793,
-          "purchases": 22.0
+          "purchases": 22.0,
+          "hook_rate": 42.2,
+          "hold_rate": 31.2
         }
       },
       "frames": [
@@ -248,20 +263,25 @@
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
       "roas": 1.94,
-      "spend": 3939984.0,
+      "spend": 3940031.0,
       "ctr": 1.23,
+      "cvr": 6.0,
+      "cpa": 22387,
       "purchases": 176.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3939984.0,
+          "spend": 3940031.0,
           "revenue": 7638600.0,
           "roas": 1.94,
           "ctr": 1.23,
-          "cpa": 22386,
-          "purchases": 176.0
+          "cvr": 6.0,
+          "cpa": 22387,
+          "purchases": 176.0,
+          "hook_rate": 17.7,
+          "hold_rate": 20.3
         }
       },
       "frames": [
@@ -317,20 +337,25 @@
       "key": "am엉덩이조여Ⅰ_T",
       "rank_note": "top",
       "roas": 1.62,
-      "spend": 4607739.0,
+      "spend": 4607756.0,
       "ctr": 1.91,
+      "cvr": 7.31,
+      "cpa": 27926,
       "purchases": 165.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 4607739.0,
+          "spend": 4607756.0,
           "revenue": 7485577.0,
           "roas": 1.62,
           "ctr": 1.91,
+          "cvr": 7.31,
           "cpa": 27926,
-          "purchases": 165.0
+          "purchases": 165.0,
+          "hook_rate": 31.2,
+          "hold_rate": 22.1
         }
       },
       "frames": [
@@ -391,6 +416,8 @@
       "roas": 1.58,
       "spend": 644159.0,
       "ctr": 2.75,
+      "cvr": 2.57,
+      "cpa": 30674,
       "purchases": 21.0,
       "platforms": [
         "meta"
@@ -401,8 +428,11 @@
           "revenue": 1017900.0,
           "roas": 1.58,
           "ctr": 2.75,
+          "cvr": 2.57,
           "cpa": 30674,
-          "purchases": 21.0
+          "purchases": 21.0,
+          "hook_rate": 45.0,
+          "hold_rate": 10.4
         }
       },
       "frames": [
@@ -462,8 +492,10 @@
       "key": "am짝퉁넘쳐Ⅵ_T",
       "rank_note": "top",
       "roas": 1.24,
-      "spend": 1284830.0,
+      "spend": 1284836.0,
       "ctr": 20.23,
+      "cvr": 0.14,
+      "cpa": 40151,
       "purchases": 32.0,
       "platforms": [
         "meta",
@@ -471,20 +503,26 @@
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 903170.0,
-          "revenue": 1020582.0,
+          "spend": 903176.0,
+          "revenue": 1020589.0,
           "roas": 1.13,
           "ctr": 22.9,
+          "cvr": 0.09,
           "cpa": 43008,
-          "purchases": 21.0
+          "purchases": 21.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 381660.0,
           "revenue": 568500.0,
           "roas": 1.49,
           "ctr": 4.81,
+          "cvr": 1.34,
           "cpa": 34696,
-          "purchases": 11.0
+          "purchases": 11.0,
+          "hook_rate": 37.2,
+          "hold_rate": 73.2
         }
       },
       "frames": [
@@ -540,6 +578,8 @@
       "roas": 0.6,
       "spend": 859749.0,
       "ctr": 17.59,
+      "cvr": 0.18,
+      "cpa": 71646,
       "purchases": 12.0,
       "platforms": [
         "meta",
@@ -551,16 +591,22 @@
           "revenue": 0.0,
           "roas": 0.0,
           "ctr": 31.33,
+          "cvr": 0.0,
           "cpa": null,
-          "purchases": 0.0
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null
         },
         "meta": {
           "spend": 741008.0,
           "revenue": 518000.0,
           "roas": 0.7,
           "ctr": 2.4,
+          "cvr": 2.76,
           "cpa": 61751,
-          "purchases": 12.0
+          "purchases": 12.0,
+          "hook_rate": 26.7,
+          "hold_rate": 24.2
         }
       },
       "frames": [
@@ -619,20 +665,25 @@
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
       "roas": 0.51,
-      "spend": 3898640.0,
+      "spend": 3898644.0,
       "ctr": 3.49,
+      "cvr": 0.13,
+      "cpa": 105369,
       "purchases": 37.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3898640.0,
+          "spend": 3898644.0,
           "revenue": 1992000.0,
           "roas": 0.51,
           "ctr": 3.49,
+          "cvr": 0.13,
           "cpa": 105369,
-          "purchases": 37.0
+          "purchases": 37.0,
+          "hook_rate": 78.5,
+          "hold_rate": 55.2
         }
       },
       "frames": [
@@ -694,6 +745,8 @@
       "roas": 0.44,
       "spend": 582764.0,
       "ctr": 3.74,
+      "cvr": 0.94,
+      "cpa": 97127,
       "purchases": 6.0,
       "platforms": [
         "meta"
@@ -704,8 +757,11 @@
           "revenue": 256300.0,
           "roas": 0.44,
           "ctr": 3.74,
+          "cvr": 0.94,
           "cpa": 97127,
-          "purchases": 6.0
+          "purchases": 6.0,
+          "hook_rate": 53.6,
+          "hold_rate": 62.5
         }
       },
       "frames": [

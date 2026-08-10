@@ -15,16 +15,16 @@
       },
       "counts": {
         "last_14d": {
-          "n": 34,
-          "analyzed": 34
+          "n": 35,
+          "analyzed": 32
         },
         "last_30d": {
-          "n": 44,
-          "analyzed": 44
+          "n": 45,
+          "analyzed": 43
         },
         "last_90d": {
-          "n": 47,
-          "analyzed": 47
+          "n": 48,
+          "analyzed": 45
         }
       },
       "generated": "2026-08-10",
