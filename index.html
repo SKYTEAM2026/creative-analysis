@@ -90,7 +90,7 @@ function pmBlock(c){
     <div style="display:flex;gap:4px;align-items:center;font-size:11px;flex-wrap:wrap">
       ${fstep('훅률',pct(m.hook_rate))}<span style="color:var(--tx2)">→</span>${fstep('홀드',pct(m.hold_rate))}<span style="color:var(--tx2)">→</span>${fstep('CTR',pct(m.ctr))}<span style="color:var(--tx2)">→</span>${fstep('CVR',pct(m.cvr))}</div></div>`};
   return `<div class="tg"><h4>📊 매체별 퍼널</h4>${rows.map(card).join('')}
-    <div style="font-size:10.5px;color:var(--tx2)">훅률=3초재생/노출 · 홀드=ThruPlay/3초 · CTR=클릭/노출 · CVR=전환/클릭 <span style="color:#e0a63a">(훅률·홀드는 메타만 제공)</span></div></div>`;
+    <div style="font-size:10.5px;color:var(--tx2)">훅률=초기조회/노출(메타 3초·틱톡 2초) · 홀드=지속조회/초기조회(메타 ThruPlay·틱톡 6초) · CTR=클릭/노출 · CVR=전환/클릭 <span style="color:#e0a63a">(구글은 영상지표 미제공, 틱톡은 프록시 반영 시 표시)</span></div></div>`;
 }
 function kv(label,val){return val?`<div class="kv"><b>${label}</b><span>${esc(val)}</span></div>`:''}
 function tagBlock(title,obj,rows){return `<div class="tg"><h4>${title}</h4>${rows.map(([l,k])=>kv(l,obj?.[k])).join('')}</div>`}
