@@ -2711,7 +2711,7 @@
     },
     {
       "key": "tw살래말래사무실2Ⅰ_ANP",
-      "rank_note": "bottom",
+      "rank_note": "top",
       "roas": 2.12,
       "spend": 5263940.0,
       "ctr": 2.84,
@@ -2777,14 +2777,44 @@
         "f09_60.4s.jpg"
       ],
       "transcript": "구독, 좋아요, 알림설정 부탁드립니다.",
-      "analyzed": false,
-      "base": {},
-      "audio": {},
-      "visual": {},
-      "target": {},
-      "trust": {},
-      "one_liner": "",
-      "why": ""
+      "analyzed": true,
+      "base": {
+        "hook_type": "정보성 롱폼",
+        "first_3s": "애니, 사무실 배경 살래말래 롱폼",
+        "appeal_angle": "다이어트·정보",
+        "cta": "구독 좋아요",
+        "keywords": [
+          "살래말래",
+          "사무실",
+          "애니",
+          "롱폼"
+        ]
+      },
+      "audio": {
+        "opening_line": "구독, 좋아요, 알림설정 부탁드립니다",
+        "voice_style": "채널형",
+        "narration_mode": "해설형"
+      },
+      "visual": {
+        "format": "AI 애니",
+        "mechanism_viz": "발판·트위스터",
+        "before_after": "–",
+        "subtitle_style": "해설 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "정보 선호",
+        "appeal_axis": "다이어트(정보)"
+      },
+      "trust": {
+        "evidence": "원리 설명",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "사무실 배경 정보성 롱폼(살래말래 시리즈). 5.3M을 2.12로 무난.",
+      "why": "정보 채널형. 안정적 중효율."
     },
     {
       "key": "tw제조사고민Ⅰ_T",

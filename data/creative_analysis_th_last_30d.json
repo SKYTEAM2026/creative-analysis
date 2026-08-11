@@ -4203,16 +4203,57 @@
           "completion": null
         }
       },
-      "frames": [],
-      "transcript": "",
-      "analyzed": false,
-      "base": {},
-      "audio": {},
-      "visual": {},
-      "target": {},
-      "trust": {},
-      "one_liner": "",
-      "why": ""
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_8.8s.jpg",
+        "f05_17.6s.jpg",
+        "f06_26.4s.jpg",
+        "f07_35.2s.jpg",
+        "f08_44.0s.jpg",
+        "f09_52.8s.jpg"
+      ],
+      "transcript": "그냥 가족사진 찍는 줄 알았던 엄마인데 사실 엄마는 덜컥 딸을 가지는 바람에 식도 없이 급하게 결혼했었고 이후로도 정신없이 사느라 드레스는 꿈도 못 꼽은 엄마가 마음에 걸렸던 딸 사실 엄마는 딸한테 다리 피로 풀리는 마사지기로만 듣고 매일 밟고 있었던 건데 평생 관리해 본 적 없는 다리 라인이 예쁘게 잡혀 있었고 난생 처음 입어본 웨딩드레스가 너무 예뻐 더 감격하는 엄마 하지만 여기서 끝이 아니었고",
+      "analyzed": true,
+      "base": {
+        "hook_type": "감성 드라마형",
+        "first_3s": "AI 스토리, 엄마 웨딩드레스 사연",
+        "appeal_angle": "효도·감성·다리라인",
+        "cta": "",
+        "keywords": [
+          "엄마",
+          "웨딩드레스",
+          "다리 라인",
+          "가족사진"
+        ]
+      },
+      "audio": {
+        "opening_line": "그냥 가족사진 찍는 줄 알았던 엄마인데",
+        "voice_style": "감성 내레이션",
+        "narration_mode": "드라마 서사"
+      },
+      "visual": {
+        "format": "AI 드라마",
+        "mechanism_viz": "–",
+        "before_after": "다리 라인",
+        "subtitle_style": "감성 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "효도·감성",
+        "appeal_axis": "감성(효도)"
+      },
+      "trust": {
+        "evidence": "–",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "엄마 웨딩드레스 감성 드라마인데 제품·소구가 늦고 간접 타겟이라 0.69로 최하위 — 감동은 있으나 전환 실패.",
+      "why": "긴 감성 서사 + 늦은 소구. 전환 최저."
     },
     {
       "key": "th딱디톡스Ⅰ_T",
