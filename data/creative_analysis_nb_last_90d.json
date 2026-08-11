@@ -2,7 +2,7 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_90d",
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "criteria": "유의미 지출(3,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -28,26 +28,28 @@
     {
       "key": "nb사라진대Ⅱ_TP",
       "rank_note": "top",
-      "roas": 2.82,
-      "spend": 8001862.0,
-      "ctr": 1.78,
-      "cvr": 5.95,
-      "cpa": 45208,
-      "purchases": 177.0,
+      "roas": 2.77,
+      "spend": 8302337.0,
+      "ctr": 1.77,
+      "cvr": 5.85,
+      "cpa": 46124,
+      "purchases": 180.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 8001862.0,
-          "revenue": 22533495.0,
-          "roas": 2.82,
-          "ctr": 1.78,
-          "cvr": 5.95,
-          "cpa": 45208,
-          "purchases": 177.0,
+          "spend": 8302337.0,
+          "revenue": 23025495.0,
+          "roas": 2.77,
+          "ctr": 1.77,
+          "cvr": 5.85,
+          "cpa": 46124,
+          "purchases": 180.0,
           "hook_rate": 14.6,
-          "hold_rate": 23.3
+          "hold_rate": 23.3,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -124,7 +126,9 @@
           "cpa": 59767,
           "purchases": 130.0,
           "hook_rate": 33.4,
-          "hold_rate": 46.2
+          "hold_rate": 46.2,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -201,7 +205,9 @@
           "cpa": 57176,
           "purchases": 323.0,
           "hook_rate": 30.9,
-          "hold_rate": 35.2
+          "hold_rate": 35.2,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -259,26 +265,28 @@
     {
       "key": "nb할인좀Ⅱ_AIP",
       "rank_note": "top",
-      "roas": 2.27,
-      "spend": 74934051.0,
-      "ctr": 2.77,
-      "cvr": 3.95,
-      "cpa": 56172,
-      "purchases": 1334.0,
+      "roas": 2.24,
+      "spend": 74898706.0,
+      "ctr": 2.75,
+      "cvr": 3.94,
+      "cpa": 56784,
+      "purchases": 1319.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 74934051.0,
-          "revenue": 169807300.0,
-          "roas": 2.27,
-          "ctr": 2.77,
-          "cvr": 3.95,
-          "cpa": 56172,
-          "purchases": 1334.0,
-          "hook_rate": 25.0,
-          "hold_rate": 28.1
+          "spend": 74898706.0,
+          "revenue": 167649300.0,
+          "roas": 2.24,
+          "ctr": 2.75,
+          "cvr": 3.94,
+          "cpa": 56784,
+          "purchases": 1319.0,
+          "hook_rate": 24.9,
+          "hold_rate": 28.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -355,7 +363,9 @@
           "cpa": 61924,
           "purchases": 238.0,
           "hook_rate": 31.9,
-          "hold_rate": 15.4
+          "hold_rate": 15.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -413,26 +423,28 @@
     {
       "key": "nb방씨PPL_T",
       "rank_note": "top",
-      "roas": 1.93,
-      "spend": 12751753.0,
-      "ctr": 1.9,
-      "cvr": 1.89,
-      "cpa": 64079,
-      "purchases": 199.0,
+      "roas": 1.9,
+      "spend": 13156140.0,
+      "ctr": 1.87,
+      "cvr": 1.88,
+      "cpa": 64809,
+      "purchases": 203.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 12751753.0,
-          "revenue": 24663300.0,
-          "roas": 1.93,
-          "ctr": 1.9,
-          "cvr": 1.89,
-          "cpa": 64079,
-          "purchases": 199.0,
-          "hook_rate": 38.1,
-          "hold_rate": 28.5
+          "spend": 13156140.0,
+          "revenue": 25059300.0,
+          "roas": 1.9,
+          "ctr": 1.87,
+          "cvr": 1.88,
+          "cpa": 64809,
+          "purchases": 203.0,
+          "hook_rate": 38.0,
+          "hold_rate": 28.3,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -491,25 +503,27 @@
       "key": "nb배신감들어Ⅱ_T",
       "rank_note": "top",
       "roas": 1.66,
-      "spend": 32152373.0,
+      "spend": 31800171.0,
       "ctr": 2.58,
       "cvr": 3.15,
-      "cpa": 73914,
-      "purchases": 435.0,
+      "cpa": 73954,
+      "purchases": 430.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 32152373.0,
-          "revenue": 53404400.0,
+          "spend": 31800171.0,
+          "revenue": 52763400.0,
           "roas": 1.66,
           "ctr": 2.58,
           "cvr": 3.15,
-          "cpa": 73914,
-          "purchases": 435.0,
-          "hook_rate": 40.4,
-          "hold_rate": 18.9
+          "cpa": 73954,
+          "purchases": 430.0,
+          "hook_rate": 40.5,
+          "hold_rate": 19.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -567,26 +581,28 @@
     {
       "key": "nb새빨간거짓말Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.61,
-      "spend": 27614019.0,
+      "roas": 1.62,
+      "spend": 27328642.0,
       "ctr": 3.16,
       "cvr": 2.52,
-      "cpa": 78227,
-      "purchases": 353.0,
+      "cpa": 78306,
+      "purchases": 349.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 27614019.0,
-          "revenue": 44595800.0,
-          "roas": 1.61,
+          "spend": 27328642.0,
+          "revenue": 44150800.0,
+          "roas": 1.62,
           "ctr": 3.16,
           "cvr": 2.52,
-          "cpa": 78227,
-          "purchases": 353.0,
+          "cpa": 78306,
+          "purchases": 349.0,
           "hook_rate": 37.6,
-          "hold_rate": 26.4
+          "hold_rate": 26.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -644,26 +660,28 @@
     {
       "key": "nb뷰티지도PPL_T",
       "rank_note": "top",
-      "roas": 1.59,
-      "spend": 13371992.0,
-      "ctr": 1.18,
-      "cvr": 3.99,
-      "cpa": 76411,
-      "purchases": 175.0,
+      "roas": 1.55,
+      "spend": 13760072.0,
+      "ctr": 1.17,
+      "cvr": 3.91,
+      "cpa": 78182,
+      "purchases": 176.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 13371992.0,
-          "revenue": 21260800.0,
-          "roas": 1.59,
-          "ctr": 1.18,
-          "cvr": 3.99,
-          "cpa": 76411,
-          "purchases": 175.0,
+          "spend": 13760072.0,
+          "revenue": 21349800.0,
+          "roas": 1.55,
+          "ctr": 1.17,
+          "cvr": 3.91,
+          "cpa": 78182,
+          "purchases": 176.0,
           "hook_rate": 16.0,
-          "hold_rate": 20.1
+          "hold_rate": 19.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -740,7 +758,9 @@
           "cpa": 82030,
           "purchases": 43.0,
           "hook_rate": 28.7,
-          "hold_rate": 24.4
+          "hold_rate": 24.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -799,26 +819,28 @@
     {
       "key": "nb감도안온다Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.47,
-      "spend": 25973964.0,
+      "roas": 1.48,
+      "spend": 26422627.0,
       "ctr": 1.95,
-      "cvr": 2.33,
-      "cpa": 86292,
-      "purchases": 301.0,
+      "cvr": 2.35,
+      "cpa": 85788,
+      "purchases": 308.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 25973964.0,
-          "revenue": 38286500.0,
-          "roas": 1.47,
+          "spend": 26422627.0,
+          "revenue": 39190900.0,
+          "roas": 1.48,
           "ctr": 1.95,
-          "cvr": 2.33,
-          "cpa": 86292,
-          "purchases": 301.0,
+          "cvr": 2.35,
+          "cpa": 85788,
+          "purchases": 308.0,
           "hook_rate": 15.3,
-          "hold_rate": 24.2
+          "hold_rate": 24.2,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -895,7 +917,9 @@
           "cpa": 81696,
           "purchases": 81.0,
           "hook_rate": 28.0,
-          "hold_rate": 25.0
+          "hold_rate": 25.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -953,26 +977,28 @@
     {
       "key": "nb예신계신Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.46,
-      "spend": 23349986.0,
-      "ctr": 2.56,
-      "cvr": 3.04,
-      "cpa": 83393,
-      "purchases": 280.0,
+      "roas": 1.44,
+      "spend": 22715168.0,
+      "ctr": 2.48,
+      "cvr": 3.15,
+      "cpa": 83820,
+      "purchases": 271.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 23349986.0,
-          "revenue": 34008407.0,
-          "roas": 1.46,
-          "ctr": 2.56,
-          "cvr": 3.04,
-          "cpa": 83393,
-          "purchases": 280.0,
-          "hook_rate": 28.0,
-          "hold_rate": 23.1
+          "spend": 22715168.0,
+          "revenue": 32823407.0,
+          "roas": 1.44,
+          "ctr": 2.48,
+          "cvr": 3.15,
+          "cpa": 83820,
+          "purchases": 271.0,
+          "hook_rate": 27.7,
+          "hold_rate": 22.2,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1030,26 +1056,28 @@
     {
       "key": "nb연아트핏PPL_T",
       "rank_note": "bottom",
-      "roas": 1.44,
-      "spend": 4437506.0,
+      "roas": 1.43,
+      "spend": 4673922.0,
       "ctr": 2.4,
-      "cvr": 1.94,
-      "cpa": 83727,
-      "purchases": 53.0,
+      "cvr": 1.91,
+      "cpa": 83463,
+      "purchases": 56.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 4437506.0,
-          "revenue": 6390000.0,
-          "roas": 1.44,
+          "spend": 4673922.0,
+          "revenue": 6684400.0,
+          "roas": 1.43,
           "ctr": 2.4,
-          "cvr": 1.94,
-          "cpa": 83727,
-          "purchases": 53.0,
-          "hook_rate": 40.9,
-          "hold_rate": 17.6
+          "cvr": 1.91,
+          "cpa": 83463,
+          "purchases": 56.0,
+          "hook_rate": 40.8,
+          "hold_rate": 17.5,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1126,7 +1154,9 @@
           "cpa": 93604,
           "purchases": 35.0,
           "hook_rate": 32.1,
-          "hold_rate": 22.0
+          "hold_rate": 22.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1204,7 +1234,9 @@
           "cpa": 87347,
           "purchases": 69.0,
           "hook_rate": 52.5,
-          "hold_rate": 9.3
+          "hold_rate": 9.3,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1281,7 +1313,9 @@
           "cpa": 100510,
           "purchases": 52.0,
           "hook_rate": 26.5,
-          "hold_rate": 22.7
+          "hold_rate": 22.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1358,7 +1392,9 @@
           "cpa": 296671,
           "purchases": 4.0,
           "hook_rate": 39.0,
-          "hold_rate": 36.0
+          "hold_rate": 36.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1437,7 +1473,9 @@
           "cpa": 201462,
           "purchases": 4.0,
           "hook_rate": 42.5,
-          "hold_rate": 46.3
+          "hold_rate": 46.3,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1515,7 +1553,9 @@
           "cpa": 250904,
           "purchases": 6.0,
           "hook_rate": 62.3,
-          "hold_rate": 67.7
+          "hold_rate": 67.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1593,7 +1633,9 @@
           "cpa": 215728,
           "purchases": 10.0,
           "hook_rate": 31.3,
-          "hold_rate": 45.9
+          "hold_rate": 45.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1671,7 +1713,9 @@
           "cpa": 246703,
           "purchases": 11.0,
           "hook_rate": 34.6,
-          "hold_rate": 25.0
+          "hold_rate": 25.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1728,26 +1772,28 @@
     {
       "key": "nb대폭조정Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 0.37,
-      "spend": 1160696.0,
-      "ctr": 3.14,
-      "cvr": 0.63,
-      "cpa": 290174,
-      "purchases": 4.0,
+      "roas": 0.42,
+      "spend": 1428725.0,
+      "ctr": 3.03,
+      "cvr": 0.82,
+      "cpa": 238121,
+      "purchases": 6.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1160696.0,
-          "revenue": 426000.0,
-          "roas": 0.37,
-          "ctr": 3.14,
-          "cvr": 0.63,
-          "cpa": 290174,
-          "purchases": 4.0,
-          "hook_rate": 45.6,
-          "hold_rate": 55.2
+          "spend": 1428725.0,
+          "revenue": 604000.0,
+          "roas": 0.42,
+          "ctr": 3.03,
+          "cvr": 0.82,
+          "cpa": 238121,
+          "purchases": 6.0,
+          "hook_rate": 46.3,
+          "hold_rate": 54.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1825,7 +1871,9 @@
           "cpa": 378073,
           "purchases": 2.0,
           "hook_rate": 39.2,
-          "hold_rate": 30.6
+          "hold_rate": 30.6,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1902,7 +1950,9 @@
           "cpa": 450588,
           "purchases": 2.0,
           "hook_rate": 23.4,
-          "hold_rate": 36.0
+          "hold_rate": 36.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [

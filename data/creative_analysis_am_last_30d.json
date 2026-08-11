@@ -2,7 +2,7 @@
   "code": "am",
   "product": "아치핀 맥스",
   "range": "last_30d",
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "criteria": "유의미 지출(1,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -48,7 +48,9 @@
           "cpa": 17915,
           "purchases": 31.0,
           "hook_rate": 21.6,
-          "hold_rate": 17.1
+          "hold_rate": 17.1,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -107,38 +109,42 @@
     {
       "key": "am세심Ⅹ_T",
       "rank_note": "top",
-      "roas": 2.56,
-      "spend": 1528133.0,
-      "ctr": 1.88,
-      "cvr": 4.02,
-      "cpa": 20650,
-      "purchases": 74.0,
+      "roas": 2.59,
+      "spend": 1294256.0,
+      "ctr": 1.14,
+      "cvr": 7.56,
+      "cpa": 20544,
+      "purchases": 63.0,
       "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 54226.0,
-          "revenue": 79766.0,
-          "roas": 1.47,
-          "ctr": 14.34,
-          "cvr": 0.1,
-          "cpa": 54226,
-          "purchases": 1.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 8131.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 11.07,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 72.0,
+          "hold_rate": 98.6,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 1473907.0,
-          "revenue": 3835200.0,
-          "roas": 2.6,
-          "ctr": 0.89,
-          "cvr": 9.1,
-          "cpa": 20191,
-          "purchases": 73.0,
-          "hook_rate": 21.2,
-          "hold_rate": 22.6
+          "spend": 1286125.0,
+          "revenue": 3353800.0,
+          "roas": 2.61,
+          "ctr": 0.94,
+          "cvr": 9.38,
+          "cpa": 20415,
+          "purchases": 63.0,
+          "hook_rate": 20.7,
+          "hold_rate": 23.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -215,8 +221,10 @@
           "cvr": 0.74,
           "cpa": 7679,
           "purchases": 17.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 33.8,
+          "hold_rate": 64.0,
+          "play50": null,
+          "completion": null
         },
         "meta": {
           "spend": 1306736.0,
@@ -227,7 +235,9 @@
           "cpa": 27224,
           "purchases": 48.0,
           "hook_rate": 41.6,
-          "hold_rate": 48.6
+          "hold_rate": 48.6,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -285,12 +295,12 @@
     {
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
-      "roas": 2.01,
-      "spend": 37417247.0,
+      "roas": 2.0,
+      "spend": 36969490.0,
       "ctr": 1.28,
-      "cvr": 6.39,
-      "cpa": 25146,
-      "purchases": 1488.0,
+      "cvr": 6.25,
+      "cpa": 25115,
+      "purchases": 1472.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -304,19 +314,23 @@
           "cvr": 0.0,
           "cpa": null,
           "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 89.7,
+          "hold_rate": 88.0,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 37368127.0,
-          "revenue": 75124976.0,
+          "spend": 36920370.0,
+          "revenue": 74041076.0,
           "roas": 2.01,
           "ctr": 1.22,
-          "cvr": 6.7,
-          "cpa": 25113,
-          "purchases": 1488.0,
-          "hook_rate": 26.6,
-          "hold_rate": 41.6
+          "cvr": 6.56,
+          "cpa": 25082,
+          "purchases": 1472.0,
+          "hook_rate": 26.7,
+          "hold_rate": 42.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -374,26 +388,28 @@
     {
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
-      "roas": 1.98,
-      "spend": 9007991.0,
+      "roas": 1.96,
+      "spend": 8982941.0,
       "ctr": 1.13,
-      "cvr": 5.57,
-      "cpa": 22690,
-      "purchases": 397.0,
+      "cvr": 5.61,
+      "cpa": 22799,
+      "purchases": 394.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 9007991.0,
-          "revenue": 17842900.0,
-          "roas": 1.98,
+          "spend": 8982941.0,
+          "revenue": 17623300.0,
+          "roas": 1.96,
           "ctr": 1.13,
-          "cvr": 5.57,
-          "cpa": 22690,
-          "purchases": 397.0,
-          "hook_rate": 16.6,
-          "hold_rate": 19.8
+          "cvr": 5.61,
+          "cpa": 22799,
+          "purchases": 394.0,
+          "hook_rate": 16.7,
+          "hold_rate": 19.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -467,8 +483,10 @@
           "cvr": 0.09,
           "cpa": 45534,
           "purchases": 31.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 76.7,
+          "hold_rate": 90.7,
+          "play50": null,
+          "completion": null
         },
         "meta": {
           "spend": 1010109.0,
@@ -479,7 +497,9 @@
           "cpa": 27300,
           "purchases": 37.0,
           "hook_rate": 34.2,
-          "hold_rate": 70.3
+          "hold_rate": 70.3,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -532,26 +552,28 @@
     {
       "key": "am엉덩이조여Ⅰ_T",
       "rank_note": "top",
-      "roas": 1.52,
-      "spend": 14394420.0,
-      "ctr": 1.76,
-      "cvr": 7.0,
-      "cpa": 30051,
-      "purchases": 479.0,
+      "roas": 1.54,
+      "spend": 13504936.0,
+      "ctr": 1.78,
+      "cvr": 6.99,
+      "cpa": 29878,
+      "purchases": 452.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 14394420.0,
-          "revenue": 21909005.0,
-          "roas": 1.52,
-          "ctr": 1.76,
-          "cvr": 7.0,
-          "cpa": 30051,
-          "purchases": 479.0,
-          "hook_rate": 29.7,
-          "hold_rate": 19.7
+          "spend": 13504936.0,
+          "revenue": 20733505.0,
+          "roas": 1.54,
+          "ctr": 1.78,
+          "cvr": 6.99,
+          "cpa": 29878,
+          "purchases": 452.0,
+          "hook_rate": 29.8,
+          "hold_rate": 20.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -609,12 +631,12 @@
     {
       "key": "am안되겠냐Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 1.38,
-      "spend": 2394799.0,
-      "ctr": 15.16,
+      "roas": 1.42,
+      "spend": 2298605.0,
+      "ctr": 15.34,
       "cvr": 0.3,
-      "cpa": 33261,
-      "purchases": 72.0,
+      "cpa": 32375,
+      "purchases": 71.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -628,19 +650,23 @@
           "cvr": 0.11,
           "cpa": 35705,
           "purchases": 25.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 78.6,
+          "hold_rate": 89.5,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 1502184.0,
-          "revenue": 2056100.0,
-          "roas": 1.37,
-          "ctr": 2.05,
-          "cvr": 4.06,
-          "cpa": 31961,
-          "purchases": 47.0,
-          "hook_rate": 30.8,
-          "hold_rate": 27.4
+          "spend": 1405990.0,
+          "revenue": 2018700.0,
+          "roas": 1.44,
+          "ctr": 2.03,
+          "cvr": 4.17,
+          "cpa": 30565,
+          "purchases": 46.0,
+          "hook_rate": 30.6,
+          "hold_rate": 26.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -696,180 +722,14 @@
       "why": "훅 반복(조여짐 변형) → 소재 피로."
     },
     {
-      "key": "am극찬이다Ⅵ_T",
-      "rank_note": "top",
-      "roas": 1.22,
-      "spend": 515611.0,
-      "ctr": 1.95,
-      "cvr": 7.69,
-      "cpa": 36829,
-      "purchases": 14.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 515611.0,
-          "revenue": 628600.0,
-          "roas": 1.22,
-          "ctr": 1.95,
-          "cvr": 7.69,
-          "cpa": 36829,
-          "purchases": 14.0,
-          "hook_rate": 42.4,
-          "hold_rate": 21.4
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.9s.jpg",
-        "f05_13.7s.jpg",
-        "f06_20.6s.jpg",
-        "f07_27.5s.jpg",
-        "f08_34.4s.jpg",
-        "f09_41.2s.jpg"
-      ],
-      "transcript": "애플 힙 간절한 사람만 써보라는 그 깔창? 신제품 아치 핀 맥스가 엉덩이 뽕긋하게 만들어준다고 극찬받고 있는 이유 님들 이렇게 빨리 엉덩 모양 바뀌는 거 본 적 있음? 이건 그냥 깔창이 아니라 작정하고 스펙 갈아업고 출시된 아치 핀 맥스임 사람들이 진짜 놀라는 이유는 따로 있는데 바로 골반 교정에서 오는 엉덩이 변화임 골반 틀어지면 걸을 때 엉덩이 근육이 제대로 안 쓰이면서 한쪽만 처지고 납작하게 퍼져버리거든 아치 핀 맥스는 달라 포획시스 기술로 아치를 11% 끌어올려 발부터 골반까지 중력선을 통째로 바로 잡으면? 걸을 때마다 엉덩이 근육이 자동으로 활성화되면서 처진 힙은 올라 붙고 퍼진 골반은 좌우로 넓어져 이건 그냥 공장형 제품들하고는 해센부터 다른데 아치 핀 따라한 유사품들이 쏟아질 때 대표가 직접 각성해서 만든 찬교육 깔창이라 항공기 부품용 TPU 소재까지 박아 넣어서 탄성이랑 수명이 차원이 다름 신으면 걸을 때마다 힙업 운동하는 셈 현존 아치 패드 중 엉덩이 라인까지 바꿔준다는 반응 제일 많은",
-      "analyzed": true,
-      "base": {
-        "hook_type": "애플힙 소구형",
-        "first_3s": "'애플 힙 간절한 사람만 써보라는 그 깔창'",
-        "appeal_angle": "엉덩이·골반(힙업)",
-        "cta": "",
-        "keywords": [
-          "애플 힙",
-          "엉덩이 뽕긋",
-          "골반 교정",
-          "한쪽 처짐"
-        ]
-      },
-      "audio": {
-        "opening_line": "애플 힙 간절한 사람만 써보라는 그 깔창?",
-        "voice_style": "도발 반말",
-        "narration_mode": "1인칭 권유"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "골반 교정→엉덩이 근육",
-        "before_after": "엉덩 모양 변화",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "힙업·골반",
-        "appeal_axis": "미용(힙)"
-      },
-      "trust": {
-        "evidence": "골반 교정 원리",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "'애플힙'이라는 강한 미용 욕망 훅 + 골반교정 논리. 엉덩이 라인이라는 젊은 여성 욕망을 정조준한 소재.",
-      "why": "강한 미용 욕망(애플힙) 훅 + 교정 논리."
-    },
-    {
-      "key": "am이소라붓기유명Ⅰ_T",
-      "rank_note": "bottom",
-      "roas": 1.14,
-      "spend": 599444.0,
-      "ctr": 2.57,
-      "cvr": 3.35,
-      "cpa": 39963,
-      "purchases": 15.0,
-      "platforms": [
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 3362.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 10.54,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null
-        },
-        "meta": {
-          "spend": 596082.0,
-          "revenue": 685500.0,
-          "roas": 1.15,
-          "ctr": 2.43,
-          "cvr": 3.6,
-          "cpa": 39739,
-          "purchases": 15.0,
-          "hook_rate": 38.2,
-          "hold_rate": 21.5
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_9.5s.jpg",
-        "f05_19.0s.jpg",
-        "f06_28.6s.jpg",
-        "f07_38.1s.jpg",
-        "f08_47.6s.jpg",
-        "f09_57.1s.jpg"
-      ],
-      "transcript": "너무 유명하죠? 너무 유명한데 제가 얼마 전에 알아서 참 억울한 기분이 들더라고요 조금만 더 일찍 알았다면 자세가 잘못돼서 아치를 바로 잡지 못해서 체중이 안쪽이나 바깥쪽으로 쏠리게 되면 몸의 균형도 무너질 거 아니에요? 그죠? 자세가 삐뚤어지니까 아치 핀 맥스는 아치를 정확하게 딱 지지를 해줘서 체중을 중앙으로 모여주는 역할을 하는 거예요 그러니까 우리가 종아리나 특정 부위에 가해졌던 불필요한 근육 긴장들이 풀리면서 부기 완화에 도움을 줄 수 있다는 거죠 마사지 되는 느낌 걸을수록 이게 내 발에 탁탁탁 맞춰지는 구조라고 해야 되나요? 소재가 좋잖아요 탄성이 좋으니까 마사지 효과가 있어요 확실히 부담이 줄어드니까 진짜로 다리가 가벼워진 느낌이에요 진짜 그러니까 부기 완화에도 도움을 줄 수 있는 거 같아요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "셀럽 자책후기형",
-        "first_3s": "이소라, '너무 유명한데 늦게 알아 억울'",
-        "appeal_angle": "자세·붓기",
-        "cta": "",
-        "keywords": [
-          "이소라",
-          "자세 삐뚤",
-          "아치 지지",
-          "체중 중앙"
-        ]
-      },
-      "audio": {
-        "opening_line": "너무 유명하죠? 근데 제가 얼마 전에 알아서 참 억울한 기분이",
-        "voice_style": "셀럽 후기",
-        "narration_mode": "셀럽 1인칭"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "아치 지지·체중 정렬",
-        "before_after": "–",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "혼성",
-        "age": "30·40대",
-        "segment": "자세·붓기",
-        "appeal_axis": "기능(자세)"
-      },
-      "trust": {
-        "evidence": "이소라",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "셀럽이라도 '자세·아치 지지'라는 소구가 추상적이고 66초로 늘어져 1.15로 저조.",
-      "why": "추상 소구(자세) + 긴 호흡. 셀럽 효과 상쇄."
-    },
-    {
       "key": "am이소라자세교정Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.1,
+      "roas": 1.14,
       "spend": 1746089.0,
       "ctr": 18.07,
-      "cvr": 0.3,
-      "cpa": 41574,
-      "purchases": 42.0,
+      "cvr": 0.31,
+      "cpa": 40607,
+      "purchases": 43.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -877,14 +737,16 @@
       "platform_metrics": {
         "tiktok": {
           "spend": 338039.0,
-          "revenue": 98031.0,
-          "roas": 0.29,
+          "revenue": 175780.0,
+          "roas": 0.52,
           "ctr": 29.29,
           "cvr": 0.02,
-          "cpa": 169020,
-          "purchases": 2.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "cpa": 112680,
+          "purchases": 3.0,
+          "hook_rate": 60.6,
+          "hold_rate": 93.5,
+          "play50": null,
+          "completion": null
         },
         "meta": {
           "spend": 1408050.0,
@@ -895,7 +757,9 @@
           "cpa": 35201,
           "purchases": 40.0,
           "hook_rate": 26.9,
-          "hold_rate": 24.1
+          "hold_rate": 24.1,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -951,6 +815,99 @@
       "why": "셀럽이나 잔잔한 훅 + 약한 즉각 욕망."
     },
     {
+      "key": "am이소라붓기유명Ⅰ_T",
+      "rank_note": "bottom",
+      "roas": 1.14,
+      "spend": 599444.0,
+      "ctr": 2.57,
+      "cvr": 3.35,
+      "cpa": 39963,
+      "purchases": 15.0,
+      "platforms": [
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 3362.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 10.54,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 77.2,
+          "hold_rate": 74.9,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 596082.0,
+          "revenue": 685500.0,
+          "roas": 1.15,
+          "ctr": 2.43,
+          "cvr": 3.6,
+          "cpa": 39739,
+          "purchases": 15.0,
+          "hook_rate": 38.2,
+          "hold_rate": 21.5,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_9.5s.jpg",
+        "f05_19.0s.jpg",
+        "f06_28.6s.jpg",
+        "f07_38.1s.jpg",
+        "f08_47.6s.jpg",
+        "f09_57.1s.jpg"
+      ],
+      "transcript": "너무 유명하죠? 너무 유명한데 제가 얼마 전에 알아서 참 억울한 기분이 들더라고요 조금만 더 일찍 알았다면 자세가 잘못돼서 아치를 바로 잡지 못해서 체중이 안쪽이나 바깥쪽으로 쏠리게 되면 몸의 균형도 무너질 거 아니에요? 그죠? 자세가 삐뚤어지니까 아치 핀 맥스는 아치를 정확하게 딱 지지를 해줘서 체중을 중앙으로 모여주는 역할을 하는 거예요 그러니까 우리가 종아리나 특정 부위에 가해졌던 불필요한 근육 긴장들이 풀리면서 부기 완화에 도움을 줄 수 있다는 거죠 마사지 되는 느낌 걸을수록 이게 내 발에 탁탁탁 맞춰지는 구조라고 해야 되나요? 소재가 좋잖아요 탄성이 좋으니까 마사지 효과가 있어요 확실히 부담이 줄어드니까 진짜로 다리가 가벼워진 느낌이에요 진짜 그러니까 부기 완화에도 도움을 줄 수 있는 거 같아요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "셀럽 자책후기형",
+        "first_3s": "이소라, '너무 유명한데 늦게 알아 억울'",
+        "appeal_angle": "자세·붓기",
+        "cta": "",
+        "keywords": [
+          "이소라",
+          "자세 삐뚤",
+          "아치 지지",
+          "체중 중앙"
+        ]
+      },
+      "audio": {
+        "opening_line": "너무 유명하죠? 근데 제가 얼마 전에 알아서 참 억울한 기분이",
+        "voice_style": "셀럽 후기",
+        "narration_mode": "셀럽 1인칭"
+      },
+      "visual": {
+        "format": "실사",
+        "mechanism_viz": "아치 지지·체중 정렬",
+        "before_after": "–",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "혼성",
+        "age": "30·40대",
+        "segment": "자세·붓기",
+        "appeal_axis": "기능(자세)"
+      },
+      "trust": {
+        "evidence": "이소라",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "셀럽이라도 '자세·아치 지지'라는 소구가 추상적이고 66초로 늘어져 1.15로 저조.",
+      "why": "추상 소구(자세) + 긴 호흡. 셀럽 효과 상쇄."
+    },
+    {
       "key": "am안되겠냐고Ⅱ_T",
       "rank_note": "bottom",
       "roas": 1.07,
@@ -972,7 +929,9 @@
           "cpa": 46229,
           "purchases": 25.0,
           "hook_rate": 55.2,
-          "hold_rate": 63.5
+          "hold_rate": 63.5,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1049,8 +1008,10 @@
           "cvr": 0.0,
           "cpa": null,
           "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 50.5,
+          "hold_rate": 77.0,
+          "play50": null,
+          "completion": null
         },
         "meta": {
           "spend": 1052243.0,
@@ -1061,7 +1022,9 @@
           "cpa": 47829,
           "purchases": 22.0,
           "hook_rate": 40.1,
-          "hold_rate": 44.8
+          "hold_rate": 44.8,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1138,7 +1101,9 @@
           "cpa": 58856,
           "purchases": 10.0,
           "hook_rate": 40.1,
-          "hold_rate": 22.7
+          "hold_rate": 22.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1214,7 +1179,9 @@
           "cpa": 63949,
           "purchases": 8.0,
           "hook_rate": 53.3,
-          "hold_rate": 57.6
+          "hold_rate": 57.6,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1272,12 +1239,12 @@
     {
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 0.52,
-      "spend": 4025487.0,
-      "ctr": 3.49,
-      "cvr": 0.14,
-      "cpa": 103218,
-      "purchases": 39.0,
+      "roas": 0.49,
+      "spend": 4336365.0,
+      "ctr": 3.48,
+      "cvr": 0.13,
+      "cpa": 108409,
+      "purchases": 40.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -1291,19 +1258,23 @@
           "cvr": 0.0,
           "cpa": null,
           "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 100.0,
+          "hold_rate": 100.0,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 4025447.0,
-          "revenue": 2089200.0,
-          "roas": 0.52,
-          "ctr": 3.49,
-          "cvr": 0.14,
-          "cpa": 103217,
-          "purchases": 39.0,
-          "hook_rate": 78.4,
-          "hold_rate": 55.2
+          "spend": 4336325.0,
+          "revenue": 2138100.0,
+          "roas": 0.49,
+          "ctr": 3.48,
+          "cvr": 0.13,
+          "cpa": 108408,
+          "purchases": 40.0,
+          "hook_rate": 78.6,
+          "hold_rate": 54.8,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1381,7 +1352,9 @@
           "cpa": 97127,
           "purchases": 6.0,
           "hook_rate": 53.6,
-          "hold_rate": 62.5
+          "hold_rate": 62.5,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [

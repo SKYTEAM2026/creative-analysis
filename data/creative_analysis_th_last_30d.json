@@ -2,7 +2,7 @@
   "code": "th",
   "product": "써마드",
   "range": "last_30d",
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "criteria": "유의미 지출(3,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -31,27 +31,29 @@
     {
       "key": "th북한산타Ⅵ_T",
       "rank_note": "top",
-      "roas": 5.94,
-      "spend": 6934408.0,
+      "roas": 6.04,
+      "spend": 6906885.0,
       "ctr": 0.95,
-      "cvr": 4.81,
-      "cpa": 25850,
-      "purchases": 268.255102,
+      "cvr": 4.87,
+      "cpa": 25378,
+      "purchases": 272.165696,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 6934408.0,
-          "revenue": 41187805.0,
-          "roas": 5.94,
+          "spend": 6906885.0,
+          "revenue": 41722736.0,
+          "roas": 6.04,
           "ctr": 0.95,
-          "cvr": 4.81,
-          "cpa": 25850,
-          "purchases": 268.255102,
+          "cvr": 4.87,
+          "cpa": 25378,
+          "purchases": 272.165696,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 6.1,
+          "completion": 3.9
         },
         "meta": {
           "spend": 0.0,
@@ -62,7 +64,9 @@
           "cpa": null,
           "purchases": 0.0,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -120,12 +124,12 @@
     {
       "key": "th스르르Ⅵ_AN",
       "rank_note": "top",
-      "roas": 5.67,
-      "spend": 20778758.0,
-      "ctr": 0.87,
-      "cvr": 2.21,
-      "cpa": 26706,
-      "purchases": 778.061004,
+      "roas": 5.58,
+      "spend": 22180341.0,
+      "ctr": 0.86,
+      "cvr": 2.19,
+      "cpa": 27096,
+      "purchases": 818.591871,
       "platforms": [
         "google",
         "meta",
@@ -133,15 +137,17 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 18105565.0,
-          "revenue": 112948387.0,
+          "spend": 18896432.0,
+          "revenue": 117944566.0,
           "roas": 6.24,
-          "ctr": 0.81,
-          "cvr": 2.36,
-          "cpa": 24268,
-          "purchases": 746.061004,
+          "ctr": 0.8,
+          "cvr": 2.34,
+          "cpa": 24208,
+          "purchases": 780.591871,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 4.7,
+          "completion": 3.0
         },
         "tiktok": {
           "spend": 820376.0,
@@ -151,19 +157,23 @@
           "cvr": 0.61,
           "cpa": 58598,
           "purchases": 14.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 42.3,
+          "hold_rate": 65.8,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 1852817.0,
-          "revenue": 2701000.0,
-          "roas": 1.46,
-          "ctr": 1.79,
-          "cvr": 1.34,
-          "cpa": 102934,
-          "purchases": 18.0,
-          "hook_rate": 35.7,
-          "hold_rate": 20.2
+          "spend": 2463533.0,
+          "revenue": 3733000.0,
+          "roas": 1.52,
+          "ctr": 1.73,
+          "cvr": 1.37,
+          "cpa": 102647,
+          "purchases": 24.0,
+          "hook_rate": 35.6,
+          "hold_rate": 20.2,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -219,29 +229,125 @@
       "why": "독특한 노래 후킹 + 공감가는 일상 상황 + 공포·간편 3박자. 96초 롱폼인데도 초반 훅이 강해 이탈이 적음."
     },
     {
-      "key": "th우주뱅사Ⅵ_AI",
+      "key": "th생기던데Ⅵ_T",
       "rank_note": "top",
-      "roas": 5.11,
-      "spend": 11418674.0,
-      "ctr": 1.29,
-      "cvr": 2.46,
-      "cpa": 30075,
-      "purchases": 379.677599,
+      "roas": 4.78,
+      "spend": 9125295.0,
+      "ctr": 1.05,
+      "cvr": 2.43,
+      "cpa": 31532,
+      "purchases": 289.400395,
       "platforms": [
-        "google",
-        "meta"
+        "google"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 8600619.0,
-          "revenue": 53039240.0,
+          "spend": 9125295.0,
+          "revenue": 43628856.0,
+          "roas": 4.78,
+          "ctr": 1.05,
+          "cvr": 2.43,
+          "cpa": 31532,
+          "purchases": 289.400395,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 7.8,
+          "completion": 4.0
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_5.9s.jpg",
+        "f05_11.9s.jpg",
+        "f06_17.8s.jpg",
+        "f07_23.7s.jpg",
+        "f08_29.7s.jpg",
+        "f09_35.6s.jpg"
+      ],
+      "transcript": "전 세계 헬스업계가 한국 기업에 발표해 발칵 뒤집혔습니다. 가만히 앉아 발만 밟아도 근력이 채워지는 신부 근섬유 자동 재건 유럽 러시아가 수천억을 쏟아 강한 EMS를 만들었지만 겉근육만 자극할 뿐 다들 실패했죠. 세상에 편한 드끈은 없다고 포기할 때 한국은 완전히 다른 해답을 냅니다. 죽어가는 속근육을 강제로 타격하자 나사 우주비행사 재활기술을 응용 피부 7mm 아래 속근육까지 빈틈없이 타고 드는 4세대 엑스텐스 10.0 기술을 탑재해버린 겁니다. 초당 1200회씩 죽은 근섬유를 두들겨 깨우니 무거운 쇳덩이를 들지 않아도 2주만에 금밀도가 170% 폭발하는 거죠. 전 세계가 불가능하다며 고개를 저을 때에 직년 가시다리에 확신의 근육을 채워넣은 한국의 썸아드 의미 없이 헬스장에 돈 버릴 시간에 이 천재적인 발명품부터 당장 밟아보세요.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "국가 대결·자부심형",
+        "first_3s": "텅 빈 헬스장 덤벨랙 위로 '외국: 가만히 앉아서 근육이 생길리가.. / 한국: 생기던데?' 대비 자막",
+        "appeal_angle": "유럽·러시아가 실패한 걸 한국이 해냈다는 기술 자부심 서사",
+        "cta": "헬스장에 돈 버릴 시간에 당장 밟아보세요",
+        "keywords": [
+          "전 세계 헬스업계",
+          "NASA 재활기술",
+          "7mm",
+          "초당 1200회",
+          "근밀도 170%"
+        ]
+      },
+      "audio": {
+        "opening_line": "전 세계 헬스업계가 한국 기업 발표에 발칵 뒤집혔습니다",
+        "voice_style": "뉴스 브리핑 톤",
+        "narration_mode": "3인칭 다큐 해설"
+      },
+      "visual": {
+        "format": "실사 B롤 + 자막 편집",
+        "mechanism_viz": "속근육 침투 깊이(7mm)·근섬유 타격 그래픽",
+        "before_after": "없음(기술 서사 중심)",
+        "subtitle_style": "검은 띠 + 노란 강조 대비 자막"
+      },
+      "target": {
+        "gender": "남성·여성 동시",
+        "age": "40·50대",
+        "segment": "운동해도 근육 안 붙는다고 느끼는 층",
+        "appeal_axis": "기능(근력) + 기술 자부심"
+      },
+      "trust": {
+        "evidence": "NASA 우주비행사 재활기술 응용·근밀도 170%·엑스텐스 10.0",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ 'NASA 기술 응용', '2주 만에 근밀도 170% 폭발' 등 출처·근거 표기 필요한 수치"
+      },
+      "one_liner": "'외국은 못 했는데 한국은 했다'는 대비 한 줄로 제품을 국가 기술 성취로 격상시킨다. 지출 313만을 태우고도 ROAS 4.68로 써마드 대기군 최고 효율.",
+      "why": "가격·할인을 한 번도 말하지 않고 기술 우위만으로 설득 — 방어심리를 자극하지 않아 40·50대 남성층까지 넓게 먹힘."
+    },
+    {
+      "key": "th우주뱅사Ⅵ_AI",
+      "rank_note": "top",
+      "roas": 4.67,
+      "spend": 13134243.0,
+      "ctr": 1.85,
+      "cvr": 1.46,
+      "cpa": 32618,
+      "purchases": 402.670688,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 8600615.0,
+          "revenue": 53043456.0,
           "roas": 6.17,
           "ctr": 1.17,
           "cvr": 2.64,
           "cpa": 24809,
-          "purchases": 346.677599,
+          "purchases": 346.670688,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 18.2,
+          "completion": 5.7
+        },
+        "tiktok": {
+          "spend": 1715573.0,
+          "revenue": 2967941.0,
+          "roas": 1.73,
+          "ctr": 4.05,
+          "cvr": 0.19,
+          "cpa": 74590,
+          "purchases": 23.0,
+          "hook_rate": 59.0,
+          "hold_rate": 72.3,
+          "play50": null,
+          "completion": null
         },
         "meta": {
           "spend": 2818055.0,
@@ -252,7 +358,9 @@
           "cpa": 85396,
           "purchases": 33.0,
           "hook_rate": 48.6,
-          "hold_rate": 50.6
+          "hold_rate": 50.6,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -310,27 +418,43 @@
     {
       "key": "th확실해요Ⅵ_T",
       "rank_note": "top",
-      "roas": 4.79,
-      "spend": 11390576.0,
-      "ctr": 0.82,
-      "cvr": 2.45,
-      "cpa": 32271,
-      "purchases": 352.968354,
+      "roas": 4.38,
+      "spend": 14053572.0,
+      "ctr": 2.93,
+      "cvr": 0.58,
+      "cpa": 35335,
+      "purchases": 397.725943,
       "platforms": [
         "google",
-        "meta"
+        "meta",
+        "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 11213201.0,
-          "revenue": 54387301.0,
-          "roas": 4.85,
+          "spend": 11213039.0,
+          "revenue": 54491152.0,
+          "roas": 4.86,
           "ctr": 0.82,
           "cvr": 2.46,
-          "cpa": 31859,
-          "purchases": 351.968354,
+          "cpa": 31790,
+          "purchases": 352.725943,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 5.2,
+          "completion": 3.0
+        },
+        "tiktok": {
+          "spend": 2663158.0,
+          "revenue": 6924211.0,
+          "roas": 2.6,
+          "ctr": 9.3,
+          "cvr": 0.08,
+          "cpa": 60526,
+          "purchases": 44.0,
+          "hook_rate": 66.4,
+          "hold_rate": 82.1,
+          "play50": null,
+          "completion": null
         },
         "meta": {
           "spend": 177375.0,
@@ -341,7 +465,9 @@
           "cpa": 177375,
           "purchases": 1.0,
           "hook_rate": 30.4,
-          "hold_rate": 45.9
+          "hold_rate": 45.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -399,38 +525,42 @@
     {
       "key": "th사라진Ⅵ_T",
       "rank_note": "top",
-      "roas": 4.23,
-      "spend": 11282574.0,
-      "ctr": 1.37,
-      "cvr": 1.07,
-      "cpa": 35214,
-      "purchases": 320.39759100000003,
+      "roas": 4.2,
+      "spend": 10667801.0,
+      "ctr": 1.42,
+      "cvr": 1.01,
+      "cpa": 35413,
+      "purchases": 301.24041,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 7186918.0,
-          "revenue": 37364074.0,
-          "roas": 5.2,
-          "ctr": 0.62,
-          "cvr": 2.22,
-          "cpa": 28702,
-          "purchases": 250.397591,
+          "spend": 6685641.0,
+          "revenue": 35059991.0,
+          "roas": 5.24,
+          "ctr": 0.61,
+          "cvr": 2.2,
+          "cpa": 28420,
+          "purchases": 235.24041,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 7.0,
+          "completion": 4.8
         },
         "tiktok": {
-          "spend": 4095656.0,
-          "revenue": 10321053.0,
-          "roas": 2.52,
-          "ctr": 5.07,
-          "cvr": 0.37,
-          "cpa": 58509,
-          "purchases": 70.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 3982160.0,
+          "revenue": 9756292.0,
+          "roas": 2.45,
+          "ctr": 5.31,
+          "cvr": 0.35,
+          "cpa": 60336,
+          "purchases": 66.0,
+          "hook_rate": 44.2,
+          "hold_rate": 67.5,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -486,105 +616,124 @@
       "why": "타겟이 이미 건강에 돈·시간 쓰는 능동층 → 전환 쉬움. 훅이 감정(안타까움)을 건드림."
     },
     {
-      "key": "th단종될Ⅰ_T",
+      "key": "th안되지않Ⅵ_T",
       "rank_note": "top",
-      "roas": 4.19,
-      "spend": 26054405.0,
-      "ctr": 0.65,
-      "cvr": 3.21,
-      "cpa": 36266,
-      "purchases": 718.432404,
-      "platforms": [
-        "google"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 26054405.0,
-          "revenue": 109165040.0,
-          "roas": 4.19,
-          "ctr": 0.65,
-          "cvr": 3.21,
-          "cpa": 36266,
-          "purchases": 718.432404,
-          "hook_rate": null,
-          "hold_rate": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_9.3s.jpg",
-        "f05_18.6s.jpg",
-        "f06_27.9s.jpg",
-        "f07_37.2s.jpg",
-        "f08_46.5s.jpg",
-        "f09_55.8s.jpg"
-      ],
-      "transcript": "썸하드 단종될 수 있다는 얘기 농담인 줄 알았는데 진짜네요 그냥 집에서 15분 밟기만 했는데 2주 만에 다리 라인이 모델처럼 변해서 진짜 지흡 대체 가능하겠다 싶었거든요 이게 단순 붓기 제거 수준이 아니라 발바닥 60개 혈자리를 동시에 자극해서 종아리 허벅지까지 쭉 전류가 타고 올라가니까 다리 안에 정체돼 있던 묵은 지방 노폐물 찌꺼기까지 같이 풀어버려서 일주일만 밟아도 허벅지 안쪽이 얄상해지고 울퉁불퉁한 셀룰라이트까지 녹여버리거든요 근데 최근에 갑자기 국내 판매 중지될 수 있단 말이 돌길래 처음엔 또 마케팅인가 했죠 근데 알고 보니까 강남 쪽 에스테틱에서 단체로 예약이 줄면서 문제 제기를 했더라고요 생각해보면 이유가 있어요 썸하드에 들어간 국내 유일 엑스텐즈 10.0 기술은 1200hz 초정밀 주파수가 일반 마사지기보다 12배 강하게 하체 순환을 287%까지 끌어올려주고 심지어 허벅지 탄력 강화 셀룰라이트 감소 임상까지 받아서 이미 검증되어 있다는 거예요 효과가 너무 빠르다 보니까 사람들이 이것만 사기 시작했고 결국 그쪽 업계에서 난리가 난 거죠 올해 상반기까지만 현재 스펙을 유지하고 이후에는 핵심 기술 일부를 조정할 수도 있다네요 물론 그러면 효과도 지금의 10분의 1이겠죠 지금 풀린 물량이 마지막 풀스펙 버전일 수도 있다니까 재고 있을 때 미리 하나 챙겨 두시길 바라요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "희소성·단종 위협형",
-        "first_3s": "'썸하드 단종될 수 있다는 얘기 진짜네요'",
-        "appeal_angle": "여성 다리라인·지흡 대체",
-        "cta": "",
-        "keywords": [
-          "단종될 수 있다",
-          "지흡 대체",
-          "셀룰라이트",
-          "강남 에스테틱"
-        ]
-      },
-      "audio": {
-        "opening_line": "썸하드 단종될 수 있다는 얘기 농담인 줄 알았는데 진짜네요",
-        "voice_style": "놀란 후기체",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "발바닥 60혈자리·노폐물 배출",
-        "before_after": "다리 라인 모델처럼",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30·40대",
-        "segment": "다리라인·셀룰라이트",
-        "appeal_axis": "미용(다리라인)"
-      },
-      "trust": {
-        "evidence": "발바닥 60혈자리·에스테틱 단체예약",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ '지흡 대체'·판매중지 서사 — 표현 관찰"
-      },
-      "one_liner": "써마드를 남성 근력이 아니라 '여성 다리라인·지흡 대체'로 확장한 앵글 + '단종될 수 있다'는 희소성 훅. 34M을 4.21로 감당한 효자이자, 써마드 타겟 확장 가능성을 보여주는 소재.",
-      "why": "타겟 확장(여성 다이어트) + 희소성 훅 + 즉각 미용 베네핏. 다만 지흡 대체 표현은 관찰 필요."
-    },
-    {
-      "key": "th미국에서Ⅵ_T",
-      "rank_note": "bottom",
-      "roas": 4.13,
-      "spend": 2577701.0,
-      "ctr": 3.35,
-      "cvr": 0.75,
-      "cpa": 37269,
-      "purchases": 69.165539,
+      "roas": 4.15,
+      "spend": 25597135.0,
+      "ctr": 0.85,
+      "cvr": 3.1,
+      "cpa": 36630,
+      "purchases": 698.804215,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 2041542.0,
-          "revenue": 9718270.0,
-          "roas": 4.76,
-          "ctr": 0.95,
-          "cvr": 3.21,
-          "cpa": 32840,
-          "purchases": 62.165539,
+          "spend": 24905837.0,
+          "revenue": 103887222.0,
+          "roas": 4.17,
+          "ctr": 0.8,
+          "cvr": 3.26,
+          "cpa": 36529,
+          "purchases": 681.804215,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 4.8,
+          "completion": 2.8
+        },
+        "tiktok": {
+          "spend": 691298.0,
+          "revenue": 2350413.0,
+          "roas": 3.4,
+          "ctr": 3.51,
+          "cvr": 1.05,
+          "cpa": 40665,
+          "purchases": 17.0,
+          "hook_rate": 40.6,
+          "hold_rate": 76.9,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_6.2s.jpg",
+        "f05_12.3s.jpg",
+        "f06_18.5s.jpg",
+        "f07_24.7s.jpg",
+        "f08_30.8s.jpg",
+        "f09_37.0s.jpg"
+      ],
+      "transcript": "이런 건 좀 출시하면 안 되잖아요? 50대 남성분들 센터 오시면 하나같이 하시는 말씀이 있어요 운동하고 싶은데 무릎이 안 되고 스쿼트 하자니 허리가 나가요 근데 이거 쓰고 나서는 그 말씀을 딱 끊으세요 그냥 앉아서 발만 올려오면 5분도 안 돼서 대퇴직근 안쪽이 찌릿찌릿 살아나는 느낌 바로 오시거든요? EMS 미세전류랑 고밀도조직화가 발바닥에서 허벅지까지 쭉 타고 올라가면서 러닝 1시간으로도 절대 못 건드리는 속근육을 직접 찌르듯 깨워주는 원리에요 어? 이건 내가 센터에서 하는 EMS 재활 트레이닝이랑 원리가 너무 비슷한데? 제가 왜 숨기고 싶었는지 아시겠죠? 무리한 운동은 무릎이랑 허리에 독약인데 이건 15분 발만 올려놔도 20년 동안 물렁하던 허벅지가 말벅지처럼 단단하게 차오르니까요 센터 오시는 분들한테 좋다고 다 추천했더니 아 요즘 묘하게 한가로워진 것 같은데?",
+      "analyzed": true,
+      "base": {
+        "hook_type": "트레이너 고백형",
+        "first_3s": "실사 남성이 제품 들고 빨간 원 강조, '이런 건 좀 출시하면 안 되잖아요?'",
+        "appeal_angle": "무릎·허리 부담 없는 대체",
+        "cta": "센터 오시는 분들한테 (권유)",
+        "keywords": [
+          "출시하면 안 되잖아",
+          "무릎 안 되고 허리",
+          "대퇴직근 찌릿",
+          "말벅지"
+        ]
+      },
+      "audio": {
+        "opening_line": "이런 건 좀 출시하면 안 되잖아요?",
+        "voice_style": "업계인 속삭임·고백 톤",
+        "narration_mode": "트레이너 1인칭 폭로"
+      },
+      "visual": {
+        "format": "실사(제품 실물 노출)",
+        "mechanism_viz": "발바닥→허벅지 전류 상행",
+        "before_after": "20년 물렁→말벅지",
+        "subtitle_style": "빨간 원 강조"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "50대",
+        "segment": "무릎·허리로 운동 못하는 층",
+        "appeal_axis": "안전한 대체(통증부담 회피+근력)"
+      },
+      "trust": {
+        "evidence": "센터 EMS 재활과 동일 원리",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "'이런 건 출시하면 안 된다'는 업계인 고백 프레임이 호기심을 폭발시킨다. 제품 실물을 빨간 원으로 계속 보여줘 신뢰를 얹은 대물량(32M) 효자. 다만 예산 대비 ROAS는 3.71로 과투입 기미.",
+      "why": "금기 폭로 훅 + 실사 제품 노출 + 트레이너 권위. 물량이 커 효율은 상위 중 하단."
+    },
+    {
+      "key": "th미국에서Ⅵ_T",
+      "rank_note": "bottom",
+      "roas": 4.12,
+      "spend": 2912482.0,
+      "ctr": 3.13,
+      "cvr": 0.82,
+      "cpa": 37044,
+      "purchases": 78.622757,
+      "platforms": [
+        "google",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 2376323.0,
+          "revenue": 11078128.0,
+          "roas": 4.66,
+          "ctr": 0.98,
+          "cvr": 3.13,
+          "cpa": 33178,
+          "purchases": 71.622757,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 9.3,
+          "completion": 6.4
         },
         "tiktok": {
           "spend": 536159.0,
@@ -594,8 +743,10 @@
           "cvr": 0.1,
           "cpa": 76594,
           "purchases": 7.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 55.5,
+          "hold_rate": 81.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -652,40 +803,122 @@
       "why": "밈 과장이 신뢰를 깎고, 등장인물이 타겟과 전혀 달라 이입 지점이 없음."
     },
     {
-      "key": "th안되지않Ⅵ_T",
+      "key": "th단종될Ⅰ_T",
       "rank_note": "top",
-      "roas": 4.05,
-      "spend": 25241272.0,
-      "ctr": 0.83,
+      "roas": 4.06,
+      "spend": 25449504.0,
+      "ctr": 0.64,
       "cvr": 3.08,
-      "cpa": 37393,
-      "purchases": 675.019432,
+      "cpa": 37412,
+      "purchases": 680.256043,
+      "platforms": [
+        "google"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 25449504.0,
+          "revenue": 103357824.0,
+          "roas": 4.06,
+          "ctr": 0.64,
+          "cvr": 3.08,
+          "cpa": 37412,
+          "purchases": 680.256043,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 7.7,
+          "completion": 5.2
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_9.3s.jpg",
+        "f05_18.6s.jpg",
+        "f06_27.9s.jpg",
+        "f07_37.2s.jpg",
+        "f08_46.5s.jpg",
+        "f09_55.8s.jpg"
+      ],
+      "transcript": "썸하드 단종될 수 있다는 얘기 농담인 줄 알았는데 진짜네요 그냥 집에서 15분 밟기만 했는데 2주 만에 다리 라인이 모델처럼 변해서 진짜 지흡 대체 가능하겠다 싶었거든요 이게 단순 붓기 제거 수준이 아니라 발바닥 60개 혈자리를 동시에 자극해서 종아리 허벅지까지 쭉 전류가 타고 올라가니까 다리 안에 정체돼 있던 묵은 지방 노폐물 찌꺼기까지 같이 풀어버려서 일주일만 밟아도 허벅지 안쪽이 얄상해지고 울퉁불퉁한 셀룰라이트까지 녹여버리거든요 근데 최근에 갑자기 국내 판매 중지될 수 있단 말이 돌길래 처음엔 또 마케팅인가 했죠 근데 알고 보니까 강남 쪽 에스테틱에서 단체로 예약이 줄면서 문제 제기를 했더라고요 생각해보면 이유가 있어요 썸하드에 들어간 국내 유일 엑스텐즈 10.0 기술은 1200hz 초정밀 주파수가 일반 마사지기보다 12배 강하게 하체 순환을 287%까지 끌어올려주고 심지어 허벅지 탄력 강화 셀룰라이트 감소 임상까지 받아서 이미 검증되어 있다는 거예요 효과가 너무 빠르다 보니까 사람들이 이것만 사기 시작했고 결국 그쪽 업계에서 난리가 난 거죠 올해 상반기까지만 현재 스펙을 유지하고 이후에는 핵심 기술 일부를 조정할 수도 있다네요 물론 그러면 효과도 지금의 10분의 1이겠죠 지금 풀린 물량이 마지막 풀스펙 버전일 수도 있다니까 재고 있을 때 미리 하나 챙겨 두시길 바라요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "희소성·단종 위협형",
+        "first_3s": "'썸하드 단종될 수 있다는 얘기 진짜네요'",
+        "appeal_angle": "여성 다리라인·지흡 대체",
+        "cta": "",
+        "keywords": [
+          "단종될 수 있다",
+          "지흡 대체",
+          "셀룰라이트",
+          "강남 에스테틱"
+        ]
+      },
+      "audio": {
+        "opening_line": "썸하드 단종될 수 있다는 얘기 농담인 줄 알았는데 진짜네요",
+        "voice_style": "놀란 후기체",
+        "narration_mode": "1인칭 후기"
+      },
+      "visual": {
+        "format": "실사",
+        "mechanism_viz": "발바닥 60혈자리·노폐물 배출",
+        "before_after": "다리 라인 모델처럼",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30·40대",
+        "segment": "다리라인·셀룰라이트",
+        "appeal_axis": "미용(다리라인)"
+      },
+      "trust": {
+        "evidence": "발바닥 60혈자리·에스테틱 단체예약",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ '지흡 대체'·판매중지 서사 — 표현 관찰"
+      },
+      "one_liner": "써마드를 남성 근력이 아니라 '여성 다리라인·지흡 대체'로 확장한 앵글 + '단종될 수 있다'는 희소성 훅. 34M을 4.21로 감당한 효자이자, 써마드 타겟 확장 가능성을 보여주는 소재.",
+      "why": "타겟 확장(여성 다이어트) + 희소성 훅 + 즉각 미용 베네핏. 다만 지흡 대체 표현은 관찰 필요."
+    },
+    {
+      "key": "th나일년차Ⅰ_AI",
+      "rank_note": "top",
+      "roas": 3.94,
+      "spend": 1242833.0,
+      "ctr": 5.55,
+      "cvr": 0.29,
+      "cpa": 37726,
+      "purchases": 32.943816999999996,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 24544648.0,
-          "revenue": 99992827.0,
-          "roas": 4.07,
-          "ctr": 0.79,
-          "cvr": 3.25,
-          "cpa": 37301,
-          "purchases": 658.019432,
+          "spend": 733203.0,
+          "revenue": 2182351.0,
+          "roas": 2.98,
+          "ctr": 1.3,
+          "cvr": 1.88,
+          "cpa": 49064,
+          "purchases": 14.943817,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 27.7,
+          "completion": 23.8
         },
         "tiktok": {
-          "spend": 696624.0,
-          "revenue": 2354589.0,
-          "roas": 3.38,
-          "ctr": 3.56,
-          "cvr": 1.03,
-          "cpa": 40978,
-          "purchases": 17.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 509630.0,
+          "revenue": 2716328.0,
+          "roas": 5.33,
+          "ctr": 7.35,
+          "cvr": 0.17,
+          "cpa": 28313,
+          "purchases": 18.0,
+          "hook_rate": 46.8,
+          "hold_rate": 79.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -693,151 +926,62 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_6.2s.jpg",
-        "f05_12.3s.jpg",
-        "f06_18.5s.jpg",
-        "f07_24.7s.jpg",
-        "f08_30.8s.jpg",
-        "f09_37.0s.jpg"
+        "f04_8.3s.jpg",
+        "f05_16.6s.jpg",
+        "f06_24.9s.jpg",
+        "f07_33.2s.jpg",
+        "f08_41.5s.jpg",
+        "f09_49.8s.jpg"
       ],
-      "transcript": "이런 건 좀 출시하면 안 되잖아요? 50대 남성분들 센터 오시면 하나같이 하시는 말씀이 있어요 운동하고 싶은데 무릎이 안 되고 스쿼트 하자니 허리가 나가요 근데 이거 쓰고 나서는 그 말씀을 딱 끊으세요 그냥 앉아서 발만 올려오면 5분도 안 돼서 대퇴직근 안쪽이 찌릿찌릿 살아나는 느낌 바로 오시거든요? EMS 미세전류랑 고밀도조직화가 발바닥에서 허벅지까지 쭉 타고 올라가면서 러닝 1시간으로도 절대 못 건드리는 속근육을 직접 찌르듯 깨워주는 원리에요 어? 이건 내가 센터에서 하는 EMS 재활 트레이닝이랑 원리가 너무 비슷한데? 제가 왜 숨기고 싶었는지 아시겠죠? 무리한 운동은 무릎이랑 허리에 독약인데 이건 15분 발만 올려놔도 20년 동안 물렁하던 허벅지가 말벅지처럼 단단하게 차오르니까요 센터 오시는 분들한테 좋다고 다 추천했더니 아 요즘 묘하게 한가로워진 것 같은데?",
+      "transcript": "나 1년차 프로 직장인이에요 부장님이 나 요즘 다리 붓기 장난 아니래요 맨날 약은 시킨지 때문인 걸 모르나 봐요 그래서 나 요즘 합이 탈출하려고 집 오자마자 서마드 밟아요 땀 흘리는 운동은 귀찮아서 가만히 앉아서 이걸로 풀어요 아임 응해요 서마드가 종아리 아래 그렇게 좋다던데 과연 어떤 효과가 있을지 내 다리 속 변화 같이 알아봐요 제일 먼저 발바닥에 닿은 엑스텐스 10.0 전류가 피부 7mm 아래로 싹 스며들었어요 이제 초정밀 주파수가 꽉 막힌 림프를 뚫어줄 거예요 짜릿하게 종아리로 올라온 미세전류 종아리 깊은 곳 노폐물 배출을 도와줘요 그래서 나는 딴딴한 돌덩이 알 해결했어요 허벅지에선 셀룰라이트 박살 모드로 작동해요 1200kHz 타격이 군사를 털어주고 라인은 업 업 이제 내 바지통도 숨 좀 쉴 수 있겠네요 다음은 거울 앞으로 와봤어요 퉁퉁 붙던 물을 뽑아 놓은 것 같던 다리가 이제야 핏이 이뻐요 물렁물렁했던 다리엔 탄력이 쫙 붙었어요 가만히 앉아서 끝내는 합이 탈출 발판 저랑 지금 당장 시작하세요",
       "analyzed": true,
       "base": {
-        "hook_type": "트레이너 고백형",
-        "first_3s": "실사 남성이 제품 들고 빨간 원 강조, '이런 건 좀 출시하면 안 되잖아요?'",
-        "appeal_angle": "무릎·허리 부담 없는 대체",
-        "cta": "센터 오시는 분들한테 (권유)",
-        "keywords": [
-          "출시하면 안 되잖아",
-          "무릎 안 되고 허리",
-          "대퇴직근 찌릿",
-          "말벅지"
-        ]
-      },
-      "audio": {
-        "opening_line": "이런 건 좀 출시하면 안 되잖아요?",
-        "voice_style": "업계인 속삭임·고백 톤",
-        "narration_mode": "트레이너 1인칭 폭로"
-      },
-      "visual": {
-        "format": "실사(제품 실물 노출)",
-        "mechanism_viz": "발바닥→허벅지 전류 상행",
-        "before_after": "20년 물렁→말벅지",
-        "subtitle_style": "빨간 원 강조"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "50대",
-        "segment": "무릎·허리로 운동 못하는 층",
-        "appeal_axis": "안전한 대체(통증부담 회피+근력)"
-      },
-      "trust": {
-        "evidence": "센터 EMS 재활과 동일 원리",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "'이런 건 출시하면 안 된다'는 업계인 고백 프레임이 호기심을 폭발시킨다. 제품 실물을 빨간 원으로 계속 보여줘 신뢰를 얹은 대물량(32M) 효자. 다만 예산 대비 ROAS는 3.71로 과투입 기미.",
-      "why": "금기 폭로 훅 + 실사 제품 노출 + 트레이너 권위. 물량이 커 효율은 상위 중 하단."
-    },
-    {
-      "key": "th아버지풀버전Ⅵ_AI",
-      "rank_note": "top",
-      "roas": 3.8,
-      "spend": 1276750.0,
-      "ctr": 2.2,
-      "cvr": 2.76,
-      "cpa": 39378,
-      "purchases": 32.423286000000004,
-      "platforms": [
-        "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 1090077.0,
-          "revenue": 3183109.0,
-          "roas": 2.92,
-          "ctr": 2.31,
-          "cvr": 1.96,
-          "cpa": 53374,
-          "purchases": 20.423286,
-          "hook_rate": null,
-          "hold_rate": null
-        },
-        "meta": {
-          "spend": 186673.0,
-          "revenue": 1668000.0,
-          "roas": 8.94,
-          "ctr": 1.61,
-          "cvr": 8.89,
-          "cpa": 15556,
-          "purchases": 12.0,
-          "hook_rate": 26.8,
-          "hold_rate": 22.7
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_20.9s.jpg",
-        "f05_41.8s.jpg",
-        "f06_62.7s.jpg",
-        "f07_83.6s.jpg",
-        "f08_104.5s.jpg",
-        "f09_125.4s.jpg"
-      ],
-      "transcript": "아버지 다리가 자꾸만 얇아지고 계단 앞에서 한참을 쉬시던 날 작은 발판 하나 조용히 놓아줘 허벅지가 이 주만에 단단해지고 아버지 다시 걸어요 산으로 깨어나고 돌덩이처럼 단단해진 두 다시 우리 재화 바로 그 어지 다시 웃어요 자랑하시죠 전사 허벅지 안 불어 다시 날처럼 다시",
-      "analyzed": true,
-      "base": {
-        "hook_type": "효도 감성 노래형",
-        "first_3s": "'아버지 다리가 자꾸 얇아지고 계단 앞에서 쉬시던 날'",
-        "appeal_angle": "효도·부모 근력",
+        "hook_type": "공감 캐릭터형",
+        "first_3s": "'나 1년차 직장인, 부장님이 다리붓기 장난 아니래요'",
+        "appeal_angle": "다리 붓기",
         "cta": "",
         "keywords": [
-          "아버지 다리",
-          "계단",
-          "2주 단단",
-          "다시 걸어요"
+          "1년차 직장인",
+          "다리 붓기",
+          "앉아서 풀어",
+          "붓기 탈출"
         ]
       },
       "audio": {
-        "opening_line": "아버지 다리가 자꾸만 얇아지고 계단 앞에서 한참을 쉬시던 날",
-        "voice_style": "감성 발라드",
-        "narration_mode": "노래 스토리"
+        "opening_line": "나 1년차 프로 직장인이에요, 부장님이 나 요즘 다리 붓기 장난 아니래요",
+        "voice_style": "귀여운 구어체",
+        "narration_mode": "1인칭 캐릭터"
       },
       "visual": {
         "format": "AI",
-        "mechanism_viz": "–",
-        "before_after": "아버지 다리 회복",
-        "subtitle_style": "감성 자막"
+        "mechanism_viz": "전류 침투 시각화",
+        "before_after": "–",
+        "subtitle_style": "캐릭터 자막"
       },
       "target": {
-        "gender": "혼성(구매=자녀)",
-        "age": "30·40대→부모",
-        "segment": "부모 효도",
-        "appeal_axis": "효도(근력)"
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "앉아서 일하는 직장인",
+        "appeal_axis": "미용(붓기)"
       },
       "trust": {
-        "evidence": "2주 체감",
+        "evidence": "엑스텐스10.0",
         "refund": "–",
         "discount": "–",
         "compliance": "양호"
       },
-      "one_liner": "감성 노래로 효도(아버지 다리 회복)를 그린다. 간접 타겟인데도 2.97로 선방 — 감정 몰입이 효도 소구를 밀어줌.",
-      "why": "감성 노래 몰입 + 효도. 간접 타겟 한계 상쇄."
+      "one_liner": "친근한 '1년차 직장인' 캐릭터로 젊은 여성의 다리붓기 공감을 산다. 소액이지만 3.79로 효율 좋음.",
+      "why": "공감 캐릭터 + 젊은 여성 타겟. 낮은 거부감."
     },
     {
       "key": "th웬말이냐Ⅵ_AN",
       "rank_note": "top",
-      "roas": 3.61,
-      "spend": 13196779.0,
-      "ctr": 1.15,
-      "cvr": 1.15,
-      "cpa": 40827,
-      "purchases": 323.23377,
+      "roas": 3.66,
+      "spend": 13738867.0,
+      "ctr": 1.16,
+      "cvr": 1.17,
+      "cpa": 40424,
+      "purchases": 339.86568,
       "platforms": [
         "google",
         "meta",
@@ -845,15 +989,17 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 6600314.0,
-          "revenue": 37290640.0,
-          "roas": 5.65,
-          "ctr": 0.77,
+          "spend": 7083645.0,
+          "revenue": 39958382.0,
+          "roas": 5.64,
+          "ctr": 0.8,
           "cvr": 1.59,
-          "cpa": 25962,
-          "purchases": 254.23377,
+          "cpa": 26152,
+          "purchases": 270.86568,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 9.3,
+          "completion": 4.8
         },
         "tiktok": {
           "spend": 2000811.0,
@@ -863,19 +1009,23 @@
           "cvr": 0.48,
           "cpa": 58847,
           "purchases": 34.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 57.4,
+          "hold_rate": 46.2,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 4595654.0,
+          "spend": 4654411.0,
           "revenue": 5103000.0,
-          "roas": 1.11,
+          "roas": 1.1,
           "ctr": 2.6,
-          "cvr": 0.7,
-          "cpa": 131304,
+          "cvr": 0.69,
+          "cpa": 132983,
           "purchases": 35.0,
-          "hook_rate": 44.8,
-          "hold_rate": 24.0
+          "hook_rate": 44.7,
+          "hold_rate": 24.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -933,12 +1083,12 @@
     {
       "key": "th할인해줘Ⅰ_TP",
       "rank_note": "top",
-      "roas": 3.57,
-      "spend": 80246353.0,
-      "ctr": 6.25,
-      "cvr": 0.68,
-      "cpa": 44102,
-      "purchases": 1819.581668,
+      "roas": 3.58,
+      "spend": 79763086.0,
+      "ctr": 6.1,
+      "cvr": 0.71,
+      "cpa": 43695,
+      "purchases": 1825.4414849999998,
       "platforms": [
         "google",
         "meta",
@@ -946,37 +1096,43 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 23521294.0,
-          "revenue": 142951260.0,
-          "roas": 6.08,
+          "spend": 23474020.0,
+          "revenue": 143134743.0,
+          "roas": 6.1,
           "ctr": 1.13,
-          "cvr": 3.8,
-          "cpa": 26205,
-          "purchases": 897.581668,
+          "cvr": 3.85,
+          "cpa": 25840,
+          "purchases": 908.441485,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 18.1,
+          "completion": 14.7
         },
         "tiktok": {
-          "spend": 15220648.0,
-          "revenue": 46957546.0,
-          "roas": 3.09,
-          "ctr": 16.44,
-          "cvr": 0.14,
-          "cpa": 49418,
-          "purchases": 308.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 14928096.0,
+          "revenue": 45884077.0,
+          "roas": 3.07,
+          "ctr": 16.33,
+          "cvr": 0.15,
+          "cpa": 49595,
+          "purchases": 301.0,
+          "hook_rate": 65.4,
+          "hold_rate": 92.2,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 41504411.0,
-          "revenue": 96499544.0,
+          "spend": 41360970.0,
+          "revenue": 96555044.0,
           "roas": 2.33,
-          "ctr": 3.18,
+          "ctr": 3.15,
           "cvr": 2.26,
-          "cpa": 67597,
-          "purchases": 614.0,
-          "hook_rate": 46.8,
-          "hold_rate": 67.1
+          "cpa": 67144,
+          "purchases": 616.0,
+          "hook_rate": 46.9,
+          "hold_rate": 67.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1032,14 +1188,118 @@
       "why": "상황극 오퍼 훅 + 희소성 + 압도적 물량. 크로스제품 검증된 포맷."
     },
     {
+      "key": "th딱한달만Ⅰ_AI",
+      "rank_note": "top",
+      "roas": 3.57,
+      "spend": 2370998.0,
+      "ctr": 5.35,
+      "cvr": 0.43,
+      "cpa": 41057,
+      "purchases": 57.749057,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 1751881.0,
+          "revenue": 7435414.0,
+          "roas": 4.24,
+          "ctr": 0.86,
+          "cvr": 4.07,
+          "cpa": 33853,
+          "purchases": 51.749057,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 24.2,
+          "completion": 20.6
+        },
+        "tiktok": {
+          "spend": 617061.0,
+          "revenue": 1030492.0,
+          "roas": 1.67,
+          "ctr": 11.72,
+          "cvr": 0.05,
+          "cpa": 102844,
+          "purchases": 6.0,
+          "hook_rate": 73.3,
+          "hold_rate": 86.9,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 2056.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 3.45,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 31.0,
+          "hold_rate": 11.1,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f05_16.4s.jpg",
+        "f08_41.0s.jpg",
+        "f09_49.2s.jpg"
+      ],
+      "transcript": "진짜 지흥 먼저 생각하지 마시고 이거 한 달만 딱 해보시면 좋겠어요. 하체에 유독 살이 몰렸다 하시는 분들은 수난문제가 첫 번째인 경우가 많아요. 아침에는 일어나자마자 서마드에 발 딱 올리고 5분만 밟으세요. 밤새 정체됐던 하체 수난을 먼저 열어주는 겁니다. 강도는 50단계까지 있어서 낮은 단계부터 천천히 눈에 보이지 않는 초미세 전류가 발끝에서 허벅지까지 위로 쭉쭉 올라가는 거예요. 이렇게 림프 배수를 먼저 잡아야 그날 하루가 안 붙습니다. 저녁이 되면요, 시간은 15분으로 늘리고 고강도 모드로 전환. 하루 종일 앉아서 굳어버린 속지방층을 1200Hz 주파수로 직접 흔들어주는 겁니다. 피부 7mm 아래 깊이까지 전류가 파고들어서 셀룬 라이트를 분해하는 거예요. 못 믿으시겠다고요? 실제 임상 데이터도 있습니다. 여기에 온열까지 병행하면 지방세포막이 더 유연해져서 효과가 배가되는데 열 자극에 예민하신 분들은 온열은 빼고 가셔도 크게 상관은 없습니다. 이렇게 딱 한 달, 한 달만 해보셔도 시술 안 받아도 돼요. 진짜 이런 거 소개시켜드려도 되나 싶을 정도로 라인이 확 달라지실 겁니다.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "시술 대체·루틴형",
+        "first_3s": "'지흡 먼저 생각 말고 한 달만 해보세요'",
+        "appeal_angle": "하체 붓기·라인(다이어트)",
+        "cta": "이거 한 달만 딱",
+        "keywords": [
+          "지흡 대체",
+          "하체 붓기",
+          "림프 배수",
+          "50단계"
+        ]
+      },
+      "audio": {
+        "opening_line": "진짜 지흡 먼저 생각하지 마시고 이거 한 달만 딱 해보시면",
+        "voice_style": "차분한 조언체",
+        "narration_mode": "1인칭 코칭"
+      },
+      "visual": {
+        "format": "AI",
+        "mechanism_viz": "림프 배수·전류 상행",
+        "before_after": "–",
+        "subtitle_style": "정보 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "하체 붓기·라인",
+        "appeal_axis": "미용(다리라인)"
+      },
+      "trust": {
+        "evidence": "50단계·초미세 전류",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ '지흡 대체' 표현 관찰"
+      },
+      "one_liner": "지흡을 대안으로 끌어와 '한 달만'이라는 낮은 부담 제안을 건다. 써마드를 여성 다리라인으로 확장하는 각(3.31).",
+      "why": "시술 대체 프레이밍 + 타겟 확장(여성). 표현 관찰."
+    },
+    {
       "key": "th아무리땀Ⅵ_AI",
       "rank_note": "top",
-      "roas": 3.18,
-      "spend": 9068214.0,
-      "ctr": 6.37,
-      "cvr": 0.28,
-      "cpa": 48435,
-      "purchases": 187.222692,
+      "roas": 3.2,
+      "spend": 8174876.0,
+      "ctr": 6.69,
+      "cvr": 0.26,
+      "cpa": 48305,
+      "purchases": 169.234275,
       "platforms": [
         "google",
         "meta",
@@ -1048,36 +1308,42 @@
       "platform_metrics": {
         "google": {
           "spend": 3082658.0,
-          "revenue": 14946797.0,
+          "revenue": 14948505.0,
           "roas": 4.85,
           "ctr": 1.13,
           "cvr": 2.28,
-          "cpa": 31384,
-          "purchases": 98.222692,
+          "cpa": 31381,
+          "purchases": 98.234275,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 16.1,
+          "completion": 11.7
         },
         "tiktok": {
-          "spend": 5584933.0,
-          "revenue": 13459689.0,
-          "roas": 2.41,
-          "ctr": 9.46,
-          "cvr": 0.14,
-          "cpa": 64941,
-          "purchases": 86.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 4834306.0,
+          "revenue": 10925532.0,
+          "roas": 2.26,
+          "ctr": 10.26,
+          "cvr": 0.11,
+          "cpa": 70062,
+          "purchases": 69.0,
+          "hook_rate": 61.0,
+          "hold_rate": 80.1,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 400623.0,
-          "revenue": 417000.0,
-          "roas": 1.04,
-          "ctr": 2.68,
-          "cvr": 1.42,
-          "cpa": 133541,
-          "purchases": 3.0,
-          "hook_rate": 45.3,
-          "hold_rate": 25.7
+          "spend": 257912.0,
+          "revenue": 278000.0,
+          "roas": 1.08,
+          "ctr": 2.07,
+          "cvr": 1.87,
+          "cpa": 128956,
+          "purchases": 2.0,
+          "hook_rate": 43.3,
+          "hold_rate": 22.8,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1133,28 +1399,231 @@
       "why": "복합 통증 호소 훅 + 나사 권위."
     },
     {
-      "key": "th코웃음쳐Ⅵ_T",
-      "rank_note": "top",
-      "roas": 3.1,
-      "spend": 687807.0,
-      "ctr": 0.88,
-      "cvr": 2.43,
-      "cpa": 47069,
-      "purchases": 14.612607,
+      "key": "th힘생겼나요Ⅵ_AI",
+      "rank_note": "bottom",
+      "roas": 3.18,
+      "spend": 1018780.0,
+      "ctr": 1.31,
+      "cvr": 1.33,
+      "cpa": 43693,
+      "purchases": 23.316765,
       "platforms": [
         "google"
       ],
       "platform_metrics": {
         "google": {
+          "spend": 1018780.0,
+          "revenue": 3236704.0,
+          "roas": 3.18,
+          "ctr": 1.31,
+          "cvr": 1.33,
+          "cpa": 43693,
+          "purchases": 23.316765,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 21.8,
+          "completion": 16.6
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_9.8s.jpg",
+        "f05_19.5s.jpg",
+        "f06_29.3s.jpg",
+        "f07_39.0s.jpg",
+        "f08_48.8s.jpg",
+        "f09_58.5s.jpg"
+      ],
+      "transcript": "스쿼트하고 허벅지에 힘 생겼나요? 나이 들수록 체력도 떨어지는데 힘들게 운동했으면 오랫동안 효과 봐야죠 돌덩이 같은 하체 근력 만들고 노후까지 쭉 유지하는 방법은 운동 후 초정밀 주파수 자극을 주는 겁니다 스쿼트, 레그프레스 같은 하체 운동은 겉근육에는 강한 자극을 주지만 손으로 닿지 않는 깊은 속근육까지는 자극이 잘 닿지 않아요 여기까지 직접 파고드는 미세전류 자극이 있어야 운동으로 깨운 근성류가 더 깊이 활성화되면서 근육기어까지 만들어지거든요 근데 일반 EMS 기계로는 소용이 없어요 주파수 크기, 세밀한 단계 조절, 기술력에 따라 효과가 천차만별입니다 그래서 제가 직접 저희 아버지한테 한 달간 쓰시게 하면서 꼼꼼하게 따져보고 고른 제품이 이 써마드예요 일반 기기보다 12배 강한 1200Hz 초정밀 주파수가 피부 7mm 아래 속근육까지 직접 파고들어요 운동 직후 15분만 밟아도 죽어있던 근성류까지 강제로 깨워주는 구조라 그냥 운동만 했을 때보다 훨씬 오래 근력이 유지되는 거죠 실제로 저희 아버지도 점점 물렁해지는 허벅지 때문에 자존심까지 상한다고 하셨었는데 이거 쓰시고는 저보다 굵어진 것 같다고 이젠 이거 없으면 못 살겠다고 하실 정도니까요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "질문 반박형",
+        "first_3s": "AI 전문가(스크럽)가 '스쿼트하고 허벅지에 힘! 생겼나요?' + '노후에 돈보다 중요한 이것' 상단바",
+        "appeal_angle": "운동만으로는 속근육에 안 닿는다 → 운동 후 보완재",
+        "cta": "아버지께 한 달 써보게 하고 고른 제품",
+        "keywords": [
+          "스쿼트하고 힘 생겼나요",
+          "노후에 돈보다 중요한",
+          "1200Hz",
+          "12배",
+          "아버지"
+        ]
+      },
+      "audio": {
+        "opening_line": "스쿼트하고 허벅지에 힘 생겼나요?",
+        "voice_style": "차분한 전문가 존댓말",
+        "narration_mode": "1인 전문가 설명형"
+      },
+      "visual": {
+        "format": "AI 생성 인물 토킹헤드(서재·스크럽)",
+        "mechanism_viz": "약함 — 근육 실루엣 정도",
+        "before_after": "없음",
+        "subtitle_style": "상단 형광 고정 헤드라인 + 하단 자막"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "50·60대",
+        "segment": "운동은 하는데 효과 못 느끼는 중장년",
+        "appeal_axis": "노후 건강 + 전문가 보증"
+      },
+      "trust": {
+        "evidence": "1200Hz, 일반 기기 12배",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ AI 인물이 의료인 복장 — 전문가 오인 소지"
+      },
+      "one_liner": "구글 86만원 소액에 ROAS 3.01. 표본이 작아 판단은 이르지만, '운동 대체'가 아니라 '운동 보완'으로 포지셔닝한 각도는 반발이 적은 접근이다.",
+      "why": "토킹헤드 일변도라 시각 자극이 부족해 지출이 확장되지 않았다. 운동 보완 각도는 살리고 메커니즘 CG를 붙여 재제작할 것."
+    },
+    {
+      "key": "th아버지풀버전Ⅵ_AI",
+      "rank_note": "top",
+      "roas": 3.09,
+      "spend": 1651946.0,
+      "ctr": 6.48,
+      "cvr": 0.42,
+      "cpa": 48283,
+      "purchases": 34.21377,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 1090077.0,
+          "revenue": 3160503.0,
+          "roas": 2.9,
+          "ctr": 2.31,
+          "cvr": 1.94,
+          "cpa": 53927,
+          "purchases": 20.21377,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 21.2,
+          "completion": 15.5
+        },
+        "tiktok": {
+          "spend": 375196.0,
+          "revenue": 277645.0,
+          "roas": 0.74,
+          "ctr": 9.6,
+          "cvr": 0.03,
+          "cpa": 187598,
+          "purchases": 2.0,
+          "hook_rate": 57.2,
+          "hold_rate": 81.8,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 186673.0,
+          "revenue": 1668000.0,
+          "roas": 8.94,
+          "ctr": 1.61,
+          "cvr": 8.89,
+          "cpa": 15556,
+          "purchases": 12.0,
+          "hook_rate": 26.8,
+          "hold_rate": 22.7,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_20.9s.jpg",
+        "f05_41.8s.jpg",
+        "f06_62.7s.jpg",
+        "f07_83.6s.jpg",
+        "f08_104.5s.jpg",
+        "f09_125.4s.jpg"
+      ],
+      "transcript": "아버지 다리가 자꾸만 얇아지고 계단 앞에서 한참을 쉬시던 날 작은 발판 하나 조용히 놓아줘 허벅지가 이 주만에 단단해지고 아버지 다시 걸어요 산으로 깨어나고 돌덩이처럼 단단해진 두 다시 우리 재화 바로 그 어지 다시 웃어요 자랑하시죠 전사 허벅지 안 불어 다시 날처럼 다시",
+      "analyzed": true,
+      "base": {
+        "hook_type": "효도 감성 노래형",
+        "first_3s": "'아버지 다리가 자꾸 얇아지고 계단 앞에서 쉬시던 날'",
+        "appeal_angle": "효도·부모 근력",
+        "cta": "",
+        "keywords": [
+          "아버지 다리",
+          "계단",
+          "2주 단단",
+          "다시 걸어요"
+        ]
+      },
+      "audio": {
+        "opening_line": "아버지 다리가 자꾸만 얇아지고 계단 앞에서 한참을 쉬시던 날",
+        "voice_style": "감성 발라드",
+        "narration_mode": "노래 스토리"
+      },
+      "visual": {
+        "format": "AI",
+        "mechanism_viz": "–",
+        "before_after": "아버지 다리 회복",
+        "subtitle_style": "감성 자막"
+      },
+      "target": {
+        "gender": "혼성(구매=자녀)",
+        "age": "30·40대→부모",
+        "segment": "부모 효도",
+        "appeal_axis": "효도(근력)"
+      },
+      "trust": {
+        "evidence": "2주 체감",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "감성 노래로 효도(아버지 다리 회복)를 그린다. 간접 타겟인데도 2.97로 선방 — 감정 몰입이 효도 소구를 밀어줌.",
+      "why": "감성 노래 몰입 + 효도. 간접 타겟 한계 상쇄."
+    },
+    {
+      "key": "th코웃음쳐Ⅵ_T",
+      "rank_note": "top",
+      "roas": 3.06,
+      "spend": 697767.0,
+      "ctr": 1.05,
+      "cvr": 2.0,
+      "cpa": 47750,
+      "purchases": 14.612919,
+      "platforms": [
+        "google",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
           "spend": 687807.0,
-          "revenue": 2134538.0,
+          "revenue": 2134582.0,
           "roas": 3.1,
           "ctr": 0.88,
           "cvr": 2.43,
-          "cpa": 47069,
-          "purchases": 14.612607,
+          "cpa": 47068,
+          "purchases": 14.612919,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 7.9,
+          "completion": 5.3
+        },
+        "tiktok": {
+          "spend": 9960.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 11.76,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 88.1,
+          "hold_rate": 86.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1212,12 +1681,12 @@
     {
       "key": "th통나무가Ⅰ_AI",
       "rank_note": "top",
-      "roas": 3.0,
-      "spend": 56883918.0,
-      "ctr": 1.44,
+      "roas": 2.97,
+      "spend": 58067714.0,
+      "ctr": 1.45,
       "cvr": 1.5,
-      "cpa": 48876,
-      "purchases": 1163.834461,
+      "cpa": 49372,
+      "purchases": 1176.121625,
       "platforms": [
         "google",
         "meta",
@@ -1226,14 +1695,16 @@
       "platform_metrics": {
         "google": {
           "spend": 17091718.0,
-          "revenue": 100782057.0,
-          "roas": 5.9,
+          "revenue": 101065973.0,
+          "roas": 5.91,
           "ctr": 0.55,
-          "cvr": 3.05,
-          "cpa": 24885,
-          "purchases": 686.834461,
+          "cvr": 3.06,
+          "cpa": 24802,
+          "purchases": 689.121625,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 5.3,
+          "completion": 2.1
         },
         "tiktok": {
           "spend": 5721207.0,
@@ -1243,19 +1714,23 @@
           "cvr": 0.35,
           "cpa": 62870,
           "purchases": 91.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 54.3,
+          "hold_rate": 62.2,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 34070993.0,
-          "revenue": 56037400.0,
-          "roas": 1.64,
-          "ctr": 3.53,
-          "cvr": 1.34,
-          "cpa": 88267,
-          "purchases": 386.0,
-          "hook_rate": 44.2,
-          "hold_rate": 37.0
+          "spend": 35254789.0,
+          "revenue": 57430400.0,
+          "roas": 1.63,
+          "ctr": 3.5,
+          "cvr": 1.33,
+          "cpa": 89027,
+          "purchases": 396.0,
+          "hook_rate": 44.1,
+          "hold_rate": 37.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1311,91 +1786,14 @@
       "why": "타겟 확장(여성 다이어트) + 즉각적·시각적 베네핏. 같은 포맷의 헬스삼년(남성 근비대)이 실패한 것과 정확히 대비됨."
     },
     {
-      "key": "th나일년차Ⅰ_AI",
-      "rank_note": "top",
-      "roas": 2.98,
-      "spend": 733203.0,
-      "ctr": 1.3,
-      "cvr": 1.88,
-      "cpa": 49064,
-      "purchases": 14.943817,
-      "platforms": [
-        "google"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 733203.0,
-          "revenue": 2182351.0,
-          "roas": 2.98,
-          "ctr": 1.3,
-          "cvr": 1.88,
-          "cpa": 49064,
-          "purchases": 14.943817,
-          "hook_rate": null,
-          "hold_rate": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_8.3s.jpg",
-        "f05_16.6s.jpg",
-        "f06_24.9s.jpg",
-        "f07_33.2s.jpg",
-        "f08_41.5s.jpg",
-        "f09_49.8s.jpg"
-      ],
-      "transcript": "나 1년차 프로 직장인이에요 부장님이 나 요즘 다리 붓기 장난 아니래요 맨날 약은 시킨지 때문인 걸 모르나 봐요 그래서 나 요즘 합이 탈출하려고 집 오자마자 서마드 밟아요 땀 흘리는 운동은 귀찮아서 가만히 앉아서 이걸로 풀어요 아임 응해요 서마드가 종아리 아래 그렇게 좋다던데 과연 어떤 효과가 있을지 내 다리 속 변화 같이 알아봐요 제일 먼저 발바닥에 닿은 엑스텐스 10.0 전류가 피부 7mm 아래로 싹 스며들었어요 이제 초정밀 주파수가 꽉 막힌 림프를 뚫어줄 거예요 짜릿하게 종아리로 올라온 미세전류 종아리 깊은 곳 노폐물 배출을 도와줘요 그래서 나는 딴딴한 돌덩이 알 해결했어요 허벅지에선 셀룰라이트 박살 모드로 작동해요 1200kHz 타격이 군사를 털어주고 라인은 업 업 이제 내 바지통도 숨 좀 쉴 수 있겠네요 다음은 거울 앞으로 와봤어요 퉁퉁 붙던 물을 뽑아 놓은 것 같던 다리가 이제야 핏이 이뻐요 물렁물렁했던 다리엔 탄력이 쫙 붙었어요 가만히 앉아서 끝내는 합이 탈출 발판 저랑 지금 당장 시작하세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "공감 캐릭터형",
-        "first_3s": "'나 1년차 직장인, 부장님이 다리붓기 장난 아니래요'",
-        "appeal_angle": "다리 붓기",
-        "cta": "",
-        "keywords": [
-          "1년차 직장인",
-          "다리 붓기",
-          "앉아서 풀어",
-          "붓기 탈출"
-        ]
-      },
-      "audio": {
-        "opening_line": "나 1년차 프로 직장인이에요, 부장님이 나 요즘 다리 붓기 장난 아니래요",
-        "voice_style": "귀여운 구어체",
-        "narration_mode": "1인칭 캐릭터"
-      },
-      "visual": {
-        "format": "AI",
-        "mechanism_viz": "전류 침투 시각화",
-        "before_after": "–",
-        "subtitle_style": "캐릭터 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "앉아서 일하는 직장인",
-        "appeal_axis": "미용(붓기)"
-      },
-      "trust": {
-        "evidence": "엑스텐스10.0",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "친근한 '1년차 직장인' 캐릭터로 젊은 여성의 다리붓기 공감을 산다. 소액이지만 3.79로 효율 좋음.",
-      "why": "공감 캐릭터 + 젊은 여성 타겟. 낮은 거부감."
-    },
-    {
       "key": "th인플화남Ⅰ_AIP",
       "rank_note": "top",
-      "roas": 2.93,
-      "spend": 8286642.0,
-      "ctr": 2.04,
-      "cvr": 3.18,
-      "cpa": 54129,
-      "purchases": 153.091748,
+      "roas": 2.94,
+      "spend": 8566150.0,
+      "ctr": 2.03,
+      "cvr": 3.2,
+      "cpa": 54405,
+      "purchases": 157.45085799999998,
       "platforms": [
         "google",
         "meta"
@@ -1403,25 +1801,29 @@
       "platform_metrics": {
         "google": {
           "spend": 1654204.0,
-          "revenue": 9165332.0,
-          "roas": 5.54,
+          "revenue": 9215339.0,
+          "roas": 5.57,
           "ctr": 1.23,
-          "cvr": 3.32,
-          "cpa": 28974,
-          "purchases": 57.091748,
+          "cvr": 3.34,
+          "cpa": 28793,
+          "purchases": 57.450858,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 11.1,
+          "completion": 7.8
         },
         "meta": {
-          "spend": 6632438.0,
-          "revenue": 15078000.0,
-          "roas": 2.27,
-          "ctr": 3.22,
-          "cvr": 3.1,
-          "cpa": 69088,
-          "purchases": 96.0,
-          "hook_rate": 36.1,
-          "hold_rate": 35.1
+          "spend": 6911946.0,
+          "revenue": 15933000.0,
+          "roas": 2.31,
+          "ctr": 3.14,
+          "cvr": 3.12,
+          "cpa": 69119,
+          "purchases": 100.0,
+          "hook_rate": 35.9,
+          "hold_rate": 34.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [],
@@ -1466,14 +1868,14 @@
       "why": "협상 상황극 오퍼 + 대물량. 크로스제품 포맷 계열."
     },
     {
-      "key": "th홈쇼핑체중계Ⅰ_AI",
+      "key": "th일단올라Ⅵ_T",
       "rank_note": "top",
-      "roas": 2.89,
-      "spend": 6024712.0,
-      "ctr": 3.54,
-      "cvr": 0.55,
-      "cpa": 58055,
-      "purchases": 103.775952,
+      "roas": 2.66,
+      "spend": 13029958.0,
+      "ctr": 8.02,
+      "cvr": 0.19,
+      "cpa": 57376,
+      "purchases": 227.095929,
       "platforms": [
         "google",
         "meta",
@@ -1481,37 +1883,43 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 4502900.0,
-          "revenue": 13499560.0,
-          "roas": 3.0,
-          "ctr": 1.21,
-          "cvr": 1.46,
-          "cpa": 57161,
-          "purchases": 78.775952,
+          "spend": 2969409.0,
+          "revenue": 12258996.0,
+          "roas": 4.13,
+          "ctr": 1.23,
+          "cvr": 2.54,
+          "cpa": 36170,
+          "purchases": 82.095929,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 33.0,
+          "completion": 27.7
         },
         "tiktok": {
-          "spend": 1012458.0,
-          "revenue": 3017125.0,
-          "roas": 2.98,
-          "ctr": 17.42,
-          "cvr": 0.14,
-          "cpa": 53287,
-          "purchases": 19.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 4126728.0,
+          "revenue": 12256382.0,
+          "roas": 2.97,
+          "ctr": 10.23,
+          "cvr": 0.07,
+          "cpa": 51584,
+          "purchases": 80.0,
+          "hook_rate": 80.1,
+          "hold_rate": 88.0,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 509354.0,
-          "revenue": 893000.0,
-          "roas": 1.75,
-          "ctr": 1.62,
-          "cvr": 3.05,
-          "cpa": 84892,
-          "purchases": 6.0,
-          "hook_rate": 26.2,
-          "hold_rate": 18.0
+          "spend": 5933821.0,
+          "revenue": 10115000.0,
+          "roas": 1.7,
+          "ctr": 3.17,
+          "cvr": 1.67,
+          "cpa": 91290,
+          "purchases": 65.0,
+          "hook_rate": 36.3,
+          "hold_rate": 46.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1519,89 +1927,92 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_13.7s.jpg",
-        "f05_27.4s.jpg",
-        "f06_41.1s.jpg",
-        "f07_54.9s.jpg",
-        "f08_68.6s.jpg",
-        "f09_82.3s.jpg"
+        "f04_5.4s.jpg",
+        "f05_10.8s.jpg",
+        "f06_16.2s.jpg",
+        "f07_21.6s.jpg",
+        "f08_27.0s.jpg",
+        "f09_32.4s.jpg"
       ],
-      "transcript": "여러분, 착각하시면 안 됩니다. 이거 체중계 아니에요. 홈쇼핑 완판 핵열세운 하체 디톡스 발판입니다. 맞습니다. 리듬체조 선수들 대회 직전 다리 라인 잡던 바로 그 방식이에요. 발바닥 60개 혈자리 따라 콕콕 자극해서 종아리 지나 허벅지 안쪽까지 전류를 쫙 태워 올리는 거예요. 어머, 잠깐만요. 발만 올렸는데 진짜 종아리, 아니 허벅지 안쪽이 찌릿찌릿찌릿 뭔가 조여드는 느낌이 나는데요. 그저 겉만 주무르는 마사지랑은 차원이 달라요. 눈에 보이지 않는 미세전류가 피부 7mm 아래까지 파고들어서 종일 정체됐던 붓기랑 묵은 높현물까지 쫙쫙 빠지는 겁니다. 솔직히 샵 가서 관리받는 거 그냥 관리받으면 좋아지겠지 막연히 믿는 건데 이건 진짜 다리에 직접 느껴지는 자극이 달라요. 맞습니다. 이건 국내 유일 엑스텐스 10점형 기술로 허벅지 탄력 개선, 붓기 감소, 셀룰 라이트 개선, 임상까지 끝낸 기기라 자극뿐만 아니라 실제 효과까지 다른 거죠. 어쩐지 여러분 정말 딱 2주만 밟아보세요. 하루 15분이면 저녁마다 코끼리처럼 퉁퉁 붓고 무겁던 다리가 아이돌 다리 암부럽게 가벼워진다니까요. 정말 이런 제품 다시는 못 볼 것 같아요. 뜨끈한 온열까지 돼서 다리 피로도 싹 풀리고요. 여러분 이거 국내 유일 스펙이고요. 언제까지 이 스펙 유지할지 몰라요. 집에서 아이돌 관리급 케어를 받은 거거든요. 지금 L사, H사, C사 국내 홈쇼핑 업계에서 모셔가려고 난리인 디톡스 발판. 어렵게 어렵게 구해왔는데 심지어 47% 더 특별한 할인가. 놓치기 전에 얼른 만나보세요.",
+      "transcript": "일단 올라가보세요. 뭐래도 그대로던 묵은지처럼 흐물거리던 허벅지가 눈에 띄게 단단해집니다. 이건 나사 우주비행사 근력 재활용으로 개발된 EMS 기술을 기반으로 만들어진 건데 국가대표 재활 현장에서 이름만 되면 다 아는 발판이에요. 이거 봐보면 2주 안에 체감이 무조건 오거든요. S10 10.0 고밀도전류는 일반 EMS처럼 겉만 자극하는 게 아니라 피부 7mm 아래 속근육까지 자극해 잠들어 있던 속근육 섬유를 초당 1200회씩 강제로 두드려 깨워요. 속근육이 살아나기 시작하면 엉눌렸던 근력회복도 3배 이상 뛰고 다리임 체감도 훨씬 빠릅니다. 하루 15분만 밟아도 가시다리 같던 허벅지가 알벅지처럼 차오르는 변화를 느끼실 거예요. 효과 없으면 100% 환불이라는데 지금 고민하는 시간만큼 오히려 손해보시는 겁니다.",
       "analyzed": true,
       "base": {
-        "hook_type": "오인 정정형",
-        "first_3s": "AI 쇼호스트가 발판을 들고 '여러분, 착각하시면 안 됩니다! 이거 체중계 아니에요'",
-        "appeal_angle": "홈쇼핑사들이 줄 선 혁명의 디톡스 발판",
-        "cta": "47% 특별 할인, 놓치기 전에",
+        "hook_type": "직설 명령형",
+        "first_3s": "'일단 올라가보세요' 묵은지 허벅지",
+        "appeal_angle": "근비대",
+        "cta": "일단 올라가보세요",
         "keywords": [
-          "체중계 아니에요",
-          "발바닥 60개 혈자리",
-          "리듬체조 선수",
-          "임상",
-          "47% 할인"
+          "일단 올라가봐",
+          "나사 EMS",
+          "국대 재활",
+          "초당 1200회"
         ]
       },
       "audio": {
-        "opening_line": "여러분, 착각하시면 안 됩니다. 이거 체중계 아니에요",
-        "voice_style": "홈쇼핑 쇼호스트 하이텐션 존댓말 2인 합",
-        "narration_mode": "쇼호스트 2인 대화형"
+        "opening_line": "일단 올라가보세요",
+        "voice_style": "단정 직설체",
+        "narration_mode": "1인칭 권유"
       },
       "visual": {
-        "format": "AI 생성 홈쇼핑 세트(쇼호스트 2인)",
-        "mechanism_viz": "약함 — 말로 설명, 제품 실물 중심",
-        "before_after": "없음",
-        "subtitle_style": "상단 고정 타이틀바 + 하단 상시 가격 바(Thermard PLX 최대 47% 할인)"
+        "format": "실사",
+        "mechanism_viz": "7mm 침투·1200회",
+        "before_after": "묵은지→단단",
+        "subtitle_style": "자막"
       },
       "target": {
-        "gender": "여성",
-        "age": "30·40·50대",
-        "segment": "홈쇼핑 구매 익숙한 층",
-        "appeal_axis": "권위(홈쇼핑) + 가격"
+        "gender": "남성",
+        "age": "50·60대",
+        "segment": "근력 저하",
+        "appeal_axis": "근비대(능동)"
       },
       "trust": {
-        "evidence": "허벅지 탄력·붓기·셀룰라이트 임상, 국가대표 리듬체조 관리 기기",
+        "evidence": "나사 EMS·국대·2주 체감",
         "refund": "–",
-        "discount": "최대 47% 상시 노출",
-        "compliance": "AI 생성 고지 있음(양호) / ⚠ '국내 유일' 최상급"
+        "discount": "–",
+        "compliance": "양호"
       },
-      "one_liner": "3매체 모두에서 돌아가며 14일 ROAS 2.69. 하단에 가격 바를 상시 띄워 96초 내내 오퍼를 붙잡아 두는 구조가 이 소재의 핵심이다.",
-      "why": "실제 홈쇼핑을 찍지 않고 AI로 홈쇼핑 문법(2인 합·상시 가격 바)만 빌려온 게 주효했다. 제작비 대비 회수가 좋아 다른 제품으로 이식 가능한 포맷."
+      "one_liner": "'일단 올라가보라'는 낮은 진입장벽 명령형 훅 + 나사·국대 권위. 5.9M을 2.88로 안정적.",
+      "why": "행동 유도형 훅 + 권위. 낮은 저항."
     },
     {
       "key": "th잘만들어Ⅵ_T",
       "rank_note": "top",
-      "roas": 2.66,
-      "spend": 28890310.0,
+      "roas": 2.63,
+      "spend": 28530941.0,
       "ctr": 1.29,
-      "cvr": 3.22,
-      "cpa": 56193,
-      "purchases": 514.128425,
+      "cvr": 3.16,
+      "cpa": 56957,
+      "purchases": 500.923519,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 9040995.0,
-          "revenue": 38363959.0,
-          "roas": 4.24,
-          "ctr": 0.72,
-          "cvr": 3.59,
-          "cpa": 35025,
-          "purchases": 258.128425,
+          "spend": 8653098.0,
+          "revenue": 35714750.0,
+          "roas": 4.13,
+          "ctr": 0.71,
+          "cvr": 3.44,
+          "cpa": 36066,
+          "purchases": 239.923519,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 15.2,
+          "completion": 11.5
         },
         "meta": {
-          "spend": 19849315.0,
-          "revenue": 38527000.0,
-          "roas": 1.94,
-          "ctr": 3.61,
-          "cvr": 2.91,
-          "cpa": 77536,
-          "purchases": 256.0,
-          "hook_rate": 45.6,
-          "hold_rate": 27.1
+          "spend": 19877843.0,
+          "revenue": 39222000.0,
+          "roas": 1.97,
+          "ctr": 3.59,
+          "cvr": 2.95,
+          "cpa": 76160,
+          "purchases": 261.0,
+          "hook_rate": 45.3,
+          "hold_rate": 27.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1657,307 +2068,58 @@
       "why": "역설 프레이밍이 효과를 과시 없이 각인. 능동적 근비대 소구."
     },
     {
-      "key": "th이발판써Ⅵ_T",
-      "rank_note": "top",
-      "roas": 2.44,
-      "spend": 5548005.0,
-      "ctr": 16.19,
-      "cvr": 0.07,
-      "cpa": 59951,
-      "purchases": 92.542962,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 403305.0,
-          "revenue": 2524581.0,
-          "roas": 6.26,
-          "ctr": 0.35,
-          "cvr": 5.11,
-          "cpa": 21750,
-          "purchases": 18.542962,
-          "hook_rate": null,
-          "hold_rate": null
-        },
-        "tiktok": {
-          "spend": 5099589.0,
-          "revenue": 10760133.0,
-          "roas": 2.11,
-          "ctr": 18.69,
-          "cvr": 0.06,
-          "cpa": 70828,
-          "purchases": 72.0,
-          "hook_rate": null,
-          "hold_rate": null
-        },
-        "meta": {
-          "spend": 45111.0,
-          "revenue": 276000.0,
-          "roas": 6.12,
-          "ctr": 1.16,
-          "cvr": 10.0,
-          "cpa": 22556,
-          "purchases": 2.0,
-          "hook_rate": 21.7,
-          "hold_rate": 51.2
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.8s.jpg",
-        "f05_13.7s.jpg",
-        "f06_20.5s.jpg",
-        "f07_27.4s.jpg",
-        "f08_34.2s.jpg",
-        "f09_41.1s.jpg"
-      ],
-      "transcript": "이 EMS 발판 밟아보지도 않고 다리 후들거린다고 징징되면 안 돼 수십만원짜리 VIP 클리닉에서 쓰는 속근육 재생 기술이 날리길래 10년 달고 살던 무릎 통증 끝내고 싶어서 한번 밟아봤거든? 근데 대퇴직근 기숙한 곳까지 찌릿한 전류가 미친 듯이 꽂히더니 마치 무력감이랑 시큰거림이 하루아침에 싹 날아갔다 잘못되는 거 아닌가 싶어서 재활센터 원장한테 물어보니까 이게 나사우주비행사들이 쓰는 엑스텐스 10.6 EMS 기술이 들어갔다는 거에 전류가 피부 7mm 아래 속근육을 뚫고 들어가 파업한 속근육 섬유를 초당 1200번씩 뵈서 섬유 밀도를 170% 폭발시킨다는 거 근데 제일 어이없는 건 회당 수십개 해지던 이재생 기술을 서마드가 도수치료 딱 한 번 받을 돈으로 평생 무제한 밝게 기기로 풀어버렸다는 거잉? 변화 없으면 100% 환불이라길래 매일 15분씩 발만 올렸는데 다리에 철근 박은 것처럼 힘이 차서 어이가 없더라 마침 오늘까지 47% 뜯가라는데 순식간에 잃어버린 근력 배에 찾아서 평생 정형외과 안 가는 삼겹게데도 너무 놀라지는 맛엔?",
-      "analyzed": true,
-      "base": {
-        "hook_type": "도발 명령형",
-        "first_3s": "'이 발판 밟아보지도 않고 다리 후들거린다고 징징대면 안 돼'",
-        "appeal_angle": "무릎·근력",
-        "cta": "",
-        "keywords": [
-          "징징대지마",
-          "VIP 클리닉",
-          "무릎 통증 10년",
-          "나사"
-        ]
-      },
-      "audio": {
-        "opening_line": "이 EMS 발판 밟아보지도 않고 다리 후들거린다고 징징되면 안 돼",
-        "voice_style": "도발 반말",
-        "narration_mode": "1인칭 권유"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "대퇴직근 전류",
-        "before_after": "무릎 시큰거림 사라짐",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "40·50대",
-        "segment": "무릎·근력",
-        "appeal_axis": "근력+통증완화"
-      },
-      "trust": {
-        "evidence": "VIP 클리닉·나사·재활센터",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "'징징대지 말고 밟아봐'라는 도발 훅 + VIP 클리닉·나사 권위. 4.3M을 2.33으로.",
-      "why": "도발 명령 훅 + 권위 스택."
-    },
-    {
-      "key": "th물류센터Ⅰ_AI",
+      "key": "th아빠다리Ⅵ_AI",
       "rank_note": "bottom",
-      "roas": 2.37,
-      "spend": 1990387.0,
-      "ctr": 2.15,
-      "cvr": 1.55,
-      "cpa": 68276,
-      "purchases": 29.152271,
+      "roas": 2.5,
+      "spend": 21983470.0,
+      "ctr": 8.88,
+      "cvr": 0.18,
+      "cpa": 61444,
+      "purchases": 357.779633,
       "platforms": [
         "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 1066848.0,
-          "revenue": 3794154.0,
-          "roas": 3.56,
-          "ctr": 1.28,
-          "cvr": 2.58,
-          "cpa": 46080,
-          "purchases": 23.152271,
-          "hook_rate": null,
-          "hold_rate": null
-        },
-        "meta": {
-          "spend": 923539.0,
-          "revenue": 933000.0,
-          "roas": 1.01,
-          "ctr": 5.62,
-          "cvr": 0.61,
-          "cpa": 153923,
-          "purchases": 6.0,
-          "hook_rate": 47.2,
-          "hold_rate": 71.8
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.3s.jpg",
-        "f05_12.5s.jpg",
-        "f06_18.8s.jpg",
-        "f07_25.1s.jpg",
-        "f08_31.3s.jpg",
-        "f09_37.6s.jpg"
-      ],
-      "transcript": "서마드 plx 전량 완판이라 죄송합니다. 홈쇼핑 론칭 단 1시간 만에 10억 물량 싹쓰리 완판 방송 도중 쇼호스트마저 우삭이 뺨치는 속도로 조기 퇴근시켜버린 초유의 사태가 벌어졌습니다. 가만히 앉아 발만 얹어두면 불필요한 지방만 쏙쏙 태워버린다는 사실이 입소문을 타면서 피부과 및 전문 클리닝 입점 폭주에 일반 고객분들 주문까지 겹쳐 공장을 24시간 돌려도 소진 속도를 도저히 못 따라가고 있습니다. 저 역시 하루 10시간씩 서서 일하느라 퉁퉁 붙던 코끼리 다리가 이거 밟고 단숨에 개운해지는 걸 직접 체감했기에 이 대란이 납득이 갑니다. 현재 영혼까지 끌어모아 물량을 확보 중입니다. 최선을 다해 가장 빠르게 보내드릴 테니 조금만 기다려 주십시오.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "완판·물류 과시형",
-        "first_3s": "AI 홈쇼핑, '1시간 만에 10억 완판, 공장 24시간'",
-        "appeal_angle": "완판 소셜프루프",
-        "cta": "",
-        "keywords": [
-          "1시간 10억 완판",
-          "쇼호스트 조기퇴근",
-          "지방 태움",
-          "공장 24시간"
-        ]
-      },
-      "audio": {
-        "opening_line": "써마드 plx 전량 완판이라 죄송합니다",
-        "voice_style": "홈쇼핑 과시체",
-        "narration_mode": "라이브 재현"
-      },
-      "visual": {
-        "format": "AI 홈쇼핑",
-        "mechanism_viz": "–",
-        "before_after": "–",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "혼성",
-        "age": "40·50대",
-        "segment": "홈쇼핑 친숙층",
-        "appeal_axis": "대중검증(완판)"
-      },
-      "trust": {
-        "evidence": "10억 완판·클리닉 입점",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ '지방 태움' 다이어트 효능 주장"
-      },
-      "one_liner": "완판·물류 과시로 인기만 강조하고 제품 근거·소구가 약하다. 0.61로 분석 소재 중 최하위 — 소셜프루프만으론 실패.",
-      "why": "완판 과시 과잉·소구 부재. 최저 전환."
-    },
-    {
-      "key": "th홈쇼핑국대급Ⅵ_AI",
-      "rank_note": "top",
-      "roas": 2.33,
-      "spend": 13639012.0,
-      "ctr": 2.19,
-      "cvr": 3.03,
-      "cpa": 64335,
-      "purchases": 212.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 13639012.0,
-          "revenue": 31794789.0,
-          "roas": 2.33,
-          "ctr": 2.19,
-          "cvr": 3.03,
-          "cpa": 64335,
-          "purchases": 212.0,
-          "hook_rate": 35.7,
-          "hold_rate": 15.8
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_13.8s.jpg",
-        "f05_27.5s.jpg",
-        "f06_41.3s.jpg",
-        "f07_55.1s.jpg",
-        "f08_68.8s.jpg",
-        "f09_82.6s.jpg"
-      ],
-      "transcript": "어디서나 국가대표급 케어를 받을 수 있는 마지막 찬스 완판 이후 한정수량으로 가져왔습니다 2주 무료 체험으로 부담 없이 사용해보세요 어머머 진짜 뭐야 잠깐만요 발만 올렸을 뿐인데 종아리까지 전류가 막 타고 올라오는데요 이거 홈쇼핑 10억 완판됐던 그 발판이잖아요 와 진짜 처음 느껴보는 자격인데 저는 허벅지까지도 오는데요 스커트 수백 번 해도 꿈적한 턴 속 근육까지 이렇게 쫙 깨워주니까 다리에 힘이 쫙 들어가네요 시중에 이런 제품 너무 많잖아요 근데 이 EMS 기기는 처음 살 때 제대로 된 걸로 사야 되거든요 피부 표면만 톡톡 건드리는 기기로는 속 근육을 못 잡아요 그래서 가져왔습니다 와 역시 저희 아버지도 평소에 오래 걸으면 금방 지치셨는데 이거 하시고는 아파트 15층 계단을 그냥 쭉쭉 올라가신다니까요 엘리베이터 타라고 해도 괜찮다고 그냥 두 칸씩 막 저도 이거 대기실에서 한 번 밟아 보고 완전 반해버렸어요 운동하고 여기 발 올려놓으면 근력이 막 두 배로 붙을 것 같고 피로도 싹 풀려서 너무 좋아요 진짜 최대 1200kHz까지 50단계 강도 조절되고요 온열 찜질 되고요 피부 7mm 아래 속 근육까지 정확하게 침투하는 엑스텐스 10.0 설계로 더 깊은 자극이 가능합니다 출시 1년 만에 17차 완판됐고요 없어서 못 팔던 그 EMS 발판입니다 국가대표들도 직접 쓰는 제품이거든요 여러분 이거 국내 유일 스펙이고요 집에서 그냥 국가대표급 케어를 받는 거거든요 홈쇼핑 전체 매진 근력 재생 발판 완판 기념으로 특별 재입고 되었다니까 더 특별한 할인가로 만나보세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "매진·체험 오퍼형",
-        "first_3s": "AI 홈쇼핑, '완판 이후 한정수량, 2주 무료체험'",
-        "appeal_angle": "대중검증+체험",
-        "cta": "2주 무료 체험",
-        "keywords": [
-          "완판",
-          "한정수량",
-          "2주 무료체험",
-          "10억 완판"
-        ]
-      },
-      "audio": {
-        "opening_line": "어디서나 국가대표급 케어를 받을 수 있는 마지막 찬스",
-        "voice_style": "홈쇼핑 흥분 톤",
-        "narration_mode": "라이브 재현"
-      },
-      "visual": {
-        "format": "AI 홈쇼핑",
-        "mechanism_viz": "발 올리자 전류 상행",
-        "before_after": "–",
-        "subtitle_style": "라이브 자막"
-      },
-      "target": {
-        "gender": "혼성",
-        "age": "40·50대",
-        "segment": "홈쇼핑 친숙층",
-        "appeal_axis": "대중검증+오퍼"
-      },
-      "trust": {
-        "evidence": "10억 완판·2주 무료체험",
-        "refund": "무료체험",
-        "discount": "한정수량",
-        "compliance": "양호"
-      },
-      "one_liner": "홈쇼핑 완판 열기 + '2주 무료체험'이라는 리스크 제거 오퍼를 결합했다. 소셜프루프와 진입장벽 완화 두 마리를 잡은 전환형.",
-      "why": "매진 긴박 + 무료체험 리스크 제거. 홈쇼핑 세대에 유효."
-    },
-    {
-      "key": "th버틴분들Ⅵ_TP",
-      "rank_note": "top",
-      "roas": 2.3,
-      "spend": 8298187.0,
-      "ctr": 5.47,
-      "cvr": 0.65,
-      "cpa": 68580,
-      "purchases": 121.0,
-      "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
-        "tiktok": {
-          "spend": 3626122.0,
-          "revenue": 12292554.0,
-          "roas": 3.39,
-          "ctr": 6.56,
-          "cvr": 0.51,
-          "cpa": 45900,
-          "purchases": 79.0,
+        "google": {
+          "spend": 1566419.0,
+          "revenue": 13441949.0,
+          "roas": 8.58,
+          "ctr": 1.41,
+          "cvr": 2.62,
+          "cpa": 17845,
+          "purchases": 87.779633,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 6.4,
+          "completion": 2.6
+        },
+        "tiktok": {
+          "spend": 10365852.0,
+          "revenue": 23945118.0,
+          "roas": 2.31,
+          "ctr": 11.39,
+          "cvr": 0.08,
+          "cpa": 66025,
+          "purchases": 157.0,
+          "hook_rate": 67.9,
+          "hold_rate": 82.8,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 4672065.0,
-          "revenue": 6812000.0,
-          "roas": 1.46,
-          "ctr": 2.91,
-          "cvr": 1.42,
-          "cpa": 111240,
-          "purchases": 42.0,
-          "hook_rate": 28.2,
-          "hold_rate": 23.4
+          "spend": 10051199.0,
+          "revenue": 17518000.0,
+          "roas": 1.74,
+          "ctr": 2.27,
+          "cvr": 1.43,
+          "cpa": 88949,
+          "purchases": 113.0,
+          "hook_rate": 49.5,
+          "hold_rate": 21.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1965,76 +2127,80 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_10.4s.jpg",
-        "f05_20.9s.jpg",
-        "f06_31.3s.jpg",
-        "f07_41.8s.jpg",
-        "f08_52.2s.jpg",
-        "f09_62.6s.jpg"
+        "f04_6.6s.jpg",
+        "f05_13.2s.jpg",
+        "f06_19.9s.jpg",
+        "f07_26.5s.jpg",
+        "f08_33.1s.jpg",
+        "f09_39.7s.jpg"
       ],
-      "transcript": "재활센터 VIP룸 원장님부터 깐깐한 재활 전문가까지 입을 모아 엄지척 중년 하체 돌덩이 보여서 마드같이",
+      "transcript": "아빠 다리 얇아졌다고 억지로 만보 걷게 하지 마세요 썸마드 하나면 다 해결되거든요 나이 들수록 운동을 해도 무릎만 아프고 근육은 안 붙는 이유가 뭘까요? 하체를 든든하게 버티던 기둥인 속근육이 이미 다 빠져버렸기 때문이에요 이 상태로 무리해서 걷기만 하면 온 하중을 뼈로만 버티게 되는 큼직한 악순환이 시작되죠 이럴 땐 무릎 깔아먹는 러닝 대신 죽인 속근육부터 강제로 깨워야 해요 그 압도적인 기술력을 발판 하나에 완벽하게 압축한 게 바로 썸마드입니다 썸마드의 엑스텐스 10.0 미세전류는 겉피부만 흐른 장난감이 아니에요 피부 7mm 아래까지 깊숙이 꽂혀서 텅 빈 속근육을 초당 1200회 무자비하게 타격하군요 관절의 무리감세질? 다 필요 없습니다 그저 소파에 앉아 하루 15분 발만 올리게 해주세요 바람 빠진 풍선 같던 아빠 다리가 볼덩이처럼 꽉 차오르고 시끈거리던 무릎 통증까지 싹 가라앉으실 겁니다 하루가 다르게 녹아내리는 우리 아빠 하체 근력 이젠 썸마드로 꽉꽉 채워 넣어주세요",
       "analyzed": true,
       "base": {
-        "hook_type": "전문가 추천형",
-        "first_3s": "'재활센터 원장부터 전문가까지 엄지척'",
-        "appeal_angle": "전문가 신뢰",
-        "cta": "",
+        "hook_type": "가족 걱정 대리 구매형",
+        "first_3s": "현관에 서 있는 3D 인체 골격 모형(아빠), '아빠 다리 얇아졌다고'",
+        "appeal_angle": "자녀가 아버지 하체 근력을 걱정하는 시점 — 선물 구매 유도",
+        "cta": "썸마드로 꽉꽉 채워 넣어주세요",
         "keywords": [
-          "재활센터 VIP",
-          "전문가 엄지척",
-          "중년 하체 돌덩이"
+          "아빠 다리",
+          "만보 걷기",
+          "속근육",
+          "7mm",
+          "하루 15분"
         ]
       },
       "audio": {
-        "opening_line": "재활센터 VIP룸 원장님부터 전문가까지 입을 모아 엄지척",
-        "voice_style": "권위 나열체",
-        "narration_mode": "3인칭 추천"
+        "opening_line": "아빠 다리 얇아졌다고 억지로 만보 걷게 하지 마세요",
+        "voice_style": "차분한 권유체",
+        "narration_mode": "3인칭 자녀 시점 해설"
       },
       "visual": {
-        "format": "실사/템플릿",
-        "mechanism_viz": "–",
-        "before_after": "중년 하체 돌덩이",
-        "subtitle_style": "자막"
+        "format": "3D 골격 모형 + 애니메이션",
+        "mechanism_viz": "뼈로만 버티는 하중 → 속근육 충전 시각화",
+        "before_after": "바람 빠진 풍선 → 볼록하게 참",
+        "subtitle_style": "흰 굵은 자막"
       },
       "target": {
-        "gender": "남성",
-        "age": "50·60대",
-        "segment": "전문가 신뢰 중시",
-        "appeal_axis": "권위"
+        "gender": "여성·남성 동시(구매자는 자녀)",
+        "age": "30·40대 자녀 → 60대 부모",
+        "segment": "부모 선물 검토층",
+        "appeal_axis": "기능(근력) + 효도 선물"
       },
       "trust": {
-        "evidence": "재활 전문가 추천",
+        "evidence": "속근육 소실 논리",
         "refund": "–",
         "discount": "–",
-        "compliance": "양호"
+        "compliance": "⚠ '무릎 통증까지 싹 가라앉는다' 치료 효과 표현. 골격만 남은 비주얼은 혐오 반응 소지"
       },
-      "one_liner": "전문가 다수의 추천을 나열해 신뢰를 쌓는다. 소액이지만 3.31로 효율 좋음.",
-      "why": "전문가 소셜프루프. 신뢰 기반 전환."
+      "one_liner": "지출 590만으로 써마드 대기군 2위 물량인데 ROAS 2.40으로 웬말이냐(3.2)에 못 미친다. 훅이 뼈만 남은 골격 모형이라 '우리 아빠'로 감정 이입이 안 되는 것이 원인으로 보인다.",
+      "why": "효도 선물이라는 각도는 유효하나 주인공을 해골로 그리면서 애정이 아니라 거부감이 먼저 온다 — 물량이 큰 만큼 실사 아버지 버전으로 교체 테스트할 가치가 크다."
     },
     {
       "key": "th비오기전Ⅺ_T",
       "rank_note": "bottom",
-      "roas": 2.3,
-      "spend": 1952469.0,
-      "ctr": 8.37,
+      "roas": 2.47,
+      "spend": 1952386.0,
+      "ctr": 8.38,
       "cvr": 0.14,
-      "cpa": 67449,
-      "purchases": 28.947182,
+      "cpa": 63357,
+      "purchases": 30.815669,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 760360.0,
-          "revenue": 2629392.0,
-          "roas": 3.46,
-          "ctr": 0.71,
-          "cvr": 2.0,
-          "cpa": 44866,
-          "purchases": 16.947182,
+          "spend": 760277.0,
+          "revenue": 2959642.0,
+          "roas": 3.89,
+          "ctr": 0.72,
+          "cvr": 2.22,
+          "cpa": 40407,
+          "purchases": 18.815669,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 22.2,
+          "completion": 18.3
         },
         "tiktok": {
           "spend": 1192109.0,
@@ -2044,8 +2210,10 @@
           "cvr": 0.06,
           "cpa": 99342,
           "purchases": 12.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 70.4,
+          "hold_rate": 83.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -2104,12 +2272,12 @@
     {
       "key": "th극세사다Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 2.29,
-      "spend": 4588441.0,
-      "ctr": 12.77,
-      "cvr": 0.03,
-      "cpa": 67477,
-      "purchases": 68.0,
+      "roas": 2.39,
+      "spend": 4621063.0,
+      "ctr": 12.75,
+      "cvr": 0.04,
+      "cpa": 64181,
+      "purchases": 72.0,
       "platforms": [
         "google",
         "tiktok"
@@ -2124,18 +2292,22 @@
           "cpa": null,
           "purchases": 0.0,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 22.6,
+          "completion": 17.3
         },
         "tiktok": {
-          "spend": 4587067.0,
-          "revenue": 10504383.0,
-          "roas": 2.29,
-          "ctr": 12.78,
-          "cvr": 0.03,
-          "cpa": 67457,
-          "purchases": 68.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 4619689.0,
+          "revenue": 11041057.0,
+          "roas": 2.39,
+          "ctr": 12.75,
+          "cvr": 0.04,
+          "cpa": 64162,
+          "purchases": 72.0,
+          "hook_rate": 84.9,
+          "hold_rate": 88.6,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -2192,14 +2364,14 @@
       "why": "폰 화면 재촬영이라 화질·몰입이 떨어지고, 근거가 전부 숫자 나열이라 후반 설득이 얇다. 훅은 살리되 실사 비교컷을 앞으로 당길 여지."
     },
     {
-      "key": "th아빠다리Ⅵ_AI",
+      "key": "th타이어Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 2.26,
-      "spend": 19162940.0,
-      "ctr": 9.5,
-      "cvr": 0.17,
-      "cpa": 68018,
-      "purchases": 281.73319000000004,
+      "roas": 2.38,
+      "spend": 1040931.0,
+      "ctr": 6.19,
+      "cvr": 0.28,
+      "cpa": 65427,
+      "purchases": 15.909832999999999,
       "platforms": [
         "google",
         "meta",
@@ -2207,37 +2379,43 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 640336.0,
-          "revenue": 4855546.0,
-          "roas": 7.58,
-          "ctr": 1.73,
-          "cvr": 2.3,
-          "cpa": 20179,
-          "purchases": 31.73319,
+          "spend": 205235.0,
+          "revenue": 1126557.0,
+          "roas": 5.49,
+          "ctr": 0.97,
+          "cvr": 5.86,
+          "cpa": 29702,
+          "purchases": 6.909833,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 32.4,
+          "completion": 28.3
         },
         "tiktok": {
-          "spend": 9402218.0,
-          "revenue": 22189234.0,
-          "roas": 2.36,
-          "ctr": 11.65,
-          "cvr": 0.09,
-          "cpa": 64399,
-          "purchases": 146.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 326684.0,
+          "revenue": 1211998.0,
+          "roas": 3.71,
+          "ctr": 7.47,
+          "cvr": 0.16,
+          "cpa": 40836,
+          "purchases": 8.0,
+          "hook_rate": 63.8,
+          "hold_rate": 87.8,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 9120386.0,
-          "revenue": 16271000.0,
-          "roas": 1.78,
-          "ctr": 2.27,
-          "cvr": 1.47,
-          "cpa": 87696,
-          "purchases": 104.0,
-          "hook_rate": 49.3,
-          "hold_rate": 21.0
+          "spend": 509012.0,
+          "revenue": 139000.0,
+          "roas": 0.27,
+          "ctr": 4.23,
+          "cvr": 0.19,
+          "cpa": 509012,
+          "purchases": 1.0,
+          "hook_rate": 67.0,
+          "hold_rate": 45.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -2245,77 +2423,343 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_6.6s.jpg",
-        "f05_13.2s.jpg",
-        "f06_19.9s.jpg",
-        "f07_26.5s.jpg",
-        "f08_33.1s.jpg",
-        "f09_39.7s.jpg"
+        "f04_7.9s.jpg",
+        "f05_15.7s.jpg",
+        "f06_23.6s.jpg",
+        "f07_31.4s.jpg",
+        "f08_39.3s.jpg",
+        "f09_47.1s.jpg"
       ],
-      "transcript": "아빠 다리 얇아졌다고 억지로 만보 걷게 하지 마세요 썸마드 하나면 다 해결되거든요 나이 들수록 운동을 해도 무릎만 아프고 근육은 안 붙는 이유가 뭘까요? 하체를 든든하게 버티던 기둥인 속근육이 이미 다 빠져버렸기 때문이에요 이 상태로 무리해서 걷기만 하면 온 하중을 뼈로만 버티게 되는 큼직한 악순환이 시작되죠 이럴 땐 무릎 깔아먹는 러닝 대신 죽인 속근육부터 강제로 깨워야 해요 그 압도적인 기술력을 발판 하나에 완벽하게 압축한 게 바로 썸마드입니다 썸마드의 엑스텐스 10.0 미세전류는 겉피부만 흐른 장난감이 아니에요 피부 7mm 아래까지 깊숙이 꽂혀서 텅 빈 속근육을 초당 1200회 무자비하게 타격하군요 관절의 무리감세질? 다 필요 없습니다 그저 소파에 앉아 하루 15분 발만 올리게 해주세요 바람 빠진 풍선 같던 아빠 다리가 볼덩이처럼 꽉 차오르고 시끈거리던 무릎 통증까지 싹 가라앉으실 겁니다 하루가 다르게 녹아내리는 우리 아빠 하체 근력 이젠 썸마드로 꽉꽉 채워 넣어주세요",
+      "transcript": "팽팽하던 타이어에서 바람이 아주 천천히 빠지면 어떻게 될까요? 티도 안 나다가 어느 날 도로 한복판에서 그대로 주저앉습니다 마흔 넘은 우리 다리 속근육이 딱 이 상태에요 나이 들면 다리 힘 빠진다는 거 모르는 분 없으시죠? 40대부터는 가만히 있어도 매년 5%씩 속근육이 사라지는데 이게 쌓이면 어느 날 욕실 바닥에 다리가 풀려 그대로 미끄러지고 그 한 번 넘어진 걸로 병상에 눕는 어르신들이 수두룩합니다 그런데 이걸 되돌리는 방법이 최근에 나왔습니다 바로 썸마드인데요 이건 EMS 발판인데 쉽게 말해 스쿼트 한 개 안 하고 발만 올려놔도 피부 7mm 아래 죽어있던 속근육을 강제로 깨워주는 원리에요 그래서 근력 활성 발판이라고도 불립니다 하루 딱 15분이면 스쿼트 300개를 밟은 효과라 2주만 밟아도 뻔하던 무릎이 편해지고 한 달이면 20대 군배 시절 허벅지처럼 눈으로 보이지 않는 속에서부터 힘이 차오르실 수밖에 없습니다 요즘 어지간한 5060 사장님들은 자기 전에 다들 밟고 계시는데 효과가 있으니까 그러시는 거 아니겠어요? 지금 물량은 홈쇼핑 10억 완판 기념으로 싸게 품고라 거의 반갑신데 다음 달부터는 다시 비싸진다고 합니다 아니 아예 재고가 없을지도 모르고요 지금 보셨을 때 얼른 챙기시는 게 이득이에요 이제는 정말 다리 힘 신경 쓰셔야 할 나이입니다",
       "analyzed": true,
       "base": {
-        "hook_type": "가족 걱정 대리 구매형",
-        "first_3s": "현관에 서 있는 3D 인체 골격 모형(아빠), '아빠 다리 얇아졌다고'",
-        "appeal_angle": "자녀가 아버지 하체 근력을 걱정하는 시점 — 선물 구매 유도",
-        "cta": "썸마드로 꽉꽉 채워 넣어주세요",
+        "hook_type": "비유 설명형",
+        "first_3s": "정비소에서 타이어를 다루는 손, '팽팽하던 타이어에서'",
+        "appeal_angle": "천천히 바람 빠지는 타이어 = 40대 이후 속근육, 어느 날 갑자기 주저앉는다",
+        "cta": "홈쇼핑 10억 완판 기념가, 다음 달 인상 전 확보",
         "keywords": [
-          "아빠 다리",
-          "만보 걷기",
-          "속근육",
-          "7mm",
-          "하루 15분"
+          "타이어 비유",
+          "매년 5%",
+          "낙상",
+          "스쿼트 300개",
+          "10억 완판"
         ]
       },
       "audio": {
-        "opening_line": "아빠 다리 얇아졌다고 억지로 만보 걷게 하지 마세요",
-        "voice_style": "차분한 권유체",
-        "narration_mode": "3인칭 자녀 시점 해설"
+        "opening_line": "팽팽하던 타이어에서 바람이 아주 천천히 빠지면 어떻게 될까요?",
+        "voice_style": "차분한 설득체",
+        "narration_mode": "3인칭 해설"
       },
       "visual": {
-        "format": "3D 골격 모형 + 애니메이션",
-        "mechanism_viz": "뼈로만 버티는 하중 → 속근육 충전 시각화",
-        "before_after": "바람 빠진 풍선 → 볼록하게 참",
+        "format": "실사 B롤 + 자막 편집",
+        "mechanism_viz": "타이어 공기압 비유 → 속근육 소실",
+        "before_after": "풀린 다리 → 힘이 차오름",
         "subtitle_style": "흰 굵은 자막"
       },
       "target": {
-        "gender": "여성·남성 동시(구매자는 자녀)",
-        "age": "30·40대 자녀 → 60대 부모",
-        "segment": "부모 선물 검토층",
-        "appeal_axis": "기능(근력) + 효도 선물"
+        "gender": "남성",
+        "age": "50·60대",
+        "segment": "사업·자영업 중년 남성",
+        "appeal_axis": "기능(근력) + 낙상 예방"
       },
       "trust": {
-        "evidence": "속근육 소실 논리",
+        "evidence": "매년 5% 근손실·홈쇼핑 10억 완판",
+        "refund": "–",
+        "discount": "완판 기념가, 다음 달 인상 예고",
+        "compliance": "⚠ '하루 15분이면 스쿼트 300개 효과' 운동 대체 과장. '넘어져 병상에 눕는다'는 공포 소구"
+      },
+      "one_liner": "타이어 비유 하나로 '지금은 멀쩡한데 왜 사야 하나'를 설명해낸 도입이 좋다. 3플랫폼 104만 지출에 ROAS 2.37로 평균권.",
+      "why": "증상이 없는 사람에게 필요를 만드는 비유는 강한데, 뒤가 스펙·할인 나열로 길어지면서 초반 몰입이 흩어짐."
+    },
+    {
+      "key": "th홈쇼핑국대급Ⅵ_AI",
+      "rank_note": "top",
+      "roas": 2.35,
+      "spend": 13799461.0,
+      "ctr": 2.18,
+      "cvr": 3.04,
+      "cpa": 63592,
+      "purchases": 217.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 13799461.0,
+          "revenue": 32487789.0,
+          "roas": 2.35,
+          "ctr": 2.18,
+          "cvr": 3.04,
+          "cpa": 63592,
+          "purchases": 217.0,
+          "hook_rate": 35.8,
+          "hold_rate": 15.7,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_13.8s.jpg",
+        "f05_27.5s.jpg",
+        "f06_41.3s.jpg",
+        "f07_55.1s.jpg",
+        "f08_68.8s.jpg",
+        "f09_82.6s.jpg"
+      ],
+      "transcript": "어디서나 국가대표급 케어를 받을 수 있는 마지막 찬스 완판 이후 한정수량으로 가져왔습니다 2주 무료 체험으로 부담 없이 사용해보세요 어머머 진짜 뭐야 잠깐만요 발만 올렸을 뿐인데 종아리까지 전류가 막 타고 올라오는데요 이거 홈쇼핑 10억 완판됐던 그 발판이잖아요 와 진짜 처음 느껴보는 자격인데 저는 허벅지까지도 오는데요 스커트 수백 번 해도 꿈적한 턴 속 근육까지 이렇게 쫙 깨워주니까 다리에 힘이 쫙 들어가네요 시중에 이런 제품 너무 많잖아요 근데 이 EMS 기기는 처음 살 때 제대로 된 걸로 사야 되거든요 피부 표면만 톡톡 건드리는 기기로는 속 근육을 못 잡아요 그래서 가져왔습니다 와 역시 저희 아버지도 평소에 오래 걸으면 금방 지치셨는데 이거 하시고는 아파트 15층 계단을 그냥 쭉쭉 올라가신다니까요 엘리베이터 타라고 해도 괜찮다고 그냥 두 칸씩 막 저도 이거 대기실에서 한 번 밟아 보고 완전 반해버렸어요 운동하고 여기 발 올려놓으면 근력이 막 두 배로 붙을 것 같고 피로도 싹 풀려서 너무 좋아요 진짜 최대 1200kHz까지 50단계 강도 조절되고요 온열 찜질 되고요 피부 7mm 아래 속 근육까지 정확하게 침투하는 엑스텐스 10.0 설계로 더 깊은 자극이 가능합니다 출시 1년 만에 17차 완판됐고요 없어서 못 팔던 그 EMS 발판입니다 국가대표들도 직접 쓰는 제품이거든요 여러분 이거 국내 유일 스펙이고요 집에서 그냥 국가대표급 케어를 받는 거거든요 홈쇼핑 전체 매진 근력 재생 발판 완판 기념으로 특별 재입고 되었다니까 더 특별한 할인가로 만나보세요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "매진·체험 오퍼형",
+        "first_3s": "AI 홈쇼핑, '완판 이후 한정수량, 2주 무료체험'",
+        "appeal_angle": "대중검증+체험",
+        "cta": "2주 무료 체험",
+        "keywords": [
+          "완판",
+          "한정수량",
+          "2주 무료체험",
+          "10억 완판"
+        ]
+      },
+      "audio": {
+        "opening_line": "어디서나 국가대표급 케어를 받을 수 있는 마지막 찬스",
+        "voice_style": "홈쇼핑 흥분 톤",
+        "narration_mode": "라이브 재현"
+      },
+      "visual": {
+        "format": "AI 홈쇼핑",
+        "mechanism_viz": "발 올리자 전류 상행",
+        "before_after": "–",
+        "subtitle_style": "라이브 자막"
+      },
+      "target": {
+        "gender": "혼성",
+        "age": "40·50대",
+        "segment": "홈쇼핑 친숙층",
+        "appeal_axis": "대중검증+오퍼"
+      },
+      "trust": {
+        "evidence": "10억 완판·2주 무료체험",
+        "refund": "무료체험",
+        "discount": "한정수량",
+        "compliance": "양호"
+      },
+      "one_liner": "홈쇼핑 완판 열기 + '2주 무료체험'이라는 리스크 제거 오퍼를 결합했다. 소셜프루프와 진입장벽 완화 두 마리를 잡은 전환형.",
+      "why": "매진 긴박 + 무료체험 리스크 제거. 홈쇼핑 세대에 유효."
+    },
+    {
+      "key": "th버틴분들Ⅵ_TP",
+      "rank_note": "top",
+      "roas": 2.31,
+      "spend": 8674509.0,
+      "ctr": 5.53,
+      "cvr": 0.64,
+      "cpa": 68845,
+      "purchases": 126.0,
+      "platforms": [
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 3819015.0,
+          "revenue": 13061031.0,
+          "roas": 3.42,
+          "ctr": 6.66,
+          "cvr": 0.5,
+          "cpa": 46012,
+          "purchases": 83.0,
+          "hook_rate": 43.5,
+          "hold_rate": 79.5,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 4855494.0,
+          "revenue": 6951000.0,
+          "roas": 1.43,
+          "ctr": 2.87,
+          "cvr": 1.4,
+          "cpa": 112918,
+          "purchases": 43.0,
+          "hook_rate": 28.4,
+          "hold_rate": 23.3,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_10.4s.jpg",
+        "f05_20.9s.jpg",
+        "f06_31.3s.jpg",
+        "f07_41.8s.jpg",
+        "f08_52.2s.jpg",
+        "f09_62.6s.jpg"
+      ],
+      "transcript": "재활센터 VIP룸 원장님부터 깐깐한 재활 전문가까지 입을 모아 엄지척 중년 하체 돌덩이 보여서 마드같이",
+      "analyzed": true,
+      "base": {
+        "hook_type": "전문가 추천형",
+        "first_3s": "'재활센터 원장부터 전문가까지 엄지척'",
+        "appeal_angle": "전문가 신뢰",
+        "cta": "",
+        "keywords": [
+          "재활센터 VIP",
+          "전문가 엄지척",
+          "중년 하체 돌덩이"
+        ]
+      },
+      "audio": {
+        "opening_line": "재활센터 VIP룸 원장님부터 전문가까지 입을 모아 엄지척",
+        "voice_style": "권위 나열체",
+        "narration_mode": "3인칭 추천"
+      },
+      "visual": {
+        "format": "실사/템플릿",
+        "mechanism_viz": "–",
+        "before_after": "중년 하체 돌덩이",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "50·60대",
+        "segment": "전문가 신뢰 중시",
+        "appeal_axis": "권위"
+      },
+      "trust": {
+        "evidence": "재활 전문가 추천",
         "refund": "–",
         "discount": "–",
-        "compliance": "⚠ '무릎 통증까지 싹 가라앉는다' 치료 효과 표현. 골격만 남은 비주얼은 혐오 반응 소지"
+        "compliance": "양호"
       },
-      "one_liner": "지출 590만으로 써마드 대기군 2위 물량인데 ROAS 2.40으로 웬말이냐(3.2)에 못 미친다. 훅이 뼈만 남은 골격 모형이라 '우리 아빠'로 감정 이입이 안 되는 것이 원인으로 보인다.",
-      "why": "효도 선물이라는 각도는 유효하나 주인공을 해골로 그리면서 애정이 아니라 거부감이 먼저 온다 — 물량이 큰 만큼 실사 아버지 버전으로 교체 테스트할 가치가 크다."
+      "one_liner": "전문가 다수의 추천을 나열해 신뢰를 쌓는다. 소액이지만 3.31로 효율 좋음.",
+      "why": "전문가 소셜프루프. 신뢰 기반 전환."
+    },
+    {
+      "key": "th물류센터Ⅰ_AI",
+      "rank_note": "bottom",
+      "roas": 2.31,
+      "spend": 1987414.0,
+      "ctr": 2.15,
+      "cvr": 1.5,
+      "cpa": 70595,
+      "purchases": 28.152271,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 1066848.0,
+          "revenue": 3794154.0,
+          "roas": 3.56,
+          "ctr": 1.28,
+          "cvr": 2.58,
+          "cpa": 46080,
+          "purchases": 23.152271,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 41.3,
+          "completion": 36.0
+        },
+        "meta": {
+          "spend": 920566.0,
+          "revenue": 794000.0,
+          "roas": 0.86,
+          "ctr": 5.62,
+          "cvr": 0.51,
+          "cpa": 184113,
+          "purchases": 5.0,
+          "hook_rate": 47.3,
+          "hold_rate": 71.8,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_6.3s.jpg",
+        "f05_12.5s.jpg",
+        "f06_18.8s.jpg",
+        "f07_25.1s.jpg",
+        "f08_31.3s.jpg",
+        "f09_37.6s.jpg"
+      ],
+      "transcript": "서마드 plx 전량 완판이라 죄송합니다. 홈쇼핑 론칭 단 1시간 만에 10억 물량 싹쓰리 완판 방송 도중 쇼호스트마저 우삭이 뺨치는 속도로 조기 퇴근시켜버린 초유의 사태가 벌어졌습니다. 가만히 앉아 발만 얹어두면 불필요한 지방만 쏙쏙 태워버린다는 사실이 입소문을 타면서 피부과 및 전문 클리닝 입점 폭주에 일반 고객분들 주문까지 겹쳐 공장을 24시간 돌려도 소진 속도를 도저히 못 따라가고 있습니다. 저 역시 하루 10시간씩 서서 일하느라 퉁퉁 붙던 코끼리 다리가 이거 밟고 단숨에 개운해지는 걸 직접 체감했기에 이 대란이 납득이 갑니다. 현재 영혼까지 끌어모아 물량을 확보 중입니다. 최선을 다해 가장 빠르게 보내드릴 테니 조금만 기다려 주십시오.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "완판·물류 과시형",
+        "first_3s": "AI 홈쇼핑, '1시간 만에 10억 완판, 공장 24시간'",
+        "appeal_angle": "완판 소셜프루프",
+        "cta": "",
+        "keywords": [
+          "1시간 10억 완판",
+          "쇼호스트 조기퇴근",
+          "지방 태움",
+          "공장 24시간"
+        ]
+      },
+      "audio": {
+        "opening_line": "써마드 plx 전량 완판이라 죄송합니다",
+        "voice_style": "홈쇼핑 과시체",
+        "narration_mode": "라이브 재현"
+      },
+      "visual": {
+        "format": "AI 홈쇼핑",
+        "mechanism_viz": "–",
+        "before_after": "–",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "혼성",
+        "age": "40·50대",
+        "segment": "홈쇼핑 친숙층",
+        "appeal_axis": "대중검증(완판)"
+      },
+      "trust": {
+        "evidence": "10억 완판·클리닉 입점",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ '지방 태움' 다이어트 효능 주장"
+      },
+      "one_liner": "완판·물류 과시로 인기만 강조하고 제품 근거·소구가 약하다. 0.61로 분석 소재 중 최하위 — 소셜프루프만으론 실패.",
+      "why": "완판 과시 과잉·소구 부재. 최저 전환."
     },
     {
       "key": "th멀쩡하던Ⅺ_AN",
       "rank_note": "bottom",
-      "roas": 2.18,
+      "roas": 2.17,
       "spend": 1287213.0,
       "ctr": 0.87,
       "cvr": 1.59,
-      "cpa": 67489,
-      "purchases": 19.072858,
+      "cpa": 67805,
+      "purchases": 18.984151,
       "platforms": [
         "google"
       ],
       "platform_metrics": {
         "google": {
           "spend": 1287213.0,
-          "revenue": 2811361.0,
-          "roas": 2.18,
+          "revenue": 2799031.0,
+          "roas": 2.17,
           "ctr": 0.87,
           "cvr": 1.59,
-          "cpa": 67489,
-          "purchases": 19.072858,
+          "cpa": 67805,
+          "purchases": 18.984151,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 34.3,
+          "completion": 28.1
         }
       },
       "frames": [
@@ -2373,26 +2817,28 @@
     {
       "key": "th저도써봄Ⅺ_AI",
       "rank_note": "bottom",
-      "roas": 2.06,
+      "roas": 2.11,
       "spend": 2039390.0,
       "ctr": 0.93,
-      "cvr": 1.61,
-      "cpa": 69569,
-      "purchases": 29.314528,
+      "cvr": 1.63,
+      "cpa": 68555,
+      "purchases": 29.748419,
       "platforms": [
         "google"
       ],
       "platform_metrics": {
         "google": {
           "spend": 2039390.0,
-          "revenue": 4200717.0,
-          "roas": 2.06,
+          "revenue": 4297886.0,
+          "roas": 2.11,
           "ctr": 0.93,
-          "cvr": 1.61,
-          "cpa": 69569,
-          "purchases": 29.314528,
+          "cvr": 1.63,
+          "cpa": 68555,
+          "purchases": 29.748419,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 19.2,
+          "completion": 13.8
         }
       },
       "frames": [
@@ -2448,106 +2894,31 @@
       "why": "권위 앵커 대비 밋밋한 후기 + 긴 호흡."
     },
     {
-      "key": "th몰랐어Ⅵ_AN",
-      "rank_note": "bottom",
-      "roas": 2.04,
-      "spend": 1246023.0,
-      "ctr": 0.83,
-      "cvr": 1.96,
-      "cpa": 68011,
-      "purchases": 18.321035,
-      "platforms": [
-        "google"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 1246023.0,
-          "revenue": 2544009.0,
-          "roas": 2.04,
-          "ctr": 0.83,
-          "cvr": 1.96,
-          "cpa": 68011,
-          "purchases": 18.321035,
-          "hook_rate": null,
-          "hold_rate": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_8.7s.jpg",
-        "f05_17.4s.jpg",
-        "f06_26.0s.jpg",
-        "f07_34.7s.jpg",
-        "f08_43.4s.jpg",
-        "f09_52.1s.jpg"
-      ],
-      "transcript": "20년 동안 몰랐어 근육이 조용히 사라지고 있다는 걸 애쓰장단 여정만 키웠었어 아내보다 못 느껴본 적 없는 자극이 왔어 올라가기 맞는데 내",
-      "analyzed": true,
-      "base": {
-        "hook_type": "노쇠 자각 노래형",
-        "first_3s": "애니 노래, \"20년 동안 몰랐어, 근육이 조용히 사라지고 있다는 걸\"",
-        "appeal_angle": "근력 회복(자각)",
-        "cta": "",
-        "keywords": [
-          "20년 몰랐어",
-          "근육 소멸",
-          "자극",
-          "노래"
-        ]
-      },
-      "audio": {
-        "opening_line": "20년 동안 몰랐어 근육이 조용히 사라지고 있다는 걸",
-        "voice_style": "감성 노래",
-        "narration_mode": "노래형"
-      },
-      "visual": {
-        "format": "AI 애니",
-        "mechanism_viz": "속근육 자극",
-        "before_after": "자극 체감",
-        "subtitle_style": "감성 자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "50·60대",
-        "segment": "근력 저하 중장년",
-        "appeal_axis": "근력(자각)"
-      },
-      "trust": {
-        "evidence": "속근육 원리",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "노쇠 자각 감성 노래인데 정보·긴박이 약해 2.31 중하위. 노래 몰입 대비 전환력 부족.",
-      "why": "감성 노래 대비 소구·근거 약함."
-    },
-    {
       "key": "th거뜬하게Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 2.01,
-      "spend": 2724379.0,
-      "ctr": 5.58,
+      "roas": 1.99,
+      "spend": 2694572.0,
+      "ctr": 5.53,
       "cvr": 0.39,
-      "cpa": 73632,
-      "purchases": 37.0,
+      "cpa": 74849,
+      "purchases": 36.0,
       "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 1700040.0,
-          "revenue": 4556107.0,
-          "roas": 2.68,
-          "ctr": 6.42,
+          "spend": 1670233.0,
+          "revenue": 4426117.0,
+          "roas": 2.65,
+          "ctr": 6.38,
           "cvr": 0.35,
-          "cpa": 54840,
-          "purchases": 31.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "cpa": 55674,
+          "purchases": 30.0,
+          "hook_rate": 50.5,
+          "hold_rate": 79.3,
+          "play50": null,
+          "completion": null
         },
         "meta": {
           "spend": 1024339.0,
@@ -2558,7 +2929,9 @@
           "cpa": 170723,
           "purchases": 6.0,
           "hook_rate": 31.4,
-          "hold_rate": 34.2
+          "hold_rate": 34.2,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -2614,40 +2987,44 @@
       "why": "근거는 좋으나 초반 3초 자극과 마무리 강권이 약해 전환력이 부족."
     },
     {
-      "key": "th뇌의명령Ⅵ_AI",
+      "key": "th허벅지얇Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 2.0,
-      "spend": 667319.0,
-      "ctr": 3.93,
-      "cvr": 0.43,
-      "cpa": 92965,
-      "purchases": 7.178202,
+      "roas": 1.93,
+      "spend": 1615768.0,
+      "ctr": 5.58,
+      "cvr": 0.19,
+      "cpa": 79637,
+      "purchases": 20.289175,
       "platforms": [
         "google",
-        "meta"
+        "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 148613.0,
-          "revenue": 1192776.0,
-          "roas": 8.03,
-          "ctr": 0.51,
-          "cvr": 3.57,
-          "cpa": 24054,
-          "purchases": 6.178202,
+          "spend": 536798.0,
+          "revenue": 695212.0,
+          "roas": 1.3,
+          "ctr": 0.69,
+          "cvr": 0.68,
+          "cpa": 125152,
+          "purchases": 4.289175,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 35.6,
+          "completion": 30.8
         },
-        "meta": {
-          "spend": 518706.0,
-          "revenue": 139000.0,
-          "roas": 0.27,
-          "ctr": 17.19,
-          "cvr": 0.07,
-          "cpa": 518706,
-          "purchases": 1.0,
-          "hook_rate": 69.9,
-          "hold_rate": 74.9
+        "tiktok": {
+          "spend": 1078970.0,
+          "revenue": 2416893.0,
+          "roas": 2.24,
+          "ctr": 10.04,
+          "cvr": 0.16,
+          "cpa": 67436,
+          "purchases": 16.0,
+          "hook_rate": 68.1,
+          "hold_rate": 83.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -2655,209 +3032,42 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_8.5s.jpg",
-        "f05_17.1s.jpg",
-        "f06_25.6s.jpg",
-        "f07_34.2s.jpg",
-        "f08_42.7s.jpg",
-        "f09_51.3s.jpg"
+        "f04_5.2s.jpg",
+        "f05_10.5s.jpg",
+        "f06_15.7s.jpg",
+        "f07_21.0s.jpg",
+        "f08_26.2s.jpg",
+        "f09_31.5s.jpg"
       ],
-      "transcript": "아니, 다리 속 근육한테 수축하라고 명령을 내리는데 왜 다들 내 말을 안 듣는 거지? 이러다 가시다리 직행이라고! 10년째 방치돼서 근삼유가 유포처럼 말라비틀어졌는데 어떻게 움직여? 날 꽉 틀어막고 있어서 내 수축 엔진이 아예 멈췄다고! 아! 주인이 또 스커트한다! 아우, 욱신거려! 이러다 연골 다 갈려 나간다고! 이거 언제까지 하는 거야? 잠깐! 우리 주인처럼 죽어도 다리 힘 안 붙던 옆집 아저씨 알지? 요새 써마드라는 걸 봤더니 몸이 20대 시절로 완전 돌아와서 말벅지처럼 힘이 차올랐다던데? 써마드? 그게 대체 뭔데? 나사 우주비행사 근력 재활용으로 만든 엑스텐스 10.0 기술 1200Hz 초정밀 주파수가 피부 7mm 아래로 뚫고 들어와서 파업해버린 속 근육을 초당 1200Hz씩 강제로 두드려 깨운 데 오, 온다! 다이렉트로 타겨 오니까 멈췄던 수축 엔진이 돌아간다! 통신세계! 드디어 내 명령이 속 근육까지 다이렉트로 꽂힌다! 가동률 170% 돌파! 꽉 살겠다! 속 근육이 내 주변에 깁스처럼 단단하게 꽉 잡아주니까 3년 묵은 시큰거림이 싹 사라졌어! 옆집 아저씨가 왜 날아다니는지 알겠네 물렁하던 내 속에 밀도가 꽉꽉 타오르는 거 보여? 주인님 앞으로도 써마드만 꾸준히 챙겨주세요",
+      "transcript": "아직 킷 넉넉해졌다고 좋아하셨나요? 그거 중년 여성의 생명 줄인 해체 속 근육이 싹 다 녹아내렸다는 끔찍한 경고입니다. 나이 들수록 허벅지가 순두부처럼 물렁해지잖아요? 이거 방치하면 온몸의 체중을 무릎 연골 혼자 버텨야 해요. 뼈끼리 맷돌처럼 짓 눌리고 갈리다. 결국 내 발로 화장실도 못 가는 끔찍한 일이 벌어지는 거죠. 근육 채운다고 억지로 스쿼트하다. 남은 연골까지 박살 내지 마세요. 똑똑한 분들은 이미 소파에 편하게 앉아 썸마드 plx에 발부터 올리고 있습니다. 독보적인 엑스텐스 10.0 미세전유가 피부 7mm 아래 텀빈 속 근육을 찾아내 초단 1200건 무자비하게 타격해서 꽉꽉 채워주거든요. 가만히 앉아만 있어도 순두부 같던 허벅지에 쫀쫀한 탄력이 확 붙어요. 근육 다 빠져 평생 후회하기 전에 지금 불만족 100% 환불 이벤트 할 때 무조건 들이세요.",
       "analyzed": true,
       "base": {
-        "hook_type": "근육 의인화 유머형",
-        "first_3s": "애니, 다리 속근육이 \"수축하라는데 왜 다들 내 말을 안 듣지?\"",
-        "appeal_angle": "근력 회복(유머)",
+        "hook_type": "중년여성 공포형",
+        "first_3s": "\"허벅지 얇아진 게 속근육 녹은 끔찍한 경고\"",
+        "appeal_angle": "근력·연골 공포(여성)",
         "cta": "",
         "keywords": [
-          "근육 의인화",
-          "수축 명령",
-          "옆집 아저씨",
-          "20대 회귀"
-        ]
-      },
-      "audio": {
-        "opening_line": "다리 속 근육한테 수축하라고 명령을 내리는데 왜 다들 내 말을 안 듣는 거지?",
-        "voice_style": "근육 캐릭터 코믹 더빙",
-        "narration_mode": "의인화 캐릭터극"
-      },
-      "visual": {
-        "format": "AI 애니",
-        "mechanism_viz": "속근육 수축 원리 의인화",
-        "before_after": "20대 시절 회귀",
-        "subtitle_style": "캐릭터 자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "50·60대",
-        "segment": "근력 저하 중장년",
-        "appeal_axis": "근력(유머)"
-      },
-      "trust": {
-        "evidence": "속근육 원리",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "근육을 의인화한 코믹 설정은 신선하나 정보·긴박이 약하고 소액(1.2M)이라 1.58로 저조. 재미가 구매 동기로는 약한 전형.",
-      "why": "의인화 재미 대비 소구·긴박 부족."
-    },
-    {
-      "key": "th지금놀려Ⅲ_T",
-      "rank_note": "bottom",
-      "roas": 1.98,
-      "spend": 1256900.0,
-      "ctr": 17.59,
-      "cvr": 0.07,
-      "cpa": 89779,
-      "purchases": 14.0,
-      "platforms": [
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 1255918.0,
-          "revenue": 2486718.0,
-          "roas": 1.98,
-          "ctr": 17.6,
-          "cvr": 0.07,
-          "cpa": 89708,
-          "purchases": 14.0,
-          "hook_rate": null,
-          "hold_rate": null
-        },
-        "meta": {
-          "spend": 982.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 2.5,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": 12.5,
-          "hold_rate": 40.0
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_9.5s.jpg",
-        "f05_19.1s.jpg",
-        "f06_28.6s.jpg",
-        "f07_38.2s.jpg",
-        "f08_47.7s.jpg",
-        "f09_57.2s.jpg"
-      ],
-      "transcript": "지금 사람 놀려요? 품절인데 광고를 왜 하는 거예요? 약간 오해가 있으신 것 같은데 15번 발만 올려두면 종아리 깊숙한 알까지 돈까스 망치로 두드리듯 풀어주고 엑스텐스 시점 연고 밀도 전류가 통통 부은 하체 붓기를 뿌리부터 싹 빼줘서 하루 종일 바지 조이던 극세사처럼 가볍게 유지되는 들여서 품절이 잦아요 이번에 원가 상승으로 가격이 오를 예정인데 지금 비밀링크에서 주문하시는 분들께만 기존 47% 할인가로 드려요 롯데 홈 쇼핑 입장 1시간 만에 10억 광판됐을 만큼 효과는 이미 증명됐... 이 스르르 사라지는 격... 해보세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "항의 전화 상황극형",
-        "first_3s": "젊은 여성이 통화하며 '지금 사람 놀려요? 품절인데 광고를 왜 하는 거예요?'",
-        "appeal_angle": "품절 항의를 빌미로 품절될 만큼 잘 팔린다는 인기를 증명",
-        "cta": "비밀링크 47% 할인, 가격 인상 예정",
-        "keywords": [
-          "품절인데 광고를",
-          "돈까스 망치",
-          "극세사",
-          "롯데홈쇼핑 10억",
-          "47%"
-        ]
-      },
-      "audio": {
-        "opening_line": "지금 사람 놀려요? 품절인데 광고를 왜 하는 거예요?",
-        "voice_style": "따지는 통화체",
-        "narration_mode": "고객-상담원 대화극"
-      },
-      "visual": {
-        "format": "실사 인물 상황극",
-        "mechanism_viz": "종아리 알 풀어주는 비유(돈까스 망치)",
-        "before_after": "조이던 바지 → 가벼움",
-        "subtitle_style": "주황 강조 + 흰 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "하체 붓기·품절템 반응층",
-        "appeal_axis": "미용(하체) + 희소성"
-      },
-      "trust": {
-        "evidence": "롯데홈쇼핑 1시간 10억 완판",
-        "refund": "–",
-        "discount": "47% + 인상 예고",
-        "compliance": "⚠ 품절·가격 인상 압박이 반복돼 과장 소지. 실제 품절 여부와 인상 계획이 사실이어야 함"
-      },
-      "one_liner": "품절 항의라는 역발상 훅은 신선하지만 이후가 전부 할인·품절 압박이라 제품 이유가 남지 않는다. 88만 지출에 ROAS 1.75.",
-      "why": "희소성 소구는 이미 사고 싶던 사람에게만 작동 — 신규 설득 구간이 없어 효율이 낮음."
-    },
-    {
-      "key": "th겉보기엔Ⅵ_T",
-      "rank_note": "bottom",
-      "roas": 1.89,
-      "spend": 1006449.0,
-      "ctr": 10.56,
-      "cvr": 0.11,
-      "cpa": 77419,
-      "purchases": 13.0,
-      "platforms": [
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 1006449.0,
-          "revenue": 1903244.0,
-          "roas": 1.89,
-          "ctr": 10.56,
-          "cvr": 0.11,
-          "cpa": 77419,
-          "purchases": 13.0,
-          "hook_rate": null,
-          "hold_rate": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.9s.jpg",
-        "f05_13.8s.jpg",
-        "f06_20.7s.jpg",
-        "f07_27.5s.jpg",
-        "f08_34.4s.jpg",
-        "f09_41.3s.jpg"
-      ],
-      "transcript": "겉보기엔 평범한 발판 같지만 한 번 써본 분들은 서마드의 압도적 타격감에 충격받을 수밖에 없습니다 지팡이 집던 60대가 단 3주 만에 돌덩이 같은 하체를 되찾기 때문이죠 보통 다리가 얇아지면 억지로 만보부터 걷는데 텅 빈 하체로 무작정 걷는 건 남은 연골만 싹 다 박살 내는 지름길입니다 뼈를 든든하게 지탱하는 속 근육부터 강제로 살려야 하거든요 서마드는 억지로 움직일 필요 없이 독보적인 엑스텐스 10.0 미세전류가 피부 7mm 아래 숨은 속 근육을 초당 1200번 무자비하게 타격해줍니다 가만히 소파에 앉아 발만 올려도 텅 빈 근섬유가 꽉꽉 차오르며 하체가 스스로 버틸 수 있는 최적의 근력 환경이 만들어지는 원리죠 실제로 국가대표 선수들도 재활할 때 쓰는 방식이라 벌써 입소문이 터져 품절 대란입니다 연골 다 갈가먹고 비싼 병원비 수백 난릴 바엔 매일 15분 서마드 쓰는 게 무조건 이득 아니겠어요?",
-      "analyzed": true,
-      "base": {
-        "hook_type": "반전·공포형",
-        "first_3s": "\"겉보기엔 평범한 발판인데 압도적 타격감\"",
-        "appeal_angle": "근력·연골 공포",
-        "cta": "",
-        "keywords": [
-          "겉보기엔 평범",
-          "지팡이 60대",
-          "연골 박살",
+          "순두부 허벅지",
+          "무릎 연골",
+          "맷돌",
           "속근육"
         ]
       },
       "audio": {
-        "opening_line": "겉보기엔 평범한 발판 같지만 압도적 타격감에 충격받습니다",
-        "voice_style": "경고 톤",
+        "opening_line": "아직 핏 넉넉해졌다고 좋아하셨나요? 속근육이 다 녹아내린 경고입니다",
+        "voice_style": "경고 호소",
         "narration_mode": "해설형"
       },
       "visual": {
         "format": "실사",
-        "mechanism_viz": "속근육 강제 활성",
-        "before_after": "지팡이→하체",
+        "mechanism_viz": "연골 맷돌 비유",
+        "before_after": "–",
         "subtitle_style": "자막"
       },
       "target": {
-        "gender": "혼성",
-        "age": "50·60대",
-        "segment": "근력저하 시니어",
+        "gender": "여성",
+        "age": "40·50대",
+        "segment": "중년 여성 근력",
         "appeal_axis": "근력+연골 공포"
       },
       "trust": {
@@ -2866,18 +3076,18 @@
         "discount": "–",
         "compliance": "양호"
       },
-      "one_liner": "반전+연골 공포 훅인데 시니어 앵글이라 전환이 약해 1.89 중하위.",
-      "why": "공포 소구+시니어. 전환력 제한."
+      "one_liner": "중년 여성 대상 연골 공포 소구인데 공포 회피형이라 능동 욕망 대비 전환 약함(1.71).",
+      "why": "공포회피 소구. 능동 욕망 대비 약함."
     },
     {
-      "key": "th콩콩Ⅺ_T",
+      "key": "th아버지다시Ⅵ_AN",
       "rank_note": "bottom",
-      "roas": 1.82,
-      "spend": 3564572.0,
-      "ctr": 5.72,
-      "cvr": 0.39,
-      "cpa": 89067,
-      "purchases": 40.021378,
+      "roas": 1.86,
+      "spend": 2639844.0,
+      "ctr": 6.17,
+      "cvr": 0.19,
+      "cpa": 76612,
+      "purchases": 34.457238000000004,
       "platforms": [
         "google",
         "meta",
@@ -2885,37 +3095,43 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 330785.0,
-          "revenue": 1350409.0,
-          "roas": 4.08,
-          "ctr": 0.8,
-          "cvr": 6.01,
-          "cpa": 36667,
-          "purchases": 9.021378,
+          "spend": 164673.0,
+          "revenue": 370128.0,
+          "roas": 2.25,
+          "ctr": 0.88,
+          "cvr": 0.98,
+          "cpa": 47631,
+          "purchases": 3.457238,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 19.6,
+          "completion": 14.7
         },
         "tiktok": {
-          "spend": 433523.0,
-          "revenue": 572250.0,
-          "roas": 1.32,
-          "ctr": 11.6,
-          "cvr": 0.05,
-          "cpa": 108381,
-          "purchases": 4.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 1244082.0,
+          "revenue": 3159968.0,
+          "roas": 2.54,
+          "ctr": 7.42,
+          "cvr": 0.12,
+          "cpa": 59242,
+          "purchases": 21.0,
+          "hook_rate": 35.8,
+          "hold_rate": 74.6,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 2800264.0,
-          "revenue": 4572000.0,
-          "roas": 1.63,
-          "ctr": 2.65,
-          "cvr": 1.06,
-          "cpa": 103713,
-          "purchases": 27.0,
-          "hook_rate": 30.7,
-          "hold_rate": 41.9
+          "spend": 1231089.0,
+          "revenue": 1386000.0,
+          "roas": 1.13,
+          "ctr": 3.11,
+          "cvr": 1.27,
+          "cpa": 123109,
+          "purchases": 10.0,
+          "hook_rate": 39.9,
+          "hold_rate": 31.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -2923,66 +3139,80 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_6.4s.jpg",
-        "f05_12.8s.jpg",
-        "f06_19.3s.jpg",
-        "f07_25.7s.jpg",
-        "f08_32.1s.jpg",
-        "f09_38.5s.jpg"
+        "f04_20.5s.jpg",
+        "f05_41.0s.jpg",
+        "f06_61.4s.jpg",
+        "f07_81.9s.jpg",
+        "f08_102.4s.jpg",
+        "f09_122.9s.jpg"
       ],
-      "transcript": "나 6년 넘게 족자곰막염 알았던 프로 전수기 지금은 매일 아침 맨발로 퐁퐁 뛴다 잔말 말고도로 아침에 눈 뜨고 첫 발 빗는 순간 발 뒤꿈치가 찢어질 것 같은 그 통증 얼른 출근해야 하는데 바닥에 발대기가 무서워서 한참을 침대에 앉아만 있던 그곳 손으로 마사지하면 겉만 풀어주는 게 한계인데 통증 뿌리는 그 셈에 더 깊은 속금륙이 박혀있대 거기를 제대로 자극해주면 죽어있던 속금륙이 깨어나고 구둥 금막 풀리고 통증 뿌리는 거죠 이걸 해주는 게 썸마드인 엑스�스 10.0 미세전류가 속금막을 콕콕 정확하게 눌러주고 1200kHz 주파주로 그 깊은 곳까지 침투하면 구둥의 수루를 풀려 내려가는 느낌 죽인다 진짜로 약없이 다리 스스로 버티는 구조로 돌아오는 거예요 처음 이틀은 그냥 무지성으로 하루 15분씩 발대고 있었는데 3일째 되던 날 아침에 첫 발을 딱 뒤겼는데 어? 왜 안 아프지? 싶더라 그게 6년 먹은 통증 풀려나가는 중이었던 건지 지금은 지금 닿는 느낌 자체가 완전 달라져서 성인 되고 나서 처음으로 주면기까지 제대로 했다 진통제 매일 먹어도 소용없다고 울지 말고 제발 여기에 한 번 발만 올려봐 효과 없으면 이자 안에 100% 함부리라 혼내볼 거 일도 없다",
+      "transcript": "아버지 다리가 자꾸만 얇아지고 계단 앞에서 한참을 쉬시던 날 작은 발판 하나 조용히 놓아드렸죠 말랑하던 그 허벅지가 이 주만에 단단해지고 아버지 다시 걸어요 근육이 깨어나고 돌덩이처럼 단단해지다시 재활하던 바로 그 기술처럼",
       "analyzed": true,
       "base": {
-        "hook_type": "통증 공감형",
-        "first_3s": "'6년 넘게 족저근막염 앓던 프로... 지금은 매일 아침 맨발로 콩콩'",
-        "appeal_angle": "족저근막염 통증완화",
-        "cta": "잔말 말고(약함)",
+        "hook_type": "효도 감성 노래형",
+        "first_3s": "애니 노래, 아버지 다리 회복",
+        "appeal_angle": "효도·부모 근력",
+        "cta": "",
         "keywords": [
-          "족저근막염",
-          "발뒤꿈치 통증",
-          "속근막",
-          "1200kHz"
+          "아버지 다리",
+          "2주 단단",
+          "재활 기술",
+          "노래"
         ]
       },
       "audio": {
-        "opening_line": "나 6년 넘게 족저근막염 앓던 프로 전수기, 지금은 매일 아침 맨발로 콩콩",
-        "voice_style": "통증 호소 후기",
-        "narration_mode": "1인칭 통증담"
+        "opening_line": "아버지 다리가 자꾸만 얇아지고 계단 앞에서 한참을 쉬시던 날",
+        "voice_style": "감성 발라드",
+        "narration_mode": "노래 스토리"
       },
       "visual": {
-        "format": "실사",
-        "mechanism_viz": "속근막 콕콕 자극",
-        "before_after": "통증→콩콩 뜀",
-        "subtitle_style": "일반"
+        "format": "AI 애니",
+        "mechanism_viz": "속근육 각성",
+        "before_after": "아버지 다리 회복",
+        "subtitle_style": "감성 자막"
       },
       "target": {
-        "gender": "혼성",
-        "age": "40·50대",
-        "segment": "족저근막염 통증자",
-        "appeal_axis": "통증완화(수동)"
+        "gender": "혼성(구매=자녀)",
+        "age": "30·40대→부모",
+        "segment": "부모 효도",
+        "appeal_axis": "효도(근력)"
       },
       "trust": {
-        "evidence": "엑스텐스10.0, 1200kHz",
+        "evidence": "2주 체감",
         "refund": "–",
         "discount": "–",
-        "compliance": "발 통증 치료 뉘앙스, 관찰"
+        "compliance": "양호"
       },
-      "one_liner": "Ⅺ 배치 특유의 '통증완화' 앵글. 족저근막염이라는 좁은 통증 니치라 도달·전환이 제한적이고, 써마드의 핵심인 근력·라인 욕망과 결이 다르다.",
-      "why": "통증회피(수동적)+좁은 니치. 근비대·다이어트 소구 대비 구매 동기가 약함."
+      "one_liner": "아버지풀버전과 같은 효도 감성 노래(애니판). 감정 몰입은 있으나 간접 타겟 + 소액이라 2.26.",
+      "why": "감성 효도 노래. 간접 타겟 한계."
     },
     {
       "key": "th다리얇아Ⅵ_AI",
       "rank_note": "bottom",
-      "roas": 1.82,
-      "spend": 1402640.0,
-      "ctr": 13.43,
+      "roas": 1.86,
+      "spend": 1442976.0,
+      "ctr": 13.29,
       "cvr": 0.07,
-      "cpa": 77924,
-      "purchases": 18.0,
+      "cpa": 76046,
+      "purchases": 18.975081,
       "platforms": [
+        "google",
         "tiktok"
       ],
       "platform_metrics": {
+        "google": {
+          "spend": 40336.0,
+          "revenue": 135536.0,
+          "roas": 3.36,
+          "ctr": 4.06,
+          "cvr": 0.77,
+          "cpa": 41367,
+          "purchases": 0.975081,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 33.5,
+          "completion": 27.0
+        },
         "tiktok": {
           "spend": 1402640.0,
           "revenue": 2552805.0,
@@ -2991,8 +3221,10 @@
           "cvr": 0.07,
           "cpa": 77924,
           "purchases": 18.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 68.2,
+          "hold_rate": 87.1,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -3049,219 +3281,58 @@
       "why": "메커니즘 시각화는 재활용 가치가 높음 — 훅만 공포에서 자가진단형으로 바꿔 재제작 권장."
     },
     {
-      "key": "th타이어Ⅵ_T",
+      "key": "th콩콩Ⅺ_T",
       "rank_note": "bottom",
-      "roas": 1.77,
-      "spend": 714247.0,
-      "ctr": 2.61,
-      "cvr": 1.24,
-      "cpa": 90299,
-      "purchases": 7.909833,
+      "roas": 1.85,
+      "spend": 3503795.0,
+      "ctr": 5.27,
+      "cvr": 0.44,
+      "cpa": 87548,
+      "purchases": 40.021378,
       "platforms": [
         "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 205235.0,
-          "revenue": 1126557.0,
-          "roas": 5.49,
-          "ctr": 0.97,
-          "cvr": 5.86,
-          "cpa": 29702,
-          "purchases": 6.909833,
-          "hook_rate": null,
-          "hold_rate": null
-        },
-        "meta": {
-          "spend": 509012.0,
-          "revenue": 139000.0,
-          "roas": 0.27,
-          "ctr": 4.23,
-          "cvr": 0.19,
-          "cpa": 509012,
-          "purchases": 1.0,
-          "hook_rate": 67.0,
-          "hold_rate": 45.7
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.9s.jpg",
-        "f05_15.7s.jpg",
-        "f06_23.6s.jpg",
-        "f07_31.4s.jpg",
-        "f08_39.3s.jpg",
-        "f09_47.1s.jpg"
-      ],
-      "transcript": "팽팽하던 타이어에서 바람이 아주 천천히 빠지면 어떻게 될까요? 티도 안 나다가 어느 날 도로 한복판에서 그대로 주저앉습니다 마흔 넘은 우리 다리 속근육이 딱 이 상태에요 나이 들면 다리 힘 빠진다는 거 모르는 분 없으시죠? 40대부터는 가만히 있어도 매년 5%씩 속근육이 사라지는데 이게 쌓이면 어느 날 욕실 바닥에 다리가 풀려 그대로 미끄러지고 그 한 번 넘어진 걸로 병상에 눕는 어르신들이 수두룩합니다 그런데 이걸 되돌리는 방법이 최근에 나왔습니다 바로 썸마드인데요 이건 EMS 발판인데 쉽게 말해 스쿼트 한 개 안 하고 발만 올려놔도 피부 7mm 아래 죽어있던 속근육을 강제로 깨워주는 원리에요 그래서 근력 활성 발판이라고도 불립니다 하루 딱 15분이면 스쿼트 300개를 밟은 효과라 2주만 밟아도 뻔하던 무릎이 편해지고 한 달이면 20대 군배 시절 허벅지처럼 눈으로 보이지 않는 속에서부터 힘이 차오르실 수밖에 없습니다 요즘 어지간한 5060 사장님들은 자기 전에 다들 밟고 계시는데 효과가 있으니까 그러시는 거 아니겠어요? 지금 물량은 홈쇼핑 10억 완판 기념으로 싸게 품고라 거의 반갑신데 다음 달부터는 다시 비싸진다고 합니다 아니 아예 재고가 없을지도 모르고요 지금 보셨을 때 얼른 챙기시는 게 이득이에요 이제는 정말 다리 힘 신경 쓰셔야 할 나이입니다",
-      "analyzed": true,
-      "base": {
-        "hook_type": "비유 설명형",
-        "first_3s": "정비소에서 타이어를 다루는 손, '팽팽하던 타이어에서'",
-        "appeal_angle": "천천히 바람 빠지는 타이어 = 40대 이후 속근육, 어느 날 갑자기 주저앉는다",
-        "cta": "홈쇼핑 10억 완판 기념가, 다음 달 인상 전 확보",
-        "keywords": [
-          "타이어 비유",
-          "매년 5%",
-          "낙상",
-          "스쿼트 300개",
-          "10억 완판"
-        ]
-      },
-      "audio": {
-        "opening_line": "팽팽하던 타이어에서 바람이 아주 천천히 빠지면 어떻게 될까요?",
-        "voice_style": "차분한 설득체",
-        "narration_mode": "3인칭 해설"
-      },
-      "visual": {
-        "format": "실사 B롤 + 자막 편집",
-        "mechanism_viz": "타이어 공기압 비유 → 속근육 소실",
-        "before_after": "풀린 다리 → 힘이 차오름",
-        "subtitle_style": "흰 굵은 자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "50·60대",
-        "segment": "사업·자영업 중년 남성",
-        "appeal_axis": "기능(근력) + 낙상 예방"
-      },
-      "trust": {
-        "evidence": "매년 5% 근손실·홈쇼핑 10억 완판",
-        "refund": "–",
-        "discount": "완판 기념가, 다음 달 인상 예고",
-        "compliance": "⚠ '하루 15분이면 스쿼트 300개 효과' 운동 대체 과장. '넘어져 병상에 눕는다'는 공포 소구"
-      },
-      "one_liner": "타이어 비유 하나로 '지금은 멀쩡한데 왜 사야 하나'를 설명해낸 도입이 좋다. 3플랫폼 104만 지출에 ROAS 2.37로 평균권.",
-      "why": "증상이 없는 사람에게 필요를 만드는 비유는 강한데, 뒤가 스펙·할인 나열로 길어지면서 초반 몰입이 흩어짐."
-    },
-    {
-      "key": "th허벅지얇Ⅵ_T",
-      "rank_note": "bottom",
-      "roas": 1.71,
-      "spend": 1601606.0,
-      "ctr": 5.42,
-      "cvr": 0.18,
-      "cpa": 87596,
-      "purchases": 18.283939,
-      "platforms": [
-        "google",
+        "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 536795.0,
-          "revenue": 456467.0,
-          "roas": 0.85,
-          "ctr": 0.69,
-          "cvr": 0.52,
-          "cpa": 163461,
-          "purchases": 3.283939,
+          "spend": 330785.0,
+          "revenue": 1350409.0,
+          "roas": 4.08,
+          "ctr": 0.8,
+          "cvr": 6.01,
+          "cpa": 36667,
+          "purchases": 9.021378,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 36.1,
+          "completion": 30.2
         },
         "tiktok": {
-          "spend": 1064811.0,
-          "revenue": 2278696.0,
-          "roas": 2.14,
-          "ctr": 9.81,
-          "cvr": 0.16,
-          "cpa": 70987,
-          "purchases": 15.0,
-          "hook_rate": null,
-          "hold_rate": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.2s.jpg",
-        "f05_10.5s.jpg",
-        "f06_15.7s.jpg",
-        "f07_21.0s.jpg",
-        "f08_26.2s.jpg",
-        "f09_31.5s.jpg"
-      ],
-      "transcript": "아직 킷 넉넉해졌다고 좋아하셨나요? 그거 중년 여성의 생명 줄인 해체 속 근육이 싹 다 녹아내렸다는 끔찍한 경고입니다. 나이 들수록 허벅지가 순두부처럼 물렁해지잖아요? 이거 방치하면 온몸의 체중을 무릎 연골 혼자 버텨야 해요. 뼈끼리 맷돌처럼 짓 눌리고 갈리다. 결국 내 발로 화장실도 못 가는 끔찍한 일이 벌어지는 거죠. 근육 채운다고 억지로 스쿼트하다. 남은 연골까지 박살 내지 마세요. 똑똑한 분들은 이미 소파에 편하게 앉아 썸마드 plx에 발부터 올리고 있습니다. 독보적인 엑스텐스 10.0 미세전유가 피부 7mm 아래 텀빈 속 근육을 찾아내 초단 1200건 무자비하게 타격해서 꽉꽉 채워주거든요. 가만히 앉아만 있어도 순두부 같던 허벅지에 쫀쫀한 탄력이 확 붙어요. 근육 다 빠져 평생 후회하기 전에 지금 불만족 100% 환불 이벤트 할 때 무조건 들이세요.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "중년여성 공포형",
-        "first_3s": "\"허벅지 얇아진 게 속근육 녹은 끔찍한 경고\"",
-        "appeal_angle": "근력·연골 공포(여성)",
-        "cta": "",
-        "keywords": [
-          "순두부 허벅지",
-          "무릎 연골",
-          "맷돌",
-          "속근육"
-        ]
-      },
-      "audio": {
-        "opening_line": "아직 핏 넉넉해졌다고 좋아하셨나요? 속근육이 다 녹아내린 경고입니다",
-        "voice_style": "경고 호소",
-        "narration_mode": "해설형"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "연골 맷돌 비유",
-        "before_after": "–",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "40·50대",
-        "segment": "중년 여성 근력",
-        "appeal_axis": "근력+연골 공포"
-      },
-      "trust": {
-        "evidence": "속근육 원리",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "중년 여성 대상 연골 공포 소구인데 공포 회피형이라 능동 욕망 대비 전환 약함(1.71).",
-      "why": "공포회피 소구. 능동 욕망 대비 약함."
-    },
-    {
-      "key": "th비교비결Ⅵ_T",
-      "rank_note": "bottom",
-      "roas": 1.68,
-      "spend": 16490243.0,
-      "ctr": 2.07,
-      "cvr": 1.96,
-      "cpa": 88506,
-      "purchases": 186.317981,
-      "platforms": [
-        "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 154876.0,
-          "revenue": 815296.0,
-          "roas": 5.26,
-          "ctr": 1.11,
-          "cvr": 1.43,
-          "cpa": 29123,
-          "purchases": 5.317981,
-          "hook_rate": null,
-          "hold_rate": null
+          "spend": 372746.0,
+          "revenue": 574029.0,
+          "roas": 1.54,
+          "ctr": 11.13,
+          "cvr": 0.06,
+          "cpa": 93186,
+          "purchases": 4.0,
+          "hook_rate": 54.7,
+          "hold_rate": 80.0,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 16335367.0,
-          "revenue": 26829900.0,
-          "roas": 1.64,
-          "ctr": 2.14,
-          "cvr": 1.98,
-          "cpa": 90251,
-          "purchases": 181.0,
-          "hook_rate": 33.8,
-          "hold_rate": 30.4
+          "spend": 2800264.0,
+          "revenue": 4572000.0,
+          "roas": 1.63,
+          "ctr": 2.65,
+          "cvr": 1.06,
+          "cpa": 103713,
+          "purchases": 27.0,
+          "hook_rate": 30.7,
+          "hold_rate": 41.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -3269,76 +3340,92 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_5.6s.jpg",
-        "f05_11.1s.jpg",
-        "f06_16.7s.jpg",
-        "f07_22.2s.jpg",
-        "f08_27.8s.jpg",
-        "f09_33.4s.jpg"
+        "f04_6.4s.jpg",
+        "f05_12.8s.jpg",
+        "f06_19.3s.jpg",
+        "f07_25.7s.jpg",
+        "f08_32.1s.jpg",
+        "f09_38.5s.jpg"
       ],
-      "transcript": "작년엔 이랬는데 올해는 이렇거든요? 비결을 맨날 물어보셔서 영상까지 만들어서 인증합니다 운동이나 돈 쓴 건 하나도 없구요 그냥 매일 아침 저녁 15분씩 서마드 PLX 밟아서 하체 근력 회복했을 뿐입니다 이게 나사 우주 비행사 근력 재활용으로 개발됐다는 EMS 저주파 기술로 만들어진 건데 사용 즉시 속근육 섬유 밀도를 170% 높여줘서 15분을 스쿼트 500회 한 거랑 똑같게 만들어줘요 애초에 근 감소증 회복을 위해 만들어진 거라 일반인한테 효과가 없을 수가 없다고 합니다 까다롭기로 소문난 국가대표 재활센터에서도 훈련 전에 15분씩 꼭 사용할 정도거든요 저는 원하는 탄탄한 다리 만들기도 했고 더 쓰면 너무 단단해질까 봐 요즘엔 자제 중인데 가장 어이없는 건 10만원 초반대에 효과 없으면 100% 환불이 된다는 거예요 하루 한 번 15분씩만 서마드 PLX 밟으면 평생 근력 약화 고민 안 하게 될 수 있는데 더 고민이 필요할까요?",
+      "transcript": "나 6년 넘게 족자곰막염 알았던 프로 전수기 지금은 매일 아침 맨발로 퐁퐁 뛴다 잔말 말고도로 아침에 눈 뜨고 첫 발 빗는 순간 발 뒤꿈치가 찢어질 것 같은 그 통증 얼른 출근해야 하는데 바닥에 발대기가 무서워서 한참을 침대에 앉아만 있던 그곳 손으로 마사지하면 겉만 풀어주는 게 한계인데 통증 뿌리는 그 셈에 더 깊은 속금륙이 박혀있대 거기를 제대로 자극해주면 죽어있던 속금륙이 깨어나고 구둥 금막 풀리고 통증 뿌리는 거죠 이걸 해주는 게 썸마드인 엑스�스 10.0 미세전류가 속금막을 콕콕 정확하게 눌러주고 1200kHz 주파주로 그 깊은 곳까지 침투하면 구둥의 수루를 풀려 내려가는 느낌 죽인다 진짜로 약없이 다리 스스로 버티는 구조로 돌아오는 거예요 처음 이틀은 그냥 무지성으로 하루 15분씩 발대고 있었는데 3일째 되던 날 아침에 첫 발을 딱 뒤겼는데 어? 왜 안 아프지? 싶더라 그게 6년 먹은 통증 풀려나가는 중이었던 건지 지금은 지금 닿는 느낌 자체가 완전 달라져서 성인 되고 나서 처음으로 주면기까지 제대로 했다 진통제 매일 먹어도 소용없다고 울지 말고 제발 여기에 한 번 발만 올려봐 효과 없으면 이자 안에 100% 함부리라 혼내볼 거 일도 없다",
       "analyzed": true,
       "base": {
-        "hook_type": "before-after 후기형",
-        "first_3s": "'작년엔 이랬는데 올해는 이렇거든요? 비결을 맨날 물어봐서'",
-        "appeal_angle": "변화 자랑·근력",
-        "cta": "10만원 초반 100% 환불",
+        "hook_type": "통증 공감형",
+        "first_3s": "'6년 넘게 족저근막염 앓던 프로... 지금은 매일 아침 맨발로 콩콩'",
+        "appeal_angle": "족저근막염 통증완화",
+        "cta": "잔말 말고(약함)",
         "keywords": [
-          "작년 vs 올해",
-          "스쿼트 500회",
-          "근감소증",
-          "10만원 환불"
+          "족저근막염",
+          "발뒤꿈치 통증",
+          "속근막",
+          "1200kHz"
         ]
       },
       "audio": {
-        "opening_line": "작년엔 이랬는데 올해는 이렇거든요? 비결을 맨날 물어보셔서",
-        "voice_style": "자랑성 후기",
-        "narration_mode": "1인칭 비포애프터"
+        "opening_line": "나 6년 넘게 족저근막염 앓던 프로 전수기, 지금은 매일 아침 맨발로 콩콩",
+        "voice_style": "통증 호소 후기",
+        "narration_mode": "1인칭 통증담"
       },
       "visual": {
         "format": "실사",
-        "mechanism_viz": "밀도 170%",
-        "before_after": "작년→올해 변화",
+        "mechanism_viz": "속근막 콕콕 자극",
+        "before_after": "통증→콩콩 뜀",
         "subtitle_style": "일반"
       },
       "target": {
         "gender": "혼성",
         "age": "40·50대",
-        "segment": "체형 변화 원하는 층",
-        "appeal_axis": "변화 자랑"
+        "segment": "족저근막염 통증자",
+        "appeal_axis": "통증완화(수동)"
       },
       "trust": {
-        "evidence": "170%, 나사 개발, 환불",
-        "refund": "100% 환불",
-        "discount": "10만원대",
-        "compliance": "양호"
+        "evidence": "엑스텐스10.0, 1200kHz",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "발 통증 치료 뉘앙스, 관찰"
       },
-      "one_liner": "흔한 '비결 물어봐서' 비포애프터 훅이라 신선함이 없고, 15M나 태웠는데 1.56에 그쳤다. 근거·오퍼는 다 있는데 훅이 평범해 물량 대비 저조 — 예산 재배분 1순위.",
-      "why": "진부한 훅 + 고지출. 소재 피로/차별성 부족으로 효율 하락."
+      "one_liner": "Ⅺ 배치 특유의 '통증완화' 앵글. 족저근막염이라는 좁은 통증 니치라 도달·전환이 제한적이고, 써마드의 핵심인 근력·라인 욕망과 결이 다르다.",
+      "why": "통증회피(수동적)+좁은 니치. 근비대·다이어트 소구 대비 구매 동기가 약함."
     },
     {
       "key": "th실제사연Ⅵ_AI",
       "rank_note": "top",
-      "roas": 1.66,
-      "spend": 3325433.0,
-      "ctr": 10.86,
+      "roas": 1.75,
+      "spend": 3684605.0,
+      "ctr": 11.11,
       "cvr": 0.03,
-      "cpa": 92373,
-      "purchases": 36.0,
+      "cpa": 85688,
+      "purchases": 43.0,
       "platforms": [
+        "google",
         "tiktok"
       ],
       "platform_metrics": {
-        "tiktok": {
-          "spend": 3325433.0,
-          "revenue": 5520219.0,
-          "roas": 1.66,
-          "ctr": 10.86,
-          "cvr": 0.03,
-          "cpa": 92373,
-          "purchases": 36.0,
+        "google": {
+          "spend": 2988.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 2.94,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 30.9,
+          "completion": 26.0
+        },
+        "tiktok": {
+          "spend": 3681617.0,
+          "revenue": 6442830.0,
+          "roas": 1.75,
+          "ctr": 11.12,
+          "cvr": 0.03,
+          "cpa": 85619,
+          "purchases": 43.0,
+          "hook_rate": 80.9,
+          "hold_rate": 87.3,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -3395,52 +3482,44 @@
       "why": "3초 고지 화면이 검게 시작해 초반 0.3초를 버리지만, 지팡이라는 강한 비주얼 대비가 이를 상쇄했다. 고지 문구를 인물컷 위로 올리면 개선 여지."
     },
     {
-      "key": "th딱디톡스Ⅰ_T",
+      "key": "th비교비결Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 1.65,
-      "spend": 1170511.0,
-      "ctr": 6.09,
-      "cvr": 0.32,
-      "cpa": 86768,
-      "purchases": 13.490053,
+      "roas": 1.72,
+      "spend": 16266753.0,
+      "ctr": 2.06,
+      "cvr": 1.98,
+      "cpa": 86379,
+      "purchases": 188.317981,
       "platforms": [
         "google",
-        "meta",
-        "tiktok"
+        "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 213344.0,
-          "revenue": 492087.0,
-          "roas": 2.31,
-          "ctr": 1.56,
-          "cvr": 1.47,
-          "cpa": 61129,
-          "purchases": 3.490053,
+          "spend": 150199.0,
+          "revenue": 815296.0,
+          "roas": 5.43,
+          "ctr": 1.1,
+          "cvr": 1.46,
+          "cpa": 28244,
+          "purchases": 5.317981,
           "hook_rate": null,
-          "hold_rate": null
-        },
-        "tiktok": {
-          "spend": 455487.0,
-          "revenue": 1161492.0,
-          "roas": 2.55,
-          "ctr": 8.2,
-          "cvr": 0.21,
-          "cpa": 56936,
-          "purchases": 8.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 70.0,
+          "completion": 65.5
         },
         "meta": {
-          "spend": 501680.0,
-          "revenue": 276000.0,
-          "roas": 0.55,
-          "ctr": 1.86,
-          "cvr": 1.55,
-          "cpa": 250840,
-          "purchases": 2.0,
-          "hook_rate": 24.6,
-          "hold_rate": 26.0
+          "spend": 16116554.0,
+          "revenue": 27109900.0,
+          "roas": 1.68,
+          "ctr": 2.14,
+          "cvr": 2.0,
+          "cpa": 88069,
+          "purchases": 183.0,
+          "hook_rate": 33.9,
+          "hold_rate": 30.6,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -3448,78 +3527,79 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_8.9s.jpg",
-        "f05_17.7s.jpg",
-        "f06_26.6s.jpg",
-        "f07_35.4s.jpg",
-        "f08_44.3s.jpg",
-        "f09_53.2s.jpg"
+        "f04_5.6s.jpg",
+        "f05_11.1s.jpg",
+        "f06_16.7s.jpg",
+        "f07_22.2s.jpg",
+        "f08_27.8s.jpg",
+        "f09_33.4s.jpg"
       ],
-      "transcript": "이 하체 디톡스 기계를 자기 전 딱 15분만 발해대시는 순간 하체 순환을 꽉 막고 있던 굽은 민트가 사르르 풀려 내려가면서 저녁만 되면 빵빵하게 붙던 종아리와 손으로 잡히던 안쪽 껍질살이 드디어 내 다리에서 잡결할 준비를 하기 시작합니다 속지방층을 직접 흔들어 깨우는 자극 원리로 붓기, 탄력, 셀룰 임상 검증까지 깐깐하게 받은 국내 유일, 아니 세계 유일 하체 디톡스 기계 바로 써마드입니다 더 표면만 두드리며 씨끈씨끈 시원함만 주는 일반 안마기와는 설계 자체가 다릅니다 물리적인 마사지는 피부 2에서 3mm가 한계인데 그 3배 더 깊은 속지방층까지 파고드는 엑스텐스 10.0 미세전류가 막혀있던 링투 순환기를 매끄럽게 뚫고 딱딱하게 뭉친 셀룰라이트까지 부드럽게 풀어서 다리에 정체돼 있던 수많은 노폐물과 묵은 지방을 한 톨도 남기지 않고 밖으로 배출시켜주기 때문인데요 한 생 붙어 있던 허벅지 사이에 틈이 생기고 한라봉 껍질처럼 울퉁불퉁하던 셀룰라이트가 매끈하게 정리되는 게 바로 이 원리죠 아래 비공개 시크릿 링크는 직원 전용 링크로 수량 소진시까지 최대 17% 비밀 할인 중입니다 매일 가리고 다니면서 스트레스 받던 합의 고민 이제 싹 날려버리시길 바라겠습니다",
+      "transcript": "작년엔 이랬는데 올해는 이렇거든요? 비결을 맨날 물어보셔서 영상까지 만들어서 인증합니다 운동이나 돈 쓴 건 하나도 없구요 그냥 매일 아침 저녁 15분씩 서마드 PLX 밟아서 하체 근력 회복했을 뿐입니다 이게 나사 우주 비행사 근력 재활용으로 개발됐다는 EMS 저주파 기술로 만들어진 건데 사용 즉시 속근육 섬유 밀도를 170% 높여줘서 15분을 스쿼트 500회 한 거랑 똑같게 만들어줘요 애초에 근 감소증 회복을 위해 만들어진 거라 일반인한테 효과가 없을 수가 없다고 합니다 까다롭기로 소문난 국가대표 재활센터에서도 훈련 전에 15분씩 꼭 사용할 정도거든요 저는 원하는 탄탄한 다리 만들기도 했고 더 쓰면 너무 단단해질까 봐 요즘엔 자제 중인데 가장 어이없는 건 10만원 초반대에 효과 없으면 100% 환불이 된다는 거예요 하루 한 번 15분씩만 서마드 PLX 밟으면 평생 근력 약화 고민 안 하게 될 수 있는데 더 고민이 필요할까요?",
       "analyzed": true,
       "base": {
-        "hook_type": "제품 시연 선언형",
-        "first_3s": "여성이 발판을 두 손으로 들어 보이며 '이 하체 디톡스 기계를 자기 전 딱 15분만'",
-        "appeal_angle": "세계 유일 하체 디톡스 + 셀룰라이트 임상",
-        "cta": "직원 전용 비공개 시크릿 링크, 수량 소진까지 17% 비밀할인",
+        "hook_type": "before-after 후기형",
+        "first_3s": "'작년엔 이랬는데 올해는 이렇거든요? 비결을 맨날 물어봐서'",
+        "appeal_angle": "변화 자랑·근력",
+        "cta": "10만원 초반 100% 환불",
         "keywords": [
-          "하체 디톡스",
-          "셀룰라이트",
-          "임상 검증",
-          "속지방층",
-          "시크릿 링크"
+          "작년 vs 올해",
+          "스쿼트 500회",
+          "근감소증",
+          "10만원 환불"
         ]
       },
       "audio": {
-        "opening_line": "이 하체 디톡스 기계를 자기 전 딱 15분만 밟으시는 순간",
-        "voice_style": "또렷한 존댓말 여성 설명톤",
-        "narration_mode": "1인 제품 소개형"
+        "opening_line": "작년엔 이랬는데 올해는 이렇거든요? 비결을 맨날 물어보셔서",
+        "voice_style": "자랑성 후기",
+        "narration_mode": "1인칭 비포애프터"
       },
       "visual": {
-        "format": "실사 인물 시연 + 의학 CG",
-        "mechanism_viz": "강함 — 혈관 적혈구, 림프관, 지방 배출 3D",
-        "before_after": "임상 그래프 캡처(9.29%→27.55%), 피부 단면 전후",
-        "subtitle_style": "흰 자막 + 일반 안마기 X표 대비컷"
+        "format": "실사",
+        "mechanism_viz": "밀도 170%",
+        "before_after": "작년→올해 변화",
+        "subtitle_style": "일반"
       },
       "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "셀룰라이트·안쪽 허벅지살",
-        "appeal_axis": "임상 근거 + 비밀 할인"
+        "gender": "혼성",
+        "age": "40·50대",
+        "segment": "체형 변화 원하는 층",
+        "appeal_axis": "변화 자랑"
       },
       "trust": {
-        "evidence": "붓기·탄력·셀룰라이트 임상 수치 화면 노출",
-        "refund": "–",
-        "discount": "비공개 시크릿 링크 17%",
-        "compliance": "⚠ '세계 유일' 최상급 표현"
+        "evidence": "170%, 나사 개발, 환불",
+        "refund": "100% 환불",
+        "discount": "10만원대",
+        "compliance": "양호"
       },
-      "one_liner": "구글 4.02·틱톡 2.83인데 메타만 0.55로 무너진 전형적 매체 미스매치 소재다. 임상 그래프를 정면에 세운 설득형이라 검색·추천 맥락에서 더 잘 먹혔다.",
-      "why": "정보 밀도가 높고 62초로 길어 메타 피드에서는 초반 이탈이 크다(메타 CTR 1.86). 메타는 끄고 구글·틱톡으로 예산을 몰아주는 게 맞다."
+      "one_liner": "흔한 '비결 물어봐서' 비포애프터 훅이라 신선함이 없고, 15M나 태웠는데 1.56에 그쳤다. 근거·오퍼는 다 있는데 훅이 평범해 물량 대비 저조 — 예산 재배분 1순위.",
+      "why": "진부한 훅 + 고지출. 소재 피로/차별성 부족으로 효율 하락."
     },
     {
       "key": "th무릎아프Ⅺ_AI",
       "rank_note": "bottom",
-      "roas": 1.64,
-      "spend": 858415.0,
+      "roas": 1.67,
+      "spend": 858413.0,
       "ctr": 8.06,
       "cvr": 0.08,
-      "cpa": 87205,
-      "purchases": 9.843655,
+      "cpa": 85737,
+      "purchases": 10.012127,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 207027.0,
-          "revenue": 554713.0,
-          "roas": 2.68,
+          "spend": 207025.0,
+          "revenue": 578249.0,
+          "roas": 2.79,
           "ctr": 1.22,
-          "cvr": 1.8,
-          "cpa": 53862,
-          "purchases": 3.843655,
+          "cvr": 1.88,
+          "cpa": 51600,
+          "purchases": 4.012127,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 22.1,
+          "completion": 17.1
         },
         "tiktok": {
           "spend": 651388.0,
@@ -3529,8 +3609,10 @@
           "cvr": 0.05,
           "cpa": 108565,
           "purchases": 6.0,
-          "hook_rate": null,
-          "hold_rate": null
+          "hook_rate": 66.5,
+          "hold_rate": 89.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [],
@@ -3576,38 +3658,56 @@
     {
       "key": "th판매금지Ⅺ_T",
       "rank_note": "bottom",
-      "roas": 1.47,
-      "spend": 7789502.0,
-      "ctr": 1.96,
-      "cvr": 1.75,
-      "cpa": 102427,
-      "purchases": 76.04950099999999,
+      "roas": 1.63,
+      "spend": 9223920.0,
+      "ctr": 2.63,
+      "cvr": 1.03,
+      "cpa": 93125,
+      "purchases": 99.048415,
       "platforms": [
         "google",
-        "meta"
+        "meta",
+        "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 267973.0,
-          "revenue": 1440630.0,
-          "roas": 5.38,
-          "ctr": 1.66,
-          "cvr": 2.17,
-          "cpa": 29612,
-          "purchases": 9.049501,
+          "spend": 227053.0,
+          "revenue": 1301400.0,
+          "roas": 5.73,
+          "ctr": 1.65,
+          "cvr": 2.33,
+          "cpa": 28211,
+          "purchases": 8.048415,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 47.6,
+          "completion": 41.9
+        },
+        "tiktok": {
+          "spend": 1795426.0,
+          "revenue": 3806303.0,
+          "roas": 2.12,
+          "ctr": 3.47,
+          "cvr": 0.46,
+          "cpa": 71817,
+          "purchases": 25.0,
+          "hook_rate": 53.9,
+          "hold_rate": 70.5,
+          "play50": null,
+          "completion": null
         },
         "meta": {
-          "spend": 7521529.0,
-          "revenue": 10021000.0,
-          "roas": 1.33,
-          "ctr": 1.99,
-          "cvr": 1.71,
-          "cpa": 112262,
-          "purchases": 67.0,
-          "hook_rate": 41.9,
-          "hold_rate": 21.7
+          "spend": 7201441.0,
+          "revenue": 9882000.0,
+          "roas": 1.37,
+          "ctr": 2.03,
+          "cvr": 1.74,
+          "cpa": 109113,
+          "purchases": 66.0,
+          "hook_rate": 42.2,
+          "hold_rate": 21.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -3664,26 +3764,28 @@
     {
       "key": "th다리고민Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 1.47,
-      "spend": 3554808.0,
-      "ctr": 5.11,
-      "cvr": 0.74,
-      "cpa": 98745,
-      "purchases": 36.0,
+      "roas": 1.56,
+      "spend": 3267750.0,
+      "ctr": 5.05,
+      "cvr": 0.8,
+      "cpa": 93364,
+      "purchases": 35.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3554808.0,
-          "revenue": 5242000.0,
-          "roas": 1.47,
-          "ctr": 5.11,
-          "cvr": 0.74,
-          "cpa": 98745,
-          "purchases": 36.0,
+          "spend": 3267750.0,
+          "revenue": 5105000.0,
+          "roas": 1.56,
+          "ctr": 5.05,
+          "cvr": 0.8,
+          "cpa": 93364,
+          "purchases": 35.0,
           "hook_rate": 71.2,
-          "hold_rate": 76.2
+          "hold_rate": 76.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -3739,52 +3841,44 @@
       "why": "구매자=자녀라는 간접 타겟 + 긴 서사로 훅 약함. 단일 플랫폼 한계."
     },
     {
-      "key": "th헬스삼년Ⅵ_AI",
+      "key": "th딱통증Ⅺ_T",
       "rank_note": "bottom",
-      "roas": 1.41,
-      "spend": 22300219.0,
-      "ctr": 2.78,
-      "cvr": 1.45,
-      "cpa": 104505,
-      "purchases": 213.38899,
+      "roas": 1.49,
+      "spend": 1287416.0,
+      "ctr": 7.69,
+      "cvr": 0.03,
+      "cpa": 99031,
+      "purchases": 13.000078,
       "platforms": [
         "google",
-        "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 202629.0,
-          "revenue": 985069.0,
-          "roas": 4.86,
-          "ctr": 1.18,
-          "cvr": 3.8,
-          "cpa": 31715,
-          "purchases": 6.38899,
+          "spend": 61399.0,
+          "revenue": 417011.0,
+          "roas": 6.79,
+          "ctr": 0.87,
+          "cvr": 5.26,
+          "cpa": 20466,
+          "purchases": 3.000078,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 36.7,
+          "completion": 31.6
         },
         "tiktok": {
-          "spend": 29123.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 12.04,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null
-        },
-        "meta": {
-          "spend": 22068467.0,
-          "revenue": 30489000.0,
-          "roas": 1.38,
-          "ctr": 2.75,
-          "cvr": 1.47,
-          "cpa": 106611,
-          "purchases": 207.0,
-          "hook_rate": 52.4,
-          "hold_rate": 32.2
+          "spend": 1226017.0,
+          "revenue": 1495741.0,
+          "roas": 1.22,
+          "ctr": 7.78,
+          "cvr": 0.03,
+          "cpa": 122602,
+          "purchases": 10.0,
+          "hook_rate": 79.7,
+          "hold_rate": 89.8,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -3793,64 +3887,66 @@
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
         "f04_7.7s.jpg",
-        "f05_15.3s.jpg",
-        "f06_23.0s.jpg",
-        "f07_30.7s.jpg",
-        "f08_38.3s.jpg",
-        "f09_46.0s.jpg"
+        "f05_15.4s.jpg",
+        "f06_23.1s.jpg",
+        "f07_30.8s.jpg",
+        "f08_38.5s.jpg",
+        "f09_46.2s.jpg"
       ],
-      "transcript": "헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신이 매일 이걸 밟으면 생기는 변화입니다. 밟기 전에는 속근육 소실 특성상 매년 1%씩 근육이 증발하고 스쿼트 100세트 쳐봤자 겉은 번지를 하는데 속은 텅 빈 과자봉지 같은 다리가 되는데 계단만 봐도 무릎이 항복선을 하는 인생을 맞이하게 됩니다. 이때 써마드를 밟으면 엑스텐스 10.0 고밀도 전류가 폐업 직전이던 속근육에 직접 고쳐서 초당 1200회씩 강제로 두드려 끼우는데 2주 정도 지나면 과자봉지 같은 허벅지에 시멘트 들어 붙듯 속부터 꽉 차오르면서 어느새 무릎도 조용해지고 말벅지처럼 속이 꽉 찬 다리가 유지되는 거죠? 이게 아무 EMS를 쓰면 안 되고 나사 우주비행사 근력 재활용으로 개발된 피부 7mm 아래까지 파고드는 엑스텐스 10.0 기술이 탑재된 써마드를 써야만 이런 효과를 볼 수 있습니다. 롯데 홈쇼핑 1시간 만에 10억 완판될 만큼 효과는 이미 증명됐는데 지금 47% 할인 중이니까 아래 링크에서 현명한 소비하시길 바랍니다.",
+      "transcript": "이 통증 미셋 기계를 자기 전 딱 15분만 발에 대시는 순간 굳고 뭉친 속근육을 풀어주고 통증 억제의 물질을 촉진하면서 물처럼 뻑뻑하고 무겁던 만성 다리 통증이 드디어 내 다리에서 작별할 준비를 하기 시작합니다 굳어버린 속근막을 직접 깨워내는 자극 원리로 통증 완화 검증까지 깐깐하게 받은 국내 유일, 아니 세계 유일 통증 미셋 기계 바로 써마드입니다 거표면만 두드리며 찔끔찔끔 시원함만 주는 일반 안방이와는 설계 자체가 다릅니다 물리적인 마사지는 피부 위에서 3mm가 한계인데 그 3배 더 깊은 속근막까지 파고드는 엑스텐스 10.0 미세전류가 손으로도 체외 충격파로도 못 닿던 통증 뿌리를 직접 건드려서 딱딱하게 굳은 근막을 부드럽게 풀고 막혀있던 현류기를 매끄럽게 뚫어주기 때문인데요 발바닥이 풀리니까 거기 딸려 아프던 무릎이 편해지고 무릎이 받쳐주니까 걷는 느낌 자체가 완전히 달라지는 게 바로 이 원리죠 아래 비공개 스크립 링크는 직원 전용 링크로 수량 소진 시까지 최제 47% 비밀 할인 중입니다 매일 진통제 챙겨 먹으면서 버티던 지긋지긋한 발 다리 통증 이제 싹 날려버리시길 바라겠습니다",
       "analyzed": true,
       "base": {
-        "hook_type": "before-after 변화형",
-        "first_3s": "AI 해부(파란 남성 골격), '헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신'",
-        "appeal_angle": "남성 근비대",
-        "cta": "매일 밟으면 생기는 변화",
+        "hook_type": "중년 여성 실사용 권유형",
+        "first_3s": "중년 여성이 제품을 들고 웃으며 '이 통증 리셋 기계를'",
+        "appeal_angle": "일반 안마기는 3mm, 이건 그 3배 깊이까지 — 깊이 비교로 차별화",
+        "cta": "직원 전용 비공개 링크 47% 비밀 할인",
         "keywords": [
-          "헬스 3년",
-          "묵은지 허벅지",
-          "1200회 타격",
-          "말벅지"
+          "통증 리셋",
+          "속근막",
+          "3mm의 3배",
+          "체외 충격파",
+          "47% 비밀 할인"
         ]
       },
       "audio": {
-        "opening_line": "헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신",
-        "voice_style": "차분한 설명형",
-        "narration_mode": "변화 시뮬레이션"
+        "opening_line": "이 통증 리셋 기계를 자기 전 딱 15분만 발에 대시는 순간",
+        "voice_style": "친근한 중년 여성 권유체",
+        "narration_mode": "1인칭 사용 권유"
       },
       "visual": {
-        "format": "AI 3D 해부 시각화",
-        "mechanism_viz": "속근육 시멘트 채움",
-        "before_after": "과자봉지→말벅지",
-        "subtitle_style": "정보형"
+        "format": "실사 인물 + 제품 소개",
+        "mechanism_viz": "침투 깊이 비교(마사지 3mm vs 속근막)",
+        "before_after": "무거운 다리 → 걷는 느낌 변화 서술",
+        "subtitle_style": "흰·노랑 굵은 자막"
       },
       "target": {
-        "gender": "남성",
-        "age": "30·40대",
-        "segment": "헬스해도 안 되는 남성",
-        "appeal_axis": "근비대(추상)"
+        "gender": "여성",
+        "age": "50·60대",
+        "segment": "만성 발·다리 통증, 진통제 상시 복용층",
+        "appeal_axis": "기능(통증 완화)"
       },
       "trust": {
-        "evidence": "나사 개발, 1200회",
+        "evidence": "통증 완화 검증·세계 유일 주장",
         "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
+        "discount": "47%",
+        "compliance": "⛔ '통증 리셋 기계', '통증 완화 검증까지 받은', '매일 진통제 챙겨 먹으면서 버티던' — 의약품·의료기기 대체 암시로 가장 위험한 조합. '세계 유일'은 배타적 최상급 표현으로도 문제"
       },
-      "one_liner": "통나무가와 완전히 같은 포맷·템플릿인데 22M을 태우고 1.51. '헬스 3년 남성 근비대'라는 좁은 타겟 + '속근육 밀도'라는 추상적 베네핏이 발목. 같은 틀도 타겟·베네핏이 성패를 가른다는 결정적 증거.",
-      "why": "타겟 협소 + 베네핏 비가시성. 통나무가(여성·다리라인·즉각체감)와 A/B로 대비됨. 예산 재배분 시급."
+      "one_liner": "침투 깊이를 숫자로 비교한 설명은 명쾌하고 ROAS 2.96도 나쁘지 않다. 문제는 '통증 리셋 기계'·'진통제' 같은 표현으로 의료기기 오인 소지가 가장 큰 소재라는 점.",
+      "why": "성과보다 리스크가 앞서는 케이스 — 소구는 유지하되 통증 어휘를 '뻐근함·무거움'으로 교체해 재제작할 것."
     },
     {
       "key": "th그러니까Ⅵ_AI",
       "rank_note": "bottom",
-      "roas": 0.72,
-      "spend": 1537635.0,
-      "ctr": 1.55,
-      "cvr": 0.87,
-      "cpa": 192204,
-      "purchases": 8.0,
+      "roas": 1.47,
+      "spend": 3292389.0,
+      "ctr": 6.6,
+      "cvr": 0.17,
+      "cpa": 102887,
+      "purchases": 32.0,
       "platforms": [
         "google",
-        "meta"
+        "meta",
+        "tiktok"
       ],
       "platform_metrics": {
         "google": {
@@ -3862,7 +3958,22 @@
           "cpa": null,
           "purchases": 0.0,
           "hook_rate": null,
-          "hold_rate": null
+          "hold_rate": null,
+          "play50": 40.7,
+          "completion": 36.4
+        },
+        "tiktok": {
+          "spend": 1754754.0,
+          "revenue": 3720078.0,
+          "roas": 2.12,
+          "ctr": 7.95,
+          "cvr": 0.14,
+          "cpa": 73115,
+          "purchases": 24.0,
+          "hook_rate": 46.6,
+          "hold_rate": 77.9,
+          "play50": null,
+          "completion": null
         },
         "meta": {
           "spend": 1502563.0,
@@ -3873,7 +3984,9 @@
           "cpa": 187820,
           "purchases": 8.0,
           "hook_rate": 29.4,
-          "hold_rate": 36.2
+          "hold_rate": 36.2,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -3929,6 +4042,287 @@
       "why": "훅 약한 설명형 도입 + 대비 저효율."
     },
     {
+      "key": "th헬스삼년Ⅵ_AI",
+      "rank_note": "bottom",
+      "roas": 1.39,
+      "spend": 21017786.0,
+      "ctr": 2.83,
+      "cvr": 1.41,
+      "cpa": 105411,
+      "purchases": 199.38899,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 202629.0,
+          "revenue": 985069.0,
+          "roas": 4.86,
+          "ctr": 1.18,
+          "cvr": 3.8,
+          "cpa": 31715,
+          "purchases": 6.38899,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 47.4,
+          "completion": 41.7
+        },
+        "tiktok": {
+          "spend": 45108.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 12.23,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 69.7,
+          "hold_rate": 89.2,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 20770049.0,
+          "revenue": 28258000.0,
+          "roas": 1.36,
+          "ctr": 2.77,
+          "cvr": 1.45,
+          "cpa": 107617,
+          "purchases": 193.0,
+          "hook_rate": 52.6,
+          "hold_rate": 32.6,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.7s.jpg",
+        "f05_15.3s.jpg",
+        "f06_23.0s.jpg",
+        "f07_30.7s.jpg",
+        "f08_38.3s.jpg",
+        "f09_46.0s.jpg"
+      ],
+      "transcript": "헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신이 매일 이걸 밟으면 생기는 변화입니다. 밟기 전에는 속근육 소실 특성상 매년 1%씩 근육이 증발하고 스쿼트 100세트 쳐봤자 겉은 번지를 하는데 속은 텅 빈 과자봉지 같은 다리가 되는데 계단만 봐도 무릎이 항복선을 하는 인생을 맞이하게 됩니다. 이때 써마드를 밟으면 엑스텐스 10.0 고밀도 전류가 폐업 직전이던 속근육에 직접 고쳐서 초당 1200회씩 강제로 두드려 끼우는데 2주 정도 지나면 과자봉지 같은 허벅지에 시멘트 들어 붙듯 속부터 꽉 차오르면서 어느새 무릎도 조용해지고 말벅지처럼 속이 꽉 찬 다리가 유지되는 거죠? 이게 아무 EMS를 쓰면 안 되고 나사 우주비행사 근력 재활용으로 개발된 피부 7mm 아래까지 파고드는 엑스텐스 10.0 기술이 탑재된 써마드를 써야만 이런 효과를 볼 수 있습니다. 롯데 홈쇼핑 1시간 만에 10억 완판될 만큼 효과는 이미 증명됐는데 지금 47% 할인 중이니까 아래 링크에서 현명한 소비하시길 바랍니다.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "before-after 변화형",
+        "first_3s": "AI 해부(파란 남성 골격), '헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신'",
+        "appeal_angle": "남성 근비대",
+        "cta": "매일 밟으면 생기는 변화",
+        "keywords": [
+          "헬스 3년",
+          "묵은지 허벅지",
+          "1200회 타격",
+          "말벅지"
+        ]
+      },
+      "audio": {
+        "opening_line": "헬스 3년 다녀도 허벅지가 묵은지처럼 흐물거리는 당신",
+        "voice_style": "차분한 설명형",
+        "narration_mode": "변화 시뮬레이션"
+      },
+      "visual": {
+        "format": "AI 3D 해부 시각화",
+        "mechanism_viz": "속근육 시멘트 채움",
+        "before_after": "과자봉지→말벅지",
+        "subtitle_style": "정보형"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "30·40대",
+        "segment": "헬스해도 안 되는 남성",
+        "appeal_axis": "근비대(추상)"
+      },
+      "trust": {
+        "evidence": "나사 개발, 1200회",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "통나무가와 완전히 같은 포맷·템플릿인데 22M을 태우고 1.51. '헬스 3년 남성 근비대'라는 좁은 타겟 + '속근육 밀도'라는 추상적 베네핏이 발목. 같은 틀도 타겟·베네핏이 성패를 가른다는 결정적 증거.",
+      "why": "타겟 협소 + 베네핏 비가시성. 통나무가(여성·다리라인·즉각체감)와 A/B로 대비됨. 예산 재배분 시급."
+    },
+    {
+      "key": "th엄마드레스Ⅰ_AI",
+      "rank_note": "bottom",
+      "roas": 0.69,
+      "spend": 1476130.0,
+      "ctr": 3.98,
+      "cvr": 0.09,
+      "cpa": 259730,
+      "purchases": 5.683325,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 1032628.0,
+          "revenue": 263353.0,
+          "roas": 0.26,
+          "ctr": 1.09,
+          "cvr": 0.13,
+          "cpa": 613445,
+          "purchases": 1.683325,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 16.0,
+          "completion": 8.4
+        },
+        "tiktok": {
+          "spend": 439467.0,
+          "revenue": 751489.0,
+          "roas": 1.71,
+          "ctr": 12.52,
+          "cvr": 0.08,
+          "cpa": 109867,
+          "purchases": 4.0,
+          "hook_rate": 79.6,
+          "hold_rate": 82.0,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 4035.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 3.9,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 48.5,
+          "hold_rate": 34.8,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [],
+      "transcript": "",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "th딱디톡스Ⅰ_T",
+      "rank_note": "bottom",
+      "roas": 0.53,
+      "spend": 805689.0,
+      "ctr": 8.08,
+      "cvr": 0.1,
+      "cpa": 263812,
+      "purchases": 3.054023,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 79372.0,
+          "revenue": 148906.0,
+          "roas": 1.88,
+          "ctr": 1.61,
+          "cvr": 1.24,
+          "cpa": 75304,
+          "purchases": 1.054023,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 13.7,
+          "completion": 10.3
+        },
+        "tiktok": {
+          "spend": 224637.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 10.91,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 51.9,
+          "hold_rate": 84.9,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 501680.0,
+          "revenue": 276000.0,
+          "roas": 0.55,
+          "ctr": 1.86,
+          "cvr": 1.55,
+          "cpa": 250840,
+          "purchases": 2.0,
+          "hook_rate": 24.6,
+          "hold_rate": 26.0,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_8.9s.jpg",
+        "f05_17.7s.jpg",
+        "f06_26.6s.jpg",
+        "f07_35.4s.jpg",
+        "f08_44.3s.jpg",
+        "f09_53.2s.jpg"
+      ],
+      "transcript": "이 하체 디톡스 기계를 자기 전 딱 15분만 발해대시는 순간 하체 순환을 꽉 막고 있던 굽은 민트가 사르르 풀려 내려가면서 저녁만 되면 빵빵하게 붙던 종아리와 손으로 잡히던 안쪽 껍질살이 드디어 내 다리에서 잡결할 준비를 하기 시작합니다 속지방층을 직접 흔들어 깨우는 자극 원리로 붓기, 탄력, 셀룰 임상 검증까지 깐깐하게 받은 국내 유일, 아니 세계 유일 하체 디톡스 기계 바로 써마드입니다 더 표면만 두드리며 씨끈씨끈 시원함만 주는 일반 안마기와는 설계 자체가 다릅니다 물리적인 마사지는 피부 2에서 3mm가 한계인데 그 3배 더 깊은 속지방층까지 파고드는 엑스텐스 10.0 미세전류가 막혀있던 링투 순환기를 매끄럽게 뚫고 딱딱하게 뭉친 셀룰라이트까지 부드럽게 풀어서 다리에 정체돼 있던 수많은 노폐물과 묵은 지방을 한 톨도 남기지 않고 밖으로 배출시켜주기 때문인데요 한 생 붙어 있던 허벅지 사이에 틈이 생기고 한라봉 껍질처럼 울퉁불퉁하던 셀룰라이트가 매끈하게 정리되는 게 바로 이 원리죠 아래 비공개 시크릿 링크는 직원 전용 링크로 수량 소진시까지 최대 17% 비밀 할인 중입니다 매일 가리고 다니면서 스트레스 받던 합의 고민 이제 싹 날려버리시길 바라겠습니다",
+      "analyzed": true,
+      "base": {
+        "hook_type": "제품 시연 선언형",
+        "first_3s": "여성이 발판을 두 손으로 들어 보이며 '이 하체 디톡스 기계를 자기 전 딱 15분만'",
+        "appeal_angle": "세계 유일 하체 디톡스 + 셀룰라이트 임상",
+        "cta": "직원 전용 비공개 시크릿 링크, 수량 소진까지 17% 비밀할인",
+        "keywords": [
+          "하체 디톡스",
+          "셀룰라이트",
+          "임상 검증",
+          "속지방층",
+          "시크릿 링크"
+        ]
+      },
+      "audio": {
+        "opening_line": "이 하체 디톡스 기계를 자기 전 딱 15분만 밟으시는 순간",
+        "voice_style": "또렷한 존댓말 여성 설명톤",
+        "narration_mode": "1인 제품 소개형"
+      },
+      "visual": {
+        "format": "실사 인물 시연 + 의학 CG",
+        "mechanism_viz": "강함 — 혈관 적혈구, 림프관, 지방 배출 3D",
+        "before_after": "임상 그래프 캡처(9.29%→27.55%), 피부 단면 전후",
+        "subtitle_style": "흰 자막 + 일반 안마기 X표 대비컷"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "셀룰라이트·안쪽 허벅지살",
+        "appeal_axis": "임상 근거 + 비밀 할인"
+      },
+      "trust": {
+        "evidence": "붓기·탄력·셀룰라이트 임상 수치 화면 노출",
+        "refund": "–",
+        "discount": "비공개 시크릿 링크 17%",
+        "compliance": "⚠ '세계 유일' 최상급 표현"
+      },
+      "one_liner": "구글 4.02·틱톡 2.83인데 메타만 0.55로 무너진 전형적 매체 미스매치 소재다. 임상 그래프를 정면에 세운 설득형이라 검색·추천 맥락에서 더 잘 먹혔다.",
+      "why": "정보 밀도가 높고 62초로 길어 메타 피드에서는 초반 이탈이 크다(메타 CTR 1.86). 메타는 끄고 구글·틱톡으로 예산을 몰아주는 게 맞다."
+    },
+    {
       "key": "th상견례Ⅰ_AI",
       "rank_note": "bottom",
       "roas": 0.37,
@@ -3950,7 +4344,9 @@
           "cpa": 362776,
           "purchases": 4.0,
           "hook_rate": 66.3,
-          "hold_rate": 57.7
+          "hold_rate": 57.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [

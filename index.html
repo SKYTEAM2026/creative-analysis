@@ -106,14 +106,19 @@ function fstep(l,v){return `<span style="background:#242a36;border:1px solid var
 function pmBlock(c){
   const pm=c.platform_metrics||{}; const rows=Object.keys(pm).filter(k=>pm[k]&&pm[k].spend);
   if(!rows.length)return '';
-  const card=k=>{const m=pm[k];return `<div style="background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:8px 10px;margin-bottom:6px">
+  const arw='<span style="color:var(--tx2)">→</span>';
+  const card=k=>{const m=pm[k];
+    const ret = k==='google'
+      ? fstep('50%재생',pct(m.play50))+arw+fstep('완주율',pct(m.completion))
+      : fstep('훅 비율',pct(m.hook_rate))+arw+fstep('홀드율',pct(m.hold_rate));
+    return `<div style="background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:8px 10px;margin-bottom:6px">
     <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;flex-wrap:wrap;gap:4px">
       <b style="font-size:12.5px">${PLN[k]||k}</b>
       <span style="font-size:11px;color:var(--tx2)">ROAS <b style="color:${roasColor(m.roas)}">${m.roas??'–'}</b> · ${fCur(m.spend)} · CPA ${fCur(m.cpa)}</span></div>
     <div style="display:flex;gap:4px;align-items:center;font-size:11px;flex-wrap:wrap">
-      ${fstep('훅 비율',pct(m.hook_rate))}<span style="color:var(--tx2)">→</span>${fstep('홀드율',pct(m.hold_rate))}<span style="color:var(--tx2)">→</span>${fstep('CTR',pct(m.ctr))}<span style="color:var(--tx2)">→</span>${fstep('CVR',pct(m.cvr))}</div></div>`};
+      ${ret}${arw}${fstep('CTR',pct(m.ctr))}${arw}${fstep('CVR',pct(m.cvr))}</div></div>`};
   return `<div class="tg"><h4>📊 매체별 퍼널</h4>${rows.map(card).join('')}
-    <div style="font-size:10.5px;color:var(--tx2)">훅 비율=초기조회/노출(메타 3초·틱톡 2초) · 홀드율=지속조회/초기조회(메타 ThruPlay·틱톡 6초) · CTR=클릭/노출 · CVR=전환/클릭 <span style="color:#e0a63a">(구글은 영상지표 미제공, 틱톡은 프록시 반영 시 표시)</span></div></div>`;
+    <div style="font-size:10.5px;color:var(--tx2)">메타·틱톡: 훅 비율=초기조회/노출(메타 3초·틱톡 2초)·홀드율=지속조회/초기조회(메타 ThruPlay·틱톡 6초) · 구글: 50%재생=50%지점 도달/노출·완주율=끝까지 재생/노출 · CTR=클릭/노출·CVR=전환/클릭</div></div>`;
 }
 function kv(label,val){return val?`<div class="kv"><b>${label}</b><span>${esc(val)}</span></div>`:''}
 function tagBlock(title,obj,rows){return `<div class="tg"><h4>${title}</h4>${rows.map(([l,k])=>kv(l,obj?.[k])).join('')}</div>`}

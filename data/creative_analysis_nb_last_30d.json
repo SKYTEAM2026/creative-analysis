@@ -2,7 +2,7 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_30d",
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "criteria": "유의미 지출(3,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -28,26 +28,28 @@
     {
       "key": "nb가은PPL_T",
       "rank_note": "top",
-      "roas": 3.81,
-      "spend": 1905747.0,
-      "ctr": 3.04,
-      "cvr": 1.08,
-      "cpa": 38115,
-      "purchases": 50.0,
+      "roas": 3.97,
+      "spend": 1966478.0,
+      "ctr": 3.09,
+      "cvr": 1.12,
+      "cpa": 36416,
+      "purchases": 54.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1905747.0,
-          "revenue": 7252000.0,
-          "roas": 3.81,
-          "ctr": 3.04,
-          "cvr": 1.08,
-          "cpa": 38115,
-          "purchases": 50.0,
-          "hook_rate": 29.2,
-          "hold_rate": 52.3
+          "spend": 1966478.0,
+          "revenue": 7808000.0,
+          "roas": 3.97,
+          "ctr": 3.09,
+          "cvr": 1.12,
+          "cpa": 36416,
+          "purchases": 54.0,
+          "hook_rate": 29.6,
+          "hold_rate": 53.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -108,25 +110,27 @@
       "key": "nb사라진대Ⅱ_TP",
       "rank_note": "top",
       "roas": 2.31,
-      "spend": 4839999.0,
-      "ctr": 1.52,
-      "cvr": 5.06,
-      "cpa": 53778,
-      "purchases": 90.0,
+      "spend": 5054974.0,
+      "ctr": 1.51,
+      "cvr": 5.04,
+      "cpa": 54355,
+      "purchases": 93.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 4839999.0,
-          "revenue": 11167495.0,
+          "spend": 5054974.0,
+          "revenue": 11659495.0,
           "roas": 2.31,
-          "ctr": 1.52,
-          "cvr": 5.06,
-          "cpa": 53778,
-          "purchases": 90.0,
-          "hook_rate": 12.6,
-          "hold_rate": 19.9
+          "ctr": 1.51,
+          "cvr": 5.04,
+          "cpa": 54355,
+          "purchases": 93.0,
+          "hook_rate": 12.7,
+          "hold_rate": 20.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -184,26 +188,28 @@
     {
       "key": "nb김예빈PPL_T",
       "rank_note": "top",
-      "roas": 2.05,
-      "spend": 2897796.0,
-      "ctr": 1.82,
-      "cvr": 2.16,
-      "cpa": 56820,
-      "purchases": 51.0,
+      "roas": 2.09,
+      "spend": 3159403.0,
+      "ctr": 1.81,
+      "cvr": 2.23,
+      "cpa": 55428,
+      "purchases": 57.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 2897796.0,
-          "revenue": 5931300.0,
-          "roas": 2.05,
-          "ctr": 1.82,
-          "cvr": 2.16,
-          "cpa": 56820,
-          "purchases": 51.0,
-          "hook_rate": 24.6,
-          "hold_rate": 15.6
+          "spend": 3159403.0,
+          "revenue": 6608700.0,
+          "roas": 2.09,
+          "ctr": 1.81,
+          "cvr": 2.23,
+          "cpa": 55428,
+          "purchases": 57.0,
+          "hook_rate": 24.4,
+          "hold_rate": 15.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -261,105 +267,30 @@
       "why": "타겟을 상태가 아니라 '행동'으로 지목한 훅 + 시즌 마감 압박 + 환불 안전장치 조합."
     },
     {
-      "key": "nb방씨PPL_T",
-      "rank_note": "top",
-      "roas": 1.73,
-      "spend": 11203576.0,
-      "ctr": 1.81,
-      "cvr": 1.73,
-      "cpa": 72750,
-      "purchases": 154.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 11203576.0,
-          "revenue": 19432900.0,
-          "roas": 1.73,
-          "ctr": 1.81,
-          "cvr": 1.73,
-          "cpa": 72750,
-          "purchases": 154.0,
-          "hook_rate": 37.8,
-          "hold_rate": 27.8
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_8.1s.jpg",
-        "f05_16.2s.jpg",
-        "f06_24.4s.jpg",
-        "f07_32.5s.jpg",
-        "f08_40.6s.jpg",
-        "f09_48.7s.jpg"
-      ],
-      "transcript": "예신들 주목! 결혼 전 팔뚝 관리 꼭 하세요! 결혼식 모든 게 만족스러웠는데 진짜 딱 하나 아쉬웠던 거 팔뚝살, 얼굴, 드레스, 헤어, 메이크업 다 좋았는데 사진 보니까 팔뚝밖에 안 보이더라 지방 흡입하자니 부작용 비용 때문에 안 하게 되고 경락은 비싸고 아프고 다른 예신분들은 저처럼 되지 마시라고 뒤늦게 발견한 하루 10분 홈케어템 뉴베로 알려드립니다 국내 유일 코어 웨이브 듀얼 기술이 순환 케어, 탄력 관리, 지방 분해 효과를 준다는데 10분 정도 쓰고 나면 팔뚝이 한결 가볍고 경락 받고 나서 느껴지는 뻐근한 자극이 느껴져요 심지어 사용도 엄청 간편해서 팔뚝에 그냥 감아놓고 핸드폰 보고, 집안일 하고, 넷플릭스 보고 편하게 관리했어요 운동 없이 그냥 뉴베로 밴드 감아둔 것 뿐인데 자자는 어때요? 결혼식 끝나고 살은 좀 쪘는데 팔뚝은 오히려 더 얇아졌어요 무엇보다 좋았던 건 안 아프고 안 귀찮다는 거 효과 좋아도 귀찮으면 안 하게 되는데 이건 하는 동안 안마 받는 것처럼 시원해서 매일 손이 가더라고요 그리고 진짜 자신 있는 브랜드만 한다는 불만족시 100% 환불보장! 지금 최대 45% 할인 중이라고 하니까 속는 셈 치고 경락이랑 시술 받기 전에 뉴베로 먼저 경험해보세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "결혼 후회형",
-        "first_3s": "'예신들 주목! 결혼 전 팔뚝 관리 꼭 하세요'",
-        "appeal_angle": "결혼 사진 팔뚝",
-        "cta": "예신분들 되지 마시라고",
-        "keywords": [
-          "예신",
-          "결혼식 사진",
-          "지흡 부작용",
-          "코어웨이브"
-        ]
-      },
-      "audio": {
-        "opening_line": "예신들 주목! 결혼 전 팔뚝 관리 꼭 하세요",
-        "voice_style": "후회 섞인 조언체",
-        "narration_mode": "예신 1인칭 후기"
-      },
-      "visual": {
-        "format": "실사 UGC",
-        "mechanism_viz": "순환·탄력·지방분해 설명",
-        "before_after": "팔뚝 가벼워짐",
-        "subtitle_style": "그래픽 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "결혼 앞둔 예신",
-        "appeal_axis": "미용(웨딩)"
-      },
-      "trust": {
-        "evidence": "코어웨이브 듀얼, 지흡 대비 안전",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "'결혼식 사진에 팔뚝밖에 안 보이더라'는 후회가 예신의 불안을 정확히 건드린다. 지흡 부작용 회피로 홈케어를 정당화하는 각이 설득력 있다.",
-      "why": "강한 감정 훅(웨딩 후회) + 명확한 타겟(예신) + 대안 프레이밍."
-    },
-    {
       "key": "nb그만감아Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.71,
-      "spend": 7202540.0,
+      "roas": 1.69,
+      "spend": 6540641.0,
       "ctr": 1.88,
-      "cvr": 2.86,
-      "cpa": 69255,
-      "purchases": 104.0,
+      "cvr": 2.79,
+      "cpa": 69581,
+      "purchases": 94.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 7202540.0,
-          "revenue": 12300476.0,
-          "roas": 1.71,
+          "spend": 6540641.0,
+          "revenue": 11046476.0,
+          "roas": 1.69,
           "ctr": 1.88,
-          "cvr": 2.86,
-          "cpa": 69255,
-          "purchases": 104.0,
-          "hook_rate": 32.1,
-          "hold_rate": 14.9
+          "cvr": 2.79,
+          "cpa": 69581,
+          "purchases": 94.0,
+          "hook_rate": 31.9,
+          "hold_rate": 15.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -415,28 +346,109 @@
       "why": "유머 훅은 좋으나 3자 시점 + 대물량 중효율."
     },
     {
-      "key": "nb할인좀Ⅱ_AIP",
+      "key": "nb방씨PPL_T",
       "rank_note": "top",
-      "roas": 1.6,
-      "spend": 28800516.0,
-      "ctr": 2.22,
-      "cvr": 3.42,
-      "cpa": 78476,
-      "purchases": 367.0,
+      "roas": 1.65,
+      "spend": 11393639.0,
+      "ctr": 1.77,
+      "cvr": 1.68,
+      "cpa": 75958,
+      "purchases": 150.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 28800516.0,
-          "revenue": 46176900.0,
-          "roas": 1.6,
-          "ctr": 2.22,
-          "cvr": 3.42,
-          "cpa": 78476,
-          "purchases": 367.0,
-          "hook_rate": 24.5,
-          "hold_rate": 22.4
+          "spend": 11393639.0,
+          "revenue": 18851900.0,
+          "roas": 1.65,
+          "ctr": 1.77,
+          "cvr": 1.68,
+          "cpa": 75958,
+          "purchases": 150.0,
+          "hook_rate": 37.6,
+          "hold_rate": 27.4,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_8.1s.jpg",
+        "f05_16.2s.jpg",
+        "f06_24.4s.jpg",
+        "f07_32.5s.jpg",
+        "f08_40.6s.jpg",
+        "f09_48.7s.jpg"
+      ],
+      "transcript": "예신들 주목! 결혼 전 팔뚝 관리 꼭 하세요! 결혼식 모든 게 만족스러웠는데 진짜 딱 하나 아쉬웠던 거 팔뚝살, 얼굴, 드레스, 헤어, 메이크업 다 좋았는데 사진 보니까 팔뚝밖에 안 보이더라 지방 흡입하자니 부작용 비용 때문에 안 하게 되고 경락은 비싸고 아프고 다른 예신분들은 저처럼 되지 마시라고 뒤늦게 발견한 하루 10분 홈케어템 뉴베로 알려드립니다 국내 유일 코어 웨이브 듀얼 기술이 순환 케어, 탄력 관리, 지방 분해 효과를 준다는데 10분 정도 쓰고 나면 팔뚝이 한결 가볍고 경락 받고 나서 느껴지는 뻐근한 자극이 느껴져요 심지어 사용도 엄청 간편해서 팔뚝에 그냥 감아놓고 핸드폰 보고, 집안일 하고, 넷플릭스 보고 편하게 관리했어요 운동 없이 그냥 뉴베로 밴드 감아둔 것 뿐인데 자자는 어때요? 결혼식 끝나고 살은 좀 쪘는데 팔뚝은 오히려 더 얇아졌어요 무엇보다 좋았던 건 안 아프고 안 귀찮다는 거 효과 좋아도 귀찮으면 안 하게 되는데 이건 하는 동안 안마 받는 것처럼 시원해서 매일 손이 가더라고요 그리고 진짜 자신 있는 브랜드만 한다는 불만족시 100% 환불보장! 지금 최대 45% 할인 중이라고 하니까 속는 셈 치고 경락이랑 시술 받기 전에 뉴베로 먼저 경험해보세요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "결혼 후회형",
+        "first_3s": "'예신들 주목! 결혼 전 팔뚝 관리 꼭 하세요'",
+        "appeal_angle": "결혼 사진 팔뚝",
+        "cta": "예신분들 되지 마시라고",
+        "keywords": [
+          "예신",
+          "결혼식 사진",
+          "지흡 부작용",
+          "코어웨이브"
+        ]
+      },
+      "audio": {
+        "opening_line": "예신들 주목! 결혼 전 팔뚝 관리 꼭 하세요",
+        "voice_style": "후회 섞인 조언체",
+        "narration_mode": "예신 1인칭 후기"
+      },
+      "visual": {
+        "format": "실사 UGC",
+        "mechanism_viz": "순환·탄력·지방분해 설명",
+        "before_after": "팔뚝 가벼워짐",
+        "subtitle_style": "그래픽 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "결혼 앞둔 예신",
+        "appeal_axis": "미용(웨딩)"
+      },
+      "trust": {
+        "evidence": "코어웨이브 듀얼, 지흡 대비 안전",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "'결혼식 사진에 팔뚝밖에 안 보이더라'는 후회가 예신의 불안을 정확히 건드린다. 지흡 부작용 회피로 홈케어를 정당화하는 각이 설득력 있다.",
+      "why": "강한 감정 훅(웨딩 후회) + 명확한 타겟(예신) + 대안 프레이밍."
+    },
+    {
+      "key": "nb할인좀Ⅱ_AIP",
+      "rank_note": "top",
+      "roas": 1.58,
+      "spend": 28390106.0,
+      "ctr": 2.17,
+      "cvr": 3.35,
+      "cpa": 80198,
+      "purchases": 354.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 28390106.0,
+          "revenue": 44969000.0,
+          "roas": 1.58,
+          "ctr": 2.17,
+          "cvr": 3.35,
+          "cpa": 80198,
+          "purchases": 354.0,
+          "hook_rate": 24.4,
+          "hold_rate": 22.3,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -492,105 +504,30 @@
       "why": "상황극 오퍼 훅 + 희소성. 물량은 크나 효율은 중간."
     },
     {
-      "key": "nb뷰티지도PPL_T",
-      "rank_note": "top",
-      "roas": 1.56,
-      "spend": 11010269.0,
-      "ctr": 1.16,
-      "cvr": 3.92,
-      "cpa": 77537,
-      "purchases": 142.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 11010269.0,
-          "revenue": 17230800.0,
-          "roas": 1.56,
-          "ctr": 1.16,
-          "cvr": 3.92,
-          "cpa": 77537,
-          "purchases": 142.0,
-          "hook_rate": 16.0,
-          "hold_rate": 20.4
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.2s.jpg",
-        "f05_10.4s.jpg",
-        "f06_15.6s.jpg",
-        "f07_20.8s.jpg",
-        "f08_26.0s.jpg",
-        "f09_31.2s.jpg"
-      ],
-      "transcript": "출산하고 나면 호르몬 때문인지 유독 팔뚝에만 살이 잘 붙고 또 정말 안 빠지더라고요 그래서 저는 요즘 뉴베로 리프팅 바엔드로 간편하게 관리하고 있어요 이 제품이 정말 좋은 게 초미스의 EMS 아레드라이트 기능이 같이 들어있어서 속피아 지방 분해부터 피부 거탄력까지 이중으로 꽉 잡아주거든요 게다가 스트랩 타입이라 팔뚝살을 빼고 싶은 부위에 슥 감기만 하면 되니까 육아하면서도 정말 간편하게 쓸 수 있어요 모드도 이복까지나 돼서 나에게 맞는 자극을 찾는 재미가 있는데 개인적으로는 시원한 괄사 모드가 가장 마음에 들었어요 매일 10분 정도만 투자해도 묵직했던 팔이 한결 가벼워지고 피부 탄력이 살아나는 게 눈으로 보이니까 대만족 중이랍니다 올 여름 완벽한 상체라인을 위해서 앞으로도 꾸준히 써보려고 해요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "출산후 관리형",
-        "first_3s": "'출산하고 나면 유독 팔뚝에만 살이'",
-        "appeal_angle": "산후 팔뚝",
-        "cta": "",
-        "keywords": [
-          "출산후",
-          "EMS 레드라이트",
-          "괄사 모드",
-          "10분"
-        ]
-      },
-      "audio": {
-        "opening_line": "출산하고 나면 호르몬 때문인지 유독 팔뚝에만",
-        "voice_style": "육아맘 후기",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사 UGC",
-        "mechanism_viz": "속지방 분해·탄력",
-        "before_after": "팔 가벼워짐",
-        "subtitle_style": "그래픽 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "육아맘",
-        "appeal_axis": "미용(산후)"
-      },
-      "trust": {
-        "evidence": "EMS+레드라이트",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "리쮸와 같은 산후 팔뚝 각이라 차별성이 없고 훅도 평범하다. 니치 중복으로 소재 피로.",
-      "why": "니치 중복 + 평범한 훅."
-    },
-    {
       "key": "nb진서PPL_T",
       "rank_note": "top",
-      "roas": 1.5,
-      "spend": 3433845.0,
-      "ctr": 2.87,
-      "cvr": 1.03,
-      "cpa": 88047,
-      "purchases": 39.0,
+      "roas": 1.56,
+      "spend": 3145022.0,
+      "ctr": 2.84,
+      "cvr": 1.1,
+      "cpa": 82764,
+      "purchases": 38.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3433845.0,
-          "revenue": 5134000.0,
-          "roas": 1.5,
-          "ctr": 2.87,
-          "cvr": 1.03,
-          "cpa": 88047,
-          "purchases": 39.0,
-          "hook_rate": 27.6,
-          "hold_rate": 8.4
+          "spend": 3145022.0,
+          "revenue": 4896000.0,
+          "roas": 1.56,
+          "ctr": 2.84,
+          "cvr": 1.1,
+          "cpa": 82764,
+          "purchases": 38.0,
+          "hook_rate": 27.4,
+          "hold_rate": 8.3,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -646,28 +583,109 @@
       "why": "짧은 호흡 + 간편 루틴 프레이밍."
     },
     {
+      "key": "nb뷰티지도PPL_T",
+      "rank_note": "top",
+      "roas": 1.52,
+      "spend": 11111954.0,
+      "ctr": 1.15,
+      "cvr": 3.82,
+      "cpa": 79371,
+      "purchases": 140.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 11111954.0,
+          "revenue": 16914800.0,
+          "roas": 1.52,
+          "ctr": 1.15,
+          "cvr": 3.82,
+          "cpa": 79371,
+          "purchases": 140.0,
+          "hook_rate": 16.1,
+          "hold_rate": 20.3,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_5.2s.jpg",
+        "f05_10.4s.jpg",
+        "f06_15.6s.jpg",
+        "f07_20.8s.jpg",
+        "f08_26.0s.jpg",
+        "f09_31.2s.jpg"
+      ],
+      "transcript": "출산하고 나면 호르몬 때문인지 유독 팔뚝에만 살이 잘 붙고 또 정말 안 빠지더라고요 그래서 저는 요즘 뉴베로 리프팅 바엔드로 간편하게 관리하고 있어요 이 제품이 정말 좋은 게 초미스의 EMS 아레드라이트 기능이 같이 들어있어서 속피아 지방 분해부터 피부 거탄력까지 이중으로 꽉 잡아주거든요 게다가 스트랩 타입이라 팔뚝살을 빼고 싶은 부위에 슥 감기만 하면 되니까 육아하면서도 정말 간편하게 쓸 수 있어요 모드도 이복까지나 돼서 나에게 맞는 자극을 찾는 재미가 있는데 개인적으로는 시원한 괄사 모드가 가장 마음에 들었어요 매일 10분 정도만 투자해도 묵직했던 팔이 한결 가벼워지고 피부 탄력이 살아나는 게 눈으로 보이니까 대만족 중이랍니다 올 여름 완벽한 상체라인을 위해서 앞으로도 꾸준히 써보려고 해요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "출산후 관리형",
+        "first_3s": "'출산하고 나면 유독 팔뚝에만 살이'",
+        "appeal_angle": "산후 팔뚝",
+        "cta": "",
+        "keywords": [
+          "출산후",
+          "EMS 레드라이트",
+          "괄사 모드",
+          "10분"
+        ]
+      },
+      "audio": {
+        "opening_line": "출산하고 나면 호르몬 때문인지 유독 팔뚝에만",
+        "voice_style": "육아맘 후기",
+        "narration_mode": "1인칭 후기"
+      },
+      "visual": {
+        "format": "실사 UGC",
+        "mechanism_viz": "속지방 분해·탄력",
+        "before_after": "팔 가벼워짐",
+        "subtitle_style": "그래픽 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "육아맘",
+        "appeal_axis": "미용(산후)"
+      },
+      "trust": {
+        "evidence": "EMS+레드라이트",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "리쮸와 같은 산후 팔뚝 각이라 차별성이 없고 훅도 평범하다. 니치 중복으로 소재 피로.",
+      "why": "니치 중복 + 평범한 훅."
+    },
+    {
       "key": "nb감도안온다Ⅱ_T",
       "rank_note": "bottom",
       "roas": 1.45,
-      "spend": 13440918.0,
-      "ctr": 2.01,
+      "spend": 13448277.0,
+      "ctr": 1.99,
       "cvr": 2.47,
-      "cpa": 92061,
+      "cpa": 92111,
       "purchases": 146.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 13440918.0,
-          "revenue": 19505900.0,
+          "spend": 13448277.0,
+          "revenue": 19460300.0,
           "roas": 1.45,
-          "ctr": 2.01,
+          "ctr": 1.99,
           "cvr": 2.47,
-          "cpa": 92061,
+          "cpa": 92111,
           "purchases": 146.0,
-          "hook_rate": 17.1,
-          "hold_rate": 22.7
+          "hook_rate": 17.0,
+          "hold_rate": 22.6,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -725,26 +743,28 @@
     {
       "key": "nb연아트핏PPL_T",
       "rank_note": "bottom",
-      "roas": 1.44,
-      "spend": 4437506.0,
+      "roas": 1.43,
+      "spend": 4673922.0,
       "ctr": 2.4,
-      "cvr": 1.94,
-      "cpa": 83727,
-      "purchases": 53.0,
+      "cvr": 1.91,
+      "cpa": 83463,
+      "purchases": 56.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 4437506.0,
-          "revenue": 6390000.0,
-          "roas": 1.44,
+          "spend": 4673922.0,
+          "revenue": 6684400.0,
+          "roas": 1.43,
           "ctr": 2.4,
-          "cvr": 1.94,
-          "cpa": 83727,
-          "purchases": 53.0,
-          "hook_rate": 40.9,
-          "hold_rate": 17.6
+          "cvr": 1.91,
+          "cpa": 83463,
+          "purchases": 56.0,
+          "hook_rate": 40.8,
+          "hold_rate": 17.5,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -802,26 +822,28 @@
     {
       "key": "nb리쮸PPL_T",
       "rank_note": "top",
-      "roas": 1.39,
-      "spend": 3962546.0,
-      "ctr": 1.43,
-      "cvr": 4.2,
-      "cpa": 82553,
-      "purchases": 48.0,
+      "roas": 1.33,
+      "spend": 3603365.0,
+      "ctr": 1.38,
+      "cvr": 4.16,
+      "cpa": 85794,
+      "purchases": 42.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3962546.0,
-          "revenue": 5516400.0,
-          "roas": 1.39,
-          "ctr": 1.43,
-          "cvr": 4.2,
-          "cpa": 82553,
-          "purchases": 48.0,
-          "hook_rate": 19.7,
-          "hold_rate": 21.1
+          "spend": 3603365.0,
+          "revenue": 4806400.0,
+          "roas": 1.33,
+          "ctr": 1.38,
+          "cvr": 4.16,
+          "cpa": 85794,
+          "purchases": 42.0,
+          "hook_rate": 19.4,
+          "hold_rate": 21.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -879,26 +901,28 @@
     {
       "key": "nb오늬PPL_T",
       "rank_note": "bottom",
-      "roas": 1.19,
-      "spend": 4834975.0,
+      "roas": 1.21,
+      "spend": 4597659.0,
       "ctr": 1.84,
-      "cvr": 3.39,
-      "cpa": 94803,
-      "purchases": 51.0,
+      "cvr": 3.43,
+      "cpa": 93830,
+      "purchases": 49.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 4834975.0,
-          "revenue": 5757300.0,
-          "roas": 1.19,
+          "spend": 4597659.0,
+          "revenue": 5579300.0,
+          "roas": 1.21,
           "ctr": 1.84,
-          "cvr": 3.39,
-          "cpa": 94803,
-          "purchases": 51.0,
+          "cvr": 3.43,
+          "cpa": 93830,
+          "purchases": 49.0,
           "hook_rate": 29.0,
-          "hold_rate": 24.9
+          "hold_rate": 24.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -954,182 +978,30 @@
       "why": "진부한 훅 + 메시지 분산."
     },
     {
-      "key": "nb서령PPL_T",
+      "key": "nb으니PPL_T",
       "rank_note": "bottom",
-      "roas": 1.12,
-      "spend": 3443516.0,
-      "ctr": 2.88,
-      "cvr": 1.7,
-      "cpa": 111081,
+      "roas": 1.07,
+      "spend": 3571434.0,
+      "ctr": 2.18,
+      "cvr": 1.36,
+      "cpa": 115208,
       "purchases": 31.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3443516.0,
-          "revenue": 3866000.0,
-          "roas": 1.12,
-          "ctr": 2.88,
-          "cvr": 1.7,
-          "cpa": 111081,
+          "spend": 3571434.0,
+          "revenue": 3824000.0,
+          "roas": 1.07,
+          "ctr": 2.18,
+          "cvr": 1.36,
+          "cpa": 115208,
           "purchases": 31.0,
-          "hook_rate": 28.8,
-          "hold_rate": 22.8
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_3.3s.jpg",
-        "f05_6.5s.jpg",
-        "f06_9.8s.jpg",
-        "f07_13.1s.jpg",
-        "f08_16.3s.jpg",
-        "f09_19.6s.jpg"
-      ],
-      "transcript": "다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술. 운동 없이 찐으로 효과 받던 이주 관리 루틴 알려드릴게요 운동이나 식단으로는 절대 안 빠지는 팔뚝살 너무 스트레스 받아서 지흡, 인모드 찾아보다가 알게 된 유배로 승무원 언니들도 매일 가지고 다녀서 유명해진 거라는데 밴드형이랑 소파에 누워서 그냥 가만 두면 끝이라 꾸준히 쓰기 좋아요 미세전류랑 레드라이트가 같이 나와서 펀만 자극하는 게 아니라 속지방까지 분해 시켜줘요 독일 임상도 완료된 거고 판불 보장까지 된다고 하니 죽어도 안 빠지는 팔뚝살 고민이라면 이거 꼭 써보세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "시술 대체형",
-        "first_3s": "'다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술'",
-        "appeal_angle": "안 빠지는 팔뚝·시술회피",
-        "cta": "죽어도 안 빠지면 써보세요",
-        "keywords": [
-          "지흡",
-          "인모드",
-          "승무원 언니",
-          "독일 임상"
-        ]
-      },
-      "audio": {
-        "opening_line": "다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술",
-        "voice_style": "정보성 후기",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사 UGC",
-        "mechanism_viz": "미세전류·레드라이트 속지방",
-        "before_after": "–",
-        "subtitle_style": "그래픽 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "시술 고민층",
-        "appeal_axis": "미용(시술 대체)"
-      },
-      "trust": {
-        "evidence": "독일 임상·환불",
-        "refund": "환불 보장",
-        "discount": "–",
-        "compliance": "⚠ 지흡·인모드 등 시술 직접 언급 — 표현 관찰"
-      },
-      "one_liner": "지흡·인모드 등 시술을 직접 끌어와 대체를 주장하지만, 23초로 얕고 시술 언급은 컴플라 관찰이 필요하다. 1.24 최하위권.",
-      "why": "시술 비교 리스크 + 얕은 전개."
-    },
-    {
-      "key": "nb썸머의여름PPL_T",
-      "rank_note": "bottom",
-      "roas": 1.11,
-      "spend": 3776413.0,
-      "ctr": 4.4,
-      "cvr": 0.79,
-      "cpa": 114437,
-      "purchases": 33.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 3776413.0,
-          "revenue": 4202800.0,
-          "roas": 1.11,
-          "ctr": 4.4,
-          "cvr": 0.79,
-          "cpa": 114437,
-          "purchases": 33.0,
-          "hook_rate": 35.5,
-          "hold_rate": 41.9
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.0s.jpg",
-        "f05_12.0s.jpg",
-        "f06_18.0s.jpg",
-        "f07_23.9s.jpg",
-        "f08_29.9s.jpg",
-        "f09_35.9s.jpg"
-      ],
-      "transcript": "여행 예약은 다 했는데 정작 제 팔뚝 준비가 안 됐어요. 곧 휴양지 가서 비키니도 입고 나시도 입어야 되는데 사진 찍을 때마다 팔 먼저 신경 쓰이더라고요. 그래서 저 요즘 하루에 15분씩 팔뚝 관리 홈케어 시작했어요. 유명 에스테틱 팔뚝 탄력 코스의 기술이 그대로 탑재되어 있는 뉴베로 EMS 밴드. 이렇게 붙이고 있으면 EMS 미세 전류가 팔 근육을 자극해줘서 운동 못하는 날에도 꾸준히 관리하는 느낌이에요. 강도도 단계별로 조절 가능해서 그날 컨디션에 따라 맞춰 쓰기 좋고 우선이라 설거지하거나 집안일하면서도 사용할 수 있어서 편해요. 처음에 이게 진짜 느낌이 올까 싶었는데 진짜 짜릿짜릿거리고 살이 꽉 조여주는 느낌이라 지방 타는 느낌 나더라고요. 저 요즘 거의 매일 쓰는 중이래. EMS 뿐만 아니라 레드라이트 케어도 동시에 들어가서 관리 효율이 훨씬 좋아요. 여행 가기 전까지 꾸준히 더 열심히 관리할 거예요. 올여름은 팔 가리는 여행 말고 자신 있게 나시 입고 여행 가려고요.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "휴양지 대비형",
-        "first_3s": "'여행 예약은 다 했는데 정작 제 팔뚝 준비가 안 됐어요'",
-        "appeal_angle": "여름 비키니·나시",
-        "cta": "",
-        "keywords": [
-          "휴양지",
-          "비키니",
-          "에스테틱 기술",
-          "15분"
-        ]
-      },
-      "audio": {
-        "opening_line": "여행 예약은 다 했는데 정작 제 팔뚝 준비가",
-        "voice_style": "걱정 섞인 후기",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사 UGC",
-        "mechanism_viz": "EMS 근육 자극",
-        "before_after": "–",
-        "subtitle_style": "그래픽 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "여름 노출 대비",
-        "appeal_axis": "미용(시즌)"
-      },
-      "trust": {
-        "evidence": "에스테틱 기술",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "휴양지 시즌 훅은 계절성이 강해 비수기엔 약하다. 8.9M 대비 1.24로 저조.",
-      "why": "시즌 의존 훅 + 대물량 저효율."
-    },
-    {
-      "key": "nb으니PPL_T",
-      "rank_note": "bottom",
-      "roas": 1.06,
-      "spend": 3870087.0,
-      "ctr": 2.2,
-      "cvr": 1.35,
-      "cpa": 113826,
-      "purchases": 34.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 3870087.0,
-          "revenue": 4101000.0,
-          "roas": 1.06,
-          "ctr": 2.2,
-          "cvr": 1.35,
-          "cpa": 113826,
-          "purchases": 34.0,
-          "hook_rate": 53.0,
-          "hold_rate": 9.0
+          "hook_rate": 52.7,
+          "hold_rate": 8.9,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1185,6 +1057,164 @@
       "why": "동일 타겟 내 약한 훅 + 얕은 근거."
     },
     {
+      "key": "nb썸머의여름PPL_T",
+      "rank_note": "bottom",
+      "roas": 1.07,
+      "spend": 3349550.0,
+      "ctr": 4.64,
+      "cvr": 0.7,
+      "cpa": 119627,
+      "purchases": 28.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 3349550.0,
+          "revenue": 3580800.0,
+          "roas": 1.07,
+          "ctr": 4.64,
+          "cvr": 0.7,
+          "cpa": 119627,
+          "purchases": 28.0,
+          "hook_rate": 36.4,
+          "hold_rate": 43.1,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_6.0s.jpg",
+        "f05_12.0s.jpg",
+        "f06_18.0s.jpg",
+        "f07_23.9s.jpg",
+        "f08_29.9s.jpg",
+        "f09_35.9s.jpg"
+      ],
+      "transcript": "여행 예약은 다 했는데 정작 제 팔뚝 준비가 안 됐어요. 곧 휴양지 가서 비키니도 입고 나시도 입어야 되는데 사진 찍을 때마다 팔 먼저 신경 쓰이더라고요. 그래서 저 요즘 하루에 15분씩 팔뚝 관리 홈케어 시작했어요. 유명 에스테틱 팔뚝 탄력 코스의 기술이 그대로 탑재되어 있는 뉴베로 EMS 밴드. 이렇게 붙이고 있으면 EMS 미세 전류가 팔 근육을 자극해줘서 운동 못하는 날에도 꾸준히 관리하는 느낌이에요. 강도도 단계별로 조절 가능해서 그날 컨디션에 따라 맞춰 쓰기 좋고 우선이라 설거지하거나 집안일하면서도 사용할 수 있어서 편해요. 처음에 이게 진짜 느낌이 올까 싶었는데 진짜 짜릿짜릿거리고 살이 꽉 조여주는 느낌이라 지방 타는 느낌 나더라고요. 저 요즘 거의 매일 쓰는 중이래. EMS 뿐만 아니라 레드라이트 케어도 동시에 들어가서 관리 효율이 훨씬 좋아요. 여행 가기 전까지 꾸준히 더 열심히 관리할 거예요. 올여름은 팔 가리는 여행 말고 자신 있게 나시 입고 여행 가려고요.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "휴양지 대비형",
+        "first_3s": "'여행 예약은 다 했는데 정작 제 팔뚝 준비가 안 됐어요'",
+        "appeal_angle": "여름 비키니·나시",
+        "cta": "",
+        "keywords": [
+          "휴양지",
+          "비키니",
+          "에스테틱 기술",
+          "15분"
+        ]
+      },
+      "audio": {
+        "opening_line": "여행 예약은 다 했는데 정작 제 팔뚝 준비가",
+        "voice_style": "걱정 섞인 후기",
+        "narration_mode": "1인칭 후기"
+      },
+      "visual": {
+        "format": "실사 UGC",
+        "mechanism_viz": "EMS 근육 자극",
+        "before_after": "–",
+        "subtitle_style": "그래픽 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "여름 노출 대비",
+        "appeal_axis": "미용(시즌)"
+      },
+      "trust": {
+        "evidence": "에스테틱 기술",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "휴양지 시즌 훅은 계절성이 강해 비수기엔 약하다. 8.9M 대비 1.24로 저조.",
+      "why": "시즌 의존 훅 + 대물량 저효율."
+    },
+    {
+      "key": "nb서령PPL_T",
+      "rank_note": "bottom",
+      "roas": 1.03,
+      "spend": 3209888.0,
+      "ctr": 2.83,
+      "cvr": 1.56,
+      "cpa": 123457,
+      "purchases": 26.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 3209888.0,
+          "revenue": 3302000.0,
+          "roas": 1.03,
+          "ctr": 2.83,
+          "cvr": 1.56,
+          "cpa": 123457,
+          "purchases": 26.0,
+          "hook_rate": 28.6,
+          "hold_rate": 22.4,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_3.3s.jpg",
+        "f05_6.5s.jpg",
+        "f06_9.8s.jpg",
+        "f07_13.1s.jpg",
+        "f08_16.3s.jpg",
+        "f09_19.6s.jpg"
+      ],
+      "transcript": "다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술. 운동 없이 찐으로 효과 받던 이주 관리 루틴 알려드릴게요 운동이나 식단으로는 절대 안 빠지는 팔뚝살 너무 스트레스 받아서 지흡, 인모드 찾아보다가 알게 된 유배로 승무원 언니들도 매일 가지고 다녀서 유명해진 거라는데 밴드형이랑 소파에 누워서 그냥 가만 두면 끝이라 꾸준히 쓰기 좋아요 미세전류랑 레드라이트가 같이 나와서 펀만 자극하는 게 아니라 속지방까지 분해 시켜줘요 독일 임상도 완료된 거고 판불 보장까지 된다고 하니 죽어도 안 빠지는 팔뚝살 고민이라면 이거 꼭 써보세요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "시술 대체형",
+        "first_3s": "'다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술'",
+        "appeal_angle": "안 빠지는 팔뚝·시술회피",
+        "cta": "죽어도 안 빠지면 써보세요",
+        "keywords": [
+          "지흡",
+          "인모드",
+          "승무원 언니",
+          "독일 임상"
+        ]
+      },
+      "audio": {
+        "opening_line": "다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술",
+        "voice_style": "정보성 후기",
+        "narration_mode": "1인칭 후기"
+      },
+      "visual": {
+        "format": "실사 UGC",
+        "mechanism_viz": "미세전류·레드라이트 속지방",
+        "before_after": "–",
+        "subtitle_style": "그래픽 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "시술 고민층",
+        "appeal_axis": "미용(시술 대체)"
+      },
+      "trust": {
+        "evidence": "독일 임상·환불",
+        "refund": "환불 보장",
+        "discount": "–",
+        "compliance": "⚠ 지흡·인모드 등 시술 직접 언급 — 표현 관찰"
+      },
+      "one_liner": "지흡·인모드 등 시술을 직접 끌어와 대체를 주장하지만, 23초로 얕고 시술 언급은 컴플라 관찰이 필요하다. 1.24 최하위권.",
+      "why": "시술 비교 리스크 + 얕은 전개."
+    },
+    {
       "key": "nb육아맘Ⅱ_AI",
       "rank_note": "bottom",
       "roas": 0.78,
@@ -1206,7 +1236,9 @@
           "cpa": 316404,
           "purchases": 2.0,
           "hook_rate": 79.5,
-          "hold_rate": 72.0
+          "hold_rate": 72.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1261,6 +1293,86 @@
       "why": "통증 축 이탈 + 무음·짧은 길이로 설득 구간이 통째로 없음. 손목 통증 각도는 nb에서 두 편 연속 실패."
     },
     {
+      "key": "nb내손목Ⅴ_AI",
+      "rank_note": "bottom",
+      "roas": 0.78,
+      "spend": 523778.0,
+      "ctr": 2.85,
+      "cvr": 1.69,
+      "cpa": 130944,
+      "purchases": 4.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 523778.0,
+          "revenue": 406000.0,
+          "roas": 0.78,
+          "ctr": 2.85,
+          "cvr": 1.69,
+          "cpa": 130944,
+          "purchases": 4.0,
+          "hook_rate": 40.9,
+          "hold_rate": 30.7,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_11.0s.jpg",
+        "f05_22.1s.jpg",
+        "f06_33.1s.jpg",
+        "f07_44.2s.jpg",
+        "f08_55.2s.jpg",
+        "f09_66.2s.jpg"
+      ],
+      "transcript": "암 손목은 종일 고쳐주면서 정작 내 손목을 못 고쳤었는데 이거 감고 2주 만에 보호대 갖다 버린 위치센터에서 8년 차 매일 환자분들 치료해주다가 이 손목이 먼저 나가버렸거든 엄지에 힘이 안 들어가서 치료하다 환자 손 놓칠 뻔한 적도 있어서 시끄럽고 동료한테 치료받고 주사 맞고 보호대 껴봐도 그때뿐이고 다음날 출근하면 또 똑같더라 보자못한 센터당님이 너 그러다 손목 영원히 못 쓴다면서 쓰던 거 하나 자리에 놓고 가셨어 팔에 감기만 해도 ems 저주파로 신부 근육을 수축 이완시키고 레드라이트로 혈류를 끌어올려서 뭉친 노폐물을 배출시키는 방식이라는데 솔직히 원리만 놓고 보면 센터에 있는 장기랑 결이 같더라고 내가 직업이 직업인지라 이런 거 한도만 본 것도 아니고 솔직히 개무시했었거든 근데 결론부터 말하자면 진짜 미친놈이었어 8년 차인 내가 두 손 두 발 다 들었잖아 이론상 맞는 건 알았지만 막상 내 팔에 대보니 손으로는 안 닿던 신부까지 자극이 들어와 딱딱하게 뭉쳤던 게 스르르 풀리더라고 2주쯤 되니까 하루 종일 도수치를 돌려도 손목이 말장한데 센터장님한테 그날 바로 점심 코스로 쫙 대접했다 원래 국가대표 재활 컨디셔닝용으로 개발된 거라 일반인이 쓰면 체감이 바로 오는 편이고 이번에 임상통과 기념으로 할인한다길래 양쪽 손목 다 감으려고 하나 더 샀어 나처럼 손목 팔꿈치 골병 든 사람들 이거 하나는 진짜 챙겨봐",
+      "analyzed": true,
+      "base": {
+        "hook_type": "직업인 반전 고백형",
+        "first_3s": "재활센터에서 AI 물리치료사가 환자 손목을 잡고 '남 손목은 종일 고쳐주면서'",
+        "appeal_angle": "8년 차 치료사가 정작 자기 손목을 못 고쳤다 → 2주 만에 보호대 버림",
+        "cta": "임상통과 기념 할인, 하나 더 샀다",
+        "keywords": [
+          "8년 차 치료사",
+          "보호대 갖다 버림",
+          "심부 근육",
+          "국가대표 재활",
+          "임상통과"
+        ]
+      },
+      "audio": {
+        "opening_line": "남 손목은 종일 고쳐주면서 정작 내 손목을 못 고쳤었는데 이거 감고 2주 만에 보호대 갖다 버렸다",
+        "voice_style": "전문직 반말 고백체",
+        "narration_mode": "1인칭 전문가 후기"
+      },
+      "visual": {
+        "format": "AI 가상인물 실사풍(재활센터)",
+        "mechanism_viz": "EMS 저주파 + 레드라이트 혈류 설명",
+        "before_after": "보호대 착용 → 제거",
+        "subtitle_style": "흰 굵은 자막"
+      },
+      "target": {
+        "gender": "여성·남성 동시",
+        "age": "30·40대",
+        "segment": "손목·팔꿈치 통증 직업군",
+        "appeal_axis": "기능(통증 완화) — 미용 축에서 이탈"
+      },
+      "trust": {
+        "evidence": "8년 차 전문가 권위·임상통과 언급",
+        "refund": "–",
+        "discount": "임상통과 기념 할인",
+        "compliance": "⛔ '손목 통증 치료', '주사 맞고 보호대 껴봐도' 등 치료 효능·의료 대체 암시. 의료기기가 아닌 제품에 임상통과 표현까지 붙어 심사·표시광고 리스크가 큼"
+      },
+      "one_liner": "전문가 권위를 빌린 구성은 짜임새 있지만, 통증 치료 쪽으로 넘어가면서 뉴베로를 사는 이유(팔라인)와 멀어졌다. ROAS 0.78.",
+      "why": "통증·재활 축은 nb에서 반복 실패 중이고(육아맘 0.78과 동일), 무엇보다 치료 효능 표현이라 컴플라이언스 리스크가 성과보다 크다."
+    },
+    {
       "key": "nb뼈다귀웅장Ⅱ_AN",
       "rank_note": "bottom",
       "roas": 0.68,
@@ -1282,7 +1394,9 @@
           "cpa": 207667,
           "purchases": 11.0,
           "hook_rate": 45.6,
-          "hold_rate": 33.2
+          "hold_rate": 33.2,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1338,83 +1452,6 @@
       "why": "애니 체감 부족 + 과장. 2.3M 대비 최하위권."
     },
     {
-      "key": "nb예신계신Ⅱ_T",
-      "rank_note": "bottom",
-      "roas": 0.67,
-      "spend": 2134079.0,
-      "ctr": 2.34,
-      "cvr": 2.2,
-      "cpa": 177840,
-      "purchases": 12.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 2134079.0,
-          "revenue": 1421000.0,
-          "roas": 0.67,
-          "ctr": 2.34,
-          "cvr": 2.2,
-          "cpa": 177840,
-          "purchases": 12.0,
-          "hook_rate": 35.2,
-          "hold_rate": 22.7
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.2s.jpg",
-        "f05_10.4s.jpg",
-        "f06_15.6s.jpg",
-        "f07_20.7s.jpg",
-        "f08_25.9s.jpg",
-        "f09_31.1s.jpg"
-      ],
-      "transcript": "예신계 신이라고 불리는 팔뚝 압착 밴드 2주 내내 감고 있었더니 이게 내 팔이 맞나 싶어요 거울 앞에서 두 번 세 번 봐도 믿기지 않을 정도로 팔뚝 라인부터 3집 이후까지 딴 판이 됩니까 저도 지금 제가 어색해요? 맨날 저보고 뚱땡이 팔뚝이라고 놀렸던 전남친 놈도 제프사 보고 놀라서 연락하는 어이없는 경험까지 했습니다 거폭이엔 그냥 부착형 밴드 같지만 이 안에는 유럽에서도 인정받은 듀얼 이중두능성 코어웨이 비술이 들어가 있어 감아 놓은 팔뚝 면적의 모든 지방이 흔적 없이 사라집니다 630mm 레드라이트 파장이 활료순환을 150% 빠르게 감지키고 이쇠전료 진동이 안쪽에서부터 바깥쪽까지 지방을 살살 긁고 뜯어내주니까 사실 안 빠질 수 없는 원리긴 해요 1년 넘게 팔뚝에 두는 옆에는 꼬라박았는데 이건 하루 15분으로 지읍 500 효과 그냥 된대요 팔뚝 진심녀들은 이미 난리 났어요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "전남친 반전형",
-        "first_3s": "'예신계 신이라 불리는 팔뚝 압착 밴드 2주 감았더니'",
-        "appeal_angle": "예신 팔뚝 변신",
-        "cta": "",
-        "keywords": [
-          "예신계 신",
-          "전남친 연락",
-          "코어웨이브",
-          "630nm 레드라이트"
-        ]
-      },
-      "audio": {
-        "opening_line": "예신계 신이라고 불리는 팔뚝 압착 밴드",
-        "voice_style": "과장된 반전 후기",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사/AI",
-        "mechanism_viz": "레드라이트 순환 150%·지방 긁기",
-        "before_after": "팔뚝 라인 반전",
-        "subtitle_style": "자극 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "예신",
-        "appeal_axis": "미용(웨딩)"
-      },
-      "trust": {
-        "evidence": "유럽 인정 코어웨이브",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ '전남친 연락' 등 과장 서사"
-      },
-      "one_liner": "'뚱땡이 팔뚝이라 놀리던 전남친이 연락'이라는 과장 서사가 신뢰를 깎는다. 12.7M 대물량인데 1.18로 뉴베로 최하위 — 예산 재배분 1순위.",
-      "why": "과장 반전 훅 + 대물량 최저효율."
-    },
-    {
       "key": "nb헬스사암년Ⅱ_AN",
       "rank_note": "bottom",
       "roas": 0.66,
@@ -1436,7 +1473,9 @@
           "cpa": 237516,
           "purchases": 6.0,
           "hook_rate": 58.0,
-          "hold_rate": 58.6
+          "hold_rate": 58.6,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1514,7 +1553,9 @@
           "cpa": 296671,
           "purchases": 4.0,
           "hook_rate": 39.0,
-          "hold_rate": 36.0
+          "hold_rate": 36.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1593,7 +1634,9 @@
           "cpa": 250904,
           "purchases": 6.0,
           "hook_rate": 62.3,
-          "hold_rate": 67.7
+          "hold_rate": 67.7,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1671,7 +1714,9 @@
           "cpa": 246703,
           "purchases": 11.0,
           "hook_rate": 34.6,
-          "hold_rate": 25.0
+          "hold_rate": 25.0,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [
@@ -1728,26 +1773,28 @@
     {
       "key": "nb대폭조정Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 0.37,
-      "spend": 1160696.0,
-      "ctr": 3.14,
-      "cvr": 0.63,
-      "cpa": 290174,
-      "purchases": 4.0,
+      "roas": 0.42,
+      "spend": 1428725.0,
+      "ctr": 3.03,
+      "cvr": 0.82,
+      "cpa": 238121,
+      "purchases": 6.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1160696.0,
-          "revenue": 426000.0,
-          "roas": 0.37,
-          "ctr": 3.14,
-          "cvr": 0.63,
-          "cpa": 290174,
-          "purchases": 4.0,
-          "hook_rate": 45.6,
-          "hold_rate": 55.2
+          "spend": 1428725.0,
+          "revenue": 604000.0,
+          "roas": 0.42,
+          "ctr": 3.03,
+          "cvr": 0.82,
+          "cpa": 238121,
+          "purchases": 6.0,
+          "hook_rate": 46.3,
+          "hold_rate": 54.4,
+          "play50": null,
+          "completion": null
         }
       },
       "frames": [

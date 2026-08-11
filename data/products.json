@@ -15,19 +15,19 @@
       },
       "counts": {
         "last_14d": {
-          "n": 35,
-          "analyzed": 35
+          "n": 39,
+          "analyzed": 38
         },
         "last_30d": {
-          "n": 45,
+          "n": 46,
           "analyzed": 45
         },
         "last_90d": {
-          "n": 48,
-          "analyzed": 48
+          "n": 50,
+          "analyzed": 45
         }
       },
-      "generated": "2026-08-10",
+      "generated": "2026-08-11",
       "ranges": [
         "last_14d",
         "last_30d",
@@ -56,7 +56,7 @@
           "analyzed": 25
         }
       },
-      "generated": "2026-08-10",
+      "generated": "2026-08-11",
       "ranges": [
         "last_14d",
         "last_30d",
@@ -77,15 +77,15 @@
           "analyzed": 38
         },
         "last_30d": {
-          "n": 43,
-          "analyzed": 43
+          "n": 44,
+          "analyzed": 44
         },
         "last_90d": {
-          "n": 47,
+          "n": 48,
           "analyzed": 47
         }
       },
-      "generated": "2026-08-10",
+      "generated": "2026-08-11",
       "ranges": [
         "last_14d",
         "last_30d",
@@ -106,15 +106,15 @@
           "analyzed": 10
         },
         "last_30d": {
-          "n": 17,
-          "analyzed": 17
+          "n": 16,
+          "analyzed": 16
         },
         "last_90d": {
           "n": 32,
           "analyzed": 32
         }
       },
-      "generated": "2026-08-10",
+      "generated": "2026-08-11",
       "ranges": [
         "last_14d",
         "last_30d",
