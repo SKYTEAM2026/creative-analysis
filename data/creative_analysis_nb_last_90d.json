@@ -2,7 +2,7 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_90d",
-  "generated": "2026-08-11",
+  "generated": "2026-08-19",
   "criteria": "유의미 지출(3,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -28,25 +28,25 @@
     {
       "key": "nb사라진대Ⅱ_TP",
       "rank_note": "top",
-      "roas": 2.77,
-      "spend": 8302337.0,
+      "roas": 2.49,
+      "spend": 10311000.0,
       "ctr": 1.77,
-      "cvr": 5.85,
-      "cpa": 46124,
-      "purchases": 180.0,
+      "cvr": 5.42,
+      "cpa": 50793,
+      "purchases": 203.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 8302337.0,
-          "revenue": 23025495.0,
-          "roas": 2.77,
+          "spend": 10311000.0,
+          "revenue": 25634495.0,
+          "roas": 2.49,
           "ctr": 1.77,
-          "cvr": 5.85,
-          "cpa": 46124,
-          "purchases": 180.0,
-          "hook_rate": 14.6,
+          "cvr": 5.42,
+          "cpa": 50793,
+          "purchases": 203.0,
+          "hook_rate": 15.0,
           "hold_rate": 23.3,
           "play50": null,
           "completion": null
@@ -186,26 +186,26 @@
     {
       "key": "nb썸머의여름PPL_T",
       "rank_note": "bottom",
-      "roas": 2.29,
-      "spend": 18467811.0,
-      "ctr": 3.74,
-      "cvr": 1.56,
-      "cpa": 57176,
-      "purchases": 323.0,
+      "roas": 2.25,
+      "spend": 18050728.0,
+      "ctr": 3.78,
+      "cvr": 1.52,
+      "cpa": 58041,
+      "purchases": 311.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 18467811.0,
-          "revenue": 42381000.0,
-          "roas": 2.29,
-          "ctr": 3.74,
-          "cvr": 1.56,
-          "cpa": 57176,
-          "purchases": 323.0,
-          "hook_rate": 30.9,
-          "hold_rate": 35.2,
+          "spend": 18050728.0,
+          "revenue": 40678000.0,
+          "roas": 2.25,
+          "ctr": 3.78,
+          "cvr": 1.52,
+          "cpa": 58041,
+          "purchases": 311.0,
+          "hook_rate": 31.0,
+          "hold_rate": 35.5,
           "play50": null,
           "completion": null
         }
@@ -265,26 +265,26 @@
     {
       "key": "nb할인좀Ⅱ_AIP",
       "rank_note": "top",
-      "roas": 2.24,
-      "spend": 74898706.0,
-      "ctr": 2.75,
-      "cvr": 3.94,
-      "cpa": 56784,
-      "purchases": 1319.0,
+      "roas": 2.12,
+      "spend": 75960770.0,
+      "ctr": 2.59,
+      "cvr": 3.91,
+      "cpa": 59906,
+      "purchases": 1268.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 74898706.0,
-          "revenue": 167649300.0,
-          "roas": 2.24,
-          "ctr": 2.75,
-          "cvr": 3.94,
-          "cpa": 56784,
-          "purchases": 1319.0,
-          "hook_rate": 24.9,
-          "hold_rate": 28.0,
+          "spend": 75960770.0,
+          "revenue": 160876500.0,
+          "roas": 2.12,
+          "ctr": 2.59,
+          "cvr": 3.91,
+          "cpa": 59906,
+          "purchases": 1268.0,
+          "hook_rate": 24.7,
+          "hold_rate": 26.6,
           "play50": null,
           "completion": null
         }
@@ -423,26 +423,26 @@
     {
       "key": "nb방씨PPL_T",
       "rank_note": "top",
-      "roas": 1.9,
-      "spend": 13156140.0,
-      "ctr": 1.87,
-      "cvr": 1.88,
-      "cpa": 64809,
-      "purchases": 203.0,
+      "roas": 1.91,
+      "spend": 17086509.0,
+      "ctr": 1.78,
+      "cvr": 1.95,
+      "cpa": 65466,
+      "purchases": 261.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 13156140.0,
-          "revenue": 25059300.0,
-          "roas": 1.9,
-          "ctr": 1.87,
-          "cvr": 1.88,
-          "cpa": 64809,
-          "purchases": 203.0,
-          "hook_rate": 38.0,
-          "hold_rate": 28.3,
+          "spend": 17086509.0,
+          "revenue": 32609800.0,
+          "roas": 1.91,
+          "ctr": 1.78,
+          "cvr": 1.95,
+          "cpa": 65466,
+          "purchases": 261.0,
+          "hook_rate": 37.2,
+          "hold_rate": 27.4,
           "play50": null,
           "completion": null
         }
@@ -502,25 +502,25 @@
     {
       "key": "nb배신감들어Ⅱ_T",
       "rank_note": "top",
-      "roas": 1.66,
-      "spend": 31800171.0,
-      "ctr": 2.58,
-      "cvr": 3.15,
-      "cpa": 73954,
-      "purchases": 430.0,
+      "roas": 1.62,
+      "spend": 28768532.0,
+      "ctr": 2.61,
+      "cvr": 3.09,
+      "cpa": 75906,
+      "purchases": 379.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 31800171.0,
-          "revenue": 52763400.0,
-          "roas": 1.66,
-          "ctr": 2.58,
-          "cvr": 3.15,
-          "cpa": 73954,
-          "purchases": 430.0,
-          "hook_rate": 40.5,
+          "spend": 28768532.0,
+          "revenue": 46513600.0,
+          "roas": 1.62,
+          "ctr": 2.61,
+          "cvr": 3.09,
+          "cpa": 75906,
+          "purchases": 379.0,
+          "hook_rate": 41.4,
           "hold_rate": 19.0,
           "play50": null,
           "completion": null
@@ -581,26 +581,26 @@
     {
       "key": "nb새빨간거짓말Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.62,
-      "spend": 27328642.0,
-      "ctr": 3.16,
-      "cvr": 2.52,
-      "cpa": 78306,
-      "purchases": 349.0,
+      "roas": 1.56,
+      "spend": 24966324.0,
+      "ctr": 3.08,
+      "cvr": 2.55,
+      "cpa": 80278,
+      "purchases": 311.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 27328642.0,
-          "revenue": 44150800.0,
-          "roas": 1.62,
-          "ctr": 3.16,
-          "cvr": 2.52,
-          "cpa": 78306,
-          "purchases": 349.0,
-          "hook_rate": 37.6,
-          "hold_rate": 26.4,
+          "spend": 24966324.0,
+          "revenue": 38899100.0,
+          "roas": 1.56,
+          "ctr": 3.08,
+          "cvr": 2.55,
+          "cpa": 80278,
+          "purchases": 311.0,
+          "hook_rate": 37.4,
+          "hold_rate": 25.9,
           "play50": null,
           "completion": null
         }
@@ -656,85 +656,6 @@
       },
       "one_liner": "도발 훅에 크로스핏·웨딩을 다 얹었지만 메시지가 분산되고 '에스테틱 6번 효과' 같은 과장이 신뢰를 깎아 1.4.",
       "why": "메시지 분산 + 과장. 도발 대비 전환 약함."
-    },
-    {
-      "key": "nb뷰티지도PPL_T",
-      "rank_note": "top",
-      "roas": 1.55,
-      "spend": 13760072.0,
-      "ctr": 1.17,
-      "cvr": 3.91,
-      "cpa": 78182,
-      "purchases": 176.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 13760072.0,
-          "revenue": 21349800.0,
-          "roas": 1.55,
-          "ctr": 1.17,
-          "cvr": 3.91,
-          "cpa": 78182,
-          "purchases": 176.0,
-          "hook_rate": 16.0,
-          "hold_rate": 19.9,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.2s.jpg",
-        "f05_10.4s.jpg",
-        "f06_15.6s.jpg",
-        "f07_20.8s.jpg",
-        "f08_26.0s.jpg",
-        "f09_31.2s.jpg"
-      ],
-      "transcript": "출산하고 나면 호르몬 때문인지 유독 팔뚝에만 살이 잘 붙고 또 정말 안 빠지더라고요 그래서 저는 요즘 뉴베로 리프팅 바엔드로 간편하게 관리하고 있어요 이 제품이 정말 좋은 게 초미스의 EMS 아레드라이트 기능이 같이 들어있어서 속피아 지방 분해부터 피부 거탄력까지 이중으로 꽉 잡아주거든요 게다가 스트랩 타입이라 팔뚝살을 빼고 싶은 부위에 슥 감기만 하면 되니까 육아하면서도 정말 간편하게 쓸 수 있어요 모드도 이복까지나 돼서 나에게 맞는 자극을 찾는 재미가 있는데 개인적으로는 시원한 괄사 모드가 가장 마음에 들었어요 매일 10분 정도만 투자해도 묵직했던 팔이 한결 가벼워지고 피부 탄력이 살아나는 게 눈으로 보이니까 대만족 중이랍니다 올 여름 완벽한 상체라인을 위해서 앞으로도 꾸준히 써보려고 해요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "출산후 관리형",
-        "first_3s": "'출산하고 나면 유독 팔뚝에만 살이'",
-        "appeal_angle": "산후 팔뚝",
-        "cta": "",
-        "keywords": [
-          "출산후",
-          "EMS 레드라이트",
-          "괄사 모드",
-          "10분"
-        ]
-      },
-      "audio": {
-        "opening_line": "출산하고 나면 호르몬 때문인지 유독 팔뚝에만",
-        "voice_style": "육아맘 후기",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사 UGC",
-        "mechanism_viz": "속지방 분해·탄력",
-        "before_after": "팔 가벼워짐",
-        "subtitle_style": "그래픽 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "육아맘",
-        "appeal_axis": "미용(산후)"
-      },
-      "trust": {
-        "evidence": "EMS+레드라이트",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "리쮸와 같은 산후 팔뚝 각이라 차별성이 없고 훅도 평범하다. 니치 중복으로 소재 피로.",
-      "why": "니치 중복 + 평범한 훅."
     },
     {
       "key": "nb소희PPL_T",
@@ -820,25 +741,25 @@
       "key": "nb감도안온다Ⅱ_T",
       "rank_note": "bottom",
       "roas": 1.48,
-      "spend": 26422627.0,
-      "ctr": 1.95,
-      "cvr": 2.35,
-      "cpa": 85788,
-      "purchases": 308.0,
+      "spend": 30261721.0,
+      "ctr": 1.92,
+      "cvr": 2.36,
+      "cpa": 85485,
+      "purchases": 354.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 26422627.0,
-          "revenue": 39190900.0,
+          "spend": 30261721.0,
+          "revenue": 44931700.0,
           "roas": 1.48,
-          "ctr": 1.95,
-          "cvr": 2.35,
-          "cpa": 85788,
-          "purchases": 308.0,
+          "ctr": 1.92,
+          "cvr": 2.36,
+          "cpa": 85485,
+          "purchases": 354.0,
           "hook_rate": 15.3,
-          "hold_rate": 24.2,
+          "hold_rate": 23.9,
           "play50": null,
           "completion": null
         }
@@ -975,28 +896,28 @@
       "why": "진부한 훅 + 메시지 분산."
     },
     {
-      "key": "nb예신계신Ⅱ_T",
+      "key": "nb지혜씨Ⅱ_AN",
       "rank_note": "bottom",
-      "roas": 1.44,
-      "spend": 22715168.0,
-      "ctr": 2.48,
-      "cvr": 3.15,
-      "cpa": 83820,
-      "purchases": 271.0,
+      "roas": 1.43,
+      "spend": 3847083.0,
+      "ctr": 8.19,
+      "cvr": 0.84,
+      "cpa": 89467,
+      "purchases": 43.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 22715168.0,
-          "revenue": 32823407.0,
-          "roas": 1.44,
-          "ctr": 2.48,
-          "cvr": 3.15,
-          "cpa": 83820,
-          "purchases": 271.0,
-          "hook_rate": 27.7,
-          "hold_rate": 22.2,
+          "spend": 3847083.0,
+          "revenue": 5505000.0,
+          "roas": 1.43,
+          "ctr": 8.19,
+          "cvr": 0.84,
+          "cpa": 89467,
+          "purchases": 43.0,
+          "hook_rate": 63.4,
+          "hold_rate": 47.5,
           "play50": null,
           "completion": null
         }
@@ -1006,75 +927,45 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_5.2s.jpg",
-        "f05_10.4s.jpg",
-        "f06_15.6s.jpg",
-        "f07_20.7s.jpg",
-        "f08_25.9s.jpg",
-        "f09_31.1s.jpg"
+        "f04_8.4s.jpg",
+        "f05_16.8s.jpg",
+        "f06_25.2s.jpg",
+        "f07_33.6s.jpg",
+        "f08_42.0s.jpg",
+        "f09_50.3s.jpg"
       ],
-      "transcript": "예신계 신이라고 불리는 팔뚝 압착 밴드 2주 내내 감고 있었더니 이게 내 팔이 맞나 싶어요 거울 앞에서 두 번 세 번 봐도 믿기지 않을 정도로 팔뚝 라인부터 3집 이후까지 딴 판이 됩니까 저도 지금 제가 어색해요? 맨날 저보고 뚱땡이 팔뚝이라고 놀렸던 전남친 놈도 제프사 보고 놀라서 연락하는 어이없는 경험까지 했습니다 거폭이엔 그냥 부착형 밴드 같지만 이 안에는 유럽에서도 인정받은 듀얼 이중두능성 코어웨이 비술이 들어가 있어 감아 놓은 팔뚝 면적의 모든 지방이 흔적 없이 사라집니다 630mm 레드라이트 파장이 활료순환을 150% 빠르게 감지키고 이쇠전료 진동이 안쪽에서부터 바깥쪽까지 지방을 살살 긁고 뜯어내주니까 사실 안 빠질 수 없는 원리긴 해요 1년 넘게 팔뚝에 두는 옆에는 꼬라박았는데 이건 하루 15분으로 지읍 500 효과 그냥 된대요 팔뚝 진심녀들은 이미 난리 났어요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "전남친 반전형",
-        "first_3s": "'예신계 신이라 불리는 팔뚝 압착 밴드 2주 감았더니'",
-        "appeal_angle": "예신 팔뚝 변신",
-        "cta": "",
-        "keywords": [
-          "예신계 신",
-          "전남친 연락",
-          "코어웨이브",
-          "630nm 레드라이트"
-        ]
-      },
-      "audio": {
-        "opening_line": "예신계 신이라고 불리는 팔뚝 압착 밴드",
-        "voice_style": "과장된 반전 후기",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사/AI",
-        "mechanism_viz": "레드라이트 순환 150%·지방 긁기",
-        "before_after": "팔뚝 라인 반전",
-        "subtitle_style": "자극 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "예신",
-        "appeal_axis": "미용(웨딩)"
-      },
-      "trust": {
-        "evidence": "유럽 인정 코어웨이브",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ '전남친 연락' 등 과장 서사"
-      },
-      "one_liner": "'뚱땡이 팔뚝이라 놀리던 전남친이 연락'이라는 과장 서사가 신뢰를 깎는다. 12.7M 대물량인데 1.18로 뉴베로 최하위 — 예산 재배분 1순위.",
-      "why": "과장 반전 훅 + 대물량 최저효율."
+      "transcript": "몸무게는 52kg인데 팔뚝만 마동석급 통나무 팔 림프 정체성 붓기로 고통받는 30대 직장인 지혜씨의 팔 속으로 유럽 독점 기술이었던 코어 웨이브 기술이 적용된 60Hz 초미세 전류가 들어갑니다 사용한 지 5분이 지나자 땡땡하게 굳어있던 지방을 깨우기 위해 전류가 팔뚝 안쪽부터 바깥쪽, 겨드랑이까지 쭉 퍼져나가기 시작하는데요 이 미세한 전류 친구들이 모여 아주 열의를 한 덕분에 속지방층이 덜덜 떨리기 시작합니다 사용한 지 10분이 지나자 지혜씨의 팔뚝을 마치 무새 기둥처럼 만든 범인 림프 정체를 뚫으러 가는데요 레드라이트, 불빛, 좁아진 혈관을 확장시켜서 쌓여있던 노폐물 배출 로트를 열고 수난력을 2배 이상 끌어올립니다 아주 장족의 발전이에요 이대로라면 2주 후에 아이돌급 일자 팔뚝으로 갈아 끼우는 거 아닌가 싶군요 사용한 지 15분이 지나자 이제는 팔뚝살이 완전히 말랑해지며 바람 빠지듯 쑥 빠져나갑니다 예쁘게 정리된 삼두근 라인 덕분에 지혜씨는 이제 민소매 입고 자신있게 팔을 흔들어도 덜렁거림 하나 없게 됐습니다 림프 수난, 속지방 분해, 라인 정리",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
     },
     {
       "key": "nb연아트핏PPL_T",
       "rank_note": "bottom",
-      "roas": 1.43,
-      "spend": 4673922.0,
-      "ctr": 2.4,
-      "cvr": 1.91,
-      "cpa": 83463,
-      "purchases": 56.0,
+      "roas": 1.41,
+      "spend": 5006487.0,
+      "ctr": 2.46,
+      "cvr": 1.82,
+      "cpa": 84856,
+      "purchases": 59.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 4673922.0,
-          "revenue": 6684400.0,
-          "roas": 1.43,
-          "ctr": 2.4,
-          "cvr": 1.91,
-          "cpa": 83463,
-          "purchases": 56.0,
-          "hook_rate": 40.8,
+          "spend": 5006487.0,
+          "revenue": 7061400.0,
+          "roas": 1.41,
+          "ctr": 2.46,
+          "cvr": 1.82,
+          "cpa": 84856,
+          "purchases": 59.0,
+          "hook_rate": 40.7,
           "hold_rate": 17.5,
           "play50": null,
           "completion": null
@@ -1131,6 +1022,85 @@
       },
       "one_liner": "'20kg 빼도 안 빠지던 팔뚝 2cm 감소'라는 수치는 좋으나 PPL 포화 속 차별성이 약해 1.22.",
       "why": "구체 수치는 있으나 PPL 포화·차별성 부족."
+    },
+    {
+      "key": "nb예신계신Ⅱ_T",
+      "rank_note": "bottom",
+      "roas": 1.39,
+      "spend": 20397227.0,
+      "ctr": 2.2,
+      "cvr": 3.47,
+      "cpa": 86064,
+      "purchases": 237.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 20397227.0,
+          "revenue": 28453407.0,
+          "roas": 1.39,
+          "ctr": 2.2,
+          "cvr": 3.47,
+          "cpa": 86064,
+          "purchases": 237.0,
+          "hook_rate": 27.2,
+          "hold_rate": 19.6,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_5.2s.jpg",
+        "f05_10.4s.jpg",
+        "f06_15.6s.jpg",
+        "f07_20.7s.jpg",
+        "f08_25.9s.jpg",
+        "f09_31.1s.jpg"
+      ],
+      "transcript": "예신계 신이라고 불리는 팔뚝 압착 밴드 2주 내내 감고 있었더니 이게 내 팔이 맞나 싶어요 거울 앞에서 두 번 세 번 봐도 믿기지 않을 정도로 팔뚝 라인부터 3집 이후까지 딴 판이 됩니까 저도 지금 제가 어색해요? 맨날 저보고 뚱땡이 팔뚝이라고 놀렸던 전남친 놈도 제프사 보고 놀라서 연락하는 어이없는 경험까지 했습니다 거폭이엔 그냥 부착형 밴드 같지만 이 안에는 유럽에서도 인정받은 듀얼 이중두능성 코어웨이 비술이 들어가 있어 감아 놓은 팔뚝 면적의 모든 지방이 흔적 없이 사라집니다 630mm 레드라이트 파장이 활료순환을 150% 빠르게 감지키고 이쇠전료 진동이 안쪽에서부터 바깥쪽까지 지방을 살살 긁고 뜯어내주니까 사실 안 빠질 수 없는 원리긴 해요 1년 넘게 팔뚝에 두는 옆에는 꼬라박았는데 이건 하루 15분으로 지읍 500 효과 그냥 된대요 팔뚝 진심녀들은 이미 난리 났어요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "전남친 반전형",
+        "first_3s": "'예신계 신이라 불리는 팔뚝 압착 밴드 2주 감았더니'",
+        "appeal_angle": "예신 팔뚝 변신",
+        "cta": "",
+        "keywords": [
+          "예신계 신",
+          "전남친 연락",
+          "코어웨이브",
+          "630nm 레드라이트"
+        ]
+      },
+      "audio": {
+        "opening_line": "예신계 신이라고 불리는 팔뚝 압착 밴드",
+        "voice_style": "과장된 반전 후기",
+        "narration_mode": "1인칭 후기"
+      },
+      "visual": {
+        "format": "실사/AI",
+        "mechanism_viz": "레드라이트 순환 150%·지방 긁기",
+        "before_after": "팔뚝 라인 반전",
+        "subtitle_style": "자극 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "예신",
+        "appeal_axis": "미용(웨딩)"
+      },
+      "trust": {
+        "evidence": "유럽 인정 코어웨이브",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ '전남친 연락' 등 과장 서사"
+      },
+      "one_liner": "'뚱땡이 팔뚝이라 놀리던 전남친이 연락'이라는 과장 서사가 신뢰를 깎는다. 12.7M 대물량인데 1.18로 뉴베로 최하위 — 예산 재배분 1순위.",
+      "why": "과장 반전 훅 + 대물량 최저효율."
     },
     {
       "key": "nb기아팔뚝Ⅱ_T",
@@ -1369,6 +1339,86 @@
       },
       "one_liner": "지흡·인모드 등 시술을 직접 끌어와 대체를 주장하지만, 23초로 얕고 시술 언급은 컴플라 관찰이 필요하다. 1.24 최하위권.",
       "why": "시술 비교 리스크 + 얕은 전개."
+    },
+    {
+      "key": "nb해외난리Ⅱ_AI",
+      "rank_note": "top",
+      "roas": 1.1,
+      "spend": 3329362.0,
+      "ctr": 3.57,
+      "cvr": 0.92,
+      "cpa": 110979,
+      "purchases": 30.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 3329362.0,
+          "revenue": 3670300.0,
+          "roas": 1.1,
+          "ctr": 3.57,
+          "cvr": 0.92,
+          "cpa": 110979,
+          "purchases": 30.0,
+          "hook_rate": 48.1,
+          "hold_rate": 73.1,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_8.5s.jpg",
+        "f05_17.0s.jpg",
+        "f06_25.4s.jpg",
+        "f07_33.9s.jpg",
+        "f08_42.4s.jpg",
+        "f09_50.9s.jpg"
+      ],
+      "transcript": "10분 감았더니 한쪽과 안 한쪽의 차이가 바로 나는데요 요즘 외국에서 난리난 디톡스 밴드입니다 유럽 초보도 비만클리닉에서는 이미 의사들 처방전으로 환자들에게 기존가 3배 이상의 금액으로 판매 중이라고 하는데요 10분 감을 때마다 지방이 60cc씩 소멸되고 팔뚝 면적이 순식간에 깎여 나가니까 아무리 비싸도 수요가 줄어들 기미를 안 보인다고 합니다 지금 한국에서는 물량이 이제 막 풀려서 아직 유행 극초기 상태라는데 가격 몇 배로 뛰기 전에 빠르게 사두시는 게 좋을 겁니다",
+      "analyzed": true,
+      "base": {
+        "hook_type": "해외 유행 선점형",
+        "first_3s": "AI 외국인 여성이 밴드를 감은 팔을 보여주며 '10분 감았더니 한쪽과 안 한쪽의 차이가 바로 나는데요'",
+        "appeal_angle": "유럽에서 이미 처방 판매 중 → 한국은 유행 극초기",
+        "cta": "가격 몇 배로 뛰기 전에 빠르게 사둬라",
+        "keywords": [
+          "해외에서 난리난",
+          "디톡스 밴드",
+          "10분에 지방 60cc",
+          "유행 극초기",
+          "가격 인상 전"
+        ]
+      },
+      "audio": {
+        "opening_line": "10분 감았더니 한쪽과 안 한쪽의 차이가 바로 나는데요",
+        "voice_style": "가벼운 존댓말 여성 리뷰톤",
+        "narration_mode": "AI 외국인 UGC 3인 릴레이"
+      },
+      "visual": {
+        "format": "AI 생성 인물(외국인 UGC 셀프캠 3인)",
+        "mechanism_viz": "제품 레드라이트 발광 실사 연출",
+        "before_after": "한쪽 팔만 착용한 좌우 비교 구도",
+        "subtitle_style": "형광 노랑 굵은 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "해외 트렌드 민감층",
+        "appeal_axis": "얼리어답터 + 가격 선점"
+      },
+      "trust": {
+        "evidence": "유럽 비만클리닉 의사 처방 판매 주장",
+        "refund": "–",
+        "discount": "가격 인상 전 선점",
+        "compliance": "⛔ '의사 처방전으로 환자에게 판매' — 의료기기 오인 표현. AI 생성 고지는 있으나 이 대사는 삭제 필요"
+      },
+      "one_liner": "뉴베로 14일 상위로 잡혔지만 ROAS는 0.87에 불과하다. 상위조차 1을 못 넘긴다는 게 뉴베로 계정 전체의 문제를 드러낸다.",
+      "why": "한쪽 팔만 착용한 좌우 비교 구도는 이 카테고리에서 가장 직관적인 증거 장치다. 다만 '의사 처방' 대사를 걷어내야 확장 가능."
     },
     {
       "key": "nb근육기준미달_T",
