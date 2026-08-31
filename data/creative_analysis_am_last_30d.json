@@ -2,7 +2,7 @@
   "code": "am",
   "product": "아치핀 맥스",
   "range": "last_30d",
-  "generated": "2026-08-24",
+  "generated": "2026-08-31",
   "criteria": "유의미 지출(500,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -27,202 +27,28 @@
   },
   "creatives": [
     {
-      "key": "am업글하비Ⅰ_T",
-      "rank_note": "top",
-      "roas": 2.99,
-      "spend": 555380.0,
-      "ctr": 1.42,
-      "cvr": 5.54,
-      "cpa": 17915,
-      "purchases": 31.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 555380.0,
-          "revenue": 1660500.0,
-          "roas": 2.99,
-          "ctr": 1.42,
-          "cvr": 5.54,
-          "cpa": 17915,
-          "purchases": 31.0,
-          "hook_rate": 21.6,
-          "hold_rate": 17.1,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_8.9s.jpg",
-        "f05_17.7s.jpg",
-        "f06_26.6s.jpg",
-        "f07_35.5s.jpg",
-        "f08_44.4s.jpg",
-        "f09_53.2s.jpg"
-      ],
-      "transcript": "아치핀... 아치핀 X? 뭐가 달라졌을까? 우선 기존 아치핀보다 높아진 아치 높이 운동에도 종아리만 붉어지는 거? 엉뚱한 근육만 써서 그런 거 알죠? 기존 아치핀은 아치 높이가 2.9cm였는데 아치핀 X는 3.2cm로 무려 11%나 올라가서 틀어진 발목축을 더 정확히 세워 종아리로 세던 힘을 허벅지랑 엉덩이 쪽으로 방향을 딱 틀어줍니다 자 그리고 이번에 소재가 완전히 달라졌어요 기존 아치핀은 TPR 소재라 탄성은 있었지만 오래 쓰면 변형돼 지지력이 흐려진다는 후기도 있었는데 아치핀 X는 항공기 부품으로도 쓴다는 TPU 소재로 업그레이드 되면서 걸음마다 발 움직임에 유연하게 반응해 매걸음 올바른 근육 스위치를 눌러주는 힘이 완전히 달라졌어요 그래서 하루 수첨보가 그대로 하체 운동이 되니까 따로 헬스 안 해도 한 걸음이 스쿼트 5번인 셈이라는 거죠 또한 기존 3포인트 구조에서 5포인트 인체공학 입체 구조로 업그레이드 돼서 발 전체를 빈틈없이 잡아 특정 근육에 힘이 쏠리는 걸 막아주니 종아리 알은 풀리고 힘은 큰 근육으로 딱 모입니다 단순한 깔창이 아닌 잘못 켜진 근육을 바로 잡아 하체라인을 바꾸는 특허 아치핀 X 출시 기념으로 이번 주까지만 최대 53% 할인에 변화 없으면 100% 무료 환불까지 보장한다니까 걸을수록 달라지는 라인 절대 놓치지 마세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "구/신 모델 비교형",
-        "first_3s": "손에 기존 아치핀과 아치핀 맥스 깔창을 나란히 들고 '아치핀 VS 아치핀 맥스' 자막",
-        "appeal_angle": "업그레이드 스펙 비교(아치높이 11%↑·TPU·5포인트)로 신제품 이유 설명",
-        "cta": "출시 기념 이번 주까지 최대 53% 할인 + 변화 없으면 100% 환불",
-        "keywords": [
-          "아치높이 11%",
-          "TPU",
-          "5포인트 입체구조",
-          "한 걸음이 스쿼트 5번",
-          "특허"
-        ]
-      },
-      "audio": {
-        "opening_line": "아치핀 X? 뭐가 달라졌을까?",
-        "voice_style": "차분한 정보전달 설명체",
-        "narration_mode": "3인칭 제품 설명(AI 인물)"
-      },
-      "visual": {
-        "format": "AI 가상인물 + 제품 클로즈업",
-        "mechanism_viz": "허벅지·골반 근골격 해부학 오버레이로 힘의 방향 전환 시각화",
-        "before_after": "구모델 vs 신모델 나란히 비교(수치 2.9cm→3.2cm)",
-        "subtitle_style": "굵은 컬러 키워드 자막 + 하단 AI 생성 고지"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "종아리알·하체라인 고민, 기존 아치핀 인지층",
-        "appeal_axis": "미용(하체라인) + 기능(체형교정)"
-      },
-      "trust": {
-        "evidence": "아치높이 2.9→3.2cm(11%↑)·TPU 소재·5포인트 구조·특허",
-        "refund": "100% 무료 환불",
-        "discount": "최대 53%",
-        "compliance": "⚠ '한 걸음이 스쿼트 5번'은 운동 대체 효과 암시로 과장 소지. 의료기기 아님·AI 생성 고지는 삽입돼 있음"
-      },
-      "one_liner": "구모델을 직접 옆에 놓고 '뭐가 달라졌나'로 시작해 수치(2.9→3.2cm)·소재(TPU)·구조(5포인트)를 하나씩 갚아주는 정공법. 아치핀을 이미 아는 사람에게 '갈아탈 이유'를 준 것이 am 최고 ROAS 2.85로 이어졌다.",
-      "why": "기존 고객·인지층 대상 업그레이드 서사 + 검증 가능한 수치 + 할인·환불 안전장치 3종 결합."
-    },
-    {
-      "key": "am업글통증Ⅳ_T",
-      "rank_note": "top",
-      "roas": 2.21,
-      "spend": 597825.0,
-      "ctr": 4.64,
-      "cvr": 1.67,
-      "cpa": 24909,
-      "purchases": 24.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 597825.0,
-          "revenue": 1320600.0,
-          "roas": 2.21,
-          "ctr": 4.64,
-          "cvr": 1.67,
-          "cpa": 24909,
-          "purchases": 24.0,
-          "hook_rate": 50.7,
-          "hold_rate": 14.2,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_9.3s.jpg",
-        "f05_18.7s.jpg",
-        "f06_28.0s.jpg",
-        "f07_37.3s.jpg",
-        "f08_46.6s.jpg",
-        "f09_56.0s.jpg"
-      ],
-      "transcript": "아치핀, 아치핀 맥스. 뭐가 달라졌을까? 우선 기존 아치핀보다 높아진 아치 높이 다리 통증은 걸을 때 충격이 관절 타고 올라가서 생기는 거 아셨나요? 기존 아치핀은 아치 높이가 2.9cm였는데 아치핀 맥스는 3.2cm로 무려 11%나 올라가서 무너진 아치 빈틈을 더 꽉 채워 충격이 발목, 무릎, 골반으로 타고 올라가는 통로부터 확실히 막아줍니다 자, 그리고 이번엔 소재가 완전히 달라졌어요 기존 아치핀은 TPR 소재라 탄성은 있었지만 충격을 오래 못 버티고 변용된다는 후기도 있었는데 아치핀 맥스는 항공기 부품으로도 쓴다는 TPU 소재로 업그레이드 되면서 걸을 때마다 충격을 쿠션처럼 흡수했다가 고건역으로 튕겨내는 힘이 완전히 달라졌어요 그래서 하루 종일 걸어도 오래 서 있어도 발이 받는 충격을 그때그때 걸러내니 저녁마다 시큰거리던 발바닥 무릎이 눈에 띄게 편해지죠 또한 기존 3포인트 구조에서 5포인트 인체공학 입체 구조로 업그레이드 돼서 한 곳에 쏠리던 하중을 발바닥 전체로 고르게 펴주니 무릎 혼자 받아내던 충격까지 확 분산됩니다 단순한 깔창이 아닌 관절로 가는 충격을 끊어내는 특허 아치핀 맥스 출시 기념으로 이번 주까지만 최대 53% 할인해 변화 없으면 100% 무료 환불까지 보장한다니까 통증 더 커지기 전에 절대 놓치지 마세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "구버전 대조형",
-        "first_3s": "질감 배경에 자막 '아치핀 VS 아치핀 맥스'(뭐가 달라졌을까)",
-        "appeal_angle": "아치 2.9→3.2cm(11%↑), TPR→TPU, 3→5포인트 업그레이드",
-        "cta": "이번 주까지 최대 53% 할인 + 100% 환불",
-        "keywords": [
-          "아치 11% 상승",
-          "항공기 소재 TPU",
-          "5포인트",
-          "충격 분산",
-          "53% 할인"
-        ]
-      },
-      "audio": {
-        "opening_line": "아치핀, 아치핀 맥스. 뭐가 달라졌을까?",
-        "voice_style": "여성 제품 설명체(비교 리뷰 톤)",
-        "narration_mode": "3인칭 스펙 비교"
-      },
-      "visual": {
-        "format": "실사 제품 비교 시연",
-        "mechanism_viz": "강함(높이 수치, 소재 압축 테스트, 하중 분산 도식)",
-        "before_after": "있음(구/신 제품 대조)",
-        "subtitle_style": "노랑·분홍 굵은 자막 + 수치 강조"
-      },
-      "target": {
-        "gender": "혼합",
-        "age": "30·40·50대",
-        "segment": "발·무릎 통증 있는 층, 기존 아치핀 사용자",
-        "appeal_axis": "업그레이드 근거(스펙) + 통증"
-      },
-      "trust": {
-        "evidence": "2.9→3.2cm, TPU 소재, 5포인트 특허",
-        "refund": "변화 없으면 100% 무료 환불",
-        "discount": "최대 53%",
-        "compliance": "⚠ 발바닥·무릎 통증 완화를 단정하는 표현"
-      },
-      "one_liner": "14일 ROAS 1.24인데 30일로 넓히면 2.21 — 최근 2주 들어 효율이 떨어지는 소진 신호. 스펙 근거는 이 제품군에서 가장 촘촘하다.",
-      "why": "구버전 대비 수치를 제시하는 구조라 '왜 더 비싼가'에 답이 된다. 다만 신규 유입에겐 구버전 인지가 없어 확장성이 낮고, 그래서 먼저 마모된다."
-    },
-    {
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
-      "roas": 2.17,
-      "spend": 33887662.0,
-      "ctr": 1.3,
-      "cvr": 5.81,
-      "cpa": 23307,
-      "purchases": 1454.0,
+      "roas": 2.3,
+      "spend": 32385180.0,
+      "ctr": 1.29,
+      "cvr": 5.95,
+      "cpa": 22166,
+      "purchases": 1461.0,
       "platforms": [
-        "meta",
-        "tiktok"
+        "meta"
       ],
       "platform_metrics": {
-        "tiktok": {
-          "spend": 49120.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 19.53,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": 89.7,
-          "hold_rate": 88.0,
-          "play50": null,
-          "completion": null
-        },
         "meta": {
-          "spend": 33838542.0,
-          "revenue": 73565899.0,
-          "roas": 2.17,
-          "ctr": 1.24,
-          "cvr": 6.08,
-          "cpa": 23273,
-          "purchases": 1454.0,
-          "hook_rate": 26.0,
-          "hold_rate": 45.9,
+          "spend": 32385180.0,
+          "revenue": 74542056.0,
+          "roas": 2.3,
+          "ctr": 1.29,
+          "cvr": 5.95,
+          "cpa": 22166,
+          "purchases": 1461.0,
+          "hook_rate": 24.9,
+          "hold_rate": 45.3,
           "play50": null,
           "completion": null
         }
@@ -282,26 +108,26 @@
     {
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
-      "roas": 2.15,
-      "spend": 9656077.0,
-      "ctr": 1.27,
-      "cvr": 6.52,
-      "cpa": 20589,
-      "purchases": 469.0,
+      "roas": 2.11,
+      "spend": 11101997.0,
+      "ctr": 1.28,
+      "cvr": 6.7,
+      "cpa": 20987,
+      "purchases": 529.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 9656077.0,
-          "revenue": 20762200.0,
-          "roas": 2.15,
-          "ctr": 1.27,
-          "cvr": 6.52,
-          "cpa": 20589,
-          "purchases": 469.0,
-          "hook_rate": 18.1,
-          "hold_rate": 20.4,
+          "spend": 11101997.0,
+          "revenue": 23455900.0,
+          "roas": 2.11,
+          "ctr": 1.28,
+          "cvr": 6.7,
+          "cpa": 20987,
+          "purchases": 529.0,
+          "hook_rate": 18.5,
+          "hold_rate": 20.2,
           "play50": null,
           "completion": null
         }
@@ -438,26 +264,26 @@
     {
       "key": "am엉덩이조여Ⅰ_T",
       "rank_note": "top",
-      "roas": 1.69,
-      "spend": 5559886.0,
-      "ctr": 1.95,
-      "cvr": 7.37,
-      "cpa": 27121,
-      "purchases": 205.0,
+      "roas": 1.7,
+      "spend": 2936418.0,
+      "ctr": 1.93,
+      "cvr": 7.45,
+      "cpa": 27702,
+      "purchases": 106.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 5559886.0,
-          "revenue": 9399177.0,
-          "roas": 1.69,
-          "ctr": 1.95,
-          "cvr": 7.37,
-          "cpa": 27121,
-          "purchases": 205.0,
-          "hook_rate": 31.1,
-          "hold_rate": 21.9,
+          "spend": 2936418.0,
+          "revenue": 5002078.0,
+          "roas": 1.7,
+          "ctr": 1.93,
+          "cvr": 7.45,
+          "cpa": 27702,
+          "purchases": 106.0,
+          "hook_rate": 32.6,
+          "hold_rate": 24.0,
           "play50": null,
           "completion": null
         }
@@ -517,25 +343,25 @@
     {
       "key": "am일년넘게Ⅳ_T",
       "rank_note": "top",
-      "roas": 1.58,
-      "spend": 644159.0,
-      "ctr": 2.75,
-      "cvr": 2.57,
-      "cpa": 30674,
-      "purchases": 21.0,
+      "roas": 1.5,
+      "spend": 622195.0,
+      "ctr": 2.82,
+      "cvr": 2.34,
+      "cpa": 32747,
+      "purchases": 19.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 644159.0,
-          "revenue": 1017900.0,
-          "roas": 1.58,
-          "ctr": 2.75,
-          "cvr": 2.57,
-          "cpa": 30674,
-          "purchases": 21.0,
-          "hook_rate": 45.0,
+          "spend": 622195.0,
+          "revenue": 933600.0,
+          "roas": 1.5,
+          "ctr": 2.82,
+          "cvr": 2.34,
+          "cpa": 32747,
+          "purchases": 19.0,
+          "hook_rate": 45.6,
           "hold_rate": 10.4,
           "play50": null,
           "completion": null
@@ -597,40 +423,40 @@
     {
       "key": "am짝퉁넘쳐Ⅵ_T",
       "rank_note": "top",
-      "roas": 1.51,
-      "spend": 2175630.0,
-      "ctr": 19.76,
-      "cvr": 0.16,
-      "cpa": 36260,
-      "purchases": 60.0,
+      "roas": 1.49,
+      "spend": 1171582.0,
+      "ctr": 23.26,
+      "cvr": 0.11,
+      "cpa": 36612,
+      "purchases": 32.0,
       "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 1411554.0,
-          "revenue": 1947945.0,
-          "roas": 1.38,
-          "ctr": 23.56,
-          "cvr": 0.1,
-          "cpa": 40330,
-          "purchases": 35.0,
-          "hook_rate": 76.7,
+          "spend": 1171582.0,
+          "revenue": 1745657.0,
+          "roas": 1.49,
+          "ctr": 23.26,
+          "cvr": 0.11,
+          "cpa": 36612,
+          "purchases": 32.0,
+          "hook_rate": 75.4,
           "hold_rate": 90.7,
           "play50": null,
           "completion": null
         },
         "meta": {
-          "spend": 764076.0,
-          "revenue": 1332500.0,
-          "roas": 1.74,
-          "ctr": 4.35,
-          "cvr": 1.53,
-          "cpa": 30563,
-          "purchases": 25.0,
-          "hook_rate": 36.0,
-          "hold_rate": 71.6,
+          "spend": 0.0,
+          "revenue": 0.0,
+          "roas": null,
+          "ctr": null,
+          "cvr": null,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null,
           "play50": null,
           "completion": null
         }
@@ -683,42 +509,28 @@
       "why": "정품 프레임(인기 방증) + 구체 스펙업."
     },
     {
-      "key": "am이소라자세교정Ⅱ_T",
-      "rank_note": "bottom",
-      "roas": 0.91,
-      "spend": 1278748.0,
-      "ctr": 20.16,
-      "cvr": 0.19,
-      "cpa": 49183,
-      "purchases": 26.0,
+      "key": "am업글통증Ⅳ_T",
+      "rank_note": "top",
+      "roas": 1.39,
+      "spend": 508244.0,
+      "ctr": 5.77,
+      "cvr": 1.02,
+      "cpa": 39096,
+      "purchases": 13.0,
       "platforms": [
-        "meta",
-        "tiktok"
+        "meta"
       ],
       "platform_metrics": {
-        "tiktok": {
-          "spend": 338039.0,
-          "revenue": 175780.0,
-          "roas": 0.52,
-          "ctr": 29.29,
-          "cvr": 0.02,
-          "cpa": 112680,
-          "purchases": 3.0,
-          "hook_rate": 60.6,
-          "hold_rate": 93.5,
-          "play50": null,
-          "completion": null
-        },
         "meta": {
-          "spend": 940709.0,
-          "revenue": 993600.0,
-          "roas": 1.06,
-          "ctr": 2.47,
-          "cvr": 4.06,
-          "cpa": 40900,
-          "purchases": 23.0,
-          "hook_rate": 27.1,
-          "hold_rate": 24.0,
+          "spend": 508244.0,
+          "revenue": 707100.0,
+          "roas": 1.39,
+          "ctr": 5.77,
+          "cvr": 1.02,
+          "cpa": 39096,
+          "purchases": 13.0,
+          "hook_rate": 60.5,
+          "hold_rate": 14.2,
           "play50": null,
           "completion": null
         }
@@ -728,76 +540,77 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_9.4s.jpg",
-        "f05_18.8s.jpg",
-        "f06_28.2s.jpg",
-        "f07_37.5s.jpg",
-        "f08_46.9s.jpg",
-        "f09_56.3s.jpg"
+        "f04_9.3s.jpg",
+        "f05_18.7s.jpg",
+        "f06_28.0s.jpg",
+        "f07_37.3s.jpg",
+        "f08_46.6s.jpg",
+        "f09_56.0s.jpg"
       ],
-      "transcript": "하루에 10분 이상씩 꾸준히 사용해보세요 여러분 몸이 제일 먼저 반응을 할 거예요 착용감이 진짜 편해요 그리고 어떤 이물감? 이런 게 없어요 그냥 이 신발 같아요 워킹 타임 와 오 시원해 마사지 되는 느낌 걸을수록 이게 내 발에 탁탁탁탁 맞춰지는 구조라고 해야 되나요? 이게 소재가 좋잖아요 탄성이 좋으니까 마사지 효과가 있어요 확실히 부담이 줄어드니까 진짜로 다리가 가벼워진 느낌이에요 진짜 그리고 아치 핏 맥스는 정말 좋은 게 사이즈에 세분화예요 발 크기가 다 다르잖아요 그죠? 아치의 시작점과 꺾이는 위치도 다 다르고 근데 아치 핏 맥스는 사이즈가 무려 4가지가 있습니다 위치가 맞지 않으면 피로를 유발할 수 있는데 이거는 사이즈가 세분화되어 있기 때문에 그런 걱정이 없다는 거죠 디테일을 놓치지 않고 내 발에 탁탁 맞춘 아치 포지션까지 섬세하게 신경 써주는 게 정말 최고다",
+      "transcript": "아치핀, 아치핀 맥스. 뭐가 달라졌을까? 우선 기존 아치핀보다 높아진 아치 높이 다리 통증은 걸을 때 충격이 관절 타고 올라가서 생기는 거 아셨나요? 기존 아치핀은 아치 높이가 2.9cm였는데 아치핀 맥스는 3.2cm로 무려 11%나 올라가서 무너진 아치 빈틈을 더 꽉 채워 충격이 발목, 무릎, 골반으로 타고 올라가는 통로부터 확실히 막아줍니다 자, 그리고 이번엔 소재가 완전히 달라졌어요 기존 아치핀은 TPR 소재라 탄성은 있었지만 충격을 오래 못 버티고 변용된다는 후기도 있었는데 아치핀 맥스는 항공기 부품으로도 쓴다는 TPU 소재로 업그레이드 되면서 걸을 때마다 충격을 쿠션처럼 흡수했다가 고건역으로 튕겨내는 힘이 완전히 달라졌어요 그래서 하루 종일 걸어도 오래 서 있어도 발이 받는 충격을 그때그때 걸러내니 저녁마다 시큰거리던 발바닥 무릎이 눈에 띄게 편해지죠 또한 기존 3포인트 구조에서 5포인트 인체공학 입체 구조로 업그레이드 돼서 한 곳에 쏠리던 하중을 발바닥 전체로 고르게 펴주니 무릎 혼자 받아내던 충격까지 확 분산됩니다 단순한 깔창이 아닌 관절로 가는 충격을 끊어내는 특허 아치핀 맥스 출시 기념으로 이번 주까지만 최대 53% 할인해 변화 없으면 100% 무료 환불까지 보장한다니까 통증 더 커지기 전에 절대 놓치지 마세요",
       "analyzed": true,
       "base": {
-        "hook_type": "셀럽 착용후기형",
-        "first_3s": "셀럽 이소라, '하루 10분, 몸이 먼저 반응'",
-        "appeal_angle": "자세교정·착용감",
-        "cta": "",
+        "hook_type": "구버전 대조형",
+        "first_3s": "질감 배경에 자막 '아치핀 VS 아치핀 맥스'(뭐가 달라졌을까)",
+        "appeal_angle": "아치 2.9→3.2cm(11%↑), TPR→TPU, 3→5포인트 업그레이드",
+        "cta": "이번 주까지 최대 53% 할인 + 100% 환불",
         "keywords": [
-          "이소라",
-          "착용감",
-          "마사지 느낌",
-          "다리 가벼움"
+          "아치 11% 상승",
+          "항공기 소재 TPU",
+          "5포인트",
+          "충격 분산",
+          "53% 할인"
         ]
       },
       "audio": {
-        "opening_line": "하루에 10분 이상씩 꾸준히 사용해보세요, 몸이 제일 먼저 반응할 거예요",
-        "voice_style": "셀럽 잔잔 후기",
-        "narration_mode": "셀럽 1인칭"
+        "opening_line": "아치핀, 아치핀 맥스. 뭐가 달라졌을까?",
+        "voice_style": "여성 제품 설명체(비교 리뷰 톤)",
+        "narration_mode": "3인칭 스펙 비교"
       },
       "visual": {
-        "format": "실사",
-        "mechanism_viz": "아치 지지·마사지",
-        "before_after": "다리 가벼움",
-        "subtitle_style": "자막"
+        "format": "실사 제품 비교 시연",
+        "mechanism_viz": "강함(높이 수치, 소재 압축 테스트, 하중 분산 도식)",
+        "before_after": "있음(구/신 제품 대조)",
+        "subtitle_style": "노랑·분홍 굵은 자막 + 수치 강조"
       },
       "target": {
-        "gender": "혼성",
+        "gender": "혼합",
         "age": "30·40·50대",
-        "segment": "자세·발 피로",
-        "appeal_axis": "기능(자세·편안)"
+        "segment": "발·무릎 통증 있는 층, 기존 아치핀 사용자",
+        "appeal_axis": "업그레이드 근거(스펙) + 통증"
       },
       "trust": {
-        "evidence": "이소라·소재 탄성",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
+        "evidence": "2.9→3.2cm, TPU 소재, 5포인트 특허",
+        "refund": "변화 없으면 100% 무료 환불",
+        "discount": "최대 53%",
+        "compliance": "⚠ 발바닥·무릎 통증 완화를 단정하는 표현"
       },
-      "one_liner": "셀럽 이소라의 편안한 착용감 후기지만 훅이 잔잔하고 '자세교정'이 즉각 욕망이 약해 1.78 중위.",
-      "why": "셀럽이나 잔잔한 훅 + 약한 즉각 욕망."
+      "one_liner": "14일 ROAS 1.24인데 30일로 넓히면 2.21 — 최근 2주 들어 효율이 떨어지는 소진 신호. 스펙 근거는 이 제품군에서 가장 촘촘하다.",
+      "why": "구버전 대비 수치를 제시하는 구조라 '왜 더 비싼가'에 답이 된다. 다만 신규 유입에겐 구버전 인지가 없어 확장성이 낮고, 그래서 먼저 마모된다."
     },
     {
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 0.62,
-      "spend": 7946262.0,
-      "ctr": 3.36,
-      "cvr": 0.16,
-      "cpa": 85444,
-      "purchases": 93.0,
+      "roas": 0.66,
+      "spend": 8244692.0,
+      "ctr": 3.27,
+      "cvr": 0.17,
+      "cpa": 80830,
+      "purchases": 102.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 7946262.0,
-          "revenue": 4910000.0,
-          "roas": 0.62,
-          "ctr": 3.36,
-          "cvr": 0.16,
-          "cpa": 85444,
-          "purchases": 93.0,
-          "hook_rate": 77.7,
-          "hold_rate": 52.5,
+          "spend": 8244692.0,
+          "revenue": 5405500.0,
+          "roas": 0.66,
+          "ctr": 3.27,
+          "cvr": 0.17,
+          "cpa": 80830,
+          "purchases": 102.0,
+          "hook_rate": 76.5,
+          "hold_rate": 52.2,
           "play50": null,
           "completion": null
         }
@@ -858,26 +671,26 @@
     {
       "key": "am야르한아치핀맥스Ⅱ_ANP",
       "rank_note": "bottom",
-      "roas": 0.44,
-      "spend": 582764.0,
-      "ctr": 3.74,
-      "cvr": 0.94,
-      "cpa": 97127,
+      "roas": 0.51,
+      "spend": 501156.0,
+      "ctr": 4.01,
+      "cvr": 0.97,
+      "cpa": 83526,
       "purchases": 6.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 582764.0,
+          "spend": 501156.0,
           "revenue": 256300.0,
-          "roas": 0.44,
-          "ctr": 3.74,
-          "cvr": 0.94,
-          "cpa": 97127,
+          "roas": 0.51,
+          "ctr": 4.01,
+          "cvr": 0.97,
+          "cpa": 83526,
           "purchases": 6.0,
-          "hook_rate": 53.6,
-          "hold_rate": 62.5,
+          "hook_rate": 56.2,
+          "hold_rate": 64.8,
           "play50": null,
           "completion": null
         }
