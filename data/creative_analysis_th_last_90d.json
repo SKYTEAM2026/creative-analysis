@@ -35,8 +35,8 @@
       "spend": 40994484.0,
       "ctr": 0.77,
       "cvr": 2.03,
-      "cpa": 29534,
-      "purchases": 1388.066796,
+      "cpa": 29533,
+      "purchases": 1388.067798,
       "platforms": [
         "google",
         "meta",
@@ -45,12 +45,12 @@
       "platform_metrics": {
         "google": {
           "spend": 34111028.0,
-          "revenue": 200961626.0,
+          "revenue": 200961765.0,
           "roas": 5.89,
           "ctr": 0.72,
           "cvr": 2.11,
           "cpa": 25958,
-          "purchases": 1314.066796,
+          "purchases": 1314.067798,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 5.4,
@@ -138,12 +138,12 @@
     {
       "key": "th겉보기엔Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 4.97,
-      "spend": 25313209.0,
-      "ctr": 1.9,
-      "cvr": 1.41,
-      "cpa": 30848,
-      "purchases": 820.568507,
+      "roas": 4.94,
+      "spend": 25372667.0,
+      "ctr": 1.89,
+      "cvr": 1.4,
+      "cpa": 31080,
+      "purchases": 816.37689,
       "platforms": [
         "google",
         "meta",
@@ -151,17 +151,17 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 21370511.0,
-          "revenue": 116206633.0,
-          "roas": 5.44,
-          "ctr": 0.87,
-          "cvr": 3.19,
-          "cpa": 28247,
-          "purchases": 756.568507,
+          "spend": 21429969.0,
+          "revenue": 115609338.0,
+          "roas": 5.39,
+          "ctr": 0.88,
+          "cvr": 3.16,
+          "cpa": 28483,
+          "purchases": 752.37689,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 23.7,
-          "completion": 19.1
+          "completion": 19.2
         },
         "tiktok": {
           "spend": 3499965.0,
@@ -245,12 +245,12 @@
     {
       "key": "th일단발만Ⅵ_T",
       "rank_note": "top",
-      "roas": 4.89,
-      "spend": 28143531.0,
-      "ctr": 1.89,
+      "roas": 4.88,
+      "spend": 28196291.0,
+      "ctr": 1.88,
       "cvr": 1.28,
-      "cpa": 31152,
-      "purchases": 903.417675,
+      "cpa": 31204,
+      "purchases": 903.610796,
       "platforms": [
         "google",
         "meta",
@@ -258,13 +258,13 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 26019000.0,
-          "revenue": 132962193.0,
-          "roas": 5.11,
+          "spend": 26071760.0,
+          "revenue": 132988651.0,
+          "roas": 5.1,
           "ctr": 1.03,
-          "cvr": 2.39,
-          "cpa": 29893,
-          "purchases": 870.417675,
+          "cvr": 2.38,
+          "cpa": 29947,
+          "purchases": 870.610796,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 6.9,
@@ -354,11 +354,11 @@
       "key": "th웬말이냐Ⅵ_AN",
       "rank_note": "top",
       "roas": 4.83,
-      "spend": 29256193.0,
+      "spend": 29276471.0,
       "ctr": 1.06,
-      "cvr": 1.6,
-      "cpa": 31483,
-      "purchases": 929.273044,
+      "cvr": 1.59,
+      "cpa": 31505,
+      "purchases": 929.271136,
       "platforms": [
         "google",
         "meta",
@@ -366,13 +366,13 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 22590097.0,
-          "revenue": 131095996.0,
+          "spend": 22610375.0,
+          "revenue": 131095735.0,
           "roas": 5.8,
           "ctr": 0.9,
-          "cvr": 1.87,
-          "cpa": 26259,
-          "purchases": 860.273044,
+          "cvr": 1.86,
+          "cpa": 26283,
+          "purchases": 860.271136,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 11.7,
@@ -632,36 +632,36 @@
       "key": "th안되지않Ⅵ_T",
       "rank_note": "top",
       "roas": 4.17,
-      "spend": 82589814.0,
+      "spend": 82616926.0,
       "ctr": 0.84,
       "cvr": 3.19,
-      "cpa": 36886,
-      "purchases": 2239.028149,
+      "cpa": 36865,
+      "purchases": 2241.091913,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 81169442.0,
-          "revenue": 339009230.0,
+          "spend": 81196468.0,
+          "revenue": 339401129.0,
           "roas": 4.18,
           "ctr": 0.79,
           "cvr": 3.4,
-          "cpa": 36828,
-          "purchases": 2204.028149,
+          "cpa": 36806,
+          "purchases": 2206.091913,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 5.0,
           "completion": 3.1
         },
         "tiktok": {
-          "spend": 1420372.0,
-          "revenue": 5155950.0,
+          "spend": 1420458.0,
+          "revenue": 5156263.0,
           "roas": 3.63,
-          "ctr": 4.92,
+          "ctr": 4.93,
           "cvr": 0.65,
-          "cpa": 40582,
+          "cpa": 40585,
           "purchases": 35.0,
           "hook_rate": 43.5,
           "hold_rate": 79.7,
@@ -725,11 +725,11 @@
       "key": "th할인해줘Ⅰ_TP",
       "rank_note": "top",
       "roas": 3.71,
-      "spend": 250666560.0,
-      "ctr": 6.53,
+      "spend": 250777090.0,
+      "ctr": 6.54,
       "cvr": 0.58,
-      "cpa": 42726,
-      "purchases": 5866.902683,
+      "cpa": 42740,
+      "purchases": 5867.56287,
       "platforms": [
         "google",
         "meta",
@@ -737,33 +737,33 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 82709148.0,
-          "revenue": 511065410.0,
+          "spend": 82760491.0,
+          "revenue": 511157176.0,
           "roas": 6.18,
           "ctr": 1.05,
           "cvr": 3.73,
-          "cpa": 25920,
-          "purchases": 3190.902683,
+          "cpa": 25931,
+          "purchases": 3191.56287,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 16.2,
           "completion": 13.1
         },
         "tiktok": {
-          "spend": 44532957.0,
-          "revenue": 134986647.0,
+          "spend": 44592134.0,
+          "revenue": 135145433.0,
           "roas": 3.03,
-          "ctr": 18.96,
+          "ctr": 18.97,
           "cvr": 0.1,
-          "cpa": 50953,
+          "cpa": 51021,
           "purchases": 874.0,
-          "hook_rate": 73.2,
+          "hook_rate": 73.3,
           "hold_rate": 91.1,
           "play50": null,
           "completion": null
         },
         "meta": {
-          "spend": 123424455.0,
+          "spend": 123424465.0,
           "revenue": 283746291.0,
           "roas": 2.3,
           "ctr": 3.14,
@@ -930,7 +930,7 @@
       "ctr": 8.11,
       "cvr": 0.22,
       "cpa": 44666,
-      "purchases": 1612.9206,
+      "purchases": 1612.921641,
       "platforms": [
         "google",
         "meta",
@@ -939,12 +939,12 @@
       "platform_metrics": {
         "google": {
           "spend": 24756582.0,
-          "revenue": 154326777.0,
+          "revenue": 154326919.0,
           "roas": 6.23,
           "ctr": 1.25,
           "cvr": 1.79,
           "cpa": 24417,
-          "purchases": 1013.9206,
+          "purchases": 1013.921641,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 8.3,
@@ -1248,12 +1248,12 @@
     {
       "key": "th버틴분들Ⅵ_TP",
       "rank_note": "top",
-      "roas": 2.61,
-      "spend": 14980848.0,
-      "ctr": 12.7,
+      "roas": 2.62,
+      "spend": 15014376.0,
+      "ctr": 12.69,
       "cvr": 0.19,
-      "cpa": 61138,
-      "purchases": 245.031457,
+      "cpa": 61025,
+      "purchases": 246.03777300000002,
       "platforms": [
         "google",
         "meta",
@@ -1261,25 +1261,25 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 1896943.0,
-          "revenue": 8040761.0,
-          "roas": 4.24,
+          "spend": 1926026.0,
+          "revenue": 8279639.0,
+          "roas": 4.3,
           "ctr": 2.1,
-          "cvr": 2.81,
-          "cpa": 38688,
-          "purchases": 49.031457,
+          "cvr": 2.83,
+          "cpa": 38491,
+          "purchases": 50.037773,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 7.5,
           "completion": 4.3
         },
         "tiktok": {
-          "spend": 8228185.0,
-          "revenue": 23614891.0,
+          "spend": 8232630.0,
+          "revenue": 23627648.0,
           "roas": 2.87,
           "ctr": 15.09,
           "cvr": 0.12,
-          "cpa": 54855,
+          "cpa": 54884,
           "purchases": 150.0,
           "hook_rate": 63.9,
           "hold_rate": 90.8,
@@ -1350,100 +1350,6 @@
       },
       "one_liner": "전문가 다수의 추천을 나열해 신뢰를 쌓는다. 소액이지만 3.31로 효율 좋음.",
       "why": "전문가 소셜프루프. 신뢰 기반 전환."
-    },
-    {
-      "key": "th초특가노래Ⅵ_TP",
-      "rank_note": "top",
-      "roas": 2.6,
-      "spend": 13733921.0,
-      "ctr": 17.94,
-      "cvr": 0.09,
-      "cpa": 57949,
-      "purchases": 237.0,
-      "platforms": [
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 12263258.0,
-          "revenue": 31086866.0,
-          "roas": 2.53,
-          "ctr": 18.2,
-          "cvr": 0.07,
-          "cpa": 59821,
-          "purchases": 205.0,
-          "hook_rate": 74.6,
-          "hold_rate": 92.6,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 1470663.0,
-          "revenue": 4646000.0,
-          "roas": 3.16,
-          "ctr": 4.7,
-          "cvr": 2.28,
-          "cpa": 45958,
-          "purchases": 32.0,
-          "hook_rate": 27.7,
-          "hold_rate": 42.9,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.0s.jpg",
-        "f05_13.9s.jpg",
-        "f06_20.9s.jpg",
-        "f07_27.8s.jpg",
-        "f08_34.8s.jpg",
-        "f09_41.7s.jpg"
-      ],
-      "transcript": "이 영상은 K-POP의 유료 광고를 포함하고 있습니다.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "재입고·특가 고지형(노래)",
-        "first_3s": "남성 모델이 발판을 들고 활짝 웃으며 '안 사고 버틴 분들 드디어 재입고 기념~~!'",
-        "appeal_angle": "품절 끝 재입고 + 초특가",
-        "cta": "재입고 기념 특가로 지금 구매",
-        "keywords": [
-          "안 사고 버틴 분들",
-          "재입고 기념",
-          "하루에 천 개씩",
-          "리뷰 11,106개",
-          "물리치료사"
-        ]
-      },
-      "audio": {
-        "opening_line": "(노래) 안 사고 버틴 분들 드디어 재입고 기념",
-        "voice_style": "중독성 있는 CM송 형태(받아쓰기 실패 — 음성 대부분이 노래)",
-        "narration_mode": "노래 중심 + 자막 보조"
-      },
-      "visual": {
-        "format": "실사 모델 + 창고·리뷰 화면 캡처",
-        "mechanism_viz": "없음",
-        "before_after": "없음",
-        "subtitle_style": "흰 자막 위주, 노래 가사 동기화"
-      },
-      "target": {
-        "gender": "공통",
-        "age": "40·50대",
-        "segment": "가격 기다리던 관망층·재방문자",
-        "appeal_axis": "가격 + 사회적 증거(물량·리뷰)"
-      },
-      "trust": {
-        "evidence": "누적 리뷰 11,106개, 물리치료사 추천, 하루 천 개 출고",
-        "refund": "–",
-        "discount": "재입고 초특가",
-        "compliance": "온건"
-      },
-      "one_liner": "90일 ROAS 3.16에 틱톡·메타 양쪽에서 고르게 3점대를 냈다. 설득 대신 '기다리던 물건이 돌아왔다'는 한 줄로 관망층을 회수한 리타겟 성격의 소재다.",
-      "why": "노래로 붙잡고 리뷰 수·출고 물량이라는 사회적 증거만 던진다. 신규 설득용이 아니라 재방문·관망층 회수 슬롯에 계속 태울 소재."
     },
     {
       "key": "th인플화남Ⅰ_AIP",
@@ -1542,14 +1448,108 @@
       "why": "협상 상황극 오퍼 + 대물량. 크로스제품 포맷 계열."
     },
     {
+      "key": "th초특가노래Ⅵ_TP",
+      "rank_note": "top",
+      "roas": 2.59,
+      "spend": 13768070.0,
+      "ctr": 17.95,
+      "cvr": 0.09,
+      "cpa": 58093,
+      "purchases": 237.0,
+      "platforms": [
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 12297407.0,
+          "revenue": 31055966.0,
+          "roas": 2.53,
+          "ctr": 18.21,
+          "cvr": 0.07,
+          "cpa": 59987,
+          "purchases": 205.0,
+          "hook_rate": 74.6,
+          "hold_rate": 92.6,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 1470663.0,
+          "revenue": 4646000.0,
+          "roas": 3.16,
+          "ctr": 4.7,
+          "cvr": 2.28,
+          "cpa": 45958,
+          "purchases": 32.0,
+          "hook_rate": 27.7,
+          "hold_rate": 42.9,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.0s.jpg",
+        "f05_13.9s.jpg",
+        "f06_20.9s.jpg",
+        "f07_27.8s.jpg",
+        "f08_34.8s.jpg",
+        "f09_41.7s.jpg"
+      ],
+      "transcript": "이 영상은 K-POP의 유료 광고를 포함하고 있습니다.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "재입고·특가 고지형(노래)",
+        "first_3s": "남성 모델이 발판을 들고 활짝 웃으며 '안 사고 버틴 분들 드디어 재입고 기념~~!'",
+        "appeal_angle": "품절 끝 재입고 + 초특가",
+        "cta": "재입고 기념 특가로 지금 구매",
+        "keywords": [
+          "안 사고 버틴 분들",
+          "재입고 기념",
+          "하루에 천 개씩",
+          "리뷰 11,106개",
+          "물리치료사"
+        ]
+      },
+      "audio": {
+        "opening_line": "(노래) 안 사고 버틴 분들 드디어 재입고 기념",
+        "voice_style": "중독성 있는 CM송 형태(받아쓰기 실패 — 음성 대부분이 노래)",
+        "narration_mode": "노래 중심 + 자막 보조"
+      },
+      "visual": {
+        "format": "실사 모델 + 창고·리뷰 화면 캡처",
+        "mechanism_viz": "없음",
+        "before_after": "없음",
+        "subtitle_style": "흰 자막 위주, 노래 가사 동기화"
+      },
+      "target": {
+        "gender": "공통",
+        "age": "40·50대",
+        "segment": "가격 기다리던 관망층·재방문자",
+        "appeal_axis": "가격 + 사회적 증거(물량·리뷰)"
+      },
+      "trust": {
+        "evidence": "누적 리뷰 11,106개, 물리치료사 추천, 하루 천 개 출고",
+        "refund": "–",
+        "discount": "재입고 초특가",
+        "compliance": "온건"
+      },
+      "one_liner": "90일 ROAS 3.16에 틱톡·메타 양쪽에서 고르게 3점대를 냈다. 설득 대신 '기다리던 물건이 돌아왔다'는 한 줄로 관망층을 회수한 리타겟 성격의 소재다.",
+      "why": "노래로 붙잡고 리뷰 수·출고 물량이라는 사회적 증거만 던진다. 신규 설득용이 아니라 재방문·관망층 회수 슬롯에 계속 태울 소재."
+    },
+    {
       "key": "th해골쓰리Ⅺ_AI",
       "rank_note": "top",
       "roas": 2.54,
-      "spend": 49107821.0,
+      "spend": 49143732.0,
       "ctr": 13.53,
       "cvr": 0.17,
-      "cpa": 59592,
-      "purchases": 824.064088,
+      "cpa": 59491,
+      "purchases": 826.064088,
       "platforms": [
         "google",
         "meta",
@@ -1570,13 +1570,13 @@
           "completion": 3.6
         },
         "tiktok": {
-          "spend": 22033576.0,
-          "revenue": 44681566.0,
-          "roas": 2.03,
+          "spend": 22069487.0,
+          "revenue": 45018141.0,
+          "roas": 2.04,
           "ctr": 19.31,
           "cvr": 0.06,
-          "cpa": 74187,
-          "purchases": 297.0,
+          "cpa": 73811,
+          "purchases": 299.0,
           "hook_rate": 84.4,
           "hold_rate": 88.8,
           "play50": null,
@@ -1653,10 +1653,10 @@
       "key": "th잘만들어Ⅵ_T",
       "rank_note": "top",
       "roas": 2.53,
-      "spend": 76584062.0,
+      "spend": 76584108.0,
       "ctr": 1.57,
       "cvr": 2.18,
-      "cpa": 59200,
+      "cpa": 59201,
       "purchases": 1293.639007,
       "platforms": [
         "google",
@@ -1691,7 +1691,7 @@
           "completion": null
         },
         "meta": {
-          "spend": 56141684.0,
+          "spend": 56141730.0,
           "revenue": 109692000.0,
           "roas": 1.95,
           "ctr": 3.51,
@@ -1810,14 +1810,44 @@
         "f09_12.9s.jpg"
       ],
       "transcript": "근력을 잃고 싶지 않다면, 집에서 즐기는 근역케어! 하루 15분으로 충분해요. 지금 바로 시작해보세요!",
-      "analyzed": false,
-      "base": {},
-      "audio": {},
-      "visual": {},
-      "target": {},
-      "trust": {},
-      "one_liner": "",
-      "why": ""
+      "analyzed": true,
+      "base": {
+        "hook_type": "조건형 제안",
+        "first_3s": "공원 잔디에 놓인 제품과 발 달린 마스코트, 상단 '하루 15분 발만 올리면 탄탄한 다리라인 완성'",
+        "appeal_angle": "근력 상실 예방 + 다리라인",
+        "cta": "지금 바로 시작해보세요 (기간 한정 139,000원)",
+        "keywords": [
+          "하루 15분",
+          "근력 케어",
+          "다리라인",
+          "139,000원"
+        ]
+      },
+      "audio": {
+        "opening_line": "근력을 잃고 싶지 않다면, 집에서 즐기는 근력케어!",
+        "voice_style": "밝고 평이한 여성 아나운서 톤",
+        "narration_mode": "1인 나레이션(CF형)"
+      },
+      "visual": {
+        "format": "AI 3D 애니(픽사풍) 15초 CF",
+        "mechanism_viz": "발바닥→다리 전류 스파크 짧게",
+        "before_after": "없음",
+        "subtitle_style": "상단 고정 헤드라인 + 하단 대형 가격 배너"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "40·50대",
+        "segment": "다리라인·근력 저하가 신경 쓰이는 층",
+        "appeal_axis": "외형+건강 예방"
+      },
+      "trust": {
+        "evidence": "없음",
+        "refund": "–",
+        "discount": "228,000원 → 139,000원 기간 한정",
+        "compliance": "특이사항 없음"
+      },
+      "one_liner": "15초 CF로 깔끔하지만 제품 설명과 가격표만 남고 '왜 나여야 하는지'가 없다. 마스코트는 귀엽되 통증·불편의 실감이 빠져 있다.",
+      "why": "훅이 '근력을 잃고 싶지 않다면'이라는 일반론이라 스크롤을 세우지 못한다. 가격 배너를 처음부터 노출해 탐색 의도 없는 유저에겐 즉시 광고로 읽힌다."
     },
     {
       "key": "th상견례Ⅰ_AI",
@@ -2960,12 +2990,12 @@
     {
       "key": "th사분면에Ⅵ_AI",
       "rank_note": "bottom",
-      "roas": 1.79,
-      "spend": 1691189.0,
+      "roas": 1.78,
+      "spend": 1694719.0,
       "ctr": 5.46,
       "cvr": 0.18,
-      "cpa": 85971,
-      "purchases": 19.671626,
+      "cpa": 86149,
+      "purchases": 19.671912,
       "platforms": [
         "google",
         "meta",
@@ -2973,17 +3003,17 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 857618.0,
-          "revenue": 1956980.0,
-          "roas": 2.28,
-          "ctr": 1.71,
+          "spend": 861148.0,
+          "revenue": 1957020.0,
+          "roas": 2.27,
+          "ctr": 1.72,
           "cvr": 0.54,
-          "cpa": 67680,
-          "purchases": 12.671626,
+          "cpa": 67957,
+          "purchases": 12.671912,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 11.5,
-          "completion": 8.5
+          "completion": 8.4
         },
         "tiktok": {
           "spend": 382999.0,
@@ -3025,23 +3055,54 @@
         "f09_24.4s.jpg"
       ],
       "transcript": "",
-      "analyzed": false,
-      "base": {},
-      "audio": {},
-      "visual": {},
-      "target": {},
-      "trust": {},
-      "one_liner": "",
-      "why": ""
+      "analyzed": true,
+      "base": {
+        "hook_type": "무음 정보형(브랜드 필름)",
+        "first_3s": "버건디 커튼·실크 배경의 고급 비주얼에 발만 올린 여성, 음성 없이 자막만 진행",
+        "appeal_angle": "기술·품질 신뢰(X-TENS 10.0, 임상)",
+        "cta": "단독 검수물량 확보, 선착순 47% 파격 할인",
+        "keywords": [
+          "X-TENS 10.0",
+          "1200Hz",
+          "3단계 심부 온열",
+          "임상시험 결과",
+          "연골 손상 없는 무하중"
+        ]
+      },
+      "audio": {
+        "opening_line": "(무음 — 음성 없음)",
+        "voice_style": "없음(BGM만)",
+        "narration_mode": "무음 자막형"
+      },
+      "visual": {
+        "format": "실사 고급 브랜드 필름",
+        "mechanism_viz": "제품 분해·기판 인서트, 스펙 카드",
+        "before_after": "없음",
+        "subtitle_style": "중앙 대형 흰 자막으로 정보 나열"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "40·50대",
+        "segment": "브랜드·스펙을 따지는 신중 구매층",
+        "appeal_axis": "기술 신뢰"
+      },
+      "trust": {
+        "evidence": "임상시험 결과, 하루 15분 사용만으로 10,000보 효과",
+        "refund": "–",
+        "discount": "선착순 47%",
+        "compliance": "⚠ '확실하게 증명된 임상시험 결과' 표현은 근거 문서 확인 필요"
+      },
+      "one_liner": "화면은 이번 주 소재 중 가장 고급스럽지만 음성이 없어 정보가 자막에만 갇혔다. 브랜드 필름으로는 훌륭하고 성과 소재로는 약하다.",
+      "why": "무음이라 스크롤 중 정지 유발력이 약하고, 통증·불편 같은 감정 진입점 없이 스펙부터 들어가 초반에 이탈한다. 리타겟·브랜드 노출용으로 용도를 바꾸는 편이 맞다."
     },
     {
       "key": "th삼천아껴Ⅵ_AI",
       "rank_note": "bottom",
-      "roas": 1.74,
-      "spend": 26603640.0,
-      "ctr": 12.38,
+      "roas": 1.73,
+      "spend": 26681333.0,
+      "ctr": 12.4,
       "cvr": 0.15,
-      "cpa": 92374,
+      "cpa": 92644,
       "purchases": 288.0,
       "platforms": [
         "google",
@@ -3063,12 +3124,12 @@
           "completion": 5.4
         },
         "tiktok": {
-          "spend": 8194556.0,
-          "revenue": 20404444.0,
-          "roas": 2.49,
-          "ctr": 16.06,
+          "spend": 8272249.0,
+          "revenue": 20349733.0,
+          "roas": 2.46,
+          "ctr": 16.07,
           "cvr": 0.07,
-          "cpa": 64020,
+          "cpa": 64627,
           "purchases": 128.0,
           "hook_rate": 80.3,
           "hold_rate": 88.3,
@@ -3345,6 +3406,114 @@
       "why": "관절·시니어 수동 소구 + 정보 부족."
     },
     {
+      "key": "th특전사과장Ⅵ_T",
+      "rank_note": "bottom",
+      "roas": 1.55,
+      "spend": 5685823.0,
+      "ctr": 20.79,
+      "cvr": 0.05,
+      "cpa": 101533,
+      "purchases": 56.0,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 282.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 1.64,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 13.1,
+          "completion": 9.8
+        },
+        "tiktok": {
+          "spend": 5183842.0,
+          "revenue": 8657016.0,
+          "roas": 1.67,
+          "ctr": 21.04,
+          "cvr": 0.05,
+          "cpa": 94252,
+          "purchases": 55.0,
+          "hook_rate": 84.7,
+          "hold_rate": 95.3,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 501699.0,
+          "revenue": 139000.0,
+          "roas": 0.28,
+          "ctr": 16.35,
+          "cvr": 0.02,
+          "cpa": 501699,
+          "purchases": 1.0,
+          "hook_rate": 83.0,
+          "hold_rate": 72.6,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_8.1s.jpg",
+        "f05_16.3s.jpg",
+        "f06_24.4s.jpg",
+        "f07_32.6s.jpg",
+        "f08_40.7s.jpg",
+        "f09_48.9s.jpg"
+      ],
+      "transcript": "처음엔 당연히 또 과장광고겠거니 했어요 발만 올렸는데 특전사다리? 솔직히 말이 안 되잖아요 그런데 저희 아빠가 하루 15분 딱 2주만에 달라진 체력으로 증명해버렸어요 여행만 가면 한 블록 걷고 앉아버리던 아빠가 그 더운 동남아 거리에서도 몇 시간은 누비고 다니는 걸 보고 정말 우리 아빠가 맞나 낯설 정도였으니까요 이게 단순한 마사지기가 아니라 국내 유일 X10 10.0 기술로 초미세 전류가 7mm 아래 속근육까지 침투해서 죽어가던 근섬유를 초당 1200번씩 깨워주는 근력재생 발판이었더라고요 손으로는 닿지 않는 미세한 근육까지 구석구석 자극시켜주니까 하루 15분 발만 올려놔도 힘 없이 얄팍하던 허벅지가 돌덩이 마냥 딱딱해질 수 밖에 없던 거죠 가만히 앉아서 스쿼트 300번을 한 세민이 다리에 힘 빠질 틈이 있겠냐고요 나이 들수록 빠지는 근육 특히 다리 근육만 신경 써도 10년은 젊게 살 수 있다는데 하루에 380원 꼴인 이 발판 부모님 선물 안 할 이유가 없겠더라고요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "의심 인정 후 반전",
+        "first_3s": "유튜브 썸네일풍 정지 카드('24년 고인물 전문가 추천 EMS 말벅지 근력 발판') + '처음엔 당연히'",
+        "appeal_angle": "과장광고인 줄 알았는데 아빠가 증명",
+        "cta": "하루 380원, 부모님 선물 안 할 이유가 없다",
+        "keywords": [
+          "또 과장광고겠거니",
+          "특전사 다리",
+          "스쿼트 300번",
+          "하루 380원",
+          "부모님 선물"
+        ]
+      },
+      "audio": {
+        "opening_line": "처음엔 당연히 또 과장광고겠거니 했어요",
+        "voice_style": "20~30대 여성 존댓말, 의심에서 확신으로",
+        "narration_mode": "1인칭 가족 목격담"
+      },
+      "visual": {
+        "format": "정지 썸네일 카드 + 실사 클립",
+        "mechanism_viz": "중간(7mm·1200회 설명)",
+        "before_after": "중간(여행지 체력 대조)",
+        "subtitle_style": "썸네일 카드 텍스트 과밀 + 이후 흰 자막"
+      },
+      "target": {
+        "gender": "혼성",
+        "age": "30~50대(구매자)",
+        "segment": "부모 선물 검토층",
+        "appeal_axis": "효도+가성비"
+      },
+      "trust": {
+        "evidence": "'24년 고인물 전문가 추천', 3000만 돌파",
+        "refund": "–",
+        "discount": "하루 380원 환산",
+        "compliance": "⚠ '발만 올렸는데 특전사 다리', '앉아서 스쿼트 300번'은 과장. '전문가 추천'은 누구인지 특정 필요"
+      },
+      "one_liner": "틱톡 96만을 태워 CTR 19.57%인데 CVR 0.05%·ROAS 0.97 — 광고비를 그대로 태운 셈이다.",
+      "why": "첫 컷이 텍스트로 빽빽한 정지 썸네일 카드라 클릭은 유발하되 영상 몰입으로 이어지지 않는다. 틱톡에서 이런 '섬네일 카드 오프닝'은 클릭 낚시로 소비되는 패턴이 반복 확인된다. 오프닝을 실사 인물 컷으로 교체하는 게 우선."
+    },
+    {
       "key": "th최근이주Ⅵ_T",
       "rank_note": "bottom",
       "roas": 1.55,
@@ -3450,114 +3619,6 @@
       },
       "one_liner": "평범한 2주 후기 + 아들 서사라 훅이 약해 1.55로 저조.",
       "why": "진부한 후기 훅. 임팩트 부족."
-    },
-    {
-      "key": "th특전사과장Ⅵ_T",
-      "rank_note": "bottom",
-      "roas": 1.5,
-      "spend": 5658766.0,
-      "ctr": 20.79,
-      "cvr": 0.05,
-      "cpa": 104792,
-      "purchases": 54.0,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 282.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 1.64,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 13.1,
-          "completion": 9.8
-        },
-        "tiktok": {
-          "spend": 5156785.0,
-          "revenue": 8353992.0,
-          "roas": 1.62,
-          "ctr": 21.03,
-          "cvr": 0.05,
-          "cpa": 97298,
-          "purchases": 53.0,
-          "hook_rate": 84.7,
-          "hold_rate": 95.3,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 501699.0,
-          "revenue": 139000.0,
-          "roas": 0.28,
-          "ctr": 16.35,
-          "cvr": 0.02,
-          "cpa": 501699,
-          "purchases": 1.0,
-          "hook_rate": 83.0,
-          "hold_rate": 72.6,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_8.1s.jpg",
-        "f05_16.3s.jpg",
-        "f06_24.4s.jpg",
-        "f07_32.6s.jpg",
-        "f08_40.7s.jpg",
-        "f09_48.9s.jpg"
-      ],
-      "transcript": "처음엔 당연히 또 과장광고겠거니 했어요 발만 올렸는데 특전사다리? 솔직히 말이 안 되잖아요 그런데 저희 아빠가 하루 15분 딱 2주만에 달라진 체력으로 증명해버렸어요 여행만 가면 한 블록 걷고 앉아버리던 아빠가 그 더운 동남아 거리에서도 몇 시간은 누비고 다니는 걸 보고 정말 우리 아빠가 맞나 낯설 정도였으니까요 이게 단순한 마사지기가 아니라 국내 유일 X10 10.0 기술로 초미세 전류가 7mm 아래 속근육까지 침투해서 죽어가던 근섬유를 초당 1200번씩 깨워주는 근력재생 발판이었더라고요 손으로는 닿지 않는 미세한 근육까지 구석구석 자극시켜주니까 하루 15분 발만 올려놔도 힘 없이 얄팍하던 허벅지가 돌덩이 마냥 딱딱해질 수 밖에 없던 거죠 가만히 앉아서 스쿼트 300번을 한 세민이 다리에 힘 빠질 틈이 있겠냐고요 나이 들수록 빠지는 근육 특히 다리 근육만 신경 써도 10년은 젊게 살 수 있다는데 하루에 380원 꼴인 이 발판 부모님 선물 안 할 이유가 없겠더라고요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "의심 인정 후 반전",
-        "first_3s": "유튜브 썸네일풍 정지 카드('24년 고인물 전문가 추천 EMS 말벅지 근력 발판') + '처음엔 당연히'",
-        "appeal_angle": "과장광고인 줄 알았는데 아빠가 증명",
-        "cta": "하루 380원, 부모님 선물 안 할 이유가 없다",
-        "keywords": [
-          "또 과장광고겠거니",
-          "특전사 다리",
-          "스쿼트 300번",
-          "하루 380원",
-          "부모님 선물"
-        ]
-      },
-      "audio": {
-        "opening_line": "처음엔 당연히 또 과장광고겠거니 했어요",
-        "voice_style": "20~30대 여성 존댓말, 의심에서 확신으로",
-        "narration_mode": "1인칭 가족 목격담"
-      },
-      "visual": {
-        "format": "정지 썸네일 카드 + 실사 클립",
-        "mechanism_viz": "중간(7mm·1200회 설명)",
-        "before_after": "중간(여행지 체력 대조)",
-        "subtitle_style": "썸네일 카드 텍스트 과밀 + 이후 흰 자막"
-      },
-      "target": {
-        "gender": "혼성",
-        "age": "30~50대(구매자)",
-        "segment": "부모 선물 검토층",
-        "appeal_axis": "효도+가성비"
-      },
-      "trust": {
-        "evidence": "'24년 고인물 전문가 추천', 3000만 돌파",
-        "refund": "–",
-        "discount": "하루 380원 환산",
-        "compliance": "⚠ '발만 올렸는데 특전사 다리', '앉아서 스쿼트 300번'은 과장. '전문가 추천'은 누구인지 특정 필요"
-      },
-      "one_liner": "틱톡 96만을 태워 CTR 19.57%인데 CVR 0.05%·ROAS 0.97 — 광고비를 그대로 태운 셈이다.",
-      "why": "첫 컷이 텍스트로 빽빽한 정지 썸네일 카드라 클릭은 유발하되 영상 몰입으로 이어지지 않는다. 틱톡에서 이런 '섬네일 카드 오프닝'은 클릭 낚시로 소비되는 패턴이 반복 확인된다. 오프닝을 실사 인물 컷으로 교체하는 게 우선."
     },
     {
       "key": "th되살린법Ⅵ_T",
@@ -4364,22 +4425,22 @@
       "key": "th첫발딛기Ⅺ_AN",
       "rank_note": "bottom",
       "roas": 1.06,
-      "spend": 3463233.0,
+      "spend": 3463245.0,
       "ctr": 5.8,
       "cvr": 0.13,
-      "cpa": 150575,
+      "cpa": 150576,
       "purchases": 23.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3463233.0,
+          "spend": 3463245.0,
           "revenue": 3682000.0,
           "roas": 1.06,
           "ctr": 5.8,
           "cvr": 0.13,
-          "cpa": 150575,
+          "cpa": 150576,
           "purchases": 23.0,
           "hook_rate": 48.1,
           "hold_rate": 54.1,
@@ -4400,14 +4461,44 @@
         "f09_50.3s.jpg"
       ],
       "transcript": "아침마다 첫 발 딛기가 두려웠어 찢어질 것 같은 발바닥이 싫었어 종아리는 터지 도수 치료받으면 잠깐 난 안 돼 통증의 뿌리를 건드려야 해 서마드 위에 발을 육속 금막이 사복돼 서마드가 통증을 뿌리 뽑았어 느낌이 완전히 달라졌어 종아리가 가볍고 무릎이 편안해 그냥 발만 올려놨어 뿐인데 아무 걱정 없이 걷던 군시절 다리가 돌아왔어",
-      "analyzed": false,
-      "base": {},
-      "audio": {},
-      "visual": {},
-      "target": {},
-      "trust": {},
-      "one_liner": "",
-      "why": ""
+      "analyzed": true,
+      "base": {
+        "hook_type": "상황 공감형(아침 통증)",
+        "first_3s": "AI 남성이 침대 옆에서 발을 디디며 인상을 찌푸림, '아침마다 첫 발 딛기가 두려웠어'",
+        "appeal_angle": "족저 통증 아침 루틴 + 근본 해결",
+        "cta": "(명시적 오퍼 없음) 통증의 뿌리를 건드려야 해",
+        "keywords": [
+          "첫 발 딛기",
+          "종아리는 터질 것",
+          "도수치료",
+          "통증의 뿌리"
+        ]
+      },
+      "audio": {
+        "opening_line": "아침마다 첫 발 딛기가 두려웠어",
+        "voice_style": "담담한 독백형, 리듬을 탄 읊조림",
+        "narration_mode": "1인 회상 독백"
+      },
+      "visual": {
+        "format": "AI 애니(실사풍 3D)",
+        "mechanism_viz": "근막 전류 스파크 CG",
+        "before_after": "있음(아침 통증 → 공원 러닝)",
+        "subtitle_style": "얇은 흰 자막(가독성 낮음)"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "40·50대",
+        "segment": "족저근막·아침 첫걸음 통증",
+        "appeal_axis": "통증 공감"
+      },
+      "trust": {
+        "evidence": "도수치료 비교 언급",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ 도수치료 대체 뉘앙스"
+      },
+      "one_liner": "아침 첫걸음이라는 통증 진입점은 정확한데 ROAS 0.8로 무너졌다. 가격도 보장도 없이 감성으로만 끝나 구매할 이유가 남지 않는다.",
+      "why": "공감에서 해결까지는 가는데 오퍼가 전혀 없다. 자막이 얇아 소리 없이 보는 유저에게 메시지가 전달되지 않는 것도 메타 단독 집행에서 치명적."
     },
     {
       "key": "th인터뷰Ⅺ_AIP",

@@ -1,5 +1,6 @@
 {
   "ranges": [
+    "last_7d",
     "last_14d",
     "last_30d",
     "last_90d"
@@ -11,6 +12,7 @@
       "files": {
         "last_14d": "creative_analysis_th_last_14d.json",
         "last_30d": "creative_analysis_th_last_30d.json",
+        "last_7d": "creative_analysis_th_last_7d.json",
         "last_90d": "creative_analysis_th_last_90d.json"
       },
       "counts": {
@@ -22,13 +24,18 @@
           "n": 39,
           "analyzed": 39
         },
+        "last_7d": {
+          "n": 34,
+          "analyzed": 32
+        },
         "last_90d": {
           "n": 47,
-          "analyzed": 44
+          "analyzed": 47
         }
       },
       "generated": "2026-09-11",
       "ranges": [
+        "last_7d",
         "last_14d",
         "last_30d",
         "last_90d"
@@ -40,6 +47,7 @@
       "files": {
         "last_14d": "creative_analysis_nb_last_14d.json",
         "last_30d": "creative_analysis_nb_last_30d.json",
+        "last_7d": "creative_analysis_nb_last_7d.json",
         "last_90d": "creative_analysis_nb_last_90d.json"
       },
       "counts": {
@@ -51,6 +59,10 @@
           "n": 16,
           "analyzed": 16
         },
+        "last_7d": {
+          "n": 9,
+          "analyzed": 7
+        },
         "last_90d": {
           "n": 27,
           "analyzed": 27
@@ -58,6 +70,7 @@
       },
       "generated": "2026-09-11",
       "ranges": [
+        "last_7d",
         "last_14d",
         "last_30d",
         "last_90d"
@@ -69,6 +82,7 @@
       "files": {
         "last_14d": "creative_analysis_tw_last_14d.json",
         "last_30d": "creative_analysis_tw_last_30d.json",
+        "last_7d": "creative_analysis_tw_last_7d.json",
         "last_90d": "creative_analysis_tw_last_90d.json"
       },
       "counts": {
@@ -80,13 +94,18 @@
           "n": 46,
           "analyzed": 46
         },
+        "last_7d": {
+          "n": 24,
+          "analyzed": 23
+        },
         "last_90d": {
-          "n": 50,
-          "analyzed": 44
+          "n": 51,
+          "analyzed": 51
         }
       },
       "generated": "2026-09-11",
       "ranges": [
+        "last_7d",
         "last_14d",
         "last_30d",
         "last_90d"
@@ -98,6 +117,7 @@
       "files": {
         "last_14d": "creative_analysis_am_last_14d.json",
         "last_30d": "creative_analysis_am_last_30d.json",
+        "last_7d": "creative_analysis_am_last_7d.json",
         "last_90d": "creative_analysis_am_last_90d.json"
       },
       "counts": {
@@ -109,6 +129,10 @@
           "n": 8,
           "analyzed": 8
         },
+        "last_7d": {
+          "n": 3,
+          "analyzed": 3
+        },
         "last_90d": {
           "n": 25,
           "analyzed": 25
@@ -116,6 +140,7 @@
       },
       "generated": "2026-09-11",
       "ranges": [
+        "last_7d",
         "last_14d",
         "last_30d",
         "last_90d"
