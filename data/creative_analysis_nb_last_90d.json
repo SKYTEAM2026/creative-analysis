@@ -2,7 +2,7 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_90d",
-  "generated": "2026-09-14",
+  "generated": "2026-09-17",
   "criteria": "유의미 지출(3,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -108,26 +108,26 @@
     {
       "key": "nb마사집PPL_T",
       "rank_note": "top",
-      "roas": 2.31,
-      "spend": 6625449.0,
-      "ctr": 3.96,
-      "cvr": 1.37,
-      "cpa": 60231,
-      "purchases": 110.0,
+      "roas": 2.24,
+      "spend": 6165748.0,
+      "ctr": 3.6,
+      "cvr": 1.47,
+      "cpa": 62280,
+      "purchases": 99.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 6625449.0,
-          "revenue": 15333400.0,
-          "roas": 2.31,
-          "ctr": 3.96,
-          "cvr": 1.37,
-          "cpa": 60231,
-          "purchases": 110.0,
-          "hook_rate": 32.9,
-          "hold_rate": 46.3,
+          "spend": 6165748.0,
+          "revenue": 13830400.0,
+          "roas": 2.24,
+          "ctr": 3.6,
+          "cvr": 1.47,
+          "cpa": 62280,
+          "purchases": 99.0,
+          "hook_rate": 32.0,
+          "hold_rate": 44.5,
           "play50": null,
           "completion": null
         }
@@ -187,26 +187,26 @@
     {
       "key": "nb사라진대Ⅱ_TP",
       "rank_note": "top",
-      "roas": 2.08,
-      "spend": 13561251.0,
+      "roas": 2.05,
+      "spend": 13540079.0,
       "ctr": 1.69,
-      "cvr": 4.48,
-      "cpa": 60006,
-      "purchases": 226.0,
+      "cvr": 4.38,
+      "cpa": 60991,
+      "purchases": 222.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 13561251.0,
-          "revenue": 28194895.0,
-          "roas": 2.08,
+          "spend": 13540079.0,
+          "revenue": 27728895.0,
+          "roas": 2.05,
           "ctr": 1.69,
-          "cvr": 4.48,
-          "cpa": 60006,
-          "purchases": 226.0,
+          "cvr": 4.38,
+          "cpa": 60991,
+          "purchases": 222.0,
           "hook_rate": 14.7,
-          "hold_rate": 23.8,
+          "hold_rate": 23.9,
           "play50": null,
           "completion": null
         }
@@ -424,26 +424,26 @@
     {
       "key": "nb할인좀Ⅱ_AIP",
       "rank_note": "top",
-      "roas": 1.91,
-      "spend": 80293580.0,
-      "ctr": 2.1,
-      "cvr": 3.78,
-      "cpa": 66634,
-      "purchases": 1205.0,
+      "roas": 1.9,
+      "spend": 81285521.0,
+      "ctr": 2.02,
+      "cvr": 3.73,
+      "cpa": 66847,
+      "purchases": 1216.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 80293580.0,
-          "revenue": 153355400.0,
-          "roas": 1.91,
-          "ctr": 2.1,
-          "cvr": 3.78,
-          "cpa": 66634,
-          "purchases": 1205.0,
-          "hook_rate": 22.6,
-          "hold_rate": 23.2,
+          "spend": 81285521.0,
+          "revenue": 154723000.0,
+          "roas": 1.9,
+          "ctr": 2.02,
+          "cvr": 3.73,
+          "cpa": 66847,
+          "purchases": 1216.0,
+          "hook_rate": 21.8,
+          "hold_rate": 23.3,
           "play50": null,
           "completion": null
         }
@@ -504,25 +504,25 @@
       "key": "nb김예빈PPL_T",
       "rank_note": "top",
       "roas": 1.82,
-      "spend": 16721551.0,
-      "ctr": 1.7,
-      "cvr": 2.45,
-      "cpa": 66093,
-      "purchases": 253.0,
+      "spend": 18114171.0,
+      "ctr": 1.69,
+      "cvr": 2.51,
+      "cpa": 65631,
+      "purchases": 276.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 16721551.0,
-          "revenue": 30428400.0,
+          "spend": 18114171.0,
+          "revenue": 32960800.0,
           "roas": 1.82,
-          "ctr": 1.7,
-          "cvr": 2.45,
-          "cpa": 66093,
-          "purchases": 253.0,
-          "hook_rate": 22.5,
-          "hold_rate": 14.5,
+          "ctr": 1.69,
+          "cvr": 2.51,
+          "cpa": 65631,
+          "purchases": 276.0,
+          "hook_rate": 22.4,
+          "hold_rate": 14.4,
           "play50": null,
           "completion": null
         }
@@ -584,26 +584,26 @@
     {
       "key": "nb배신감들어Ⅱ_T",
       "rank_note": "top",
-      "roas": 1.58,
-      "spend": 15753814.0,
-      "ctr": 2.47,
-      "cvr": 3.25,
-      "cpa": 76475,
-      "purchases": 206.0,
+      "roas": 1.59,
+      "spend": 14088843.0,
+      "ctr": 2.45,
+      "cvr": 3.21,
+      "cpa": 76988,
+      "purchases": 183.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 15753814.0,
-          "revenue": 24953600.0,
-          "roas": 1.58,
-          "ctr": 2.47,
-          "cvr": 3.25,
-          "cpa": 76475,
-          "purchases": 206.0,
-          "hook_rate": 40.7,
-          "hold_rate": 16.9,
+          "spend": 14088843.0,
+          "revenue": 22442600.0,
+          "roas": 1.59,
+          "ctr": 2.45,
+          "cvr": 3.21,
+          "cpa": 76988,
+          "purchases": 183.0,
+          "hook_rate": 40.8,
+          "hold_rate": 16.6,
           "play50": null,
           "completion": null
         }
@@ -740,28 +740,28 @@
       "why": "니치 중복 + 평범한 훅."
     },
     {
-      "key": "nb떡대정병Ⅱ_AN",
-      "rank_note": "top",
-      "roas": 1.46,
-      "spend": 6086041.0,
-      "ctr": 3.07,
-      "cvr": 2.09,
-      "cpa": 83370,
-      "purchases": 73.0,
+      "key": "nb새빨간거짓말Ⅱ_T",
+      "rank_note": "bottom",
+      "roas": 1.44,
+      "spend": 13477445.0,
+      "ctr": 2.51,
+      "cvr": 2.81,
+      "cpa": 85300,
+      "purchases": 158.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 6086041.0,
-          "revenue": 8882600.0,
-          "roas": 1.46,
-          "ctr": 3.07,
-          "cvr": 2.09,
-          "cpa": 83370,
-          "purchases": 73.0,
-          "hook_rate": 36.6,
-          "hold_rate": 39.2,
+          "spend": 13477445.0,
+          "revenue": 19398100.0,
+          "roas": 1.44,
+          "ctr": 2.51,
+          "cvr": 2.81,
+          "cpa": 85300,
+          "purchases": 158.0,
+          "hook_rate": 35.5,
+          "hold_rate": 20.5,
           "play50": null,
           "completion": null
         }
@@ -771,76 +771,75 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_5.2s.jpg",
-        "f05_10.5s.jpg",
-        "f06_15.7s.jpg",
-        "f07_20.9s.jpg",
-        "f08_26.1s.jpg",
-        "f09_31.4s.jpg"
+        "f04_7.5s.jpg",
+        "f05_15.0s.jpg",
+        "f06_22.5s.jpg",
+        "f07_30.0s.jpg",
+        "f08_37.5s.jpg",
+        "f09_45.1s.jpg"
       ],
-      "transcript": "팔뚝떡대 정병원 당신이 매일 이걸 감을 때 생기는 변화입니다. 감기 전에는 지방 노폐물이 잔뜩 들어차있어 육육사이즈 반팔티마저 꽉 끼고 아무리 닭가슴살 씹고 고강도 운동해봤자 얇아지기는 커녕 점점 장군감 떡대로 벌크업되는 악순환을 맞이하게 됩니다. 이때 뉴베로 밴드를 감으면 코어 웨이브 고밀도 전류가 막힌 하수구에 고압 세척기 꽂아버리듯 팔뚝 속 단단히 유착된 지방을 싹 빼내줘서 2주만에 지방 독소가 다 쏟아져나가고 이번 생에 포기했던 민소매도 완벽한 핏으로 소화하게 됩니다. 싸구려 저가용 EMS로는 불가능합니다. 피부 7mm까지 직접 파고드는 국내의 일코어 웨이 탑재 뉴베로여야만 이 지독한 악순환을 끊을 수 있습니다. 이미 국가대표 선수들 체형 관리 필수품으로 자리 잡은 공식 EMS 밴드로 효과는 이미 증명됐는데 지금 45% 할인 중일 때 현명한 소비하시기 바랍니다.",
+      "transcript": "팔뚝살은 죽어도 못 뺀다는 인간들 다 새빨간 거짓말이에요 고강도 크로스핏 매일 2시간 죽어라 뛰어도 철근같이 딱 버티고 있던 끈덕진 팔뚝덩어리 이거 하나만 감으면 끝나는 거였네요 웨딩 촬영 앞두고 발 등에 불 떨어진 예신들이 매일 루틴처럼 두 번씩은 꼭 쓴다는 고밀도 팔뚝 지방 분해 밴드 에스테틱 다 6번 받은 것 같은 효과라고 커뮤니티에서 난리나서 요즘에는 없어서 못 싼대요 팔뚝은 워낙 순환이 느리고 혈관 사이 지방 찌꺼기들이 구석구석 잘 끼어서 시간 지나면 노폐물이 쌓일 수 밖에 없는데 이거 감으면 EMS 초미세 전류가 깊게 박힌 지방을 1초에 200번씩 쉬지 않고 타격해서 지방 깊숙한 곳부터 잡아 뜯어내주고 레드라이트 광선이 막힌 혈관을 넓게 펼쳐줘서 속에 쌓인 들어온 노폐물 찌꺼기들이 한 번에 쓸려 배출된대요 크로스핏 할 때는 점점 붉어지면서 든든한 마동석 팔뚝되던데 이건 눈바리부터 무섭게 빠지면서 순식간에 뼈말라로 만들어버리네요 알고 보니까 붓기, 셀룰 감소 임상까지 받아서 팔뚝 관리에 돈 쳐는 기본인 국대 피규어 선수들이 옴성 관리하려고 주구장창 끼고 있다던데 지금 재고 얼마 안 남아서 지금 못 사면 3달은 더 기다려야 한대요 저는 한 개 더 쟁이러 갑니다",
       "analyzed": true,
       "base": {
-        "hook_type": "자학 별명 지목형",
-        "first_3s": "핑크 반투명 해부 CG 인물이 거울 앞에서 팔뚝을 잡고 '팔뚝 떡대 정병 온 당신이'",
-        "appeal_angle": "운동할수록 굵어지는 악순환 → 밴드로 차단",
-        "cta": "45% 할인 중일 때 현명한 소비하세요",
+        "hook_type": "도발 반박형",
+        "first_3s": "'팔뚝살 죽어도 못 뺀다는 인간들 다 새빨간 거짓말'",
+        "appeal_angle": "팔뚝·크로스핏 무용",
+        "cta": "",
         "keywords": [
-          "팔뚝 떡대",
-          "코어 웨이브",
-          "고압 세척기",
-          "민소매",
-          "45% 할인"
+          "새빨간 거짓말",
+          "크로스핏",
+          "웨딩 예신",
+          "1초 200번"
         ]
       },
       "audio": {
-        "opening_line": "팔뚝 떡대 정병 온 당신이 매일 이걸 감을 때 생기는 변화입니다",
-        "voice_style": "단정적인 여성 나레이션, 빠른 속도",
-        "narration_mode": "2인칭 지목형 내레이션"
+        "opening_line": "팔뚝살은 죽어도 못 뺀다는 인간들 다 새빨간 거짓말이에요",
+        "voice_style": "도발적 반박체",
+        "narration_mode": "1인칭 후기"
       },
       "visual": {
-        "format": "3D 해부 CG(핑크 톤)",
-        "mechanism_viz": "막힌 하수구에 고압 세척기 비유, 7mm 침투 도해",
-        "before_after": "중간(CG 체형 변화)",
-        "subtitle_style": "흰 굵은 자막 중앙 고정"
+        "format": "실사/AI",
+        "mechanism_viz": "EMS 1초 200번 타격",
+        "before_after": "–",
+        "subtitle_style": "자극 자막"
       },
       "target": {
         "gender": "여성",
-        "age": "20~40대",
-        "segment": "팔뚝 굵기 콤플렉스",
-        "appeal_axis": "콤플렉스+악순환 탈출"
+        "age": "20·30대",
+        "segment": "운동해도 안 빠지는 팔뚝",
+        "appeal_axis": "미용(팔라인)"
       },
       "trust": {
-        "evidence": "국가대표 선수 체형관리 필수품, 국내 유일 코어웨이브",
+        "evidence": "에스테틱 6번 효과·없어서 못 판다",
         "refund": "–",
-        "discount": "45%",
-        "compliance": "⚠ '지방 독소가 쏟아져 나간다·유착된 지방을 빼낸다'는 근거 없는 효능 표현. '국내 유일·국가대표 공식'은 입증자료 필요"
+        "discount": "–",
+        "compliance": "⚠ 과장 표현('에스테틱 6번 효과')"
       },
-      "one_liner": "메타 단독 지출 227만에 ROAS 1.51, CVR 2.35%로 뉴베로 풀에서는 상위지만 절대 수익성은 얇다.",
-      "why": "'운동해도 굵어진다'는 좌절 경험을 먼저 인정해주고 원인을 지방 유착으로 재정의하는 구조가 클릭·전환을 끌었다. 다만 CG 해부 비주얼이 혐오감 경계선에 있고, 효능 표현이 심의 리스크라 카피 순화 후 증액이 안전하다."
+      "one_liner": "도발 훅에 크로스핏·웨딩을 다 얹었지만 메시지가 분산되고 '에스테틱 6번 효과' 같은 과장이 신뢰를 깎아 1.4.",
+      "why": "메시지 분산 + 과장. 도발 대비 전환 약함."
     },
     {
       "key": "nb감도안온다Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.41,
-      "spend": 29658873.0,
-      "ctr": 1.87,
-      "cvr": 2.32,
-      "cpa": 90149,
-      "purchases": 329.0,
+      "roas": 1.42,
+      "spend": 28767532.0,
+      "ctr": 1.88,
+      "cvr": 2.33,
+      "cpa": 89618,
+      "purchases": 321.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 29658873.0,
-          "revenue": 41850700.0,
-          "roas": 1.41,
-          "ctr": 1.87,
-          "cvr": 2.32,
-          "cpa": 90149,
-          "purchases": 329.0,
-          "hook_rate": 15.4,
+          "spend": 28767532.0,
+          "revenue": 40933700.0,
+          "roas": 1.42,
+          "ctr": 1.88,
+          "cvr": 2.33,
+          "cpa": 89618,
+          "purchases": 321.0,
+          "hook_rate": 15.5,
           "hold_rate": 22.6,
           "play50": null,
           "completion": null
@@ -981,25 +980,25 @@
       "key": "nb썸머의여름PPL_T",
       "rank_note": "bottom",
       "roas": 1.37,
-      "spend": 11749318.0,
-      "ctr": 3.0,
-      "cvr": 1.43,
-      "cpa": 87681,
-      "purchases": 134.0,
+      "spend": 11037793.0,
+      "ctr": 2.98,
+      "cvr": 1.45,
+      "cpa": 88302,
+      "purchases": 125.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 11749318.0,
-          "revenue": 16038000.0,
+          "spend": 11037793.0,
+          "revenue": 15079000.0,
           "roas": 1.37,
-          "ctr": 3.0,
-          "cvr": 1.43,
-          "cpa": 87681,
-          "purchases": 134.0,
-          "hook_rate": 29.6,
-          "hold_rate": 31.0,
+          "ctr": 2.98,
+          "cvr": 1.45,
+          "cpa": 88302,
+          "purchases": 125.0,
+          "hook_rate": 29.5,
+          "hold_rate": 30.3,
           "play50": null,
           "completion": null
         }
@@ -1297,26 +1296,26 @@
     {
       "key": "nb예신계신Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.22,
-      "spend": 17611739.0,
-      "ctr": 2.11,
-      "cvr": 3.39,
-      "cpa": 97843,
-      "purchases": 180.0,
+      "roas": 1.19,
+      "spend": 16924339.0,
+      "ctr": 2.1,
+      "cvr": 3.38,
+      "cpa": 99555,
+      "purchases": 170.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 17611739.0,
-          "revenue": 21415407.0,
-          "roas": 1.22,
-          "ctr": 2.11,
-          "cvr": 3.39,
-          "cpa": 97843,
-          "purchases": 180.0,
-          "hook_rate": 28.3,
-          "hold_rate": 18.1,
+          "spend": 16924339.0,
+          "revenue": 20082407.0,
+          "roas": 1.19,
+          "ctr": 2.1,
+          "cvr": 3.38,
+          "cpa": 99555,
+          "purchases": 170.0,
+          "hook_rate": 28.5,
+          "hold_rate": 17.5,
           "play50": null,
           "completion": null
         }
@@ -2015,8 +2014,8 @@
       "key": "nb양궁선수Ⅴ_AI",
       "rank_note": "bottom",
       "roas": 0.0,
-      "spend": 610201.0,
-      "ctr": 1.83,
+      "spend": 614299.0,
+      "ctr": 1.82,
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
@@ -2025,10 +2024,10 @@
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 610201.0,
+          "spend": 614299.0,
           "revenue": 0.0,
           "roas": 0.0,
-          "ctr": 1.83,
+          "ctr": 1.82,
           "cvr": 0.0,
           "cpa": null,
           "purchases": 0.0,

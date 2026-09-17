@@ -2,7 +2,7 @@
   "code": "am",
   "product": "아치핀 맥스",
   "range": "last_90d",
-  "generated": "2026-09-14",
+  "generated": "2026-09-17",
   "criteria": "유의미 지출(1,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -108,40 +108,40 @@
     {
       "key": "am평발아님주의Ⅰ_T",
       "rank_note": "top",
-      "roas": 3.24,
-      "spend": 4087759.0,
-      "ctr": 0.36,
-      "cvr": 4.31,
-      "cpa": 15549,
-      "purchases": 262.889945,
+      "roas": 3.35,
+      "spend": 3102815.0,
+      "ctr": 0.34,
+      "cvr": 3.96,
+      "cpa": 14976,
+      "purchases": 207.181334,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 3726335.0,
-          "revenue": 12894650.0,
-          "roas": 3.46,
-          "ctr": 0.35,
-          "cvr": 4.34,
-          "cpa": 14562,
-          "purchases": 255.889945,
+          "spend": 3071367.0,
+          "revenue": 10403309.0,
+          "roas": 3.39,
+          "ctr": 0.34,
+          "cvr": 3.98,
+          "cpa": 14825,
+          "purchases": 207.181334,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 9.0,
-          "completion": 5.3
+          "play50": 8.8,
+          "completion": 5.2
         },
         "meta": {
-          "spend": 361424.0,
-          "revenue": 335500.0,
-          "roas": 0.93,
-          "ctr": 0.92,
-          "cvr": 3.26,
-          "cpa": 51632,
-          "purchases": 7.0,
-          "hook_rate": 26.8,
-          "hold_rate": 22.4,
+          "spend": 31448.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 1.38,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 30.8,
+          "hold_rate": 26.0,
           "play50": null,
           "completion": null
         }
@@ -200,42 +200,105 @@
       "why": "'너무 잘 들어서 위험하다'는 구조는 회의감을 호기심으로 바꾼다. 다만 영상 내 수치가 11%와 12%로 엇갈려 신뢰를 깎으니 통일할 것."
     },
     {
+      "key": "am융양갱PPL_T",
+      "rank_note": "top",
+      "roas": 3.21,
+      "spend": 507382.0,
+      "ctr": 2.93,
+      "cvr": 3.08,
+      "cpa": 16367,
+      "purchases": 31.0,
+      "platforms": [
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 288.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 18.75,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 93.8,
+          "hold_rate": 82.2,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 507094.0,
+          "revenue": 1630800.0,
+          "roas": 3.22,
+          "ctr": 2.91,
+          "cvr": 3.11,
+          "cpa": 16358,
+          "purchases": 31.0,
+          "hook_rate": 28.0,
+          "hold_rate": 37.0,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_4.4s.jpg",
+        "f05_8.7s.jpg",
+        "f06_13.1s.jpg",
+        "f07_17.5s.jpg",
+        "f08_21.9s.jpg",
+        "f09_26.2s.jpg"
+      ],
+      "transcript": "제가 아침잠은 없지만 퇴근하면 그냥 쓰러지는 사람이라 멋지게 자기관리도 못하고요 그나마 저한테 집중할 수 있는 시간이 아침시간 짜투리 시간이란 말이에요 몸매 좋은 언니들 너무 부럽지만 시간 없고 돈 없어서 다리 마사지나 지읍은 꿈도 못 꾸거든요 그래서 저는 일상에서 관리해요 이건 아침핀 맥스라는 건데 걸을 때마다 시원하게 발바닥 마사지 해주는 효과를 줘서 출근길 10분 걷기만 하면 끝이에요 여름에는 다리가 드러날 수밖에 없게 되는데 이거 착용하면 오후 다리 붓기 걱정 안 해도 돼요 지금 단 3일 공홈에서 최대 53% 할인하고 있다니까 여름 다리라인 고민이신 분들 놓치지 마세요",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
       "key": "am심폐소생술Ⅳ_AN",
       "rank_note": "top",
-      "roas": 3.06,
-      "spend": 2098457.0,
-      "ctr": 1.1,
-      "cvr": 3.36,
-      "cpa": 15006,
-      "purchases": 139.839945,
+      "roas": 3.11,
+      "spend": 1770503.0,
+      "ctr": 1.11,
+      "cvr": 3.26,
+      "cpa": 14691,
+      "purchases": 120.516983,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 1863811.0,
-          "revenue": 5983627.0,
-          "roas": 3.21,
+          "spend": 1542253.0,
+          "revenue": 5109216.0,
+          "roas": 3.31,
           "ctr": 1.03,
-          "cvr": 3.48,
-          "cpa": 14245,
-          "purchases": 130.839945,
+          "cvr": 3.4,
+          "cpa": 13707,
+          "purchases": 112.516983,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 8.6,
-          "completion": 5.8
+          "play50": 5.9,
+          "completion": 3.5
         },
         "meta": {
-          "spend": 234646.0,
-          "revenue": 432800.0,
-          "roas": 1.84,
-          "ctr": 3.61,
-          "cvr": 2.26,
-          "cpa": 26072,
-          "purchases": 9.0,
-          "hook_rate": 49.8,
-          "hold_rate": 25.2,
+          "spend": 228250.0,
+          "revenue": 395400.0,
+          "roas": 1.73,
+          "ctr": 3.53,
+          "cvr": 2.11,
+          "cpa": 28531,
+          "purchases": 8.0,
+          "hook_rate": 49.6,
+          "hold_rate": 25.3,
           "play50": null,
           "completion": null
         }
@@ -292,100 +355,6 @@
       },
       "one_liner": "구글 636만원에 ROAS 4.43, 구매 644건. 자기 몸이 아니라 '엄마 발'을 파는 순간 가격 저항이 사라지고 선물 명분이 생긴다.",
       "why": "CTR 1.2로 낮지만 회수는 최상위 — 구매 의도가 명확한 사람만 들어온다. 효도 선물 각도는 이 제품의 두 번째 축으로 키울 가치가 있다."
-    },
-    {
-      "key": "am맥스업글Ⅰ_AN",
-      "rank_note": "top",
-      "roas": 2.86,
-      "spend": 1257456.0,
-      "ctr": 4.16,
-      "cvr": 0.6,
-      "cpa": 19052,
-      "purchases": 66.0,
-      "platforms": [
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 1257456.0,
-          "revenue": 3512650.0,
-          "roas": 2.79,
-          "ctr": 4.16,
-          "cvr": 0.59,
-          "cpa": 19345,
-          "purchases": 65.0,
-          "hook_rate": 60.9,
-          "hold_rate": 94.5,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 0.0,
-          "revenue": 79800.0,
-          "roas": null,
-          "ctr": null,
-          "cvr": null,
-          "cpa": 0,
-          "purchases": 1.0,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_10.1s.jpg",
-        "f05_20.3s.jpg",
-        "f06_30.4s.jpg",
-        "f07_40.6s.jpg",
-        "f08_50.7s.jpg",
-        "f09_60.9s.jpg"
-      ],
-      "transcript": "아 아 아 아 아치 PMAX 뭐가 달라졌을까 기존이랑 비교해봐 확실히 달라 속삭이듯 다리라인은 발 아치가 결정하는 거 이제 모르는 사람 없지 아치 높이 2.9에서 3.2cm까지 무려 11%나 올라갔어 임팩트가 달라 발에서 발목 무릎 골반까지 중력선을 딱 잡아주니 라인이 달라 기존보다 빠르게 일자로 바꿔줘 다리라인은 발 아치가 결정하잖아 소재도 완전히 다 SOTPU로 업그레이드 항공기 부품에도 쓰는 소재야 보관력이 완전히 샤워는 달라 발의 형태 보완 흐름에 유연하게 라인을 완성시켜줘 흔들림 없는 집중 찹는 인체공학 입체 구조로 발 전체를 빈틈없이 확 잡아줘 하체 전체 흐름을 바꾸는 특허태 아치 PMAX 절대 놓치지 마",
-      "analyzed": true,
-      "base": {
-        "hook_type": "구·신형 비교형",
-        "first_3s": "제품 클로즈업 후 3D 애니 남성이 두 인솔을 양손에 들고 '아치핀 맥스, 뭐가 달라졌을까'",
-        "appeal_angle": "아치 2.9→3.2cm(11%↑), TPR→TPU 소재 업그레이드",
-        "cta": "이번 주까지만 53% 할인",
-        "keywords": [
-          "아치핀 VS 아치핀 맥스",
-          "2.9→3.2cm 11%",
-          "항공기 부품 TPU",
-          "5포인트 입체구조",
-          "53% 할인"
-        ]
-      },
-      "audio": {
-        "opening_line": "아치핀 맥스, 뭐가 달라졌을까? 기존이랑 비교해봐 확실히 달라",
-        "voice_style": "리드미컬한 랩·나레이션 혼합",
-        "narration_mode": "스펙 비교 나레이션"
-      },
-      "visual": {
-        "format": "3D 애니메이션 + 제품 실사 클로즈업",
-        "mechanism_viz": "아치 높이 측정 CG, 정렬선",
-        "before_after": "구형 vs 신형 스펙 대비",
-        "subtitle_style": "굵은 흰 자막 + 형광 강조"
-      },
-      "target": {
-        "gender": "공통",
-        "age": "20·30·40대",
-        "segment": "기존 아치핀 사용자 + 신규",
-        "appeal_axis": "업그레이드 명분"
-      },
-      "trust": {
-        "evidence": "아치 높이 수치, 항공기용 TPU 소재, 특허",
-        "refund": "–",
-        "discount": "53%",
-        "compliance": "온건 / AI 생성 고지 있음"
-      },
-      "one_liner": "구글 ROAS 4.41로 특히 강했다. CTR 1.62로 클릭은 적지만 스펙 비교라 이미 검토 중인 사람만 정확히 걸러 들어온다.",
-      "why": "구형 사용자 업그레이드 소구는 리타겟 성격이 강해 효율이 좋다. 구글 예산을 늘리고 신규 획득용 소재와 역할을 분리할 것."
     },
     {
       "key": "am세심Ⅹ_T",
@@ -481,6 +450,86 @@
       "why": "손실회피 훅 + 신규 타겟(자녀 부모) 발굴."
     },
     {
+      "key": "am맥스업글Ⅰ_AN",
+      "rank_note": "top",
+      "roas": 2.42,
+      "spend": 657084.0,
+      "ctr": 3.93,
+      "cvr": 0.54,
+      "cpa": 22658,
+      "purchases": 29.0,
+      "platforms": [
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 657084.0,
+          "revenue": 1587632.0,
+          "roas": 2.42,
+          "ctr": 3.93,
+          "cvr": 0.54,
+          "cpa": 22658,
+          "purchases": 29.0,
+          "hook_rate": 61.9,
+          "hold_rate": 94.7,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_10.1s.jpg",
+        "f05_20.3s.jpg",
+        "f06_30.4s.jpg",
+        "f07_40.6s.jpg",
+        "f08_50.7s.jpg",
+        "f09_60.9s.jpg"
+      ],
+      "transcript": "아 아 아 아 아치 PMAX 뭐가 달라졌을까 기존이랑 비교해봐 확실히 달라 속삭이듯 다리라인은 발 아치가 결정하는 거 이제 모르는 사람 없지 아치 높이 2.9에서 3.2cm까지 무려 11%나 올라갔어 임팩트가 달라 발에서 발목 무릎 골반까지 중력선을 딱 잡아주니 라인이 달라 기존보다 빠르게 일자로 바꿔줘 다리라인은 발 아치가 결정하잖아 소재도 완전히 다 SOTPU로 업그레이드 항공기 부품에도 쓰는 소재야 보관력이 완전히 샤워는 달라 발의 형태 보완 흐름에 유연하게 라인을 완성시켜줘 흔들림 없는 집중 찹는 인체공학 입체 구조로 발 전체를 빈틈없이 확 잡아줘 하체 전체 흐름을 바꾸는 특허태 아치 PMAX 절대 놓치지 마",
+      "analyzed": true,
+      "base": {
+        "hook_type": "구·신형 비교형",
+        "first_3s": "제품 클로즈업 후 3D 애니 남성이 두 인솔을 양손에 들고 '아치핀 맥스, 뭐가 달라졌을까'",
+        "appeal_angle": "아치 2.9→3.2cm(11%↑), TPR→TPU 소재 업그레이드",
+        "cta": "이번 주까지만 53% 할인",
+        "keywords": [
+          "아치핀 VS 아치핀 맥스",
+          "2.9→3.2cm 11%",
+          "항공기 부품 TPU",
+          "5포인트 입체구조",
+          "53% 할인"
+        ]
+      },
+      "audio": {
+        "opening_line": "아치핀 맥스, 뭐가 달라졌을까? 기존이랑 비교해봐 확실히 달라",
+        "voice_style": "리드미컬한 랩·나레이션 혼합",
+        "narration_mode": "스펙 비교 나레이션"
+      },
+      "visual": {
+        "format": "3D 애니메이션 + 제품 실사 클로즈업",
+        "mechanism_viz": "아치 높이 측정 CG, 정렬선",
+        "before_after": "구형 vs 신형 스펙 대비",
+        "subtitle_style": "굵은 흰 자막 + 형광 강조"
+      },
+      "target": {
+        "gender": "공통",
+        "age": "20·30·40대",
+        "segment": "기존 아치핀 사용자 + 신규",
+        "appeal_axis": "업그레이드 명분"
+      },
+      "trust": {
+        "evidence": "아치 높이 수치, 항공기용 TPU 소재, 특허",
+        "refund": "–",
+        "discount": "53%",
+        "compliance": "온건 / AI 생성 고지 있음"
+      },
+      "one_liner": "구글 ROAS 4.41로 특히 강했다. CTR 1.62로 클릭은 적지만 스펙 비교라 이미 검토 중인 사람만 정확히 걸러 들어온다.",
+      "why": "구형 사용자 업그레이드 소구는 리타겟 성격이 강해 효율이 좋다. 구글 예산을 늘리고 신규 획득용 소재와 역할을 분리할 것."
+    },
+    {
       "key": "am한혜진공개Ⅰ_T",
       "rank_note": "top",
       "roas": 2.34,
@@ -572,114 +621,6 @@
       },
       "one_liner": "과장 없이 '헬스할 때 아치가 무너져서'라는 실사용 맥락으로 신뢰를 준다. 운동인·오래 서있는 사람에게 자연스럽게 스며드는 진솔형.",
       "why": "담백한 실사용 맥락의 신뢰. 과장 없는 진정성."
-    },
-    {
-      "key": "am장담노래Ⅳ_AN",
-      "rank_note": "top",
-      "roas": 2.3,
-      "spend": 1356709.0,
-      "ctr": 10.91,
-      "cvr": 0.15,
-      "cpa": 24668,
-      "purchases": 54.999561,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 174966.0,
-          "revenue": 354789.0,
-          "roas": 2.03,
-          "ctr": 0.14,
-          "cvr": 5.94,
-          "cpa": 29163,
-          "purchases": 5.999561,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 59.0,
-          "completion": 52.2
-        },
-        "tiktok": {
-          "spend": 777990.0,
-          "revenue": 2274162.0,
-          "roas": 2.92,
-          "ctr": 14.39,
-          "cvr": 0.12,
-          "cpa": 18975,
-          "purchases": 41.0,
-          "hook_rate": 54.0,
-          "hold_rate": 80.2,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 403753.0,
-          "revenue": 485600.0,
-          "roas": 1.2,
-          "ctr": 3.25,
-          "cvr": 2.43,
-          "cpa": 50469,
-          "purchases": 8.0,
-          "hook_rate": 40.7,
-          "hold_rate": 50.3,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_8.3s.jpg",
-        "f05_16.6s.jpg",
-        "f06_24.8s.jpg",
-        "f07_33.1s.jpg",
-        "f08_41.4s.jpg",
-        "f09_49.7s.jpg"
-      ],
-      "transcript": "신발 브랜드 반응 망합니다 매일 신던 불편한 신발 발바닥 통증부터 골반 비대칭까지 그게 다 이 신발 때문이었다는 거 아치핀 맥스 신는 순간 3초 뒤틀린 전신 균형 바로 세워 고밀도 TPU 내 발 모양대로 변해 무너진 하체 틈새 꽉 채워줘 보아식스 기술 충격을 네 방향으로 분산 압력은 61% 사라지고 발목은 수직으로 척추도 일자로 170% 장담합니다",
-      "analyzed": true,
-      "base": {
-        "hook_type": "선언·노래형",
-        "first_3s": "3D 애니 남성이 인솔 두 개를 들고 '장담합니다 — 신발 브랜드 반응 망합니다'",
-        "appeal_angle": "불편한 신발이 발바닥 통증·골반 비대칭의 원인",
-        "cta": "170% 장담합니다",
-        "keywords": [
-          "신발 브랜드 반 망합니다",
-          "3초 전신 균형",
-          "고밀도 TPU",
-          "압력 61% 감소",
-          "에어맥스급 아치 테라피"
-        ]
-      },
-      "audio": {
-        "opening_line": "신발 브랜드 반 망합니다",
-        "voice_style": "리듬감 있는 랩·CM송",
-        "narration_mode": "노래형"
-      },
-      "visual": {
-        "format": "3D 애니메이션",
-        "mechanism_viz": "신발 속 충격 4방향 분산 CG",
-        "before_after": "계단 앞 고통 → 공원 활보",
-        "subtitle_style": "흰 자막 + 후기 말풍선 인서트"
-      },
-      "target": {
-        "gender": "공통",
-        "age": "20·30대",
-        "segment": "발바닥 통증·오래 걷는 사람",
-        "appeal_axis": "재미(노래) + 수치 근거"
-      },
-      "trust": {
-        "evidence": "압력 61% 감소 수치",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ '척추도 일자로', '170% 장담' 등 근거 없는 수치 / AI 생성 고지 있음"
-      },
-      "one_liner": "CTR 10.91에 틱톡 ROAS 2.92. 노래로 스펙(TPU·4방향 분산·61%)을 실어 나르니 정보가 지루하지 않게 전달된다.",
-      "why": "아치핀 계열에서 노래 포맷은 반복 확인되는 승리 공식이다. 다만 '170%' 같은 무의미한 수치는 실제 검증치로 교체할 것."
     },
     {
       "key": "am안쪽벅지이별Ⅰ_AN",
@@ -777,12 +718,12 @@
     {
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
-      "roas": 2.15,
-      "spend": 29392015.0,
-      "ctr": 1.35,
-      "cvr": 5.37,
-      "cpa": 20994,
-      "purchases": 1400.005357,
+      "roas": 2.13,
+      "spend": 30377162.0,
+      "ctr": 1.31,
+      "cvr": 5.55,
+      "cpa": 21243,
+      "purchases": 1430.005357,
       "platforms": [
         "google",
         "meta",
@@ -803,26 +744,26 @@
           "completion": 5.8
         },
         "tiktok": {
-          "spend": 497741.0,
-          "revenue": 1312441.0,
-          "roas": 2.64,
-          "ctr": 4.36,
-          "cvr": 0.56,
-          "cpa": 19910,
-          "purchases": 25.0,
-          "hook_rate": 58.7,
-          "hold_rate": 91.1,
+          "spend": 372352.0,
+          "revenue": 988752.0,
+          "roas": 2.66,
+          "ctr": 4.46,
+          "cvr": 0.54,
+          "cpa": 19597,
+          "purchases": 19.0,
+          "hook_rate": 56.2,
+          "hold_rate": 90.7,
           "play50": null,
           "completion": null
         },
         "meta": {
-          "spend": 28769864.0,
-          "revenue": 61797800.0,
-          "roas": 2.15,
-          "ctr": 1.21,
-          "cvr": 6.41,
-          "cpa": 20954,
-          "purchases": 1373.0,
+          "spend": 29880400.0,
+          "revenue": 63534300.0,
+          "roas": 2.13,
+          "ctr": 1.2,
+          "cvr": 6.38,
+          "cpa": 21207,
+          "purchases": 1409.0,
           "hook_rate": 17.4,
           "hold_rate": 20.0,
           "play50": null,
@@ -882,37 +823,37 @@
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
       "roas": 2.09,
-      "spend": 104595445.0,
+      "spend": 102446321.0,
       "ctr": 1.31,
-      "cvr": 6.4,
-      "cpa": 24073,
-      "purchases": 4345.0,
+      "cvr": 6.34,
+      "cpa": 24145,
+      "purchases": 4243.0,
       "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 50431.0,
+          "spend": 49120.0,
           "revenue": 0.0,
           "roas": 0.0,
-          "ctr": 18.81,
+          "ctr": 19.53,
           "cvr": 0.0,
           "cpa": null,
           "purchases": 0.0,
-          "hook_rate": 85.0,
+          "hook_rate": 89.7,
           "hold_rate": 88.0,
           "play50": null,
           "completion": null
         },
         "meta": {
-          "spend": 104545014.0,
-          "revenue": 218840329.0,
+          "spend": 102397201.0,
+          "revenue": 213693629.0,
           "roas": 2.09,
           "ctr": 1.29,
-          "cvr": 6.5,
-          "cpa": 24061,
-          "purchases": 4345.0,
+          "cvr": 6.45,
+          "cpa": 24133,
+          "purchases": 4243.0,
           "hook_rate": 24.2,
           "hold_rate": 39.1,
           "play50": null,
@@ -972,27 +913,214 @@
       "why": "구체적 스펙 비교로 신뢰는 주나 훅 부재. 대물량 대비 효율 개선 여지."
     },
     {
-      "key": "am맥스단종설Ⅱ_AN",
+      "key": "am장담노래Ⅳ_AN",
       "rank_note": "top",
-      "roas": 1.93,
-      "spend": 4021242.0,
-      "ctr": 3.42,
-      "cvr": 4.96,
-      "cpa": 27733,
-      "purchases": 145.0,
+      "roas": 2.02,
+      "spend": 1325494.0,
+      "ctr": 13.29,
+      "cvr": 0.13,
+      "cpa": 28815,
+      "purchases": 45.999561,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 174966.0,
+          "revenue": 354789.0,
+          "roas": 2.03,
+          "ctr": 0.14,
+          "cvr": 5.94,
+          "cpa": 29163,
+          "purchases": 5.999561,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 59.0,
+          "completion": 52.2
+        },
+        "tiktok": {
+          "spend": 746775.0,
+          "revenue": 1839081.0,
+          "roas": 2.46,
+          "ctr": 19.04,
+          "cvr": 0.09,
+          "cpa": 23337,
+          "purchases": 32.0,
+          "hook_rate": 67.0,
+          "hold_rate": 83.7,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 403753.0,
+          "revenue": 485600.0,
+          "roas": 1.2,
+          "ctr": 3.25,
+          "cvr": 2.43,
+          "cpa": 50469,
+          "purchases": 8.0,
+          "hook_rate": 40.7,
+          "hold_rate": 50.3,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_8.3s.jpg",
+        "f05_16.6s.jpg",
+        "f06_24.8s.jpg",
+        "f07_33.1s.jpg",
+        "f08_41.4s.jpg",
+        "f09_49.7s.jpg"
+      ],
+      "transcript": "신발 브랜드 반응 망합니다 매일 신던 불편한 신발 발바닥 통증부터 골반 비대칭까지 그게 다 이 신발 때문이었다는 거 아치핀 맥스 신는 순간 3초 뒤틀린 전신 균형 바로 세워 고밀도 TPU 내 발 모양대로 변해 무너진 하체 틈새 꽉 채워줘 보아식스 기술 충격을 네 방향으로 분산 압력은 61% 사라지고 발목은 수직으로 척추도 일자로 170% 장담합니다",
+      "analyzed": true,
+      "base": {
+        "hook_type": "선언·노래형",
+        "first_3s": "3D 애니 남성이 인솔 두 개를 들고 '장담합니다 — 신발 브랜드 반응 망합니다'",
+        "appeal_angle": "불편한 신발이 발바닥 통증·골반 비대칭의 원인",
+        "cta": "170% 장담합니다",
+        "keywords": [
+          "신발 브랜드 반 망합니다",
+          "3초 전신 균형",
+          "고밀도 TPU",
+          "압력 61% 감소",
+          "에어맥스급 아치 테라피"
+        ]
+      },
+      "audio": {
+        "opening_line": "신발 브랜드 반 망합니다",
+        "voice_style": "리듬감 있는 랩·CM송",
+        "narration_mode": "노래형"
+      },
+      "visual": {
+        "format": "3D 애니메이션",
+        "mechanism_viz": "신발 속 충격 4방향 분산 CG",
+        "before_after": "계단 앞 고통 → 공원 활보",
+        "subtitle_style": "흰 자막 + 후기 말풍선 인서트"
+      },
+      "target": {
+        "gender": "공통",
+        "age": "20·30대",
+        "segment": "발바닥 통증·오래 걷는 사람",
+        "appeal_axis": "재미(노래) + 수치 근거"
+      },
+      "trust": {
+        "evidence": "압력 61% 감소 수치",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ '척추도 일자로', '170% 장담' 등 근거 없는 수치 / AI 생성 고지 있음"
+      },
+      "one_liner": "CTR 10.91에 틱톡 ROAS 2.92. 노래로 스펙(TPU·4방향 분산·61%)을 실어 나르니 정보가 지루하지 않게 전달된다.",
+      "why": "아치핀 계열에서 노래 포맷은 반복 확인되는 승리 공식이다. 다만 '170%' 같은 무의미한 수치는 실제 검증치로 교체할 것."
+    },
+    {
+      "key": "am엉덩이조여Ⅰ_T",
+      "rank_note": "top",
+      "roas": 1.79,
+      "spend": 31663740.0,
+      "ctr": 1.75,
+      "cvr": 7.62,
+      "cpa": 25577,
+      "purchases": 1238.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 4021242.0,
-          "revenue": 7757300.0,
-          "roas": 1.93,
-          "ctr": 3.42,
-          "cvr": 4.96,
-          "cpa": 27733,
-          "purchases": 145.0,
-          "hook_rate": 40.4,
+          "spend": 31663740.0,
+          "revenue": 56627438.0,
+          "roas": 1.79,
+          "ctr": 1.75,
+          "cvr": 7.62,
+          "cpa": 25577,
+          "purchases": 1238.0,
+          "hook_rate": 30.1,
+          "hold_rate": 18.7,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.0s.jpg",
+        "f05_14.1s.jpg",
+        "f06_21.1s.jpg",
+        "f07_28.2s.jpg",
+        "f08_35.2s.jpg",
+        "f09_42.3s.jpg"
+      ],
+      "transcript": "이 깔창 끼고 걸으면 한 걸음마다 엉덩이 근육이 다섯 번씩 조여지는데 골반 여신이 안 되겠냐고 못 믿겠으면 한번 신발에 넣고 끼고 다녀봐 걷자마자 종아리에 쏠리던 힘이 엉덩이로 올라가는 게 바로 느껴지는데 10분만 걸어도 스쿼트 수백 번 한 거랑 같은 자극이 골반이랑 엉덩이에 쫙 느껴질 거임 이게 뭐냐면 4-axis 정렬 시스템이라고 발아치, 발목, 무릎, 골반 4단계로 자동 정렬되는 건데 알고 보니 덴마크 체조 국가대표들이 체형 세울 때 20년 넘게 쓰던 방법이라더라 대한민국 1위 체형 관리 깔창이라 누적 판매량 100만 개나 돌파해서 특허까지 받아 업그레이드 돼서 나온 거라는데 초딩 골반으로 평생 살았던 내가 골반 여신 소리 듣게 됐다니까 한 가지 아쉬운 건 꼭 내가 사면 할인하는 거임 지금 최대 53% 할인해서 하나에 2만 원대로 구할 수 있다니까 나처럼 손해보지 말고 골반 여신 되고 싶으면 지금 구해서 이득 봐 심지어 2주 안에 효과 없으면 100% 환불도 된대",
+      "analyzed": true,
+      "base": {
+        "hook_type": "골반여신 자극형",
+        "first_3s": "'이 깔창 끼고 걸으면 한 걸음마다 엉덩이 근육 다섯 번 조여진다'",
+        "appeal_angle": "엉덩이·골반 체형",
+        "cta": "못 믿겠으면 끼고 다녀봐",
+        "keywords": [
+          "엉덩이 조임",
+          "4-axis",
+          "덴마크 국대",
+          "100만 개"
+        ]
+      },
+      "audio": {
+        "opening_line": "이 깔창 끼고 걸으면 한 걸음마다 엉덩이 근육이 다섯 번씩 조여지는데",
+        "voice_style": "도발 반말체",
+        "narration_mode": "1인칭 권유"
+      },
+      "visual": {
+        "format": "실사",
+        "mechanism_viz": "4-axis 정렬(발·발목·무릎·골반)",
+        "before_after": "골반·엉덩이 자극",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "골반·엉덩이 체형",
+        "appeal_axis": "기능(체형·힙업)"
+      },
+      "trust": {
+        "evidence": "4-axis·덴마크 국대·특허·100만 개",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "'한 걸음마다 엉덩이가 조여진다'는 즉각 자극 훅 + 덴마크 국대·특허 권위. 20M 대물량인데 1.71로 효율은 중간 — 강한 훅 대비 전환 여지 있음.",
+      "why": "즉각 자극 훅 + 권위. 대물량 대비 효율은 개선 여지."
+    },
+    {
+      "key": "am맥스단종설Ⅱ_AN",
+      "rank_note": "top",
+      "roas": 1.75,
+      "spend": 2727692.0,
+      "ctr": 3.57,
+      "cvr": 4.21,
+      "cpa": 30648,
+      "purchases": 89.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 2727692.0,
+          "revenue": 4780000.0,
+          "roas": 1.75,
+          "ctr": 3.57,
+          "cvr": 4.21,
+          "cpa": 30648,
+          "purchases": 89.0,
+          "hook_rate": 42.0,
           "hold_rate": 35.5,
           "play50": null,
           "completion": null
@@ -1052,93 +1180,14 @@
       "why": "성과는 나오지만 '업계가 압력을 넣어 판매 중지된다'는 서사는 검증 불가능한 주장이다. 희소성 장치는 재입고 차수·물량 같은 사실 기반으로 교체할 것."
     },
     {
-      "key": "am엉덩이조여Ⅰ_T",
-      "rank_note": "top",
-      "roas": 1.79,
-      "spend": 34016996.0,
-      "ctr": 1.76,
-      "cvr": 7.64,
-      "cpa": 25367,
-      "purchases": 1341.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 34016996.0,
-          "revenue": 61052905.0,
-          "roas": 1.79,
-          "ctr": 1.76,
-          "cvr": 7.64,
-          "cpa": 25367,
-          "purchases": 1341.0,
-          "hook_rate": 30.3,
-          "hold_rate": 18.7,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.0s.jpg",
-        "f05_14.1s.jpg",
-        "f06_21.1s.jpg",
-        "f07_28.2s.jpg",
-        "f08_35.2s.jpg",
-        "f09_42.3s.jpg"
-      ],
-      "transcript": "이 깔창 끼고 걸으면 한 걸음마다 엉덩이 근육이 다섯 번씩 조여지는데 골반 여신이 안 되겠냐고 못 믿겠으면 한번 신발에 넣고 끼고 다녀봐 걷자마자 종아리에 쏠리던 힘이 엉덩이로 올라가는 게 바로 느껴지는데 10분만 걸어도 스쿼트 수백 번 한 거랑 같은 자극이 골반이랑 엉덩이에 쫙 느껴질 거임 이게 뭐냐면 4-axis 정렬 시스템이라고 발아치, 발목, 무릎, 골반 4단계로 자동 정렬되는 건데 알고 보니 덴마크 체조 국가대표들이 체형 세울 때 20년 넘게 쓰던 방법이라더라 대한민국 1위 체형 관리 깔창이라 누적 판매량 100만 개나 돌파해서 특허까지 받아 업그레이드 돼서 나온 거라는데 초딩 골반으로 평생 살았던 내가 골반 여신 소리 듣게 됐다니까 한 가지 아쉬운 건 꼭 내가 사면 할인하는 거임 지금 최대 53% 할인해서 하나에 2만 원대로 구할 수 있다니까 나처럼 손해보지 말고 골반 여신 되고 싶으면 지금 구해서 이득 봐 심지어 2주 안에 효과 없으면 100% 환불도 된대",
-      "analyzed": true,
-      "base": {
-        "hook_type": "골반여신 자극형",
-        "first_3s": "'이 깔창 끼고 걸으면 한 걸음마다 엉덩이 근육 다섯 번 조여진다'",
-        "appeal_angle": "엉덩이·골반 체형",
-        "cta": "못 믿겠으면 끼고 다녀봐",
-        "keywords": [
-          "엉덩이 조임",
-          "4-axis",
-          "덴마크 국대",
-          "100만 개"
-        ]
-      },
-      "audio": {
-        "opening_line": "이 깔창 끼고 걸으면 한 걸음마다 엉덩이 근육이 다섯 번씩 조여지는데",
-        "voice_style": "도발 반말체",
-        "narration_mode": "1인칭 권유"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "4-axis 정렬(발·발목·무릎·골반)",
-        "before_after": "골반·엉덩이 자극",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "골반·엉덩이 체형",
-        "appeal_axis": "기능(체형·힙업)"
-      },
-      "trust": {
-        "evidence": "4-axis·덴마크 국대·특허·100만 개",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "'한 걸음마다 엉덩이가 조여진다'는 즉각 자극 훅 + 덴마크 국대·특허 권위. 20M 대물량인데 1.71로 효율은 중간 — 강한 훅 대비 전환 여지 있음.",
-      "why": "즉각 자극 훅 + 권위. 대물량 대비 효율은 개선 여지."
-    },
-    {
       "key": "am동일인무릎통증Ⅳ_T",
       "rank_note": "top",
       "roas": 1.72,
-      "spend": 2431820.0,
-      "ctr": 13.19,
-      "cvr": 0.2,
-      "cpa": 30258,
-      "purchases": 80.369632,
+      "spend": 2184315.0,
+      "ctr": 14.63,
+      "cvr": 0.19,
+      "cpa": 30211,
+      "purchases": 72.30196000000001,
       "platforms": [
         "google",
         "meta",
@@ -1146,28 +1195,28 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 244603.0,
-          "revenue": 243283.0,
-          "roas": 0.99,
-          "ctr": 0.29,
-          "cvr": 3.34,
-          "cpa": 55978,
-          "purchases": 4.369632,
+          "spend": 141966.0,
+          "revenue": 180328.0,
+          "roas": 1.27,
+          "ctr": 0.24,
+          "cvr": 4.4,
+          "cpa": 42994,
+          "purchases": 3.30196,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 16.5,
-          "completion": 10.9
+          "play50": 17.1,
+          "completion": 11.3
         },
         "tiktok": {
-          "spend": 1257817.0,
-          "revenue": 2152036.0,
-          "roas": 1.71,
-          "ctr": 17.23,
-          "cvr": 0.1,
-          "cpa": 30678,
-          "purchases": 41.0,
-          "hook_rate": 75.3,
-          "hold_rate": 93.2,
+          "spend": 1112949.0,
+          "revenue": 1793670.0,
+          "roas": 1.61,
+          "ctr": 18.93,
+          "cvr": 0.09,
+          "cpa": 32734,
+          "purchases": 34.0,
+          "hook_rate": 75.4,
+          "hold_rate": 92.6,
           "play50": null,
           "completion": null
         },
@@ -1416,180 +1465,6 @@
       "why": "관절·시니어 앵글 = 코어(체형·라인)와 이탈. 전환 약함."
     },
     {
-      "key": "am차원달라Ⅵ_T",
-      "rank_note": "bottom",
-      "roas": 1.53,
-      "spend": 3085186.0,
-      "ctr": 14.37,
-      "cvr": 0.32,
-      "cpa": 31481,
-      "purchases": 98.0,
-      "platforms": [
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 627029.0,
-          "revenue": 1120232.0,
-          "roas": 1.79,
-          "ctr": 18.39,
-          "cvr": 0.07,
-          "cpa": 29859,
-          "purchases": 21.0,
-          "hook_rate": 29.8,
-          "hold_rate": 77.7,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 2458157.0,
-          "revenue": 3600700.0,
-          "roas": 1.46,
-          "ctr": 1.7,
-          "cvr": 8.87,
-          "cpa": 31924,
-          "purchases": 77.0,
-          "hook_rate": 37.3,
-          "hold_rate": 24.4,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_9.8s.jpg",
-        "f05_19.6s.jpg",
-        "f06_29.4s.jpg",
-        "f07_39.2s.jpg",
-        "f08_49.0s.jpg",
-        "f09_58.8s.jpg"
-      ],
-      "transcript": "다리 라인은 발 아치가 결정한다고? 아치 핀도 좋았지만 아치 핀 맥스는 차원이 달라 기존 아치 핀은 아치 높이가 2.9cm였는데 아치 핀 맥스는 3.2cm로 무려 11%나 올라가면서 발, 발목, 무릎, 골반까지 중력선을 더 촘촘하게 잡아주거든? 그만큼 기존 아치 핀보다 더 빠르고 확실하게 일자 다리를 만들어주는 거지? 오죽하면 이제 막 자라나는 새싹 모델들부터 탑 모델 한혜진까지 이걸 직접 추천하겠어? 그리고 이번엔 소재도 완전 달라졌어 기존 아치 핀은 TPR 소재라 체중이 실릴수록 변형될 확률이 높았는데 아치 핀 맥스는 항공기 부품으로도 쓴다는 TPU 소재로 업그레이드 되면서 보건력이 넘사벽이라 1년 써도 처음 교정력 그대로야 그래서 걸으면 걸을수록 예쁜 라인이 자동 완성되는 거지 거기다 기존 3포인트 구조에서 5포인트 인체공학 입체 구조로 바뀌면서 발 전체를 빈틈없이 잡아주니 흔들림 없는 집중체형 교정까지 알리 테무사는 가짜 깔창이 아닌 하체 전체 흐름을 바꾸는 특허 아치 핀 맥스 리뉴얼 기념으로 이번 주까지만 최대 53% 할인해 변화 없으면 100% 무료 환불까지 보장한다니까 더운데 운동하느라 땀 빼지 말고 이거 끼고 걷기만 해봐 모델 언니들 뒷태? 이제 남 일 아니다",
-      "analyzed": true,
-      "base": {
-        "hook_type": "구·신형 비교형(실사)",
-        "first_3s": "다리 라인 컷 + '다리 라인은 발 아치가 결정한다고?'",
-        "appeal_angle": "아치 2.9→3.2cm, TPR→TPU, 3→5포인트",
-        "cta": "리뉴얼 기념 이번 주까지 최대 53% 할인 + 100% 무료 환불",
-        "keywords": [
-          "차원이 달라",
-          "3.2cm",
-          "항공기 TPU",
-          "탑모델 한혜진",
-          "알리·테무 가짜 깔창"
-        ]
-      },
-      "audio": {
-        "opening_line": "다리 라인은 발 아치가 결정한다고? 아치핀도 좋았지만 아치핀 맥스는 차원이 달라",
-        "voice_style": "친구 말투 반말 여성",
-        "narration_mode": "1인 비교 설명형"
-      },
-      "visual": {
-        "format": "실사 UGC + 제품 스튜디오 컷 + 가격표 캡처",
-        "mechanism_viz": "아치 높이 3.2cm 실측 표시",
-        "before_after": "다리 라인 컷",
-        "subtitle_style": "흰·노랑 자막, 마지막 세트별 할인표"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "일자다리·체형 관심층",
-        "appeal_axis": "스펙 우위 + 가품 경계"
-      },
-      "trust": {
-        "evidence": "누적 100만개, 탑모델 추천, 특허",
-        "refund": "100% 무료 환불",
-        "discount": "최대 53%(세트별 33/42/53%)",
-        "compliance": "⚠ 경쟁 플랫폼(알리·테무) 직접 비하"
-      },
-      "one_liner": "CTR 14.23으로 클릭은 아치핀 대기 소재 중 최상위인데 ROAS 1.63에 그쳤다. 465만원을 태우고도 회수가 따라오지 않았다.",
-      "why": "스펙 비교는 이미 관심 있는 사람에게만 유효한데 훅이 넓게 열려 있어 관심 없는 클릭이 대량 유입됐다. 훅에 타겟 한정 문구를 넣어 걸러야 한다."
-    },
-    {
-      "key": "am한혜진정렬2Ⅱ_T",
-      "rank_note": "top",
-      "roas": 1.46,
-      "spend": 2824758.0,
-      "ctr": 2.06,
-      "cvr": 5.87,
-      "cpa": 31386,
-      "purchases": 90.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 2824758.0,
-          "revenue": 4117200.0,
-          "roas": 1.46,
-          "ctr": 2.06,
-          "cvr": 5.87,
-          "cpa": 31386,
-          "purchases": 90.0,
-          "hook_rate": 34.1,
-          "hold_rate": 27.7,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.5s.jpg",
-        "f05_13.0s.jpg",
-        "f06_19.4s.jpg",
-        "f07_25.9s.jpg",
-        "f08_32.4s.jpg",
-        "f09_38.9s.jpg"
-      ],
-      "transcript": "오래 서 있을 때 살짝 넣다가 뺐다가 하니까 다리가 좀 덜 붙는 느낌도 나고 밖에서 산책하거나 그리고 헬스장에서 웨이트할 때 너무나도 잘 쓰고 있습니다 제가 처음에 이 아치핀을 사용하게 된 계기가 헬스장에서 무게를 들 때 발 아치가 안쪽으로 무너지면서 무릎이 안쪽으로 회전하는 점 때문이었습니다 그래서 트레이너 쌤하고 좀 여러 가지로 상의를 하다가 발 안쪽 오목하게 들어간 부분을 받쳐줄 수 있는 제품들이 있다고 해서 그 이후로 계속 쭉 사용을 하고 있고요 아치를 받쳐주니까 이 발목과 무릎에 안정감이 생기면서 이 골반까지 좀 잡아주더라고요 특히 저는 이제 한 발로 서서 하는 하체 운동을 할 때 특히 너무 좋았습니다",
-      "analyzed": true,
-      "base": {
-        "hook_type": "기능 요약 헤드라인형",
-        "first_3s": "'▼하루 10분, 4단계 올바른 체형 정렬구조▼' 주황 상단바 + 셀럽이 인솔을 들고 설명",
-        "appeal_angle": "헬스장 웨이트 시 아치 무너짐 → 무릎 안쪽 회전 방지",
-        "cta": "업그레이드된 아치핀 맥스 단독 특가중",
-        "keywords": [
-          "하루 10분 4단계 정렬",
-          "헬스장 웨이트",
-          "무릎 안쪽 회전",
-          "한 발 하체 운동",
-          "단독 특가"
-        ]
-      },
-      "audio": {
-        "opening_line": "오래 서 있을 때 살짝 넣다가 뺐다가 하니까 다리가 좀 덜 붓는 느낌도 나고",
-        "voice_style": "담백한 존댓말 모델 인터뷰",
-        "narration_mode": "셀럽 1인 리뷰"
-      },
-      "visual": {
-        "format": "셀럽 인터뷰 클립 + 하단 사용 전후 다리 사진 배너",
-        "mechanism_viz": "인솔 측면 구조 컷",
-        "before_after": "하단 배너에 다리 사용 전/후 사진 상시 노출",
-        "subtitle_style": "주황 상단바 + 하단 '한혜진이 쏜다 / 단독 특가중' 배너"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "운동하는 여성·체형 정렬",
-        "appeal_axis": "기능 요약 + 셀럽"
-      },
-      "trust": {
-        "evidence": "셀럽 실사용, 트레이너 상담 일화",
-        "refund": "–",
-        "discount": "단독 특가",
-        "compliance": "⚠ 하단 전후 사진 배너는 촬영 조건 표기 필요"
-      },
-      "one_liner": "메타 단독 1,096만원에 ROAS 1.9로 대물량을 견뎠다. 셀럽 클립 위에 기능 요약 헤드라인과 전후 사진 배너를 동시에 올린 구성이 메타에서 안정적으로 작동한다.",
-      "why": "'무엇을 해주는 제품인지'를 상단 한 줄로 못 박아 셀럽 리뷰의 모호함을 보완했다. 메타 주력 슬롯으로 유지."
-    },
-    {
       "key": "am안되겠냐Ⅰ_T",
       "rank_note": "bottom",
       "roas": 1.43,
@@ -1681,6 +1556,180 @@
       },
       "one_liner": "엉덩이조여와 거의 같은 '조여짐' 훅의 변형인데 1.44로 낮다 — 동일 훅 반복에 따른 소재 피로.",
       "why": "훅 반복(조여짐 변형) → 소재 피로."
+    },
+    {
+      "key": "am차원달라Ⅵ_T",
+      "rank_note": "bottom",
+      "roas": 1.36,
+      "spend": 2120558.0,
+      "ctr": 12.85,
+      "cvr": 0.67,
+      "cpa": 34203,
+      "purchases": 62.0,
+      "platforms": [
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "tiktok": {
+          "spend": 152902.0,
+          "revenue": 145274.0,
+          "roas": 0.95,
+          "ctr": 28.29,
+          "cvr": 0.04,
+          "cpa": 50967,
+          "purchases": 3.0,
+          "hook_rate": 28.8,
+          "hold_rate": 77.5,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 1967656.0,
+          "revenue": 2738200.0,
+          "roas": 1.39,
+          "ctr": 1.66,
+          "cvr": 8.49,
+          "cpa": 33350,
+          "purchases": 59.0,
+          "hook_rate": 38.3,
+          "hold_rate": 24.1,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_9.8s.jpg",
+        "f05_19.6s.jpg",
+        "f06_29.4s.jpg",
+        "f07_39.2s.jpg",
+        "f08_49.0s.jpg",
+        "f09_58.8s.jpg"
+      ],
+      "transcript": "다리 라인은 발 아치가 결정한다고? 아치 핀도 좋았지만 아치 핀 맥스는 차원이 달라 기존 아치 핀은 아치 높이가 2.9cm였는데 아치 핀 맥스는 3.2cm로 무려 11%나 올라가면서 발, 발목, 무릎, 골반까지 중력선을 더 촘촘하게 잡아주거든? 그만큼 기존 아치 핀보다 더 빠르고 확실하게 일자 다리를 만들어주는 거지? 오죽하면 이제 막 자라나는 새싹 모델들부터 탑 모델 한혜진까지 이걸 직접 추천하겠어? 그리고 이번엔 소재도 완전 달라졌어 기존 아치 핀은 TPR 소재라 체중이 실릴수록 변형될 확률이 높았는데 아치 핀 맥스는 항공기 부품으로도 쓴다는 TPU 소재로 업그레이드 되면서 보건력이 넘사벽이라 1년 써도 처음 교정력 그대로야 그래서 걸으면 걸을수록 예쁜 라인이 자동 완성되는 거지 거기다 기존 3포인트 구조에서 5포인트 인체공학 입체 구조로 바뀌면서 발 전체를 빈틈없이 잡아주니 흔들림 없는 집중체형 교정까지 알리 테무사는 가짜 깔창이 아닌 하체 전체 흐름을 바꾸는 특허 아치 핀 맥스 리뉴얼 기념으로 이번 주까지만 최대 53% 할인해 변화 없으면 100% 무료 환불까지 보장한다니까 더운데 운동하느라 땀 빼지 말고 이거 끼고 걷기만 해봐 모델 언니들 뒷태? 이제 남 일 아니다",
+      "analyzed": true,
+      "base": {
+        "hook_type": "구·신형 비교형(실사)",
+        "first_3s": "다리 라인 컷 + '다리 라인은 발 아치가 결정한다고?'",
+        "appeal_angle": "아치 2.9→3.2cm, TPR→TPU, 3→5포인트",
+        "cta": "리뉴얼 기념 이번 주까지 최대 53% 할인 + 100% 무료 환불",
+        "keywords": [
+          "차원이 달라",
+          "3.2cm",
+          "항공기 TPU",
+          "탑모델 한혜진",
+          "알리·테무 가짜 깔창"
+        ]
+      },
+      "audio": {
+        "opening_line": "다리 라인은 발 아치가 결정한다고? 아치핀도 좋았지만 아치핀 맥스는 차원이 달라",
+        "voice_style": "친구 말투 반말 여성",
+        "narration_mode": "1인 비교 설명형"
+      },
+      "visual": {
+        "format": "실사 UGC + 제품 스튜디오 컷 + 가격표 캡처",
+        "mechanism_viz": "아치 높이 3.2cm 실측 표시",
+        "before_after": "다리 라인 컷",
+        "subtitle_style": "흰·노랑 자막, 마지막 세트별 할인표"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "일자다리·체형 관심층",
+        "appeal_axis": "스펙 우위 + 가품 경계"
+      },
+      "trust": {
+        "evidence": "누적 100만개, 탑모델 추천, 특허",
+        "refund": "100% 무료 환불",
+        "discount": "최대 53%(세트별 33/42/53%)",
+        "compliance": "⚠ 경쟁 플랫폼(알리·테무) 직접 비하"
+      },
+      "one_liner": "CTR 14.23으로 클릭은 아치핀 대기 소재 중 최상위인데 ROAS 1.63에 그쳤다. 465만원을 태우고도 회수가 따라오지 않았다.",
+      "why": "스펙 비교는 이미 관심 있는 사람에게만 유효한데 훅이 넓게 열려 있어 관심 없는 클릭이 대량 유입됐다. 훅에 타겟 한정 문구를 넣어 걸러야 한다."
+    },
+    {
+      "key": "am한혜진정렬2Ⅱ_T",
+      "rank_note": "top",
+      "roas": 1.23,
+      "spend": 1670688.0,
+      "ctr": 2.11,
+      "cvr": 4.93,
+      "cpa": 37126,
+      "purchases": 45.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 1670688.0,
+          "revenue": 2048500.0,
+          "roas": 1.23,
+          "ctr": 2.11,
+          "cvr": 4.93,
+          "cpa": 37126,
+          "purchases": 45.0,
+          "hook_rate": 32.7,
+          "hold_rate": 21.8,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_6.5s.jpg",
+        "f05_13.0s.jpg",
+        "f06_19.4s.jpg",
+        "f07_25.9s.jpg",
+        "f08_32.4s.jpg",
+        "f09_38.9s.jpg"
+      ],
+      "transcript": "오래 서 있을 때 살짝 넣다가 뺐다가 하니까 다리가 좀 덜 붙는 느낌도 나고 밖에서 산책하거나 그리고 헬스장에서 웨이트할 때 너무나도 잘 쓰고 있습니다 제가 처음에 이 아치핀을 사용하게 된 계기가 헬스장에서 무게를 들 때 발 아치가 안쪽으로 무너지면서 무릎이 안쪽으로 회전하는 점 때문이었습니다 그래서 트레이너 쌤하고 좀 여러 가지로 상의를 하다가 발 안쪽 오목하게 들어간 부분을 받쳐줄 수 있는 제품들이 있다고 해서 그 이후로 계속 쭉 사용을 하고 있고요 아치를 받쳐주니까 이 발목과 무릎에 안정감이 생기면서 이 골반까지 좀 잡아주더라고요 특히 저는 이제 한 발로 서서 하는 하체 운동을 할 때 특히 너무 좋았습니다",
+      "analyzed": true,
+      "base": {
+        "hook_type": "기능 요약 헤드라인형",
+        "first_3s": "'▼하루 10분, 4단계 올바른 체형 정렬구조▼' 주황 상단바 + 셀럽이 인솔을 들고 설명",
+        "appeal_angle": "헬스장 웨이트 시 아치 무너짐 → 무릎 안쪽 회전 방지",
+        "cta": "업그레이드된 아치핀 맥스 단독 특가중",
+        "keywords": [
+          "하루 10분 4단계 정렬",
+          "헬스장 웨이트",
+          "무릎 안쪽 회전",
+          "한 발 하체 운동",
+          "단독 특가"
+        ]
+      },
+      "audio": {
+        "opening_line": "오래 서 있을 때 살짝 넣다가 뺐다가 하니까 다리가 좀 덜 붓는 느낌도 나고",
+        "voice_style": "담백한 존댓말 모델 인터뷰",
+        "narration_mode": "셀럽 1인 리뷰"
+      },
+      "visual": {
+        "format": "셀럽 인터뷰 클립 + 하단 사용 전후 다리 사진 배너",
+        "mechanism_viz": "인솔 측면 구조 컷",
+        "before_after": "하단 배너에 다리 사용 전/후 사진 상시 노출",
+        "subtitle_style": "주황 상단바 + 하단 '한혜진이 쏜다 / 단독 특가중' 배너"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "운동하는 여성·체형 정렬",
+        "appeal_axis": "기능 요약 + 셀럽"
+      },
+      "trust": {
+        "evidence": "셀럽 실사용, 트레이너 상담 일화",
+        "refund": "–",
+        "discount": "단독 특가",
+        "compliance": "⚠ 하단 전후 사진 배너는 촬영 조건 표기 필요"
+      },
+      "one_liner": "메타 단독 1,096만원에 ROAS 1.9로 대물량을 견뎠다. 셀럽 클립 위에 기능 요약 헤드라인과 전후 사진 배너를 동시에 올린 구성이 메타에서 안정적으로 작동한다.",
+      "why": "'무엇을 해주는 제품인지'를 상단 한 줄로 못 박아 셀럽 리뷰의 모호함을 보완했다. 메타 주력 슬롯으로 유지."
     },
     {
       "key": "am장담합니다Ⅵ_T",
@@ -2293,12 +2342,12 @@
     {
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 0.58,
-      "spend": 12945196.0,
-      "ctr": 3.22,
-      "cvr": 0.16,
-      "cpa": 91163,
-      "purchases": 142.0,
+      "roas": 0.6,
+      "spend": 13799699.0,
+      "ctr": 3.19,
+      "cvr": 0.17,
+      "cpa": 89608,
+      "purchases": 154.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -2318,15 +2367,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 12945156.0,
-          "revenue": 7564000.0,
-          "roas": 0.58,
-          "ctr": 3.22,
-          "cvr": 0.16,
-          "cpa": 91163,
-          "purchases": 142.0,
-          "hook_rate": 74.5,
-          "hold_rate": 56.4,
+          "spend": 13799659.0,
+          "revenue": 8296100.0,
+          "roas": 0.6,
+          "ctr": 3.19,
+          "cvr": 0.17,
+          "cpa": 89608,
+          "purchases": 154.0,
+          "hook_rate": 75.0,
+          "hold_rate": 58.8,
           "play50": null,
           "completion": null
         }
