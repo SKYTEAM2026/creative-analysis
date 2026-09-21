@@ -18,11 +18,11 @@
       "counts": {
         "last_14d": {
           "n": 38,
-          "analyzed": 35
+          "analyzed": 38
         },
         "last_30d": {
           "n": 45,
-          "analyzed": 42
+          "analyzed": 45
         },
         "last_7d": {
           "n": 33,
@@ -53,11 +53,11 @@
       "counts": {
         "last_14d": {
           "n": 8,
-          "analyzed": 6
+          "analyzed": 8
         },
         "last_30d": {
           "n": 15,
-          "analyzed": 14
+          "analyzed": 15
         },
         "last_7d": {
           "n": 12,
@@ -88,11 +88,11 @@
       "counts": {
         "last_14d": {
           "n": 35,
-          "analyzed": 30
+          "analyzed": 35
         },
         "last_30d": {
           "n": 47,
-          "analyzed": 44
+          "analyzed": 47
         },
         "last_7d": {
           "n": 32,
@@ -100,7 +100,7 @@
         },
         "last_90d": {
           "n": 49,
-          "analyzed": 48
+          "analyzed": 49
         }
       },
       "generated": "2026-09-21",
@@ -135,7 +135,7 @@
         },
         "last_90d": {
           "n": 26,
-          "analyzed": 25
+          "analyzed": 26
         }
       },
       "generated": "2026-09-21",
