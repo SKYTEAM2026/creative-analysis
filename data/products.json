@@ -18,15 +18,15 @@
       "counts": {
         "last_14d": {
           "n": 37,
-          "analyzed": 34
+          "analyzed": 37
         },
         "last_30d": {
           "n": 46,
-          "analyzed": 44
+          "analyzed": 46
         },
         "last_7d": {
           "n": 31,
-          "analyzed": 28
+          "analyzed": 31
         },
         "last_90d": {
           "n": 48,
@@ -88,19 +88,19 @@
       "counts": {
         "last_14d": {
           "n": 35,
-          "analyzed": 22
+          "analyzed": 35
         },
         "last_30d": {
           "n": 44,
-          "analyzed": 37
+          "analyzed": 44
         },
         "last_7d": {
           "n": 28,
-          "analyzed": 14
+          "analyzed": 28
         },
         "last_90d": {
           "n": 50,
-          "analyzed": 46
+          "analyzed": 50
         }
       },
       "generated": "2026-09-29",
