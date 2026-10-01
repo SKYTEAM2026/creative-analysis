@@ -2,7 +2,7 @@
   "code": "am",
   "product": "아치핀 맥스",
   "range": "last_90d",
-  "generated": "2026-09-29",
+  "generated": "2026-10-01",
   "criteria": "유의미 지출(1,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -26,85 +26,6 @@
     "summary": "아치핀맥스는 기능성 깔창(다리라인·골반·힙·체형교정). 임상 비포애프터·전문가 반전후기·강한 미용욕망(애플힙)·정품 스펙업이 이기고, 훅 반복·추상 소구(자세·골반비대칭·관절)·무드 소재가 진다. 훅 다양화가 핵심 과제."
   },
   "creatives": [
-    {
-      "key": "am황지연PPL_T",
-      "rank_note": "top",
-      "roas": 3.83,
-      "spend": 729422.0,
-      "ctr": 1.4,
-      "cvr": 8.97,
-      "cpa": 13025,
-      "purchases": 56.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 729422.0,
-          "revenue": 2791500.0,
-          "roas": 3.83,
-          "ctr": 1.4,
-          "cvr": 8.97,
-          "cpa": 13025,
-          "purchases": 56.0,
-          "hook_rate": 35.3,
-          "hold_rate": 21.3,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_4.1s.jpg",
-        "f05_8.2s.jpg",
-        "f06_12.4s.jpg",
-        "f07_16.5s.jpg",
-        "f08_20.6s.jpg",
-        "f09_24.8s.jpg"
-      ],
-      "transcript": "운동에도 다리 라인이 안 바뀌는 이유 따로 있었어요. 저 요가 강사인데도 한쪽 발만 붙고 자세도 자꾸 한쪽으로 무너지더라고요. 운동 부족이 아니라 걸을 때마다 무게가 한쪽으로 쏠리는 습관이 문제였어요. 그래서 이걸 신발에 넣어봤는데 발 아치부터 잡아주니까 걸음이 달라지는 느낌? 평소처럼 신고 다녔을 뿐인데 자세가 훨씬 편해지고 라인도 달라 보이기 시작했어요. 저처럼 한쪽만 유독 틀어지신 분들 한번 신어보세요. 조금씩 라인이 예뻐지는 게 눈에 보일 거예요.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "전문가 반전후기형",
-        "first_3s": "요가강사 황지연, '운동에도 다리라인 안 바뀌는 이유'",
-        "appeal_angle": "다리라인·자세 습관",
-        "cta": "",
-        "keywords": [
-          "요가강사",
-          "한쪽 쏠림",
-          "아치 잡기",
-          "걸음 습관"
-        ]
-      },
-      "audio": {
-        "opening_line": "운동에도 다리 라인이 안 바뀌는 이유 따로 있었어요",
-        "voice_style": "담백한 전문가 후기",
-        "narration_mode": "셀럽 1인칭"
-      },
-      "visual": {
-        "format": "실사 PPL",
-        "mechanism_viz": "발 아치 정렬·걸음 교정",
-        "before_after": "자세·라인 변화",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30·40대",
-        "segment": "운동해도 라인 안변하는 층",
-        "appeal_axis": "기능(체형·라인)"
-      },
-      "trust": {
-        "evidence": "요가강사 실사용",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "요가강사조차 '운동이 아니라 걸음 습관이 문제였다'는 반전 후기가 강한 신뢰를 준다. 소액이지만 3.64로 아치핀맥스 최상위급.",
-      "why": "전문가 반전 후기 + 원인 재정의. 진솔한 신뢰."
-    },
     {
       "key": "am업글하비Ⅰ_T",
       "rank_note": "top",
@@ -188,26 +109,26 @@
     {
       "key": "am한혜진공개Ⅰ_T",
       "rank_note": "top",
-      "roas": 2.77,
-      "spend": 1113783.0,
-      "ctr": 2.32,
-      "cvr": 9.81,
-      "cpa": 17964,
-      "purchases": 62.0,
+      "roas": 2.96,
+      "spend": 864335.0,
+      "ctr": 2.33,
+      "cvr": 9.73,
+      "cpa": 17287,
+      "purchases": 50.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1113783.0,
-          "revenue": 3088800.0,
-          "roas": 2.77,
-          "ctr": 2.32,
-          "cvr": 9.81,
-          "cpa": 17964,
-          "purchases": 62.0,
-          "hook_rate": 33.3,
-          "hold_rate": 23.7,
+          "spend": 864335.0,
+          "revenue": 2554900.0,
+          "roas": 2.96,
+          "ctr": 2.33,
+          "cvr": 9.73,
+          "cpa": 17287,
+          "purchases": 50.0,
+          "hook_rate": 33.5,
+          "hold_rate": 23.3,
           "play50": null,
           "completion": null
         }
@@ -454,11 +375,11 @@
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
       "roas": 2.12,
-      "spend": 92830236.0,
+      "spend": 91173545.0,
       "ctr": 1.36,
-      "cvr": 6.12,
-      "cpa": 23675,
-      "purchases": 3921.0,
+      "cvr": 6.09,
+      "cpa": 23614,
+      "purchases": 3861.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -478,15 +399,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 92781116.0,
-          "revenue": 196506179.0,
+          "spend": 91124425.0,
+          "revenue": 193130712.0,
           "roas": 2.12,
           "ctr": 1.34,
-          "cvr": 6.23,
-          "cpa": 23663,
-          "purchases": 3921.0,
-          "hook_rate": 24.5,
-          "hold_rate": 40.3,
+          "cvr": 6.19,
+          "cpa": 23601,
+          "purchases": 3861.0,
+          "hook_rate": 24.6,
+          "hold_rate": 40.4,
           "play50": null,
           "completion": null
         }
@@ -547,24 +468,24 @@
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
       "roas": 2.05,
-      "spend": 31986773.0,
-      "ctr": 1.22,
+      "spend": 32022729.0,
+      "ctr": 1.23,
       "cvr": 6.29,
-      "cpa": 21834,
-      "purchases": 1465.0,
+      "cpa": 21873,
+      "purchases": 1464.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 31986773.0,
-          "revenue": 65717500.0,
+          "spend": 32022729.0,
+          "revenue": 65686400.0,
           "roas": 2.05,
-          "ctr": 1.22,
+          "ctr": 1.23,
           "cvr": 6.29,
-          "cpa": 21834,
-          "purchases": 1465.0,
-          "hook_rate": 17.7,
+          "cpa": 21873,
+          "purchases": 1464.0,
+          "hook_rate": 17.8,
           "hold_rate": 20.0,
           "play50": null,
           "completion": null
@@ -622,26 +543,26 @@
     {
       "key": "am단종될Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.82,
-      "spend": 1378502.0,
-      "ctr": 1.87,
-      "cvr": 5.97,
-      "cpa": 28719,
+      "roas": 1.86,
+      "spend": 1347638.0,
+      "ctr": 1.95,
+      "cvr": 6.05,
+      "cpa": 28076,
       "purchases": 48.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1378502.0,
+          "spend": 1347638.0,
           "revenue": 2508700.0,
-          "roas": 1.82,
-          "ctr": 1.87,
-          "cvr": 5.97,
-          "cpa": 28719,
+          "roas": 1.86,
+          "ctr": 1.95,
+          "cvr": 6.05,
+          "cpa": 28076,
           "purchases": 48.0,
-          "hook_rate": 34.4,
-          "hold_rate": 14.4,
+          "hook_rate": 35.3,
+          "hold_rate": 14.5,
           "play50": null,
           "completion": null
         }
@@ -789,24 +710,24 @@
     {
       "key": "am엉덩이조여Ⅰ_T",
       "rank_note": "top",
-      "roas": 1.64,
-      "spend": 22083660.0,
+      "roas": 1.61,
+      "spend": 20462874.0,
       "ctr": 1.76,
-      "cvr": 7.25,
-      "cpa": 28025,
-      "purchases": 788.0,
+      "cvr": 7.15,
+      "cpa": 28381,
+      "purchases": 721.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 22083660.0,
-          "revenue": 36135227.0,
-          "roas": 1.64,
+          "spend": 20462874.0,
+          "revenue": 33024645.0,
+          "roas": 1.61,
           "ctr": 1.76,
-          "cvr": 7.25,
-          "cpa": 28025,
-          "purchases": 788.0,
+          "cvr": 7.15,
+          "cpa": 28381,
+          "purchases": 721.0,
           "hook_rate": 29.9,
           "hold_rate": 19.3,
           "play50": null,
@@ -1556,11 +1477,11 @@
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
       "roas": 0.54,
-      "spend": 17349401.0,
+      "spend": 17890218.0,
       "ctr": 3.29,
       "cvr": 0.15,
-      "cpa": 98019,
-      "purchases": 177.0,
+      "cpa": 98298,
+      "purchases": 182.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -1580,15 +1501,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 17349361.0,
-          "revenue": 9434400.0,
+          "spend": 17890178.0,
+          "revenue": 9718100.0,
           "roas": 0.54,
           "ctr": 3.29,
           "cvr": 0.15,
-          "cpa": 98019,
-          "purchases": 177.0,
-          "hook_rate": 75.5,
-          "hold_rate": 64.3,
+          "cpa": 98298,
+          "purchases": 182.0,
+          "hook_rate": 75.4,
+          "hold_rate": 64.8,
           "play50": null,
           "completion": null
         }
