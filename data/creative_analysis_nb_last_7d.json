@@ -2,7 +2,7 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_7d",
-  "generated": "2026-10-01",
+  "generated": "2026-10-06",
   "criteria": "유의미 지출(제한없음↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -26,108 +26,28 @@
   },
   "creatives": [
     {
-      "key": "nb엄마졸라Ⅱ_AI",
-      "rank_note": "top",
-      "roas": 7.98,
-      "spend": 16171.0,
-      "ctr": 0.11,
-      "cvr": 50.0,
-      "cpa": 16171,
-      "purchases": 1.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 16171.0,
-          "revenue": 129000.0,
-          "roas": 7.98,
-          "ctr": 0.11,
-          "cvr": 50.0,
-          "cpa": 16171,
-          "purchases": 1.0,
-          "hook_rate": 21.7,
-          "hold_rate": 14.8,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_10.3s.jpg",
-        "f05_20.7s.jpg",
-        "f06_31.0s.jpg",
-        "f07_41.3s.jpg",
-        "f08_51.6s.jpg",
-        "f09_62.0s.jpg"
-      ],
-      "transcript": "그 팔뚝밴드 효과 너무 좋더라. 자기 전에 10분씩 감고 잤더니 뽑기 전 반팔에 쏙 들어가대. 친구들도 갖고 싶다는데 혹시 할인 좀 안 해? 오 잘 됐네. 지금 추석 특가로 14만 5천원에서 8만 9천원까지 내려갔거든. 어때 완전 싸지? 8만 9천원 너무 비싸다 야. 에이 엄마도 알잖아. 이거 그냥 마사지기 같은 거랑은 차원이 다른 거. 미세전류가 깊은 속근육까지 찌릿찌릿 자극하는 거 느꼈지? 국가대표 리듬체조 선수들도 팔 뻗을 때 선 예쁘게 잡히려고 대회 직전까지 감아서 사용하는 거잖아. 그래서 엄마 아무리 아령 들고 운동해도 안 빠지던 그 나이 살까지 잡아주는 거야. 그러니까 더 싸게는 못 팔아. 에휴 그래. 그럼 30년 지기 친구들한테 손절 당해야지 뭐. 아 알겠어 알겠어. 그럼 한 대에 8만 2천 원은 어때? 그 이상은 진짜 안 돼. 응 좀 아쉬운데? 진짜 이러면 안 되는데? 그럼 딱 3일만 2대에 14만 7천 원. 그러니까 한 대에 7만 3천 500원인 거야. 이 정도면 대박이지? 두 대씩 사서 친구들 나눠주면 되겠네. 대박이네. 근데 만약 친구들은 효과 없으면 어떡하지? 2주 써보고 마음에 안 들면 전부 무료 환불해줘. 그래 그럴 일은 없겠지만 엄마 부탁이니까 일단 들어줄게. 대신 딱 3일만이다?",
-      "analyzed": true,
-      "base": {
-        "hook_type": "통화 네고 상황극",
-        "first_3s": "사무실 책상 위 스마트폰 거치대 + '사무실에서 엄마랑 네고한 썰' 자막",
-        "appeal_angle": "모녀 흥정으로 가격 낮추기 + 친구 선물 수요",
-        "cta": "딱 3일 2대 특가·2주 무료환불",
-        "keywords": [
-          "엄마랑 네고",
-          "추석 특가",
-          "2대 구매",
-          "무료환불",
-          "팔뚝밴드"
-        ]
-      },
-      "audio": {
-        "opening_line": "그 팔뚝밴드 효과 너무 좋더라",
-        "voice_style": "모녀 대화체, AI 보이스",
-        "narration_mode": "2인 통화 대화극"
-      },
-      "visual": {
-        "format": "AI 인물 드라마(AI 고지문 표기)",
-        "mechanism_viz": "미세전류 언급 위주, 도해 약함",
-        "before_after": "없음",
-        "subtitle_style": "흰 큰 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "40·50대(구매자)·2030(화자)",
-        "segment": "팔뚝살 고민 + 친구 선물 수요",
-        "appeal_axis": "가격·선물"
-      },
-      "trust": {
-        "evidence": "리듬체조 국가대표 대회 직전 사용 인용",
-        "refund": "2주 무료 환불",
-        "discount": "추석 2대 특가",
-        "compliance": "⚠ '아무리 운동해도 안 빠지던 나이살까지 잡아준다' 체형 변화 단정, 국가대표 권위 인용"
-      },
-      "one_liner": "네고 포맷 자체는 검증된 구조인데, 화자가 마스크를 쓴 채 사무실에서 통화만 해 제품 체감 장면이 하나도 없다. 팔뚝이 어떻게 달라지는지 안 보이니 가격 얘기만 남는다.",
-      "why": "오퍼 서사와 환불 보장은 갖췄지만 착용·전후 인서트가 빠져 시각적 증거가 부족하다. 통화 컷 사이에 팔뚝 착용 장면만 끼워도 개선 여지가 크다."
-    },
-    {
       "key": "nb할인좀Ⅱ_AIP",
       "rank_note": "top",
-      "roas": 2.51,
-      "spend": 5173523.0,
-      "ctr": 0.96,
-      "cvr": 2.99,
-      "cpa": 52791,
-      "purchases": 98.0,
+      "roas": 1.55,
+      "spend": 4633272.0,
+      "ctr": 1.17,
+      "cvr": 2.2,
+      "cpa": 84241,
+      "purchases": 55.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 5173523.0,
-          "revenue": 13010800.0,
-          "roas": 2.51,
-          "ctr": 0.96,
-          "cvr": 2.99,
-          "cpa": 52791,
-          "purchases": 98.0,
-          "hook_rate": 9.6,
-          "hold_rate": 29.5,
+          "spend": 4633272.0,
+          "revenue": 7163900.0,
+          "roas": 1.55,
+          "ctr": 1.17,
+          "cvr": 2.2,
+          "cpa": 84241,
+          "purchases": 55.0,
+          "hook_rate": 12.4,
+          "hold_rate": 28.7,
           "play50": null,
           "completion": null
         }
@@ -185,28 +105,77 @@
       "why": "상황극 오퍼 훅 + 희소성. 물량은 크나 효율은 중간."
     },
     {
-      "key": "nb김예빈PPL_T",
+      "key": "nb바르젠PPL_T",
       "rank_note": "top",
-      "roas": 2.29,
-      "spend": 3362623.0,
-      "ctr": 1.6,
-      "cvr": 2.3,
-      "cpa": 61139,
-      "purchases": 55.0,
+      "roas": 1.37,
+      "spend": 862883.0,
+      "ctr": 2.16,
+      "cvr": 2.45,
+      "cpa": 78444,
+      "purchases": 11.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3362623.0,
-          "revenue": 7707400.0,
-          "roas": 2.29,
-          "ctr": 1.6,
-          "cvr": 2.3,
-          "cpa": 61139,
-          "purchases": 55.0,
-          "hook_rate": 22.9,
-          "hold_rate": 13.3,
+          "spend": 862883.0,
+          "revenue": 1186400.0,
+          "roas": 1.37,
+          "ctr": 2.16,
+          "cvr": 2.45,
+          "cpa": 78444,
+          "purchases": 11.0,
+          "hook_rate": 27.1,
+          "hold_rate": 22.8,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_3.6s.jpg",
+        "f05_7.2s.jpg",
+        "f06_10.9s.jpg",
+        "f07_14.5s.jpg",
+        "f08_18.1s.jpg",
+        "f09_21.7s.jpg"
+      ],
+      "transcript": "저 팔뚝 뭐 했냐구요? 요즘 제가 틈날 때마다 사용하는 EMS 밴드에요 팔에 이렇게 감아주기만 하면 EMS 미세전류로 팔뚝을 자극하면서 붓기랑 라인 관리까지 한 번에 할 수 있어요 그리고 레드라이트까지 더해져 탄력 케어까지 챙길 수 있는 포인트 무엇보다 손을 자유롭게 사용할 수 있어 시간 장소 상관없이 팔뚝 집중적으로 관리시켜주는 팔뚝 특화밴드로 시간과 비용 부담은 줄이고 팔뚝 관리는 꾸준하게 뉴베로로 시작하세요",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "nb김예빈PPL_T",
+      "rank_note": "top",
+      "roas": 1.24,
+      "spend": 2905852.0,
+      "ctr": 1.82,
+      "cvr": 1.79,
+      "cpa": 90808,
+      "purchases": 32.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 2905852.0,
+          "revenue": 3602800.0,
+          "roas": 1.24,
+          "ctr": 1.82,
+          "cvr": 1.79,
+          "cpa": 90808,
+          "purchases": 32.0,
+          "hook_rate": 21.8,
+          "hold_rate": 13.6,
           "play50": null,
           "completion": null
         }
@@ -268,26 +237,26 @@
     {
       "key": "nb진짜실화Ⅱ_AI",
       "rank_note": "top",
-      "roas": 1.98,
-      "spend": 1211287.0,
-      "ctr": 3.53,
-      "cvr": 1.65,
-      "cpa": 57680,
-      "purchases": 21.0,
+      "roas": 1.02,
+      "spend": 639422.0,
+      "ctr": 4.73,
+      "cvr": 0.61,
+      "cpa": 106570,
+      "purchases": 6.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1211287.0,
-          "revenue": 2397200.0,
-          "roas": 1.98,
-          "ctr": 3.53,
-          "cvr": 1.65,
-          "cpa": 57680,
-          "purchases": 21.0,
-          "hook_rate": 38.3,
-          "hold_rate": 58.1,
+          "spend": 639422.0,
+          "revenue": 653000.0,
+          "roas": 1.02,
+          "ctr": 4.73,
+          "cvr": 0.61,
+          "cpa": 106570,
+          "purchases": 6.0,
+          "hook_rate": 56.5,
+          "hold_rate": 66.3,
           "play50": null,
           "completion": null
         }
@@ -348,26 +317,26 @@
     {
       "key": "nb파격결정Ⅱ_AI",
       "rank_note": "top",
-      "roas": 1.35,
-      "spend": 332713.0,
-      "ctr": 1.99,
-      "cvr": 1.67,
-      "cpa": 83178,
-      "purchases": 4.0,
+      "roas": 0.0,
+      "spend": 171135.0,
+      "ctr": 2.5,
+      "cvr": 0.0,
+      "cpa": null,
+      "purchases": 0.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 332713.0,
-          "revenue": 449000.0,
-          "roas": 1.35,
-          "ctr": 1.99,
-          "cvr": 1.67,
-          "cpa": 83178,
-          "purchases": 4.0,
-          "hook_rate": 19.9,
-          "hold_rate": 46.7,
+          "spend": 171135.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 2.5,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 24.0,
+          "hold_rate": 48.6,
           "play50": null,
           "completion": null
         }
@@ -429,8 +398,8 @@
       "key": "nb양궁선수Ⅴ_AI",
       "rank_note": "bottom",
       "roas": 0.0,
-      "spend": 69618.0,
-      "ctr": 2.18,
+      "spend": 54936.0,
+      "ctr": 2.45,
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
@@ -439,15 +408,15 @@
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 69618.0,
+          "spend": 54936.0,
           "revenue": 0.0,
           "roas": 0.0,
-          "ctr": 2.18,
+          "ctr": 2.45,
           "cvr": 0.0,
           "cpa": null,
           "purchases": 0.0,
-          "hook_rate": 30.1,
-          "hold_rate": 17.7,
+          "hook_rate": 33.0,
+          "hold_rate": 20.0,
           "play50": null,
           "completion": null
         }
@@ -504,6 +473,86 @@
       },
       "one_liner": "95초 길이로 뉴베로 소재 중 가장 길다.",
       "why": "영상 완성도(핀마이크 현장음·인물 일관성)는 높지만 광고로서의 오퍼가 없다 — 할인도 환불 보증도 CTA도 없이 증언만 95초 이어진다. 타겟도 '양궁 선수'로 지나치게 좁아 메타 광범위 타겟과 맞지 않는다. 브랜드·PPL 자산으로는 쓸 만하나 성과형 소재로는 오퍼 블록을 붙이고 길이를 40초 이하로 줄여야 한다."
+    },
+    {
+      "key": "nb엄마졸라Ⅱ_AI",
+      "rank_note": "top",
+      "roas": 0.0,
+      "spend": 10145.0,
+      "ctr": 0.09,
+      "cvr": 0.0,
+      "cpa": null,
+      "purchases": 0.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 10145.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 0.09,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 22.7,
+          "hold_rate": 12.5,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_10.3s.jpg",
+        "f05_20.7s.jpg",
+        "f06_31.0s.jpg",
+        "f07_41.3s.jpg",
+        "f08_51.6s.jpg",
+        "f09_62.0s.jpg"
+      ],
+      "transcript": "그 팔뚝밴드 효과 너무 좋더라. 자기 전에 10분씩 감고 잤더니 뽑기 전 반팔에 쏙 들어가대. 친구들도 갖고 싶다는데 혹시 할인 좀 안 해? 오 잘 됐네. 지금 추석 특가로 14만 5천원에서 8만 9천원까지 내려갔거든. 어때 완전 싸지? 8만 9천원 너무 비싸다 야. 에이 엄마도 알잖아. 이거 그냥 마사지기 같은 거랑은 차원이 다른 거. 미세전류가 깊은 속근육까지 찌릿찌릿 자극하는 거 느꼈지? 국가대표 리듬체조 선수들도 팔 뻗을 때 선 예쁘게 잡히려고 대회 직전까지 감아서 사용하는 거잖아. 그래서 엄마 아무리 아령 들고 운동해도 안 빠지던 그 나이 살까지 잡아주는 거야. 그러니까 더 싸게는 못 팔아. 에휴 그래. 그럼 30년 지기 친구들한테 손절 당해야지 뭐. 아 알겠어 알겠어. 그럼 한 대에 8만 2천 원은 어때? 그 이상은 진짜 안 돼. 응 좀 아쉬운데? 진짜 이러면 안 되는데? 그럼 딱 3일만 2대에 14만 7천 원. 그러니까 한 대에 7만 3천 500원인 거야. 이 정도면 대박이지? 두 대씩 사서 친구들 나눠주면 되겠네. 대박이네. 근데 만약 친구들은 효과 없으면 어떡하지? 2주 써보고 마음에 안 들면 전부 무료 환불해줘. 그래 그럴 일은 없겠지만 엄마 부탁이니까 일단 들어줄게. 대신 딱 3일만이다?",
+      "analyzed": true,
+      "base": {
+        "hook_type": "통화 네고 상황극",
+        "first_3s": "사무실 책상 위 스마트폰 거치대 + '사무실에서 엄마랑 네고한 썰' 자막",
+        "appeal_angle": "모녀 흥정으로 가격 낮추기 + 친구 선물 수요",
+        "cta": "딱 3일 2대 특가·2주 무료환불",
+        "keywords": [
+          "엄마랑 네고",
+          "추석 특가",
+          "2대 구매",
+          "무료환불",
+          "팔뚝밴드"
+        ]
+      },
+      "audio": {
+        "opening_line": "그 팔뚝밴드 효과 너무 좋더라",
+        "voice_style": "모녀 대화체, AI 보이스",
+        "narration_mode": "2인 통화 대화극"
+      },
+      "visual": {
+        "format": "AI 인물 드라마(AI 고지문 표기)",
+        "mechanism_viz": "미세전류 언급 위주, 도해 약함",
+        "before_after": "없음",
+        "subtitle_style": "흰 큰 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "40·50대(구매자)·2030(화자)",
+        "segment": "팔뚝살 고민 + 친구 선물 수요",
+        "appeal_axis": "가격·선물"
+      },
+      "trust": {
+        "evidence": "리듬체조 국가대표 대회 직전 사용 인용",
+        "refund": "2주 무료 환불",
+        "discount": "추석 2대 특가",
+        "compliance": "⚠ '아무리 운동해도 안 빠지던 나이살까지 잡아준다' 체형 변화 단정, 국가대표 권위 인용"
+      },
+      "one_liner": "네고 포맷 자체는 검증된 구조인데, 화자가 마스크를 쓴 채 사무실에서 통화만 해 제품 체감 장면이 하나도 없다. 팔뚝이 어떻게 달라지는지 안 보이니 가격 얘기만 남는다.",
+      "why": "오퍼 서사와 환불 보장은 갖췄지만 착용·전후 인서트가 빠져 시각적 증거가 부족하다. 통화 컷 사이에 팔뚝 착용 장면만 끼워도 개선 여지가 크다."
     }
   ]
 }
