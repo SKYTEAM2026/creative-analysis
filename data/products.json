@@ -18,11 +18,11 @@
       "counts": {
         "last_14d": {
           "n": 40,
-          "analyzed": 37
+          "analyzed": 40
         },
         "last_30d": {
           "n": 45,
-          "analyzed": 42
+          "analyzed": 45
         },
         "last_7d": {
           "n": 34,
@@ -30,7 +30,7 @@
         },
         "last_90d": {
           "n": 51,
-          "analyzed": 48
+          "analyzed": 51
         }
       },
       "generated": "2026-10-08",
