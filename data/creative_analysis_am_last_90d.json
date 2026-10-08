@@ -2,7 +2,7 @@
   "code": "am",
   "product": "아치핀 맥스",
   "range": "last_90d",
-  "generated": "2026-10-06",
+  "generated": "2026-10-08",
   "criteria": "유의미 지출(1,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -109,12 +109,12 @@
     {
       "key": "am세심Ⅹ_T",
       "rank_note": "top",
-      "roas": 2.69,
-      "spend": 1700392.0,
+      "roas": 2.56,
+      "spend": 1684746.0,
       "ctr": 2.79,
-      "cvr": 1.88,
-      "cpa": 19545,
-      "purchases": 87.0,
+      "cvr": 1.78,
+      "cpa": 20546,
+      "purchases": 82.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -134,14 +134,14 @@
           "completion": null
         },
         "meta": {
-          "spend": 1502085.0,
-          "revenue": 4087600.0,
-          "roas": 2.72,
+          "spend": 1486439.0,
+          "revenue": 3835200.0,
+          "roas": 2.58,
           "ctr": 0.89,
-          "cvr": 9.57,
-          "cpa": 19258,
-          "purchases": 78.0,
-          "hook_rate": 21.1,
+          "cvr": 9.03,
+          "cpa": 20362,
+          "purchases": 73.0,
+          "hook_rate": 21.2,
           "hold_rate": 22.5,
           "play50": null,
           "completion": null
@@ -296,11 +296,11 @@
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
       "roas": 2.11,
-      "spend": 87159278.0,
+      "spend": 85346058.0,
       "ctr": 1.37,
-      "cvr": 5.97,
-      "cpa": 23730,
-      "purchases": 3673.0,
+      "cvr": 5.93,
+      "cpa": 23687,
+      "purchases": 3603.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -320,15 +320,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 87110158.0,
-          "revenue": 183660032.0,
+          "spend": 85296938.0,
+          "revenue": 180211306.0,
           "roas": 2.11,
-          "ctr": 1.34,
-          "cvr": 6.08,
-          "cpa": 23716,
-          "purchases": 3673.0,
+          "ctr": 1.35,
+          "cvr": 6.04,
+          "cpa": 23674,
+          "purchases": 3603.0,
           "hook_rate": 24.7,
-          "hold_rate": 40.9,
+          "hold_rate": 41.1,
           "play50": null,
           "completion": null
         }
@@ -388,24 +388,24 @@
     {
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
-      "roas": 1.98,
-      "spend": 31770485.0,
-      "ctr": 1.24,
-      "cvr": 6.11,
-      "cpa": 22596,
-      "purchases": 1406.0,
+      "roas": 1.96,
+      "spend": 31610539.0,
+      "ctr": 1.25,
+      "cvr": 6.07,
+      "cpa": 22758,
+      "purchases": 1389.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 31770485.0,
-          "revenue": 62958000.0,
-          "roas": 1.98,
-          "ctr": 1.24,
-          "cvr": 6.11,
-          "cpa": 22596,
-          "purchases": 1406.0,
+          "spend": 31610539.0,
+          "revenue": 62086300.0,
+          "roas": 1.96,
+          "ctr": 1.25,
+          "cvr": 6.07,
+          "cpa": 22758,
+          "purchases": 1389.0,
           "hook_rate": 17.9,
           "hold_rate": 20.1,
           "play50": null,
@@ -550,107 +550,28 @@
       "why": "정품 프레임(인기 방증) + 구체 스펙업."
     },
     {
-      "key": "am단종될Ⅱ_T",
-      "rank_note": "bottom",
-      "roas": 1.65,
-      "spend": 1290889.0,
-      "ctr": 1.97,
-      "cvr": 5.61,
-      "cpa": 30735,
-      "purchases": 42.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 1290889.0,
-          "revenue": 2124700.0,
-          "roas": 1.65,
-          "ctr": 1.97,
-          "cvr": 5.61,
-          "cpa": 30735,
-          "purchases": 42.0,
-          "hook_rate": 36.1,
-          "hold_rate": 14.4,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_10.1s.jpg",
-        "f05_20.2s.jpg",
-        "f06_30.2s.jpg",
-        "f07_40.3s.jpg",
-        "f08_50.4s.jpg",
-        "f09_60.5s.jpg"
-      ],
-      "transcript": "출시된 지 얼마 안 된 아치핀 맥스 단동선 농담인 줄 알았는데 진짜네요 그냥 신발에 깔창 하나 넣어줬을 뿐인데 2주만에 틀어졌던 골반이 딱 잡히면서 진짜 교정은 다닌 것보다 낫다 싶었거든요 이게 단순 자세교정 수준이 아니에요 발목부터 뼈대 균형을 꽉 잡아주니 골반 솔림이 사라지고 만성으로 뭉친 매정근까지 시원하게 풀립니다 덕분에 일주일만에 양쪽 롱라지가 다르던 짝골반이 일자로 완벽하게 대칭을 이루고 그 덕에 골반 라인까지 걸어지고 탄탄하게 살아나니까 하체 PC 차원이 다르게 정리되어 근데 최근에 갑자기 국내 판매 중지될 수 있단 말이 돌길래 처음엔 또 마케팅인가 했죠 알고 보니까 천담쪽 체형교정 전문 클리닉에 예약 손님이 극격히 줄어서 문제에 제기를 했더라고요 생각해보면 이유가 있어요 아치핀 맥스에 들어간 자체 개발 포핵서스 기술은 발뒤꿈치부터 앞꿈치 아치 암파까지 사방향을 사방으로 동시에 집행해줄까? 일반 깔창이랑은 골반 정렬 속도부터가 달라요 게다가 주저앉은 발아치를 11%나 수직으로 들어오면서 발뼈대 구조를 원래대로 딱 복원해주는데 임상 증명까지 끝난 기술이라니 믿음이 갈 수 밖에 없죠 출시한 지 1년도 안 됐는데 최근 모델 한혜진을 유튜브에서 직접 소개하면서 사람들이 이것만 사기 시작했고 결국 그쪽 업계에서 난리가 난 거죠 올해 상반기까지만 현재 스펙을 유지하고 이후에는 핵심 기술 일부를 조정할 수도 있다네요 물론 그러면 교정력도 지금의 10분의 1이겠죠 지금 풀린 물량이 마지막 풀스펙 버전일 수도 있다니까 재고 있을 때 미리 하나 챙겨두시길 바라요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "희소성·단종 위협형",
-        "first_3s": "'아치핀 맥스 단종될 농담인 줄 진짜네요'",
-        "appeal_angle": "골반·짝골반 교정",
-        "cta": "",
-        "keywords": [
-          "단종될",
-          "짝골반",
-          "골반 정렬",
-          "판매중지"
-        ]
-      },
-      "audio": {
-        "opening_line": "출시된 지 얼마 안 된 아치핀 맥스 단종될 농담인 줄 진짜네요",
-        "voice_style": "놀란 후기체",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "발목·뼈대 균형",
-        "before_after": "짝골반→대칭",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30·40대",
-        "segment": "골반·짝골반",
-        "appeal_axis": "기능(체형교정)"
-      },
-      "trust": {
-        "evidence": "판매중지 서사",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ 판매중지 희소성 서사"
-      },
-      "one_liner": "th단종될과 같은 '단종' 희소성 템플릿을 깔창에 적용했지만 1.82로 중하위 — 깔창은 즉각 체감이 약해 희소성만으론 부족.",
-      "why": "희소성 템플릿 재활용 + 제품 특성상 즉각 체감 약함."
-    },
-    {
       "key": "am엉덩이조여Ⅰ_T",
       "rank_note": "top",
-      "roas": 1.52,
-      "spend": 16629972.0,
+      "roas": 1.49,
+      "spend": 15371277.0,
       "ctr": 1.76,
-      "cvr": 7.0,
-      "cpa": 30072,
-      "purchases": 553.0,
+      "cvr": 6.88,
+      "cpa": 30804,
+      "purchases": 499.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 16629972.0,
-          "revenue": 25302663.0,
-          "roas": 1.52,
+          "spend": 15371277.0,
+          "revenue": 22973805.0,
+          "roas": 1.49,
           "ctr": 1.76,
-          "cvr": 7.0,
-          "cpa": 30072,
-          "purchases": 553.0,
+          "cvr": 6.88,
+          "cpa": 30804,
+          "purchases": 499.0,
           "hook_rate": 29.7,
-          "hold_rate": 19.6,
+          "hold_rate": 19.7,
           "play50": null,
           "completion": null
         }
@@ -710,12 +631,12 @@
     {
       "key": "am안되겠냐Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 1.43,
-      "spend": 2549600.0,
-      "ctr": 14.88,
-      "cvr": 0.32,
-      "cpa": 33112,
-      "purchases": 77.0,
+      "roas": 1.37,
+      "spend": 2494736.0,
+      "ctr": 14.98,
+      "cvr": 0.3,
+      "cpa": 34174,
+      "purchases": 73.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -735,15 +656,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 1656985.0,
-          "revenue": 2386700.0,
-          "roas": 1.44,
+          "spend": 1602121.0,
+          "revenue": 2154100.0,
+          "roas": 1.34,
           "ctr": 2.07,
-          "cvr": 4.18,
-          "cpa": 31865,
-          "purchases": 52.0,
-          "hook_rate": 31.7,
-          "hold_rate": 29.6,
+          "cvr": 3.93,
+          "cpa": 33378,
+          "purchases": 48.0,
+          "hook_rate": 31.8,
+          "hold_rate": 29.7,
           "play50": null,
           "completion": null
         }
@@ -1068,26 +989,26 @@
     {
       "key": "am극찬이다Ⅵ_T",
       "rank_note": "top",
-      "roas": 0.9,
-      "spend": 695596.0,
-      "ctr": 3.97,
+      "roas": 0.91,
+      "spend": 694285.0,
+      "ctr": 3.98,
       "cvr": 1.83,
-      "cpa": 49685,
+      "cpa": 49592,
       "purchases": 14.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 695596.0,
+          "spend": 694285.0,
           "revenue": 628600.0,
-          "roas": 0.9,
-          "ctr": 3.97,
+          "roas": 0.91,
+          "ctr": 3.98,
           "cvr": 1.83,
-          "cpa": 49685,
+          "cpa": 49592,
           "purchases": 14.0,
           "hook_rate": 62.8,
-          "hold_rate": 49.6,
+          "hold_rate": 49.7,
           "play50": null,
           "completion": null
         }
@@ -1397,12 +1318,12 @@
     {
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 0.52,
-      "spend": 19447184.0,
-      "ctr": 3.39,
-      "cvr": 0.15,
-      "cpa": 101818,
-      "purchases": 191.0,
+      "roas": 0.51,
+      "spend": 19998678.0,
+      "ctr": 3.43,
+      "cvr": 0.14,
+      "cpa": 103620,
+      "purchases": 193.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -1422,15 +1343,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 19447144.0,
-          "revenue": 10189400.0,
-          "roas": 0.52,
-          "ctr": 3.39,
-          "cvr": 0.15,
-          "cpa": 101818,
-          "purchases": 191.0,
-          "hook_rate": 75.7,
-          "hold_rate": 66.3,
+          "spend": 19998638.0,
+          "revenue": 10297100.0,
+          "roas": 0.51,
+          "ctr": 3.43,
+          "cvr": 0.14,
+          "cpa": 103620,
+          "purchases": 193.0,
+          "hook_rate": 75.8,
+          "hold_rate": 66.8,
           "play50": null,
           "completion": null
         }

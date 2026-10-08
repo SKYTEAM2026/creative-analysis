@@ -17,23 +17,23 @@
       },
       "counts": {
         "last_14d": {
-          "n": 38,
-          "analyzed": 38
+          "n": 40,
+          "analyzed": 37
         },
         "last_30d": {
           "n": 45,
-          "analyzed": 45
+          "analyzed": 42
         },
         "last_7d": {
           "n": 34,
-          "analyzed": 34
+          "analyzed": 30
         },
         "last_90d": {
           "n": 51,
-          "analyzed": 51
+          "analyzed": 48
         }
       },
-      "generated": "2026-10-06",
+      "generated": "2026-10-08",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -52,23 +52,23 @@
       },
       "counts": {
         "last_14d": {
-          "n": 8,
-          "analyzed": 8
+          "n": 7,
+          "analyzed": 7
         },
         "last_30d": {
-          "n": 10,
-          "analyzed": 10
+          "n": 9,
+          "analyzed": 9
         },
         "last_7d": {
           "n": 7,
           "analyzed": 7
         },
         "last_90d": {
-          "n": 28,
-          "analyzed": 28
+          "n": 27,
+          "analyzed": 27
         }
       },
-      "generated": "2026-10-06",
+      "generated": "2026-10-08",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -87,23 +87,23 @@
       },
       "counts": {
         "last_14d": {
-          "n": 38,
-          "analyzed": 38
+          "n": 35,
+          "analyzed": 35
         },
         "last_30d": {
-          "n": 43,
-          "analyzed": 43
+          "n": 42,
+          "analyzed": 42
         },
         "last_7d": {
-          "n": 28,
-          "analyzed": 28
+          "n": 24,
+          "analyzed": 24
         },
         "last_90d": {
           "n": 51,
           "analyzed": 51
         }
       },
-      "generated": "2026-10-06",
+      "generated": "2026-10-08",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -134,11 +134,11 @@
           "analyzed": 3
         },
         "last_90d": {
-          "n": 18,
-          "analyzed": 18
+          "n": 17,
+          "analyzed": 17
         }
       },
-      "generated": "2026-10-06",
+      "generated": "2026-10-08",
       "ranges": [
         "last_7d",
         "last_14d",

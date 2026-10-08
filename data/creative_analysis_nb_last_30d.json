@@ -2,8 +2,8 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_30d",
-  "generated": "2026-10-06",
-  "criteria": "유의미 지출(500,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
+  "generated": "2026-10-08",
+  "criteria": "유의미 지출(1,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
     "tiktok",
@@ -26,109 +26,28 @@
   },
   "creatives": [
     {
-      "key": "nb윤틈PPL_T",
-      "rank_note": "top",
-      "roas": 3.8,
-      "spend": 670978.0,
-      "ctr": 0.99,
-      "cvr": 4.04,
-      "cpa": 37277,
-      "purchases": 18.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 670978.0,
-          "revenue": 2551000.0,
-          "roas": 3.8,
-          "ctr": 0.99,
-          "cvr": 4.04,
-          "cpa": 37277,
-          "purchases": 18.0,
-          "hook_rate": 35.9,
-          "hold_rate": 9.7,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_4.1s.jpg",
-        "f05_8.2s.jpg",
-        "f06_12.3s.jpg",
-        "f07_16.5s.jpg",
-        "f08_20.6s.jpg",
-        "f09_24.7s.jpg"
-      ],
-      "transcript": "카페 알바생분들 주목해주세요 제가 커피숍에서 일하다 보니까 손목이 자주 아프더라고요 손목 때문에 정형외과까지 다녔었거든요 근데 이거 쓰고 통증이 확 줄어들었어요 뉴베로 EMS밴드인데 모드가 7가지가 있거든요 이렇게 EMS 고주파 파장이랑 레드라이트가 통증을 완화시켜줘요 운동선수들도 라인이랑 통증 관리로 사용한다니까 믿음이 가더라고요 이게 처음엔 1단계도 좀 아픈데 꾸준히 하니까 지금은 3단계도 안 아파요 최대 46% 할인에 불만족시 환불보장이라는데 그만큼 자신 있다는 거겠죠 하루 15분으로 집에서 물리치료 효과 내보세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "특정 직군 호명형",
-        "first_3s": "메가커피 유니폼 차림 알바생이 손목을 만지며 등장, '메가커피 알바생이 찐으로 사용하는 팔목 마사지템' 자막",
-        "appeal_angle": "직업성 손목 통증 완화",
-        "cta": "하루 15분으로 집에서 관리 (최대 46% 할인, 불만족시 환불보장)",
-        "keywords": [
-          "카페 알바생",
-          "손목 통증",
-          "7가지 모드",
-          "레드라이트",
-          "최대 46% 할인",
-          "환불보장"
-        ]
-      },
-      "audio": {
-        "opening_line": "카페 알바생분들 주목해주세요",
-        "voice_style": "수줍고 담백한 20대 여성 구어체",
-        "narration_mode": "1인 경험담"
-      },
-      "visual": {
-        "format": "실사 셀프캠 + 작업 현장(원두 탬핑) 인서트",
-        "mechanism_viz": "제품 LED·레드라이트 발광 컷",
-        "before_after": "있음(정형외과 다니던 통증 → 지금은 3단계도 안 아픔)",
-        "subtitle_style": "핑크·노랑 컬러 강조 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20대",
-        "segment": "손목을 반복 사용하는 직군(카페·사무)",
-        "appeal_axis": "통증 완화"
-      },
-      "trust": {
-        "evidence": "독일 Corewave 기술, 운동선수 사용, 7가지 모드",
-        "refund": "불만족시 환불 보장",
-        "discount": "최대 46% 할인",
-        "compliance": "⚠ '집에서 물리치료 효과', '정형외과' 언급 — 의료행위 대체 뉘앙스"
-      },
-      "one_liner": "'카페 알바생'이라는 좁은 호명이 오히려 해당 직군을 정확히 멈춰 세웠다.",
-      "why": "타겟을 좁히니 공감이 깊어지고, 정형외과까지 갔다는 구체적 경험이 신뢰를 만든다. 통증→완화의 before/after가 말로 또렷이 정리된 것도 전환에 기여."
-    },
-    {
       "key": "nb김민정PPL_T",
       "rank_note": "top",
-      "roas": 2.75,
-      "spend": 1840247.0,
-      "ctr": 0.69,
-      "cvr": 5.66,
-      "cpa": 51118,
-      "purchases": 36.0,
+      "roas": 3.12,
+      "spend": 1546130.0,
+      "ctr": 0.66,
+      "cvr": 6.55,
+      "cpa": 45474,
+      "purchases": 34.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1840247.0,
-          "revenue": 5059400.0,
-          "roas": 2.75,
-          "ctr": 0.69,
-          "cvr": 5.66,
-          "cpa": 51118,
-          "purchases": 36.0,
-          "hook_rate": 23.0,
-          "hold_rate": 13.5,
+          "spend": 1546130.0,
+          "revenue": 4821400.0,
+          "roas": 3.12,
+          "ctr": 0.66,
+          "cvr": 6.55,
+          "cpa": 45474,
+          "purchases": 34.0,
+          "hook_rate": 23.3,
+          "hold_rate": 13.0,
           "play50": null,
           "completion": null
         }
@@ -349,26 +268,26 @@
     {
       "key": "nb할인좀Ⅱ_AIP",
       "rank_note": "top",
-      "roas": 2.14,
-      "spend": 21610983.0,
-      "ctr": 1.12,
-      "cvr": 3.2,
-      "cpa": 61746,
-      "purchases": 350.0,
+      "roas": 2.15,
+      "spend": 20829860.0,
+      "ctr": 1.09,
+      "cvr": 3.19,
+      "cpa": 61994,
+      "purchases": 336.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 21610983.0,
-          "revenue": 46231800.0,
-          "roas": 2.14,
-          "ctr": 1.12,
-          "cvr": 3.2,
-          "cpa": 61746,
-          "purchases": 350.0,
-          "hook_rate": 12.8,
-          "hold_rate": 26.5,
+          "spend": 20829860.0,
+          "revenue": 44708800.0,
+          "roas": 2.15,
+          "ctr": 1.09,
+          "cvr": 3.19,
+          "cpa": 61994,
+          "purchases": 336.0,
+          "hook_rate": 12.6,
+          "hold_rate": 26.6,
           "play50": null,
           "completion": null
         }
@@ -428,25 +347,25 @@
     {
       "key": "nb김예빈PPL_T",
       "rank_note": "top",
-      "roas": 1.82,
-      "spend": 14327115.0,
-      "ctr": 1.66,
-      "cvr": 2.45,
-      "cpa": 69549,
-      "purchases": 206.0,
+      "roas": 1.81,
+      "spend": 13815519.0,
+      "ctr": 1.67,
+      "cvr": 2.42,
+      "cpa": 69775,
+      "purchases": 198.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 14327115.0,
-          "revenue": 26023700.0,
-          "roas": 1.82,
-          "ctr": 1.66,
-          "cvr": 2.45,
-          "cpa": 69549,
-          "purchases": 206.0,
-          "hook_rate": 22.6,
+          "spend": 13815519.0,
+          "revenue": 24992800.0,
+          "roas": 1.81,
+          "ctr": 1.67,
+          "cvr": 2.42,
+          "cpa": 69775,
+          "purchases": 198.0,
+          "hook_rate": 22.5,
           "hold_rate": 13.6,
           "play50": null,
           "completion": null
@@ -589,25 +508,25 @@
     {
       "key": "nb프리유PPL_T",
       "rank_note": "top",
-      "roas": 1.51,
-      "spend": 2017687.0,
-      "ctr": 0.89,
-      "cvr": 3.37,
-      "cpa": 84070,
-      "purchases": 24.0,
+      "roas": 1.34,
+      "spend": 1588217.0,
+      "ctr": 0.91,
+      "cvr": 3.04,
+      "cpa": 93425,
+      "purchases": 17.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 2017687.0,
-          "revenue": 3048400.0,
-          "roas": 1.51,
-          "ctr": 0.89,
-          "cvr": 3.37,
-          "cpa": 84070,
-          "purchases": 24.0,
-          "hook_rate": 35.7,
+          "spend": 1588217.0,
+          "revenue": 2134400.0,
+          "roas": 1.34,
+          "ctr": 0.91,
+          "cvr": 3.04,
+          "cpa": 93425,
+          "purchases": 17.0,
+          "hook_rate": 35.5,
           "hold_rate": 10.3,
           "play50": null,
           "completion": null
@@ -670,26 +589,26 @@
     {
       "key": "nb사라진대Ⅱ_TP",
       "rank_note": "top",
-      "roas": 1.46,
-      "spend": 1988012.0,
-      "ctr": 1.88,
-      "cvr": 2.44,
-      "cpa": 86435,
-      "purchases": 23.0,
+      "roas": 1.19,
+      "spend": 1594725.0,
+      "ctr": 1.86,
+      "cvr": 1.99,
+      "cpa": 106315,
+      "purchases": 15.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1988012.0,
-          "revenue": 2897400.0,
-          "roas": 1.46,
-          "ctr": 1.88,
-          "cvr": 2.44,
-          "cpa": 86435,
-          "purchases": 23.0,
-          "hook_rate": 18.0,
-          "hold_rate": 33.1,
+          "spend": 1594725.0,
+          "revenue": 1896000.0,
+          "roas": 1.19,
+          "ctr": 1.86,
+          "cvr": 1.99,
+          "cpa": 106315,
+          "purchases": 15.0,
+          "hook_rate": 18.7,
+          "hold_rate": 34.6,
           "play50": null,
           "completion": null
         }
@@ -749,26 +668,26 @@
     {
       "key": "nb바르젠PPL_T",
       "rank_note": "top",
-      "roas": 1.37,
-      "spend": 862883.0,
-      "ctr": 2.16,
-      "cvr": 2.45,
-      "cpa": 78444,
+      "roas": 1.06,
+      "spend": 1122940.0,
+      "ctr": 2.08,
+      "cvr": 1.87,
+      "cpa": 102085,
       "purchases": 11.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 862883.0,
+          "spend": 1122940.0,
           "revenue": 1186400.0,
-          "roas": 1.37,
-          "ctr": 2.16,
-          "cvr": 2.45,
-          "cpa": 78444,
+          "roas": 1.06,
+          "ctr": 2.08,
+          "cvr": 1.87,
+          "cpa": 102085,
           "purchases": 11.0,
-          "hook_rate": 27.1,
-          "hold_rate": 22.8,
+          "hook_rate": 25.6,
+          "hold_rate": 20.1,
           "play50": null,
           "completion": null
         }
