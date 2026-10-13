@@ -2,7 +2,7 @@
   "code": "am",
   "product": "아치핀 맥스",
   "range": "last_90d",
-  "generated": "2026-10-08",
+  "generated": "2026-10-13",
   "criteria": "유의미 지출(1,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -107,99 +107,6 @@
       "why": "기존 고객·인지층 대상 업그레이드 서사 + 검증 가능한 수치 + 할인·환불 안전장치 3종 결합."
     },
     {
-      "key": "am세심Ⅹ_T",
-      "rank_note": "top",
-      "roas": 2.56,
-      "spend": 1684746.0,
-      "ctr": 2.79,
-      "cvr": 1.78,
-      "cpa": 20546,
-      "purchases": 82.0,
-      "platforms": [
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 198307.0,
-          "revenue": 478977.0,
-          "roas": 2.42,
-          "ctr": 5.14,
-          "cvr": 0.24,
-          "cpa": 22034,
-          "purchases": 9.0,
-          "hook_rate": 33.8,
-          "hold_rate": 74.2,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 1486439.0,
-          "revenue": 3835200.0,
-          "roas": 2.58,
-          "ctr": 0.89,
-          "cvr": 9.03,
-          "cpa": 20362,
-          "purchases": 73.0,
-          "hook_rate": 21.2,
-          "hold_rate": 22.5,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_9.1s.jpg",
-        "f05_18.2s.jpg",
-        "f06_27.3s.jpg",
-        "f07_36.4s.jpg",
-        "f08_45.5s.jpg",
-        "f09_54.5s.jpg"
-      ],
-      "transcript": "아이들 신발에 이것만 넣어주면 3천만 원 아끼시는 겁니다. 상장기 아이들 잘못된 걸음걸이 방치하면 다리 변형 온다는 사실 아셨나요? 발 아치가 무너지면 뼈대가 뒤틀려 엑스다리, 우다리 되는 거예요. 그러나 엄마가 좀 더 세심하면 달라집니다. 이거 그냥 깔창이 아니에요. 아치핀에서 업그레이된 아치핀 맥스인데 족부 전문가가 10개월 연구 끝에 만든 포엑시스 정렬특허 인솔이에요. 기존 깔창들이 발바닥 하나만 받쳐줬다면 아치핀 맥스는 뒤꿈치부터 앞꿈치 아치 안팎까지 포엑시스 정렬시스템으로 사방을 동시에 지탱하면서 발, 발목, 무릎, 골반까지 중력선을 딱 잡아줘요. 신발에 넣는 순간부터 걸음걸이가 달라지는 게 느껴진다니까요. 특히나 아이들 뼈는 유연하기 때문에 빠르게 변형돼서 성인보다 쉽게 일자다리로 교정되고 심지어 올바른 걸음걸이 습관이 잡히게 됩니다. 성인돼서 뒤틀린 다리 모양 교정하려면 20배 더 비싸고 교정속도는 4배 더 느릴 거예요. 깔창의 가장 핵심은 어렸을 때부터 꾸준한 교정이 가능하다는 겁니다. 실제 오다리 때문에 일자로 쫙 펴져서 더 이상 비싼 수술 고민할 필요가 없어요. 아이들 오다리 때문에 고민 많으신 부모님들은 이거 한 번만 신발에 깔아보세요. 심지어 효과 없으면 돈 안 내도 된대요.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "자녀 예방형",
-        "first_3s": "'아이 신발에 이것만 넣으면 3천만 원 아낀다'",
-        "appeal_angle": "아이 다리변형 예방",
-        "cta": "",
-        "keywords": [
-          "아이 걸음걸이",
-          "다리 변형",
-          "3천만원",
-          "포엑시스 특허"
-        ]
-      },
-      "audio": {
-        "opening_line": "아이들 신발에 이것만 넣어주면 3천만 원 아끼시는 겁니다",
-        "voice_style": "엄마 경각심 호소",
-        "narration_mode": "전문가+엄마 시점"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "포엑시스 사방 정렬",
-        "before_after": "–",
-        "subtitle_style": "정보 자막"
-      },
-      "target": {
-        "gender": "여성(엄마)",
-        "age": "30·40대",
-        "segment": "성장기 자녀 부모",
-        "appeal_axis": "기능(자녀 예방)"
-      },
-      "trust": {
-        "evidence": "족부전문가 10개월·포엑시스 특허",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "'방치하면 3천만 원'이라는 손실 회피 훅으로 엄마의 불안을 정확히 건드린다. 자녀 예방이라는 별도 타겟을 여는 소재.",
-      "why": "손실회피 훅 + 신규 타겟(자녀 부모) 발굴."
-    },
-    {
       "key": "am안쪽벅지이별Ⅰ_AN",
       "rank_note": "bottom",
       "roas": 2.27,
@@ -293,14 +200,94 @@
       "why": "논리는 있으나 훅 평범 + 체감 근거 약함."
     },
     {
+      "key": "am업글통증Ⅳ_T",
+      "rank_note": "top",
+      "roas": 2.21,
+      "spend": 597825.0,
+      "ctr": 4.64,
+      "cvr": 1.67,
+      "cpa": 24909,
+      "purchases": 24.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 597825.0,
+          "revenue": 1320600.0,
+          "roas": 2.21,
+          "ctr": 4.64,
+          "cvr": 1.67,
+          "cpa": 24909,
+          "purchases": 24.0,
+          "hook_rate": 50.7,
+          "hold_rate": 14.2,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_9.3s.jpg",
+        "f05_18.7s.jpg",
+        "f06_28.0s.jpg",
+        "f07_37.3s.jpg",
+        "f08_46.6s.jpg",
+        "f09_56.0s.jpg"
+      ],
+      "transcript": "아치핀, 아치핀 맥스. 뭐가 달라졌을까? 우선 기존 아치핀보다 높아진 아치 높이 다리 통증은 걸을 때 충격이 관절 타고 올라가서 생기는 거 아셨나요? 기존 아치핀은 아치 높이가 2.9cm였는데 아치핀 맥스는 3.2cm로 무려 11%나 올라가서 무너진 아치 빈틈을 더 꽉 채워 충격이 발목, 무릎, 골반으로 타고 올라가는 통로부터 확실히 막아줍니다 자, 그리고 이번엔 소재가 완전히 달라졌어요 기존 아치핀은 TPR 소재라 탄성은 있었지만 충격을 오래 못 버티고 변용된다는 후기도 있었는데 아치핀 맥스는 항공기 부품으로도 쓴다는 TPU 소재로 업그레이드 되면서 걸을 때마다 충격을 쿠션처럼 흡수했다가 고건역으로 튕겨내는 힘이 완전히 달라졌어요 그래서 하루 종일 걸어도 오래 서 있어도 발이 받는 충격을 그때그때 걸러내니 저녁마다 시큰거리던 발바닥 무릎이 눈에 띄게 편해지죠 또한 기존 3포인트 구조에서 5포인트 인체공학 입체 구조로 업그레이드 돼서 한 곳에 쏠리던 하중을 발바닥 전체로 고르게 펴주니 무릎 혼자 받아내던 충격까지 확 분산됩니다 단순한 깔창이 아닌 관절로 가는 충격을 끊어내는 특허 아치핀 맥스 출시 기념으로 이번 주까지만 최대 53% 할인해 변화 없으면 100% 무료 환불까지 보장한다니까 통증 더 커지기 전에 절대 놓치지 마세요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "구버전 대조형",
+        "first_3s": "질감 배경에 자막 '아치핀 VS 아치핀 맥스'(뭐가 달라졌을까)",
+        "appeal_angle": "아치 2.9→3.2cm(11%↑), TPR→TPU, 3→5포인트 업그레이드",
+        "cta": "이번 주까지 최대 53% 할인 + 100% 환불",
+        "keywords": [
+          "아치 11% 상승",
+          "항공기 소재 TPU",
+          "5포인트",
+          "충격 분산",
+          "53% 할인"
+        ]
+      },
+      "audio": {
+        "opening_line": "아치핀, 아치핀 맥스. 뭐가 달라졌을까?",
+        "voice_style": "여성 제품 설명체(비교 리뷰 톤)",
+        "narration_mode": "3인칭 스펙 비교"
+      },
+      "visual": {
+        "format": "실사 제품 비교 시연",
+        "mechanism_viz": "강함(높이 수치, 소재 압축 테스트, 하중 분산 도식)",
+        "before_after": "있음(구/신 제품 대조)",
+        "subtitle_style": "노랑·분홍 굵은 자막 + 수치 강조"
+      },
+      "target": {
+        "gender": "혼합",
+        "age": "30·40·50대",
+        "segment": "발·무릎 통증 있는 층, 기존 아치핀 사용자",
+        "appeal_axis": "업그레이드 근거(스펙) + 통증"
+      },
+      "trust": {
+        "evidence": "2.9→3.2cm, TPU 소재, 5포인트 특허",
+        "refund": "변화 없으면 100% 무료 환불",
+        "discount": "최대 53%",
+        "compliance": "⚠ 발바닥·무릎 통증 완화를 단정하는 표현"
+      },
+      "one_liner": "스펙 근거는 이 제품군에서 가장 촘촘하다.",
+      "why": "구버전 대비 수치를 제시하는 구조라 '왜 더 비싼가'에 답이 된다. 다만 신규 유입에겐 구버전 인지가 없어 확장성이 낮고, 그래서 먼저 마모된다."
+    },
+    {
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
-      "roas": 2.11,
-      "spend": 85346058.0,
-      "ctr": 1.37,
-      "cvr": 5.93,
-      "cpa": 23687,
-      "purchases": 3603.0,
+      "roas": 2.12,
+      "spend": 79970426.0,
+      "ctr": 1.39,
+      "cvr": 5.81,
+      "cpa": 23535,
+      "purchases": 3398.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -320,15 +307,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 85296938.0,
-          "revenue": 180211306.0,
-          "roas": 2.11,
-          "ctr": 1.35,
-          "cvr": 6.04,
-          "cpa": 23674,
-          "purchases": 3603.0,
-          "hook_rate": 24.7,
-          "hold_rate": 41.1,
+          "spend": 79921306.0,
+          "revenue": 169435744.0,
+          "roas": 2.12,
+          "ctr": 1.37,
+          "cvr": 5.92,
+          "cpa": 23520,
+          "purchases": 3398.0,
+          "hook_rate": 24.8,
+          "hold_rate": 41.7,
           "play50": null,
           "completion": null
         }
@@ -388,26 +375,26 @@
     {
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
-      "roas": 1.96,
-      "spend": 31610539.0,
-      "ctr": 1.25,
-      "cvr": 6.07,
-      "cpa": 22758,
+      "roas": 1.99,
+      "spend": 31139981.0,
+      "ctr": 1.28,
+      "cvr": 6.19,
+      "cpa": 22419,
       "purchases": 1389.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 31610539.0,
-          "revenue": 62086300.0,
-          "roas": 1.96,
-          "ctr": 1.25,
-          "cvr": 6.07,
-          "cpa": 22758,
+          "spend": 31139981.0,
+          "revenue": 62088825.0,
+          "roas": 1.99,
+          "ctr": 1.28,
+          "cvr": 6.19,
+          "cpa": 22419,
           "purchases": 1389.0,
-          "hook_rate": 17.9,
-          "hold_rate": 20.1,
+          "hook_rate": 18.2,
+          "hold_rate": 20.3,
           "play50": null,
           "completion": null
         }
@@ -552,26 +539,26 @@
     {
       "key": "am엉덩이조여Ⅰ_T",
       "rank_note": "top",
-      "roas": 1.49,
-      "spend": 15371277.0,
-      "ctr": 1.76,
-      "cvr": 6.88,
-      "cpa": 30804,
-      "purchases": 499.0,
+      "roas": 1.55,
+      "spend": 11155551.0,
+      "ctr": 1.82,
+      "cvr": 7.0,
+      "cpa": 29828,
+      "purchases": 374.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 15371277.0,
-          "revenue": 22973805.0,
-          "roas": 1.49,
-          "ctr": 1.76,
-          "cvr": 6.88,
-          "cpa": 30804,
-          "purchases": 499.0,
-          "hook_rate": 29.7,
-          "hold_rate": 19.7,
+          "spend": 11155551.0,
+          "revenue": 17336205.0,
+          "roas": 1.55,
+          "ctr": 1.82,
+          "cvr": 7.0,
+          "cpa": 29828,
+          "purchases": 374.0,
+          "hook_rate": 30.1,
+          "hold_rate": 20.4,
           "play50": null,
           "completion": null
         }
@@ -631,40 +618,40 @@
     {
       "key": "am안되겠냐Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 1.37,
-      "spend": 2494736.0,
-      "ctr": 14.98,
-      "cvr": 0.3,
-      "cpa": 34174,
-      "purchases": 73.0,
+      "roas": 1.34,
+      "spend": 1945955.0,
+      "ctr": 16.14,
+      "cvr": 0.25,
+      "cpa": 34140,
+      "purchases": 57.0,
       "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 892615.0,
-          "revenue": 1254477.0,
-          "roas": 1.41,
-          "ctr": 22.4,
+          "spend": 866622.0,
+          "revenue": 1255770.0,
+          "roas": 1.45,
+          "ctr": 22.99,
           "cvr": 0.11,
-          "cpa": 35705,
+          "cpa": 34665,
           "purchases": 25.0,
-          "hook_rate": 78.6,
-          "hold_rate": 89.5,
+          "hook_rate": 79.3,
+          "hold_rate": 89.7,
           "play50": null,
           "completion": null
         },
         "meta": {
-          "spend": 1602121.0,
-          "revenue": 2154100.0,
-          "roas": 1.34,
-          "ctr": 2.07,
-          "cvr": 3.93,
-          "cpa": 33378,
-          "purchases": 48.0,
-          "hook_rate": 31.8,
-          "hold_rate": 29.7,
+          "spend": 1079333.0,
+          "revenue": 1342700.0,
+          "roas": 1.24,
+          "ctr": 1.94,
+          "cvr": 3.54,
+          "cpa": 33729,
+          "purchases": 32.0,
+          "hook_rate": 29.9,
+          "hold_rate": 24.6,
           "play50": null,
           "completion": null
         }
@@ -722,13 +709,92 @@
       "why": "훅 반복(조여짐 변형) → 소재 피로."
     },
     {
+      "key": "am세심Ⅹ_T",
+      "rank_note": "top",
+      "roas": 1.16,
+      "spend": 704764.0,
+      "ctr": 1.72,
+      "cvr": 5.34,
+      "cpa": 46984,
+      "purchases": 15.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 704764.0,
+          "revenue": 814800.0,
+          "roas": 1.16,
+          "ctr": 1.72,
+          "cvr": 5.34,
+          "cpa": 46984,
+          "purchases": 15.0,
+          "hook_rate": 22.0,
+          "hold_rate": 26.4,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_9.1s.jpg",
+        "f05_18.2s.jpg",
+        "f06_27.3s.jpg",
+        "f07_36.4s.jpg",
+        "f08_45.5s.jpg",
+        "f09_54.5s.jpg"
+      ],
+      "transcript": "아이들 신발에 이것만 넣어주면 3천만 원 아끼시는 겁니다. 상장기 아이들 잘못된 걸음걸이 방치하면 다리 변형 온다는 사실 아셨나요? 발 아치가 무너지면 뼈대가 뒤틀려 엑스다리, 우다리 되는 거예요. 그러나 엄마가 좀 더 세심하면 달라집니다. 이거 그냥 깔창이 아니에요. 아치핀에서 업그레이된 아치핀 맥스인데 족부 전문가가 10개월 연구 끝에 만든 포엑시스 정렬특허 인솔이에요. 기존 깔창들이 발바닥 하나만 받쳐줬다면 아치핀 맥스는 뒤꿈치부터 앞꿈치 아치 안팎까지 포엑시스 정렬시스템으로 사방을 동시에 지탱하면서 발, 발목, 무릎, 골반까지 중력선을 딱 잡아줘요. 신발에 넣는 순간부터 걸음걸이가 달라지는 게 느껴진다니까요. 특히나 아이들 뼈는 유연하기 때문에 빠르게 변형돼서 성인보다 쉽게 일자다리로 교정되고 심지어 올바른 걸음걸이 습관이 잡히게 됩니다. 성인돼서 뒤틀린 다리 모양 교정하려면 20배 더 비싸고 교정속도는 4배 더 느릴 거예요. 깔창의 가장 핵심은 어렸을 때부터 꾸준한 교정이 가능하다는 겁니다. 실제 오다리 때문에 일자로 쫙 펴져서 더 이상 비싼 수술 고민할 필요가 없어요. 아이들 오다리 때문에 고민 많으신 부모님들은 이거 한 번만 신발에 깔아보세요. 심지어 효과 없으면 돈 안 내도 된대요.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "자녀 예방형",
+        "first_3s": "'아이 신발에 이것만 넣으면 3천만 원 아낀다'",
+        "appeal_angle": "아이 다리변형 예방",
+        "cta": "",
+        "keywords": [
+          "아이 걸음걸이",
+          "다리 변형",
+          "3천만원",
+          "포엑시스 특허"
+        ]
+      },
+      "audio": {
+        "opening_line": "아이들 신발에 이것만 넣어주면 3천만 원 아끼시는 겁니다",
+        "voice_style": "엄마 경각심 호소",
+        "narration_mode": "전문가+엄마 시점"
+      },
+      "visual": {
+        "format": "실사",
+        "mechanism_viz": "포엑시스 사방 정렬",
+        "before_after": "–",
+        "subtitle_style": "정보 자막"
+      },
+      "target": {
+        "gender": "여성(엄마)",
+        "age": "30·40대",
+        "segment": "성장기 자녀 부모",
+        "appeal_axis": "기능(자녀 예방)"
+      },
+      "trust": {
+        "evidence": "족부전문가 10개월·포엑시스 특허",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "'방치하면 3천만 원'이라는 손실 회피 훅으로 엄마의 불안을 정확히 건드린다. 자녀 예방이라는 별도 타겟을 여는 소재.",
+      "why": "손실회피 훅 + 신규 타겟(자녀 부모) 발굴."
+    },
+    {
       "key": "am이소라자세교정Ⅱ_T",
       "rank_note": "bottom",
       "roas": 1.14,
-      "spend": 1746089.0,
+      "spend": 1745927.0,
       "ctr": 18.07,
       "cvr": 0.31,
-      "cpa": 40607,
+      "cpa": 40603,
       "purchases": 43.0,
       "platforms": [
         "meta",
@@ -749,12 +815,12 @@
           "completion": null
         },
         "meta": {
-          "spend": 1408050.0,
+          "spend": 1407888.0,
           "revenue": 1818900.0,
           "roas": 1.29,
-          "ctr": 2.54,
+          "ctr": 2.55,
           "cvr": 4.91,
-          "cpa": 35201,
+          "cpa": 35197,
           "purchases": 40.0,
           "hook_rate": 26.9,
           "hold_rate": 24.1,
@@ -817,12 +883,12 @@
     {
       "key": "am이소라붓기유명Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 1.14,
-      "spend": 599444.0,
-      "ctr": 2.57,
-      "cvr": 3.35,
-      "cpa": 39963,
-      "purchases": 15.0,
+      "roas": 1.1,
+      "spend": 527101.0,
+      "ctr": 2.51,
+      "cvr": 3.3,
+      "cpa": 40546,
+      "purchases": 13.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -842,15 +908,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 596082.0,
-          "revenue": 685500.0,
-          "roas": 1.15,
-          "ctr": 2.43,
-          "cvr": 3.6,
-          "cpa": 39739,
-          "purchases": 15.0,
-          "hook_rate": 38.2,
-          "hold_rate": 21.5,
+          "spend": 523739.0,
+          "revenue": 578800.0,
+          "roas": 1.11,
+          "ctr": 2.35,
+          "cvr": 3.58,
+          "cpa": 40288,
+          "purchases": 13.0,
+          "hook_rate": 38.3,
+          "hold_rate": 21.8,
           "play50": null,
           "completion": null
         }
@@ -908,190 +974,18 @@
       "why": "추상 소구(자세) + 긴 호흡. 셀럽 효과 상쇄."
     },
     {
-      "key": "am안되겠냐고Ⅱ_T",
-      "rank_note": "bottom",
-      "roas": 1.07,
-      "spend": 1155717.0,
-      "ctr": 5.4,
-      "cvr": 1.98,
-      "cpa": 46229,
-      "purchases": 25.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 1155717.0,
-          "revenue": 1235400.0,
-          "roas": 1.07,
-          "ctr": 5.4,
-          "cvr": 1.98,
-          "cpa": 46229,
-          "purchases": 25.0,
-          "hook_rate": 55.2,
-          "hold_rate": 63.5,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.2s.jpg",
-        "f05_10.5s.jpg",
-        "f06_15.7s.jpg",
-        "f07_21.0s.jpg",
-        "f08_26.2s.jpg",
-        "f09_31.5s.jpg"
-      ],
-      "transcript": "이 깔창 끼고 걸으면 한 걸음에 스쿼트 다섯 번인데 골반 여신이 안 되겠냐고 못 믿겠으면 한번 끼고 다녀봐 걷자마자 종아리에 쏠리던 힘이 엉덩이로 올라가는 게 바로 느껴지는데 원래 모델 전용으로 나온 제품인데 하루 종일 서 있어도 골반나인 안 무너지게 보행 패턴부터 바꾸도록 특화 설계된 거라고 팔 아치를 11% 끌어올리면서 내 방향을 동시에 잡아주는 포획시스 기술로 종아리에 쏠리던 힘을 엉덩이 근육으로 통째로 돌려버리는 구조라 10분만 걸어도 스쿼트 수백 번 한 거랑 같은 자극 받게 될 거임 초딩 골반으로 평생 살았던 내가 골반 여신 소리 듣게 됐다니까 한 가지 아쉬운 건 꼭 내가 사면 할인하는 거임 지금 최대 53% 할인해서 하나에 3만 원 되면 구하니까 나처럼 손해보지 말고 골반 여신 되고 싶으면 지금 구해서 이득 봐",
-      "analyzed": true,
-      "base": {
-        "hook_type": "골반여신 반복형",
-        "first_3s": "'한 걸음에 스쿼트 다섯 번, 골반 여신 안 되겠냐'",
-        "appeal_angle": "골반·엉덩이",
-        "cta": "못 믿겠으면 끼고 다녀봐",
-        "keywords": [
-          "골반 여신",
-          "스쿼트 다섯번",
-          "포획시스",
-          "보행 패턴"
-        ]
-      },
-      "audio": {
-        "opening_line": "이 깔창 끼고 걸으면 한 걸음에 스쿼트 다섯 번인데 골반 여신이 안 되겠냐고",
-        "voice_style": "도발 반말체",
-        "narration_mode": "1인칭 권유"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "아치 11%·힘 재분배",
-        "before_after": "–",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "골반·엉덩이",
-        "appeal_axis": "기능(체형)"
-      },
-      "trust": {
-        "evidence": "포획시스 기술",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "엉덩이조여·안되겠냐와 같은 '조여짐/여신' 훅의 3번째 변형이라 신선도가 바닥이다. 1.07로 최하위권 — 훅 반복의 명확한 대가.",
-      "why": "동일 훅 3번째 변형 → 소재 피로 극대화."
-    },
-    {
-      "key": "am극찬이다Ⅵ_T",
-      "rank_note": "top",
-      "roas": 0.91,
-      "spend": 694285.0,
-      "ctr": 3.98,
-      "cvr": 1.83,
-      "cpa": 49592,
-      "purchases": 14.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 694285.0,
-          "revenue": 628600.0,
-          "roas": 0.91,
-          "ctr": 3.98,
-          "cvr": 1.83,
-          "cpa": 49592,
-          "purchases": 14.0,
-          "hook_rate": 62.8,
-          "hold_rate": 49.7,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.9s.jpg",
-        "f05_13.7s.jpg",
-        "f06_20.6s.jpg",
-        "f07_27.5s.jpg",
-        "f08_34.4s.jpg",
-        "f09_41.2s.jpg"
-      ],
-      "transcript": "애플 힙 간절한 사람만 써보라는 그 깔창? 신제품 아치 핀 맥스가 엉덩이 뽕긋하게 만들어준다고 극찬받고 있는 이유 님들 이렇게 빨리 엉덩 모양 바뀌는 거 본 적 있음? 이건 그냥 깔창이 아니라 작정하고 스펙 갈아업고 출시된 아치 핀 맥스임 사람들이 진짜 놀라는 이유는 따로 있는데 바로 골반 교정에서 오는 엉덩이 변화임 골반 틀어지면 걸을 때 엉덩이 근육이 제대로 안 쓰이면서 한쪽만 처지고 납작하게 퍼져버리거든 아치 핀 맥스는 달라 포획시스 기술로 아치를 11% 끌어올려 발부터 골반까지 중력선을 통째로 바로 잡으면? 걸을 때마다 엉덩이 근육이 자동으로 활성화되면서 처진 힙은 올라 붙고 퍼진 골반은 좌우로 넓어져 이건 그냥 공장형 제품들하고는 해센부터 다른데 아치 핀 따라한 유사품들이 쏟아질 때 대표가 직접 각성해서 만든 찬교육 깔창이라 항공기 부품용 TPU 소재까지 박아 넣어서 탄성이랑 수명이 차원이 다름 신으면 걸을 때마다 힙업 운동하는 셈 현존 아치 패드 중 엉덩이 라인까지 바꿔준다는 반응 제일 많은",
-      "analyzed": true,
-      "base": {
-        "hook_type": "애플힙 소구형",
-        "first_3s": "'애플 힙 간절한 사람만 써보라는 그 깔창'",
-        "appeal_angle": "엉덩이·골반(힙업)",
-        "cta": "",
-        "keywords": [
-          "애플 힙",
-          "엉덩이 뽕긋",
-          "골반 교정",
-          "한쪽 처짐"
-        ]
-      },
-      "audio": {
-        "opening_line": "애플 힙 간절한 사람만 써보라는 그 깔창?",
-        "voice_style": "도발 반말",
-        "narration_mode": "1인칭 권유"
-      },
-      "visual": {
-        "format": "실사",
-        "mechanism_viz": "골반 교정→엉덩이 근육",
-        "before_after": "엉덩 모양 변화",
-        "subtitle_style": "자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "힙업·골반",
-        "appeal_axis": "미용(힙)"
-      },
-      "trust": {
-        "evidence": "골반 교정 원리",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "양호"
-      },
-      "one_liner": "'애플힙'이라는 강한 미용 욕망 훅 + 골반교정 논리. 엉덩이 라인이라는 젊은 여성 욕망을 정조준한 소재.",
-      "why": "강한 미용 욕망(애플힙) 훅 + 교정 논리."
-    },
-    {
       "key": "am끼면큰일남Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 0.89,
-      "spend": 1086538.0,
-      "ctr": 3.48,
-      "cvr": 1.7,
-      "cpa": 49388,
+      "roas": 0.92,
+      "spend": 1052243.0,
+      "ctr": 2.43,
+      "cvr": 3.27,
+      "cpa": 47829,
       "purchases": 22.0,
       "platforms": [
-        "meta",
-        "tiktok"
+        "meta"
       ],
       "platform_metrics": {
-        "tiktok": {
-          "spend": 34295.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 6.58,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": 50.5,
-          "hold_rate": 77.0,
-          "play50": null,
-          "completion": null
-        },
         "meta": {
           "spend": 1052243.0,
           "revenue": 972200.0,
@@ -1318,12 +1212,12 @@
     {
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 0.51,
-      "spend": 19998678.0,
-      "ctr": 3.43,
+      "roas": 0.49,
+      "spend": 21418550.0,
+      "ctr": 3.49,
       "cvr": 0.14,
-      "cpa": 103620,
-      "purchases": 193.0,
+      "cpa": 108724,
+      "purchases": 197.0,
       "platforms": [
         "meta",
         "tiktok"
@@ -1343,15 +1237,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 19998638.0,
-          "revenue": 10297100.0,
-          "roas": 0.51,
-          "ctr": 3.43,
+          "spend": 21418510.0,
+          "revenue": 10513800.0,
+          "roas": 0.49,
+          "ctr": 3.49,
           "cvr": 0.14,
-          "cpa": 103620,
-          "purchases": 193.0,
-          "hook_rate": 75.8,
-          "hold_rate": 66.8,
+          "cpa": 108723,
+          "purchases": 197.0,
+          "hook_rate": 75.9,
+          "hold_rate": 68.0,
           "play50": null,
           "completion": null
         }

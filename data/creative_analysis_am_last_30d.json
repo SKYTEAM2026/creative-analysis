@@ -2,7 +2,7 @@
   "code": "am",
   "product": "아치핀 맥스",
   "range": "last_30d",
-  "generated": "2026-10-08",
+  "generated": "2026-10-13",
   "criteria": "유의미 지출(제한없음↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -29,26 +29,26 @@
     {
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
-      "roas": 2.13,
-      "spend": 16992492.0,
-      "ctr": 1.71,
-      "cvr": 5.35,
-      "cpa": 22271,
-      "purchases": 763.0,
+      "roas": 2.08,
+      "spend": 15156221.0,
+      "ctr": 1.59,
+      "cvr": 5.67,
+      "cpa": 22487,
+      "purchases": 674.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 16992492.0,
-          "revenue": 36178780.0,
-          "roas": 2.13,
-          "ctr": 1.71,
-          "cvr": 5.35,
-          "cpa": 22271,
-          "purchases": 763.0,
-          "hook_rate": 23.4,
-          "hold_rate": 37.2,
+          "spend": 15156221.0,
+          "revenue": 31473569.0,
+          "roas": 2.08,
+          "ctr": 1.59,
+          "cvr": 5.67,
+          "cpa": 22487,
+          "purchases": 674.0,
+          "hook_rate": 22.9,
+          "hold_rate": 35.3,
           "play50": null,
           "completion": null
         }
@@ -108,26 +108,26 @@
     {
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
-      "roas": 1.92,
-      "spend": 9890368.0,
+      "roas": 1.94,
+      "spend": 9409237.0,
       "ctr": 1.38,
-      "cvr": 6.11,
-      "cpa": 23271,
-      "purchases": 425.0,
+      "cvr": 6.02,
+      "cpa": 22618,
+      "purchases": 416.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 9890368.0,
-          "revenue": 18953800.0,
-          "roas": 1.92,
+          "spend": 9409237.0,
+          "revenue": 18264925.0,
+          "roas": 1.94,
           "ctr": 1.38,
-          "cvr": 6.11,
-          "cpa": 23271,
-          "purchases": 425.0,
+          "cvr": 6.02,
+          "cpa": 22618,
+          "purchases": 416.0,
           "hook_rate": 18.8,
-          "hold_rate": 20.7,
+          "hold_rate": 20.8,
           "play50": null,
           "completion": null
         }
@@ -184,26 +184,26 @@
     {
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 0.38,
-      "spend": 8486796.0,
-      "ctr": 3.72,
-      "cvr": 0.11,
-      "cpa": 136884,
-      "purchases": 62.0,
+      "roas": 0.35,
+      "spend": 8768232.0,
+      "ctr": 3.94,
+      "cvr": 0.1,
+      "cpa": 151176,
+      "purchases": 58.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 8486796.0,
-          "revenue": 3267000.0,
-          "roas": 0.38,
-          "ctr": 3.72,
-          "cvr": 0.11,
-          "cpa": 136884,
-          "purchases": 62.0,
-          "hook_rate": 77.6,
-          "hold_rate": 87.7,
+          "spend": 8768232.0,
+          "revenue": 3096500.0,
+          "roas": 0.35,
+          "ctr": 3.94,
+          "cvr": 0.1,
+          "cpa": 151176,
+          "purchases": 58.0,
+          "hook_rate": 78.5,
+          "hold_rate": 88.7,
           "play50": null,
           "completion": null
         }
