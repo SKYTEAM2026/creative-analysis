@@ -2,7 +2,7 @@
   "code": "tw",
   "product": "아큐스터",
   "range": "last_14d",
-  "generated": "2026-10-19",
+  "generated": "2026-10-22",
   "criteria": "유의미 지출(3,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -25,28 +25,215 @@
   },
   "creatives": [
     {
-      "key": "tw나나PPL_T",
+      "key": "tw명절독박상황극Ⅰ_AI",
       "rank_note": "top",
-      "roas": 4.45,
-      "spend": 1925703.0,
-      "ctr": 2.05,
-      "cvr": 9.89,
-      "cpa": 11887,
-      "purchases": 162.0,
+      "roas": 4.4,
+      "spend": 2253525.0,
+      "ctr": 2.09,
+      "cvr": 2.64,
+      "cpa": 11963,
+      "purchases": 188.369118,
       "platforms": [
+        "google",
         "meta"
       ],
       "platform_metrics": {
+        "google": {
+          "spend": 1993009.0,
+          "revenue": 9709870.0,
+          "roas": 4.87,
+          "ctr": 1.98,
+          "cvr": 2.79,
+          "cpa": 10810,
+          "purchases": 184.369118,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 22.3,
+          "completion": 8.0
+        },
         "meta": {
-          "spend": 1925703.0,
-          "revenue": 8569700.0,
-          "roas": 4.45,
-          "ctr": 2.05,
-          "cvr": 9.89,
-          "cpa": 11887,
-          "purchases": 162.0,
-          "hook_rate": 20.4,
-          "hold_rate": 20.1,
+          "spend": 260516.0,
+          "revenue": 194600.0,
+          "roas": 0.75,
+          "ctr": 6.71,
+          "cvr": 0.77,
+          "cpa": 65129,
+          "purchases": 4.0,
+          "hook_rate": 61.4,
+          "hold_rate": 57.9,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_16.7s.jpg",
+        "f05_33.3s.jpg",
+        "f06_50.0s.jpg",
+        "f07_66.6s.jpg",
+        "f08_83.3s.jpg",
+        "f09_100.0s.jpg"
+      ],
+      "transcript": "아직도 다 못했니? 집에서 먹고 놀기만 하니 행동도 둔에 터졌구나. 덩치 값 좀 해라. 엄마는? 올케. 불 앞이라 땀 한 바가지 흘리고 나면 몸도 가벼워지고 좋을 거야. 어휴 형님 저도 도와드리고 싶은데 형님만으로도 주방이 꽉 차서 제가 들어갈 자리가 없네요. 남들 잘 때 일어나 땀 흘려 일해도 돌아오는 건 살쪘다는 핀잔뿐이었다. 얘 남들은 관리하느라 군기도 한다는데 너는 왜 그렇게 악착같이 챙겨 먹는 거니? 내가 만든 음식을 맛도 못 보고 설거지만 했다. 내가 뭘 그렇게 잘못했다고 이런 대우를 받아야 해? 아큐스터가 발바닥 혈자리를 자극해 고인 붓기를 전부 배출시킨다. 굶어도 운동에도 안 빠지던 건 게을러서가 아니었다. 방법이 틀린 거였다. 큰아가 왜 이렇게 달라졌니? 맞아요. 매번 제 가슴에 데모 박아주신 덕분에 완전히 다른 사람이 되어버렸네요. 형님 이걸 왜 저한테. 난 이제 여기 안 올 거야. 그 이랑도 헤어졌어요 어머니. 그러니까 이 주방은 니가 채워야지. 엄마 엄마가 빨리 사과해. 엄마 때문에 이혼 남됐잖아. 아니 이게 이제 와서 엄마 탓을 해. 올케 어떻게 빼는지 나한테만 말해주면 안 돼? 가벼워진 몸으로 나는 훨씬 당당하게 나다워졌다. 잠들기 전 하루 10분이 무게를 바꿔줍니다. 지압 트위스터 아큐스터.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "시댁 갈등 사이다 드라마",
+        "first_3s": "명절 음식 가득한 주방의 며느리 + '지옥 같던 시댁 탈출, 시어머니와 아들의 비참한 결말' 자막",
+        "appeal_angle": "무시당하던 며느리의 체형 반전 서사",
+        "cta": "잠들기 전 하루 10분",
+        "keywords": [
+          "명절 독박",
+          "덩치 값",
+          "굶어도 안 빠지던",
+          "하루 10분",
+          "지압 트위스터"
+        ]
+      },
+      "audio": {
+        "opening_line": "아직도 다 못했니? 집에서 먹고 놀기만 하니",
+        "voice_style": "드라마 대사 다인 연기",
+        "narration_mode": "상황극 + 내레이션 혼합"
+      },
+      "visual": {
+        "format": "AI 생성 실사 드라마(2분 장편)",
+        "mechanism_viz": "발바닥 혈자리 자극·붓기 배출",
+        "before_after": "극 중 체형 반전",
+        "subtitle_style": "자극 헤드라인 + 대사 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "명절 노동·시댁 스트레스층",
+        "appeal_axis": "억울함 해소 + 체형 반전"
+      },
+      "trust": {
+        "evidence": "발바닥 혈자리 자극으로 붓기 배출 주장",
+        "refund": "언급 없음",
+        "discount": "없음",
+        "compliance": "⚠ 고부 갈등·이혼을 오락 소재로 쓴 자극 서사(브랜드 안전성), '굶어도 안 빠지던 건 방법이 틀린 것' 감량 단정"
+      },
+      "one_liner": "명절 독박이라는 시즌 감정을 사이다 서사로 길게 끌고 가는 소재. 이야기는 강하지만 제품은 반전 장치로만 스쳐 지나가 시청은 남고 제품 이해는 덜 남는다.",
+      "why": "긴 호흡 드라마가 감정 이입으로 이탈을 막는 건 맞지만, 갈등 서사가 전면이라 제품 기억과 브랜드 인상이 분리된다. 시즌이 끝나면 재사용도 어렵다."
+    },
+    {
+      "key": "tw가장빨리빼Ⅰ_AI",
+      "rank_note": "top",
+      "roas": 3.99,
+      "spend": 3647033.0,
+      "ctr": 0.92,
+      "cvr": 4.85,
+      "cpa": 13501,
+      "purchases": 270.138346,
+      "platforms": [
+        "google"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 3647033.0,
+          "revenue": 14534690.0,
+          "roas": 3.99,
+          "ctr": 0.92,
+          "cvr": 4.85,
+          "cpa": 13501,
+          "purchases": 270.138346,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 8.7,
+          "completion": 4.8
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_3.8s.jpg",
+        "f05_7.6s.jpg",
+        "f06_11.3s.jpg",
+        "f07_15.1s.jpg",
+        "f08_18.9s.jpg",
+        "f09_22.7s.jpg"
+      ],
+      "transcript": "필라테스 강사가 말아주는 15일 완성 개미허리 챌린지 아랫배 가장 빨리 빼는 방법은 바로 근육 자극 플러스 혈액순환 이 두 개만 챙기면 돼요 아침에 일어나서 공복에 100번 밟고 100번 돌렸거든요 딱 15일만 버텼더니 허리돌레 2인치나 줄어든 거 있죠 덕분에 튀어나온 아랫배랑 허리 군살이 쫙 빠지면서 완전 개미허리 됐잖아요 근육 자극, 혈액순환 이 두 가지 잊지 마세요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "챌린지·전문가 사칭형",
+        "first_3s": "AI 실사 여성이 발판 위, '15일 완성 개미허리 챌린지 / 필라테스 강사가 말아주는'",
+        "appeal_angle": "근육 자극+혈액순환 2가지 공식으로 단순화",
+        "cta": "15일 공복 루틴 제시",
+        "keywords": [
+          "15일 개미허리",
+          "필라테스 강사",
+          "허리둘레 2인치",
+          "공복 100번"
+        ]
+      },
+      "audio": {
+        "opening_line": "필라테스 강사가 말아주는 15일 완성 개미허리 챌린지",
+        "voice_style": "전문가 튜토리얼 톤",
+        "narration_mode": "3인칭 강사 설명"
+      },
+      "visual": {
+        "format": "AI 실사(가상 인물)",
+        "mechanism_viz": "발판 위 동작 시연",
+        "before_after": "허리 2인치 감소 주장",
+        "subtitle_style": "큰 노랑 훅 자막, 하단 'AI 생성' 고지"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "아랫배·허리라인 고민층",
+        "appeal_axis": "빠른 결과+전문가 신뢰"
+      },
+      "trust": {
+        "evidence": "필라테스 강사 프레임",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ '15일 개미허리·2인치' 과장. AI 생성 고지 있음"
+      },
+      "one_liner": "'필라테스 강사'라는 권위와 '15일 개미허리'라는 데드라인을 26초에 압축했다.",
+      "why": "권위+데드라인+단순 공식. AI 인물로 몸매 훅을 안전하게 확보. 결과 수치는 과장 관찰."
+    },
+    {
+      "key": "tw나나PPL_T",
+      "rank_note": "top",
+      "roas": 3.95,
+      "spend": 2495250.0,
+      "ctr": 1.97,
+      "cvr": 8.38,
+      "cpa": 13551,
+      "purchases": 184.133613,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 141794.0,
+          "revenue": 441049.0,
+          "roas": 3.11,
+          "ctr": 1.04,
+          "cvr": 4.57,
+          "cpa": 19877,
+          "purchases": 7.133613,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 6.4,
+          "completion": 3.3
+        },
+        "meta": {
+          "spend": 2353456.0,
+          "revenue": 9407700.0,
+          "roas": 4.0,
+          "ctr": 2.11,
+          "cvr": 8.67,
+          "cpa": 13296,
+          "purchases": 177.0,
+          "hook_rate": 20.0,
+          "hold_rate": 21.9,
           "play50": null,
           "completion": null
         }
@@ -109,217 +296,30 @@
       "why": "가장 흔한 핑계를 훅으로 써 공감 폭이 넓고, 실제 사용 동작·지압볼 디테일·할인+환불까지 짧게 이어져 이탈 지점이 적다."
     },
     {
-      "key": "tw명절독박상황극Ⅰ_AI",
+      "key": "tw몰라요Ⅰ_AN",
       "rank_note": "top",
-      "roas": 4.3,
-      "spend": 3612448.0,
-      "ctr": 2.09,
-      "cvr": 2.44,
-      "cpa": 12462,
-      "purchases": 289.886696,
-      "platforms": [
-        "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 3291966.0,
-          "revenue": 15065468.0,
-          "roas": 4.58,
-          "ctr": 2.01,
-          "cvr": 2.51,
-          "cpa": 11720,
-          "purchases": 280.886696,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 22.6,
-          "completion": 8.4
-        },
-        "meta": {
-          "spend": 320482.0,
-          "revenue": 463000.0,
-          "roas": 1.44,
-          "ctr": 6.93,
-          "cvr": 1.32,
-          "cpa": 35609,
-          "purchases": 9.0,
-          "hook_rate": 61.7,
-          "hold_rate": 57.6,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_16.7s.jpg",
-        "f05_33.3s.jpg",
-        "f06_50.0s.jpg",
-        "f07_66.6s.jpg",
-        "f08_83.3s.jpg",
-        "f09_100.0s.jpg"
-      ],
-      "transcript": "아직도 다 못했니? 집에서 먹고 놀기만 하니 행동도 둔에 터졌구나. 덩치 값 좀 해라. 엄마는? 올케. 불 앞이라 땀 한 바가지 흘리고 나면 몸도 가벼워지고 좋을 거야. 어휴 형님 저도 도와드리고 싶은데 형님만으로도 주방이 꽉 차서 제가 들어갈 자리가 없네요. 남들 잘 때 일어나 땀 흘려 일해도 돌아오는 건 살쪘다는 핀잔뿐이었다. 얘 남들은 관리하느라 군기도 한다는데 너는 왜 그렇게 악착같이 챙겨 먹는 거니? 내가 만든 음식을 맛도 못 보고 설거지만 했다. 내가 뭘 그렇게 잘못했다고 이런 대우를 받아야 해? 아큐스터가 발바닥 혈자리를 자극해 고인 붓기를 전부 배출시킨다. 굶어도 운동에도 안 빠지던 건 게을러서가 아니었다. 방법이 틀린 거였다. 큰아가 왜 이렇게 달라졌니? 맞아요. 매번 제 가슴에 데모 박아주신 덕분에 완전히 다른 사람이 되어버렸네요. 형님 이걸 왜 저한테. 난 이제 여기 안 올 거야. 그 이랑도 헤어졌어요 어머니. 그러니까 이 주방은 니가 채워야지. 엄마 엄마가 빨리 사과해. 엄마 때문에 이혼 남됐잖아. 아니 이게 이제 와서 엄마 탓을 해. 올케 어떻게 빼는지 나한테만 말해주면 안 돼? 가벼워진 몸으로 나는 훨씬 당당하게 나다워졌다. 잠들기 전 하루 10분이 무게를 바꿔줍니다. 지압 트위스터 아큐스터.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "시댁 갈등 사이다 드라마",
-        "first_3s": "명절 음식 가득한 주방의 며느리 + '지옥 같던 시댁 탈출, 시어머니와 아들의 비참한 결말' 자막",
-        "appeal_angle": "무시당하던 며느리의 체형 반전 서사",
-        "cta": "잠들기 전 하루 10분",
-        "keywords": [
-          "명절 독박",
-          "덩치 값",
-          "굶어도 안 빠지던",
-          "하루 10분",
-          "지압 트위스터"
-        ]
-      },
-      "audio": {
-        "opening_line": "아직도 다 못했니? 집에서 먹고 놀기만 하니",
-        "voice_style": "드라마 대사 다인 연기",
-        "narration_mode": "상황극 + 내레이션 혼합"
-      },
-      "visual": {
-        "format": "AI 생성 실사 드라마(2분 장편)",
-        "mechanism_viz": "발바닥 혈자리 자극·붓기 배출",
-        "before_after": "극 중 체형 반전",
-        "subtitle_style": "자극 헤드라인 + 대사 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "명절 노동·시댁 스트레스층",
-        "appeal_axis": "억울함 해소 + 체형 반전"
-      },
-      "trust": {
-        "evidence": "발바닥 혈자리 자극으로 붓기 배출 주장",
-        "refund": "언급 없음",
-        "discount": "없음",
-        "compliance": "⚠ 고부 갈등·이혼을 오락 소재로 쓴 자극 서사(브랜드 안전성), '굶어도 안 빠지던 건 방법이 틀린 것' 감량 단정"
-      },
-      "one_liner": "명절 독박이라는 시즌 감정을 사이다 서사로 길게 끌고 가는 소재. 이야기는 강하지만 제품은 반전 장치로만 스쳐 지나가 시청은 남고 제품 이해는 덜 남는다.",
-      "why": "긴 호흡 드라마가 감정 이입으로 이탈을 막는 건 맞지만, 갈등 서사가 전면이라 제품 기억과 브랜드 인상이 분리된다. 시즌이 끝나면 재사용도 어렵다."
-    },
-    {
-      "key": "tw가장빨리빼Ⅰ_AI",
-      "rank_note": "top",
-      "roas": 4.02,
-      "spend": 2570135.0,
-      "ctr": 1.13,
-      "cvr": 4.77,
-      "cpa": 13462,
-      "purchases": 190.913724,
+      "roas": 3.7,
+      "spend": 2224012.0,
+      "ctr": 0.64,
+      "cvr": 3.21,
+      "cpa": 14402,
+      "purchases": 154.427777,
       "platforms": [
         "google"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 2570135.0,
-          "revenue": 10332707.0,
-          "roas": 4.02,
-          "ctr": 1.13,
-          "cvr": 4.77,
-          "cpa": 13462,
-          "purchases": 190.913724,
+          "spend": 2224012.0,
+          "revenue": 8219169.0,
+          "roas": 3.7,
+          "ctr": 0.64,
+          "cvr": 3.21,
+          "cpa": 14402,
+          "purchases": 154.427777,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 11.9,
-          "completion": 7.1
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_3.8s.jpg",
-        "f05_7.6s.jpg",
-        "f06_11.3s.jpg",
-        "f07_15.1s.jpg",
-        "f08_18.9s.jpg",
-        "f09_22.7s.jpg"
-      ],
-      "transcript": "필라테스 강사가 말아주는 15일 완성 개미허리 챌린지 아랫배 가장 빨리 빼는 방법은 바로 근육 자극 플러스 혈액순환 이 두 개만 챙기면 돼요 아침에 일어나서 공복에 100번 밟고 100번 돌렸거든요 딱 15일만 버텼더니 허리돌레 2인치나 줄어든 거 있죠 덕분에 튀어나온 아랫배랑 허리 군살이 쫙 빠지면서 완전 개미허리 됐잖아요 근육 자극, 혈액순환 이 두 가지 잊지 마세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "챌린지·전문가 사칭형",
-        "first_3s": "AI 실사 여성이 발판 위, '15일 완성 개미허리 챌린지 / 필라테스 강사가 말아주는'",
-        "appeal_angle": "근육 자극+혈액순환 2가지 공식으로 단순화",
-        "cta": "15일 공복 루틴 제시",
-        "keywords": [
-          "15일 개미허리",
-          "필라테스 강사",
-          "허리둘레 2인치",
-          "공복 100번"
-        ]
-      },
-      "audio": {
-        "opening_line": "필라테스 강사가 말아주는 15일 완성 개미허리 챌린지",
-        "voice_style": "전문가 튜토리얼 톤",
-        "narration_mode": "3인칭 강사 설명"
-      },
-      "visual": {
-        "format": "AI 실사(가상 인물)",
-        "mechanism_viz": "발판 위 동작 시연",
-        "before_after": "허리 2인치 감소 주장",
-        "subtitle_style": "큰 노랑 훅 자막, 하단 'AI 생성' 고지"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "아랫배·허리라인 고민층",
-        "appeal_axis": "빠른 결과+전문가 신뢰"
-      },
-      "trust": {
-        "evidence": "필라테스 강사 프레임",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ '15일 개미허리·2인치' 과장. AI 생성 고지 있음"
-      },
-      "one_liner": "'필라테스 강사'라는 권위와 '15일 개미허리'라는 데드라인을 26초에 압축했다.",
-      "why": "권위+데드라인+단순 공식. AI 인물로 몸매 훅을 안전하게 확보. 결과 수치는 과장 관찰."
-    },
-    {
-      "key": "tw몰라요Ⅰ_AN",
-      "rank_note": "top",
-      "roas": 3.33,
-      "spend": 3392062.0,
-      "ctr": 0.77,
-      "cvr": 2.83,
-      "cpa": 15976,
-      "purchases": 212.323674,
-      "platforms": [
-        "google",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 2972818.0,
-          "revenue": 10808958.0,
-          "roas": 3.64,
-          "ctr": 0.66,
-          "cvr": 3.33,
-          "cpa": 14621,
-          "purchases": 203.323674,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 10.3,
-          "completion": 6.6
-        },
-        "tiktok": {
-          "spend": 419244.0,
-          "revenue": 480411.0,
-          "roas": 1.15,
-          "ctr": 3.25,
-          "cvr": 0.64,
-          "cpa": 46583,
-          "purchases": 9.0,
-          "hook_rate": 43.0,
-          "hold_rate": 71.2,
-          "play50": null,
-          "completion": null
+          "play50": 9.8,
+          "completion": 6.2
         }
       },
       "frames": [
@@ -376,12 +376,12 @@
     {
       "key": "tw갱년기상황극Ⅵ_AI",
       "rank_note": "top",
-      "roas": 3.24,
-      "spend": 1927144.0,
-      "ctr": 1.83,
-      "cvr": 3.3,
-      "cpa": 16167,
-      "purchases": 119.204772,
+      "roas": 3.29,
+      "spend": 2398847.0,
+      "ctr": 1.86,
+      "cvr": 3.53,
+      "cpa": 15778,
+      "purchases": 152.037544,
       "platforms": [
         "google",
         "meta",
@@ -389,17 +389,17 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 1507341.0,
-          "revenue": 5492939.0,
-          "roas": 3.64,
-          "ctr": 1.65,
-          "cvr": 3.45,
-          "cpa": 14465,
-          "purchases": 104.204772,
+          "spend": 1751512.0,
+          "revenue": 6704141.0,
+          "roas": 3.83,
+          "ctr": 1.63,
+          "cvr": 3.74,
+          "cpa": 13680,
+          "purchases": 128.037544,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 23.1,
-          "completion": 5.6
+          "play50": 22.8,
+          "completion": 5.5
         },
         "tiktok": {
           "spend": 649.0,
@@ -415,15 +415,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 419154.0,
-          "revenue": 760400.0,
-          "roas": 1.81,
-          "ctr": 4.04,
-          "cvr": 2.57,
-          "cpa": 27944,
-          "purchases": 15.0,
-          "hook_rate": 60.4,
-          "hold_rate": 66.8,
+          "spend": 646686.0,
+          "revenue": 1198500.0,
+          "roas": 1.85,
+          "ctr": 4.09,
+          "cvr": 2.74,
+          "cpa": 26945,
+          "purchases": 24.0,
+          "hook_rate": 60.5,
+          "hold_rate": 65.2,
           "play50": null,
           "completion": null
         }
@@ -486,28 +486,28 @@
     {
       "key": "tw김지민발레리나Ⅰ_T",
       "rank_note": "top",
-      "roas": 3.12,
-      "spend": 3929276.0,
-      "ctr": 0.61,
-      "cvr": 4.48,
-      "cpa": 17065,
-      "purchases": 230.253258,
+      "roas": 3.24,
+      "spend": 2688438.0,
+      "ctr": 0.6,
+      "cvr": 4.74,
+      "cpa": 16535,
+      "purchases": 162.595278,
       "platforms": [
         "google"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 3929276.0,
-          "revenue": 12263487.0,
-          "roas": 3.12,
-          "ctr": 0.61,
-          "cvr": 4.48,
-          "cpa": 17065,
-          "purchases": 230.253258,
+          "spend": 2688438.0,
+          "revenue": 8710216.0,
+          "roas": 3.24,
+          "ctr": 0.6,
+          "cvr": 4.74,
+          "cpa": 16535,
+          "purchases": 162.595278,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 18.4,
-          "completion": 15.7
+          "play50": 18.8,
+          "completion": 16.0
         }
       },
       "frames": [
@@ -563,110 +563,28 @@
       "why": "권위 준거+체감 리액션+환불보장. 다만 김지민 실명 시리즈의 초상·모델 사용 근거는 점검 필요."
     },
     {
-      "key": "tw할인소동디벨Ⅰ_ANP",
-      "rank_note": "bottom",
-      "roas": 2.96,
-      "spend": 979849.0,
-      "ctr": 1.61,
-      "cvr": 4.41,
-      "cpa": 18465,
-      "purchases": 53.065623,
-      "platforms": [
-        "google"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 979849.0,
-          "revenue": 2902652.0,
-          "roas": 2.96,
-          "ctr": 1.61,
-          "cvr": 4.41,
-          "cpa": 18465,
-          "purchases": 53.065623,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 12.9,
-          "completion": 8.2
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_6.6s.jpg",
-        "f05_13.1s.jpg",
-        "f06_19.7s.jpg",
-        "f07_26.3s.jpg",
-        "f08_32.9s.jpg",
-        "f09_39.4s.jpg"
-      ],
-      "transcript": "오늘 살까 내일 살까 고민하고 있쥬? 지금 사야 발값이 득 내일 사면 발값 손해 살까 말까 할까 말까 망설이고 있쥬? 무조건 해야 한다 안하면 다이어트 실패 에이 에이 에이 기구 아키스터로",
-      "analyzed": true,
-      "base": {
-        "hook_type": "3D 애니 가족 할인 고민 노래 훅",
-        "first_3s": "픽사풍 3D 애니 여자아이가 지압판으로 얼굴을 가리고 눈만 굴림, 뒤에 통통한 부모. '덤덤덤덤' 자막 후 가족이 지압판 위에서 '오늘 살까' 노래",
-        "appeal_angle": "지금 사야 이득이라는 할인 긴급성 + 다이어트(살 빼기) 가족 챌린지",
-        "cta": "무조건 해야 한다 안 하면 다이어트 실패 / 기구 아큐스터로",
-        "keywords": [
-          "할인",
-          "오늘 살까 내일 살까",
-          "다이어트",
-          "가족",
-          "3D 애니",
-          "노래",
-          "챌린지"
-        ]
-      },
-      "audio": {
-        "opening_line": "오늘 살까 내일 살까 고민하고 있쥬?",
-        "voice_style": "충청도 사투리 섞인 코믹 CM송, 중반 이후 '에이 에이' 후렴 반복",
-        "narration_mode": "노래(징글) 단독, 설명 내레이션 없음"
-      },
-      "visual": {
-        "format": "AI 3D 애니메이션(픽사풍) 뮤직비디오, 레터박스 프레임",
-        "mechanism_viz": "없음",
-        "before_after": "없음",
-        "subtitle_style": "화면 중앙 파란 테두리 흰 볼드 가사 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30~40대",
-        "segment": "다이어트 관심 가족·주부층",
-        "appeal_axis": "할인 긴급성 / 다이어트"
-      },
-      "trust": {
-        "evidence": "없음",
-        "refund": "없음",
-        "discount": "할인 언급(구체 금액·비율 없음)",
-        "compliance": "특이사항 없음"
-      },
-      "one_liner": "중독성 노래와 3D 가족 캐릭터로 눈길은 잡지만 제품이 무엇을 해주는지는 거의 말하지 않는 할인 징글.",
-      "why": "'살까 말까'만 반복하고 효익·사용 장면·작동 원리가 빠져 있어 제품을 모르는 신규 고객에겐 살 이유가 없음. 할인도 구체 숫자 없이 말로만 강조돼 긴급성이 약하고, 후반 25초 가까이가 '에이 에이' 후렴이라 정보 밀도가 낮음. 아큐스터 핵심 소구(순환·붓기)가 아닌 다이어트로 타겟이 흐려짐. 이미 제품을 아는 리타겟 층에서만 작동하는 구조."
-    },
-    {
       "key": "tw추석쌩돈Ⅷ_AP",
       "rank_note": "bottom",
-      "roas": 2.87,
-      "spend": 2086724.0,
-      "ctr": 12.07,
-      "cvr": 0.36,
-      "cpa": 19322,
-      "purchases": 108.0,
+      "roas": 2.96,
+      "spend": 1795033.0,
+      "ctr": 13.79,
+      "cvr": 0.31,
+      "cpa": 18895,
+      "purchases": 95.0,
       "platforms": [
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 2086724.0,
-          "revenue": 5988898.0,
-          "roas": 2.87,
-          "ctr": 12.07,
-          "cvr": 0.36,
-          "cpa": 19322,
-          "purchases": 108.0,
-          "hook_rate": 80.9,
-          "hold_rate": 93.7,
+          "spend": 1795033.0,
+          "revenue": 5313298.0,
+          "roas": 2.96,
+          "ctr": 13.79,
+          "cvr": 0.31,
+          "cpa": 18895,
+          "purchases": 95.0,
+          "hook_rate": 85.1,
+          "hold_rate": 93.0,
           "play50": null,
           "completion": null
         }
@@ -725,355 +643,30 @@
       "why": "붓기는 보조 소구라 구매 동기가 약하고, 사용 전후나 복부 변화 장면이 없어 결정 근거가 얇다. 같은 오퍼를 복부 소구에 얹는 편이 낫다."
     },
     {
-      "key": "tw짝퉁사지마노래Ⅰ_AN",
-      "rank_note": "top",
-      "roas": 2.77,
-      "spend": 19845773.0,
-      "ctr": 2.01,
-      "cvr": 2.81,
-      "cpa": 19234,
-      "purchases": 1031.8316519999998,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 11029144.0,
-          "revenue": 40058257.0,
-          "roas": 3.63,
-          "ctr": 1.28,
-          "cvr": 4.52,
-          "cpa": 14650,
-          "purchases": 752.831652,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 9.8,
-          "completion": 5.1
-        },
-        "tiktok": {
-          "spend": 3191990.0,
-          "revenue": 5854180.0,
-          "roas": 1.83,
-          "ctr": 4.19,
-          "cvr": 0.73,
-          "cpa": 28757,
-          "purchases": 111.0,
-          "hook_rate": 51.4,
-          "hold_rate": 83.9,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 5624639.0,
-          "revenue": 9086300.0,
-          "roas": 1.62,
-          "ctr": 2.84,
-          "cvr": 3.43,
-          "cpa": 33480,
-          "purchases": 168.0,
-          "hook_rate": 36.8,
-          "hold_rate": 31.8,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_9.2s.jpg",
-        "f05_18.4s.jpg",
-        "f06_27.7s.jpg",
-        "f07_36.9s.jpg",
-        "f08_46.1s.jpg",
-        "f09_55.3s.jpg"
-      ],
-      "transcript": "제발 작품 좀 사지 마세요 왜 효과도 누군가가 일밀히 단위로 직접 설계한 기주만 써도 완벽한 보건자",
-      "analyzed": true,
-      "base": {
-        "hook_type": "경고·비교형(짝퉁 사지 마세요)",
-        "first_3s": "롤빗 꽂은 통통한 애니 아줌마가 정품/짝퉁 두 지압판 들고 '제발 짝퉁 좀 사지 마세요~!!!!!'",
-        "appeal_angle": "정품 차별화(설계·지압 혈자리 자극·트위스트) vs 효과 없는 짝퉁",
-        "cta": "정품 선택 유도(명시 가격 CTA 약함)",
-        "keywords": [
-          "짝퉁",
-          "정품",
-          "발바닥 혈자리",
-          "좌로 우로 트위스트",
-          "효과 1도 없어요",
-          "노래",
-          "애니"
-        ]
-      },
-      "audio": {
-        "opening_line": "제발 짝퉁 좀 사지 마세요",
-        "voice_style": "중년 아줌마 캐릭터의 코믹 트로트풍 노래",
-        "narration_mode": "징글/노래 + 3D 애니메이션"
-      },
-      "visual": {
-        "format": "픽사풍 3D 애니메이션 캐릭터 코미디",
-        "mechanism_viz": "발바닥이 지압 돌기 밟는 3D 컷, 좌우 트위스트 댄스",
-        "before_after": "짝퉁 쓰고 '효과 1도 없어요' 뱃살 잡는 컷 vs 정품 엄지척 대비",
-        "subtitle_style": "중앙 노랑 테두리 파랑/흰 굵은 자막(노래 가사)"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30~50대",
-        "segment": "유사품 비교 중인 구매 고려층",
-        "appeal_axis": "정품 신뢰·손해 회피"
-      },
-      "trust": {
-        "evidence": "직접 설계한 정품 강조(구체 근거는 약함)",
-        "refund": "언급 없음",
-        "discount": "언급 없음",
-        "compliance": "특이 리스크 없음(타사 지칭 없는 '짝퉁' 비교, 체형 묘사는 코믹 캐릭터 수준)"
-      },
-      "one_liner": "'짝퉁 사지 마세요' 한 줄로 이미 비교 중인 사람을 정품으로 끌어오는 코믹 애니 노래 — 하단 퍼널을 정확히 겨눈다",
-      "why": "카테고리 유사품이 많은 상황에서 '살지 말지'가 아니라 '어디서 살지' 고민하는 구매 직전층을 겨냥해 손해 회피 심리를 건드림. 통통한 아줌마 캐릭터지만 애니 코미디라 노화·비하 거부감이 적고, 노래로 메시지가 반복 각인됨. 혈자리·트위스트 기전도 짧게 넣어 정품 차별 이유를 최소한 제시."
-    },
-    {
-      "key": "tw밟는경락남성Ⅰ_AN",
-      "rank_note": "bottom",
-      "roas": 2.75,
-      "spend": 6887025.0,
-      "ctr": 1.28,
-      "cvr": 3.41,
-      "cpa": 19851,
-      "purchases": 346.927866,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 4642811.0,
-          "revenue": 15971626.0,
-          "roas": 3.44,
-          "ctr": 1.08,
-          "cvr": 3.65,
-          "cpa": 15904,
-          "purchases": 291.927866,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 10.4,
-          "completion": 4.6
-        },
-        "tiktok": {
-          "spend": 8841.0,
-          "revenue": 108744.0,
-          "roas": 12.3,
-          "ctr": 9.34,
-          "cvr": 2.35,
-          "cpa": 4420,
-          "purchases": 2.0,
-          "hook_rate": 69.0,
-          "hold_rate": 90.8,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 2235373.0,
-          "revenue": 2832900.0,
-          "roas": 1.27,
-          "ctr": 3.84,
-          "cvr": 2.53,
-          "cpa": 42177,
-          "purchases": 53.0,
-          "hook_rate": 54.8,
-          "hold_rate": 45.8,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.0s.jpg",
-        "f05_13.9s.jpg",
-        "f06_20.9s.jpg",
-        "f07_27.8s.jpg",
-        "f08_34.8s.jpg",
-        "f09_41.7s.jpg"
-      ],
-      "transcript": "52, 내 뱀을 좀 보세요 3주 전 그리고 지금 한 대에 800만 원 ㅈㄴ하게 다 부었지",
-      "analyzed": true,
-      "base": {
-        "hook_type": "나이 제시 + 전후 비교 선언",
-        "first_3s": "만화풍 애니 52세 남성이 배를 내밀고 손가락으로 나이를 표시 + '52세' 자막",
-        "appeal_angle": "중년 남성 뱃살 3주 전후",
-        "cta": "약함",
-        "keywords": [
-          "52세",
-          "3주 전 그리고 지금",
-          "밟는 경락판",
-          "지압볼",
-          "뱃살"
-        ]
-      },
-      "audio": {
-        "opening_line": "52, 내 배를 좀 보세요. 3주 전 그리고 지금",
-        "voice_style": "중년 남성 무심한 톤, 대사량 적음",
-        "narration_mode": "1인칭 짧은 대사 + 자막 위주"
-      },
-      "visual": {
-        "format": "2D 만화 애니(AI 고지문 표기)",
-        "mechanism_viz": "제품 지압볼 클로즈업 위주",
-        "before_after": "전후 비교를 서사로 제시",
-        "subtitle_style": "흰 굵은 자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "50대",
-        "segment": "뱃살 신경 쓰는 중년 남성",
-        "appeal_axis": "전후 변화 + 자기비하 유머"
-      },
-      "trust": {
-        "evidence": "본인 전후 주장",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ 3주 만의 체형 변화 단정, 경락·혈 자극 등 한방 표현"
-      },
-      "one_liner": "중년 남성을 만화로 그려 거부감 없이 뱃살 얘기를 꺼내는 건 영리한 선택이고 타겟도 선명하다. 다만 대사가 거의 없어 전후 주장만 남고 근거 구간이 비어 있다.",
-      "why": "만화 포맷 덕에 체형 소재를 불쾌감 없이 다루지만, 메커니즘 설명과 오퍼가 얇아 클릭 이후를 받쳐주지 못한다. 같은 캐릭터로 원리 컷을 붙이는 게 개선 방향."
-    },
-    {
-      "key": "tw추석야랄Ⅰ_AN",
-      "rank_note": "bottom",
-      "roas": 2.52,
-      "spend": 11969316.0,
-      "ctr": 5.49,
-      "cvr": 0.81,
-      "cpa": 21081,
-      "purchases": 567.764266,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 2931532.0,
-          "revenue": 9416976.0,
-          "roas": 3.21,
-          "ctr": 0.79,
-          "cvr": 3.61,
-          "cpa": 16584,
-          "purchases": 176.764266,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 4.7,
-          "completion": 2.5
-        },
-        "tiktok": {
-          "spend": 2481614.0,
-          "revenue": 5434735.0,
-          "roas": 2.19,
-          "ctr": 16.33,
-          "cvr": 0.19,
-          "cpa": 24816,
-          "purchases": 100.0,
-          "hook_rate": 76.9,
-          "hold_rate": 87.6,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 6556170.0,
-          "revenue": 15332600.0,
-          "roas": 2.34,
-          "ctr": 3.51,
-          "cvr": 2.49,
-          "cpa": 22530,
-          "purchases": 291.0,
-          "hook_rate": 57.3,
-          "hold_rate": 18.2,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_11.4s.jpg",
-        "f05_22.8s.jpg",
-        "f06_34.2s.jpg",
-        "f07_45.6s.jpg",
-        "f08_57.0s.jpg",
-        "f09_68.4s.jpg"
-      ],
-      "transcript": "퀄리티가 개니허리가 됐길래 비결이 뭐냐고 물어보니 야! 큐스터분 발꼽에 없다는데 야랄란데 야랄란데 국가대표라임",
-      "analyzed": true,
-      "base": {
-        "hook_type": "시즌 밈 + 할인 고지",
-        "first_3s": "한옥 마당에서 한복 입은 3D 가족 5명이 제품 위에 올라 춤 + '아큐스터 추석특가 시작 최대 -53%off'",
-        "appeal_angle": "명절 시즌 특가",
-        "cta": "추석특가 최대 53% off",
-        "keywords": [
-          "추석특가",
-          "53% off",
-          "야랄났네",
-          "국가대표라임"
-        ]
-      },
-      "audio": {
-        "opening_line": "허리가 개미허리가 됐길래 비결이 뭐냐고 물어보니",
-        "voice_style": "야랄났네 후렴 재활용 노래",
-        "narration_mode": "노래+짧은 내레이션"
-      },
-      "visual": {
-        "format": "3D 애니(한복·한옥)",
-        "mechanism_viz": "없음",
-        "before_after": "없음",
-        "subtitle_style": "상단 대형 할인 고지 배너 고정"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40·50대",
-        "segment": "명절 소비 시즌 구매층",
-        "appeal_axis": "시즌 할인"
-      },
-      "trust": {
-        "evidence": "없음",
-        "refund": "–",
-        "discount": "최대 53% off 상단 고정",
-        "compliance": "⚠ 상시 할인이면 '추석특가' 한정 표현은 표시광고 리스크"
-      },
-      "one_liner": "야랄났네 후렴을 명절 버전으로 갈아끼운 파생인데 원본(2.07)보다도 낮다.",
-      "why": "할인 배너를 상단에 박은 건 맞는 방향이지만, 소구가 '싸다' 하나뿐이라 시즌이 끝나면 남는 자산이 없다. 밈 파생은 원본 대비 체감 신선도가 떨어진다."
-    },
-    {
       "key": "tw피로회복제Ⅷ_T",
       "rank_note": "bottom",
-      "roas": 2.42,
-      "spend": 843771.0,
-      "ctr": 1.41,
-      "cvr": 3.0,
-      "cpa": 22144,
-      "purchases": 38.103552,
+      "roas": 2.88,
+      "spend": 676444.0,
+      "ctr": 1.42,
+      "cvr": 3.72,
+      "cpa": 18158,
+      "purchases": 37.253382,
       "platforms": [
         "google"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 843771.0,
-          "revenue": 2045550.0,
-          "roas": 2.42,
-          "ctr": 1.41,
-          "cvr": 3.0,
-          "cpa": 22144,
-          "purchases": 38.103552,
+          "spend": 676444.0,
+          "revenue": 1949207.0,
+          "roas": 2.88,
+          "ctr": 1.42,
+          "cvr": 3.72,
+          "cpa": 18158,
+          "purchases": 37.253382,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 14.1,
-          "completion": 7.5
+          "play50": 12.7,
+          "completion": 6.2
         }
       },
       "frames": [
@@ -1134,42 +727,56 @@
       "why": "피로·순환은 체감 결과가 눈에 안 보이는 소구라 전후가 없고, 한방 효능 표현은 컴플라 리스크도 있다. 할인은 있지만 환불 보장이 빠져 망설임을 못 넘는다."
     },
     {
-      "key": "tw한집부부PPL_T",
+      "key": "tw짝퉁사지마노래Ⅰ_AN",
       "rank_note": "top",
-      "roas": 2.37,
-      "spend": 3112887.0,
-      "ctr": 2.7,
-      "cvr": 1.85,
-      "cpa": 23230,
-      "purchases": 134.0,
+      "roas": 2.81,
+      "spend": 17577393.0,
+      "ctr": 1.63,
+      "cvr": 2.8,
+      "cpa": 19147,
+      "purchases": 918.014314,
       "platforms": [
+        "google",
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
+        "google": {
+          "spend": 10778589.0,
+          "revenue": 37867131.0,
+          "roas": 3.51,
+          "ctr": 1.14,
+          "cvr": 3.9,
+          "cpa": 15354,
+          "purchases": 702.014314,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 10.7,
+          "completion": 5.8
+        },
         "tiktok": {
-          "spend": 368450.0,
-          "revenue": 516646.0,
-          "roas": 1.4,
-          "ctr": 6.82,
-          "cvr": 0.27,
-          "cpa": 36845,
-          "purchases": 10.0,
-          "hook_rate": 67.1,
-          "hold_rate": 91.0,
+          "spend": 2363439.0,
+          "revenue": 4756367.0,
+          "roas": 2.01,
+          "ctr": 3.78,
+          "cvr": 0.82,
+          "cpa": 26555,
+          "purchases": 89.0,
+          "hook_rate": 48.4,
+          "hold_rate": 81.9,
           "play50": null,
           "completion": null
         },
         "meta": {
-          "spend": 2744437.0,
-          "revenue": 6864300.0,
-          "roas": 2.5,
-          "ctr": 1.64,
-          "cvr": 3.56,
-          "cpa": 22133,
-          "purchases": 124.0,
-          "hook_rate": 29.2,
-          "hold_rate": 30.0,
+          "spend": 4435365.0,
+          "revenue": 6794300.0,
+          "roas": 1.53,
+          "ctr": 2.85,
+          "cvr": 3.29,
+          "cpa": 34924,
+          "purchases": 127.0,
+          "hook_rate": 37.2,
+          "hold_rate": 31.2,
           "play50": null,
           "completion": null
         }
@@ -1179,91 +786,359 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_6.3s.jpg",
-        "f05_12.6s.jpg",
-        "f06_18.9s.jpg",
-        "f07_25.2s.jpg",
-        "f08_31.5s.jpg",
-        "f09_37.8s.jpg"
+        "f04_9.2s.jpg",
+        "f05_18.4s.jpg",
+        "f06_27.7s.jpg",
+        "f07_36.9s.jpg",
+        "f08_46.1s.jpg",
+        "f09_55.3s.jpg"
       ],
-      "transcript": "아니 살 뺀 다음에 운동해야지 뭐하는 거야. 네? 오빠 이거 운동이야. 이거 무슨 운동이대. 그럼 나와봐. 내가 한 번 해볼게. 아프지? 어떻게 움직였어 이거? 잠깐만. 내 몸 엄청 시원하다. 해보니까 이제. 나 이거 일할 때 가되도 돼? 아 왜 저래. 나와. 내 차례야 이제. 아 근데 이거 진짜 시원하다. 시원하지? 제가 하체 혈액순환이 정말 안 되는데 이거 진짜 요물이에요. 홈트는 지겹고 집에서 쉽게 할 수 있는 운동이 필요했는데 이거 하루에 10분씩만 꾸준히 밟아주니까 다리 붓기가 쭉쭉 빠지더라고요. 이게 157개의 지하 볼과 10개의 마그네티 볼이 들어있어서 이렇게 밝기만 해도 혈액순환이 되고 트위스터로 운동하면 코아랑 뱃살 운동까지 동시에 할 수 있어요. 그리고 이렇게 횟수도 나오니까 운동량 체크하기에도 좋더라고요. 저녁만 되면 다리가 무겁고 붓는 분들은 집에서 간단하게 하체붙기 관리 루틴으로 정말 추천드려요.",
+      "transcript": "제발 작품 좀 사지 마세요 왜 효과도 누군가가 일밀히 단위로 직접 설계한 기주만 써도 완벽한 보건자",
       "analyzed": true,
       "base": {
-        "hook_type": "부부 티키타카 체험형",
-        "first_3s": "남편이 '살 뺀 다음에 운동해야지 뭐하는 거야'라고 타박하다 직접 밟아보고 놀람",
-        "appeal_angle": "의심하던 사람이 직접 써보고 납득",
-        "cta": "하루 10분 하체 붓기 루틴 추천",
+        "hook_type": "경고·비교형(짝퉁 사지 마세요)",
+        "first_3s": "롤빗 꽂은 통통한 애니 아줌마가 정품/짝퉁 두 지압판 들고 '제발 짝퉁 좀 사지 마세요~!!!!!'",
+        "appeal_angle": "정품 차별화(설계·지압 혈자리 자극·트위스트) vs 효과 없는 짝퉁",
+        "cta": "정품 선택 유도(명시 가격 CTA 약함)",
         "keywords": [
-          "이거 운동이야",
-          "내 몸 엄청 시원하다",
-          "157개 지압볼",
-          "10개 마그네틱볼",
-          "횟수 카운팅"
+          "짝퉁",
+          "정품",
+          "발바닥 혈자리",
+          "좌로 우로 트위스트",
+          "효과 1도 없어요",
+          "노래",
+          "애니"
         ]
       },
       "audio": {
-        "opening_line": "아니 살 뺀 다음에 운동해야지 뭐하는 거야",
-        "voice_style": "실제 부부 대화체",
-        "narration_mode": "2인 대화 + 리뷰 마무리"
+        "opening_line": "제발 짝퉁 좀 사지 마세요",
+        "voice_style": "중년 아줌마 캐릭터의 코믹 트로트풍 노래",
+        "narration_mode": "징글/노래 + 3D 애니메이션"
       },
       "visual": {
-        "format": "부부 홈 셀프캠 PPL",
-        "mechanism_viz": "지압볼·마그네틱볼 클로즈업",
-        "before_after": "없음",
-        "subtitle_style": "최소 자막"
+        "format": "픽사풍 3D 애니메이션 캐릭터 코미디",
+        "mechanism_viz": "발바닥이 지압 돌기 밟는 3D 컷, 좌우 트위스트 댄스",
+        "before_after": "짝퉁 쓰고 '효과 1도 없어요' 뱃살 잡는 컷 vs 정품 엄지척 대비",
+        "subtitle_style": "중앙 노랑 테두리 파랑/흰 굵은 자막(노래 가사)"
       },
       "target": {
         "gender": "여성",
-        "age": "30·40대",
-        "segment": "홈트 실패층",
-        "appeal_axis": "의심 해소 + 간편함"
+        "age": "30~50대",
+        "segment": "유사품 비교 중인 구매 고려층",
+        "appeal_axis": "정품 신뢰·손해 회피"
       },
       "trust": {
-        "evidence": "157개 지압볼·10개 마그네틱볼",
+        "evidence": "직접 설계한 정품 강조(구체 근거는 약함)",
         "refund": "언급 없음",
-        "discount": "없음",
-        "compliance": "특이사항 없음"
+        "discount": "언급 없음",
+        "compliance": "특이 리스크 없음(타사 지칭 없는 '짝퉁' 비교, 체형 묘사는 코믹 캐릭터 수준)"
       },
-      "one_liner": "광고 안에 회의적인 사람을 먼저 등장시켜 직접 체험시키는 구조라 반론을 소재 안에서 처리한다. 부부 대화가 자연스러워 PPL 티가 적다.",
-      "why": "시청자가 품는 '저게 운동이 되겠나'라는 의심을 남편이 대신 말하고 대신 뒤집어주는 순서가 핵심. 과장 표현이 없어 기대 관리도 안정적이다."
+      "one_liner": "'짝퉁 사지 마세요' 한 줄로 이미 비교 중인 사람을 정품으로 끌어오는 코믹 애니 노래 — 하단 퍼널을 정확히 겨눈다",
+      "why": "카테고리 유사품이 많은 상황에서 '살지 말지'가 아니라 '어디서 살지' 고민하는 구매 직전층을 겨냥해 손해 회피 심리를 건드림. 통통한 아줌마 캐릭터지만 애니 코미디라 노화·비하 거부감이 적고, 노래로 메시지가 반복 각인됨. 혈자리·트위스트 기전도 짧게 넣어 정품 차별 이유를 최소한 제시."
+    },
+    {
+      "key": "tw허리통증Ⅵ_AN",
+      "rank_note": "bottom",
+      "roas": 2.55,
+      "spend": 1777132.0,
+      "ctr": 1.93,
+      "cvr": 1.96,
+      "cpa": 21178,
+      "purchases": 83.9138,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 1358304.0,
+          "revenue": 3935457.0,
+          "roas": 2.9,
+          "ctr": 1.24,
+          "cvr": 3.16,
+          "cpa": 18377,
+          "purchases": 73.9138,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 11.9,
+          "completion": 6.5
+        },
+        "tiktok": {
+          "spend": 209306.0,
+          "revenue": 297215.0,
+          "roas": 1.42,
+          "ctr": 5.16,
+          "cvr": 0.42,
+          "cpa": 41861,
+          "purchases": 5.0,
+          "hook_rate": 55.4,
+          "hold_rate": 76.6,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 209522.0,
+          "revenue": 306300.0,
+          "roas": 1.46,
+          "ctr": 7.66,
+          "cvr": 0.67,
+          "cpa": 41904,
+          "purchases": 5.0,
+          "hook_rate": 81.2,
+          "hold_rate": 74.8,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_8.5s.jpg",
+        "f05_17.0s.jpg",
+        "f06_25.5s.jpg",
+        "f07_34.0s.jpg",
+        "f08_42.5s.jpg",
+        "f09_51.0s.jpg"
+      ],
+      "transcript": "",
+      "analyzed": true,
+      "base": {
+        "hook_type": "일상 속 허리 삐끗 공감 + '복근부터 만드셔야' 역발상 훅",
+        "first_3s": "3D 애니 앞치마 여성이 소파에서 재채기하다 '재채기 할 때 삐끗!' → 빨래 갤 때 허리뼈가 번쩍이는 X-ray 연출. 상단 고정 타이틀 '허리 고치고 싶으면 복근부터 만드셔야 합니다'",
+        "appeal_angle": "만성 허리통증 → 파스로 버티던 일상 → 트위스터로 코어(복근·척추기립근) 강화 + 순환으로 허리통증 탈출",
+        "cta": "지긋지긋 허리통증 영영 탈출했다",
+        "keywords": [
+          "허리통증",
+          "삐끗",
+          "파스",
+          "복근",
+          "척추기립근",
+          "순환",
+          "3D 애니"
+        ]
+      },
+      "audio": {
+        "opening_line": "(음성 받아쓰기 없음 — 자막 '재채기 할 때 삐끗!')",
+        "voice_style": "음성 내레이션 없이 BGM·효과음 위주로 추정",
+        "narration_mode": "자막 텍스트 내레이션"
+      },
+      "visual": {
+        "format": "AI 3D 애니메이션(픽사풍) 문제-해결 스토리",
+        "mechanism_viz": "허리뼈 X-ray 통증 번개 연출, 지압판 위 다리 근육·혈관 투시 + 전류 이펙트로 '순환 뻥 뚫림' 표현",
+        "before_after": "허리 부여잡고 파스 붙이는 모습 → 거울 앞에서 허리 라인 확인·기지개 펴며 웃는 모습",
+        "subtitle_style": "상단 고정 2줄 타이틀(빨강·노랑 강조) + 하단 흰 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "40~50대",
+        "segment": "만성 허리통증 주부",
+        "appeal_axis": "허리통증 해소 / 코어 강화"
+      },
+      "trust": {
+        "evidence": "없음",
+        "refund": "없음",
+        "discount": "없음",
+        "compliance": "⚠ '허리 고치고 싶으면'·'허리통증 영영 탈출' 등 통증 치료 효능 과장, 파스(의약외품) 대체 암시"
+      },
+      "one_liner": "허리 삐끗 공감 장면은 좋지만 '발 지압판으로 허리를 고친다'는 연결이 길고 약한 3D 애니 스토리.",
+      "why": "제목은 '복근부터'인데 영상은 지압판 순환 이펙트로 넘어가 메시지가 두 갈래로 갈림 — 허리통증 타겟이 납득할 만한 '왜 발판이 허리에?' 설명이 부족. 음성 내레이션 없이 자막만으로 흘러가 정보 전달력이 떨어지고, 할인·환불 같은 구매 트리거도 없음. 통증 치료형 표현은 컴플라 리스크."
+    },
+    {
+      "key": "tw이예지PPL_T",
+      "rank_note": "top",
+      "roas": 2.51,
+      "spend": 2188528.0,
+      "ctr": 2.2,
+      "cvr": 3.16,
+      "cpa": 21672,
+      "purchases": 100.98243,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 108446.0,
+          "revenue": 127841.0,
+          "roas": 1.18,
+          "ctr": 0.89,
+          "cvr": 1.41,
+          "cpa": 54704,
+          "purchases": 1.98243,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 6.1,
+          "completion": 4.0
+        },
+        "tiktok": {
+          "spend": 170658.0,
+          "revenue": 153592.0,
+          "roas": 0.9,
+          "ctr": 2.15,
+          "cvr": 0.33,
+          "cpa": 56886,
+          "purchases": 3.0,
+          "hook_rate": 28.7,
+          "hold_rate": 72.1,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 1909424.0,
+          "revenue": 5221400.0,
+          "roas": 2.73,
+          "ctr": 2.47,
+          "cvr": 4.46,
+          "cpa": 19890,
+          "purchases": 96.0,
+          "hook_rate": 24.8,
+          "hold_rate": 33.0,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.4s.jpg",
+        "f05_14.7s.jpg",
+        "f06_22.1s.jpg",
+        "f07_29.5s.jpg",
+        "f08_36.8s.jpg",
+        "f09_44.2s.jpg"
+      ],
+      "transcript": "러닝하면 다음날 다리 붓기 엄청 심한 거 아시죠? 하체 근육이 뭉치고 안 풀려서 땅땅해지는 거거든요? 그래서 운동 직후 괄사로 마사지 해주는 게 중요한데 저는 최근에 발만 올려두면 저절로 관리되는 하체 회복 발판을 찾았어요 국가대표 하체 회복 루틴에도 사용된다는 서마드 EMS 정밀 전류가 발끝부터 종아리 허벅지 속 근육까지 들어가서 뭉친 속 근육을 쫙쫙 풀어주고 온열 기능으로 하체 붓기까지 싹 디톡스 시켜주는 원리인데 확실히 이거 15분 하면 다음날 러닝할 때 다리 훨씬 가볍고 딱딱했던 종아리 알도 말랑해져요 그리고 무엇보다 하체 독소를 집중 공략해서 빼내주기 때문에 필요없는 군살만 빠지고 탄탄한 하체로 관리되는 거죠 요즘 러닝하고 매일 이걸로 마무리 관리하고 있는데 사용 전 후 다리 붓기 확실히 디톡스된 거 보이시죠? 해외 나가서 러닝할 때도 필수로 챙기는데 접이식이라 휴대하기도 너무 간편하고 이제 재운동 후 필수루틴이 되어버렸습니다 그리고 지금 3일간 단독으로 47% 하네요 불만족식 100% 환불보장 이벤트 하고 있다니까 이 기회 놓치지 말고 꼭 써보세요",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "tw추석다음은없다_GP",
+      "rank_note": "bottom",
+      "roas": 2.48,
+      "spend": 2576270.0,
+      "ctr": 3.88,
+      "cvr": 2.06,
+      "cpa": 21833,
+      "purchases": 118.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 2576270.0,
+          "revenue": 6401100.0,
+          "roas": 2.48,
+          "ctr": 3.88,
+          "cvr": 2.06,
+          "cpa": 21833,
+          "purchases": 118.0,
+          "hook_rate": 61.6,
+          "hold_rate": 42.9,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_2.1s.jpg",
+        "f04_3.0s.jpg",
+        "f05_4.3s.jpg",
+        "f06_6.4s.jpg",
+        "f07_8.6s.jpg",
+        "f08_10.7s.jpg",
+        "f09_12.9s.jpg"
+      ],
+      "transcript": "",
+      "analyzed": true,
+      "base": {
+        "hook_type": "희소성 경고(정지 배너)",
+        "first_3s": "어두운 승강장 배경에 '놓치면 다음은 없습니다' 대형 카피 + 추석 선물백 제품컷 + 최대 -53% 뱃지",
+        "appeal_angle": "추석 최저가 한정",
+        "cta": "추석 최저가 OPEN",
+        "keywords": [
+          "놓치면 다음은 없습니다",
+          "추석 최저가",
+          "최대 -53%",
+          "선물백"
+        ]
+      },
+      "audio": {
+        "opening_line": "(무음)",
+        "voice_style": "없음",
+        "narration_mode": "무음 정지 이미지형 영상"
+      },
+      "visual": {
+        "format": "정지 배너 영상(GP)",
+        "mechanism_viz": "없음",
+        "before_after": "없음",
+        "subtitle_style": "대형 타이포 카피 고정"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "40·50대",
+        "segment": "명절 선물·특가 대기 구매층",
+        "appeal_axis": "시즌 할인·선물"
+      },
+      "trust": {
+        "evidence": "없음",
+        "refund": "–",
+        "discount": "최대 -53% 원형 뱃지",
+        "compliance": "⚠ 상시 할인이면 '놓치면 다음은 없다'·'추석 최저가' 한정 표현은 표시광고 리스크"
+      },
+      "one_liner": "제품 효익 없이 '다음은 없다' 희소성과 할인 뱃지만 던지는 정지 배너, 이미 아는 사람 리마인드용.",
+      "why": "클릭은 잘 끌어도 왜 사야 하는지(하체·뱃살·순환) 설명이 전혀 없어 신규 유입자는 상세페이지에서 이탈한다. 시즌 배너는 리타겟/검색 등 구매의도 높은 지면에서만 효율이 난다."
     },
     {
       "key": "tw샤라웃Ⅷ_AIP",
       "rank_note": "bottom",
-      "roas": 2.32,
-      "spend": 816596.0,
-      "ctr": 2.04,
-      "cvr": 1.89,
-      "cpa": 21111,
-      "purchases": 38.680659,
+      "roas": 2.47,
+      "spend": 869668.0,
+      "ctr": 3.2,
+      "cvr": 1.26,
+      "cpa": 20221,
+      "purchases": 43.00718,
       "platforms": [
         "google",
         "tiktok"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 734882.0,
-          "revenue": 1768616.0,
-          "roas": 2.41,
+          "spend": 734803.0,
+          "revenue": 1793724.0,
+          "roas": 2.44,
           "ctr": 0.81,
-          "cvr": 5.06,
-          "cpa": 20596,
-          "purchases": 35.680659,
+          "cvr": 5.11,
+          "cpa": 20407,
+          "purchases": 36.00718,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 14.7,
           "completion": 11.3
         },
         "tiktok": {
-          "spend": 81714.0,
-          "revenue": 124205.0,
-          "roas": 1.52,
-          "ctr": 10.15,
-          "cvr": 0.22,
-          "cpa": 27238,
-          "purchases": 3.0,
-          "hook_rate": 63.4,
-          "hold_rate": 92.0,
+          "spend": 134865.0,
+          "revenue": 353346.0,
+          "roas": 2.62,
+          "ctr": 13.68,
+          "cvr": 0.26,
+          "cpa": 19266,
+          "purchases": 7.0,
+          "hook_rate": 70.3,
+          "hold_rate": 92.9,
           "play50": null,
           "completion": null
         }
@@ -1325,56 +1200,42 @@
       "why": "첫 훅부터 가격으로 열어 '왜 이 제품이 필요한가'를 만들기 전에 할인을 들이밀어, 문제 인식이 없는 사람에겐 할인 숫자가 의미가 없음. 20대 UGC 인물·효도선물·셀럽 등 타겟과 앵글이 여럿 섞여 누구 이야기인지 흐려지고, 클릭은 유도해도 구매 확신까지 이어지는 서사가 약함. 경락·혈·독소 표현은 컴플라 리스크도 큼."
     },
     {
-      "key": "tw허리통증Ⅵ_AN",
+      "key": "tw밟는경락남성Ⅰ_AN",
       "rank_note": "bottom",
-      "roas": 2.25,
-      "spend": 1058119.0,
-      "ctr": 1.7,
-      "cvr": 1.94,
-      "cpa": 23942,
-      "purchases": 44.19526,
+      "roas": 2.45,
+      "spend": 7959035.0,
+      "ctr": 1.16,
+      "cvr": 3.32,
+      "cpa": 22563,
+      "purchases": 352.741836,
       "platforms": [
         "google",
-        "meta",
-        "tiktok"
+        "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 820404.0,
-          "revenue": 2110629.0,
-          "roas": 2.57,
-          "ctr": 1.15,
-          "cvr": 2.91,
-          "cpa": 20931,
-          "purchases": 39.19526,
+          "spend": 5079553.0,
+          "revenue": 15940932.0,
+          "roas": 3.14,
+          "ctr": 0.97,
+          "cvr": 3.47,
+          "cpa": 17777,
+          "purchases": 285.741836,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 12.2,
-          "completion": 6.6
-        },
-        "tiktok": {
-          "spend": 136715.0,
-          "revenue": 172261.0,
-          "roas": 1.26,
-          "ctr": 5.77,
-          "cvr": 0.35,
-          "cpa": 45572,
-          "purchases": 3.0,
-          "hook_rate": 57.2,
-          "hold_rate": 77.4,
-          "play50": null,
-          "completion": null
+          "play50": 9.8,
+          "completion": 4.4
         },
         "meta": {
-          "spend": 101000.0,
-          "revenue": 97800.0,
-          "roas": 0.97,
-          "ctr": 3.46,
-          "cvr": 2.47,
-          "cpa": 50500,
-          "purchases": 2.0,
-          "hook_rate": 50.5,
-          "hold_rate": 41.3,
+          "spend": 2879482.0,
+          "revenue": 3545400.0,
+          "roas": 1.23,
+          "ctr": 3.58,
+          "cvr": 2.79,
+          "cpa": 42977,
+          "purchases": 67.0,
+          "hook_rate": 53.0,
+          "hold_rate": 43.9,
           "play50": null,
           "completion": null
         }
@@ -1384,93 +1245,324 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_8.5s.jpg",
-        "f05_17.0s.jpg",
-        "f06_25.5s.jpg",
-        "f07_34.0s.jpg",
-        "f08_42.5s.jpg",
-        "f09_51.0s.jpg"
+        "f04_7.0s.jpg",
+        "f05_13.9s.jpg",
+        "f06_20.9s.jpg",
+        "f07_27.8s.jpg",
+        "f08_34.8s.jpg",
+        "f09_41.7s.jpg"
       ],
-      "transcript": "",
+      "transcript": "52, 내 뱀을 좀 보세요 3주 전 그리고 지금 한 대에 800만 원 ㅈㄴ하게 다 부었지",
       "analyzed": true,
       "base": {
-        "hook_type": "일상 속 허리 삐끗 공감 + '복근부터 만드셔야' 역발상 훅",
-        "first_3s": "3D 애니 앞치마 여성이 소파에서 재채기하다 '재채기 할 때 삐끗!' → 빨래 갤 때 허리뼈가 번쩍이는 X-ray 연출. 상단 고정 타이틀 '허리 고치고 싶으면 복근부터 만드셔야 합니다'",
-        "appeal_angle": "만성 허리통증 → 파스로 버티던 일상 → 트위스터로 코어(복근·척추기립근) 강화 + 순환으로 허리통증 탈출",
-        "cta": "지긋지긋 허리통증 영영 탈출했다",
+        "hook_type": "나이 제시 + 전후 비교 선언",
+        "first_3s": "만화풍 애니 52세 남성이 배를 내밀고 손가락으로 나이를 표시 + '52세' 자막",
+        "appeal_angle": "중년 남성 뱃살 3주 전후",
+        "cta": "약함",
         "keywords": [
-          "허리통증",
-          "삐끗",
-          "파스",
-          "복근",
-          "척추기립근",
-          "순환",
-          "3D 애니"
+          "52세",
+          "3주 전 그리고 지금",
+          "밟는 경락판",
+          "지압볼",
+          "뱃살"
         ]
       },
       "audio": {
-        "opening_line": "(음성 받아쓰기 없음 — 자막 '재채기 할 때 삐끗!')",
-        "voice_style": "음성 내레이션 없이 BGM·효과음 위주로 추정",
-        "narration_mode": "자막 텍스트 내레이션"
+        "opening_line": "52, 내 배를 좀 보세요. 3주 전 그리고 지금",
+        "voice_style": "중년 남성 무심한 톤, 대사량 적음",
+        "narration_mode": "1인칭 짧은 대사 + 자막 위주"
       },
       "visual": {
-        "format": "AI 3D 애니메이션(픽사풍) 문제-해결 스토리",
-        "mechanism_viz": "허리뼈 X-ray 통증 번개 연출, 지압판 위 다리 근육·혈관 투시 + 전류 이펙트로 '순환 뻥 뚫림' 표현",
-        "before_after": "허리 부여잡고 파스 붙이는 모습 → 거울 앞에서 허리 라인 확인·기지개 펴며 웃는 모습",
-        "subtitle_style": "상단 고정 2줄 타이틀(빨강·노랑 강조) + 하단 흰 자막"
+        "format": "2D 만화 애니(AI 고지문 표기)",
+        "mechanism_viz": "제품 지압볼 클로즈업 위주",
+        "before_after": "전후 비교를 서사로 제시",
+        "subtitle_style": "흰 굵은 자막"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "50대",
+        "segment": "뱃살 신경 쓰는 중년 남성",
+        "appeal_axis": "전후 변화 + 자기비하 유머"
+      },
+      "trust": {
+        "evidence": "본인 전후 주장",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ 3주 만의 체형 변화 단정, 경락·혈 자극 등 한방 표현"
+      },
+      "one_liner": "중년 남성을 만화로 그려 거부감 없이 뱃살 얘기를 꺼내는 건 영리한 선택이고 타겟도 선명하다. 다만 대사가 거의 없어 전후 주장만 남고 근거 구간이 비어 있다.",
+      "why": "만화 포맷 덕에 체형 소재를 불쾌감 없이 다루지만, 메커니즘 설명과 오퍼가 얇아 클릭 이후를 받쳐주지 못한다. 같은 캐릭터로 원리 컷을 붙이는 게 개선 방향."
+    },
+    {
+      "key": "tw추석야랄Ⅰ_AN",
+      "rank_note": "bottom",
+      "roas": 2.4,
+      "spend": 8803622.0,
+      "ctr": 7.83,
+      "cvr": 0.51,
+      "cpa": 22052,
+      "purchases": 399.229384,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 1465453.0,
+          "revenue": 4364164.0,
+          "roas": 2.98,
+          "ctr": 0.6,
+          "cvr": 3.62,
+          "cpa": 17398,
+          "purchases": 84.229384,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 2.6,
+          "completion": 1.2
+        },
+        "tiktok": {
+          "spend": 3016536.0,
+          "revenue": 7179356.0,
+          "roas": 2.38,
+          "ctr": 17.62,
+          "cvr": 0.19,
+          "cpa": 23027,
+          "purchases": 131.0,
+          "hook_rate": 78.0,
+          "hold_rate": 86.4,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 4321633.0,
+          "revenue": 9619500.0,
+          "roas": 2.23,
+          "ctr": 3.48,
+          "cvr": 2.35,
+          "cpa": 23487,
+          "purchases": 184.0,
+          "hook_rate": 59.7,
+          "hold_rate": 18.0,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_11.4s.jpg",
+        "f05_22.8s.jpg",
+        "f06_34.2s.jpg",
+        "f07_45.6s.jpg",
+        "f08_57.0s.jpg",
+        "f09_68.4s.jpg"
+      ],
+      "transcript": "퀄리티가 개니허리가 됐길래 비결이 뭐냐고 물어보니 야! 큐스터분 발꼽에 없다는데 야랄란데 야랄란데 국가대표라임",
+      "analyzed": true,
+      "base": {
+        "hook_type": "시즌 밈 + 할인 고지",
+        "first_3s": "한옥 마당에서 한복 입은 3D 가족 5명이 제품 위에 올라 춤 + '아큐스터 추석특가 시작 최대 -53%off'",
+        "appeal_angle": "명절 시즌 특가",
+        "cta": "추석특가 최대 53% off",
+        "keywords": [
+          "추석특가",
+          "53% off",
+          "야랄났네",
+          "국가대표라임"
+        ]
+      },
+      "audio": {
+        "opening_line": "허리가 개미허리가 됐길래 비결이 뭐냐고 물어보니",
+        "voice_style": "야랄났네 후렴 재활용 노래",
+        "narration_mode": "노래+짧은 내레이션"
+      },
+      "visual": {
+        "format": "3D 애니(한복·한옥)",
+        "mechanism_viz": "없음",
+        "before_after": "없음",
+        "subtitle_style": "상단 대형 할인 고지 배너 고정"
       },
       "target": {
         "gender": "여성",
-        "age": "40~50대",
-        "segment": "만성 허리통증 주부",
-        "appeal_axis": "허리통증 해소 / 코어 강화"
+        "age": "30·40·50대",
+        "segment": "명절 소비 시즌 구매층",
+        "appeal_axis": "시즌 할인"
       },
       "trust": {
         "evidence": "없음",
-        "refund": "없음",
-        "discount": "없음",
-        "compliance": "⚠ '허리 고치고 싶으면'·'허리통증 영영 탈출' 등 통증 치료 효능 과장, 파스(의약외품) 대체 암시"
+        "refund": "–",
+        "discount": "최대 53% off 상단 고정",
+        "compliance": "⚠ 상시 할인이면 '추석특가' 한정 표현은 표시광고 리스크"
       },
-      "one_liner": "허리 삐끗 공감 장면은 좋지만 '발 지압판으로 허리를 고친다'는 연결이 길고 약한 3D 애니 스토리.",
-      "why": "제목은 '복근부터'인데 영상은 지압판 순환 이펙트로 넘어가 메시지가 두 갈래로 갈림 — 허리통증 타겟이 납득할 만한 '왜 발판이 허리에?' 설명이 부족. 음성 내레이션 없이 자막만으로 흘러가 정보 전달력이 떨어지고, 할인·환불 같은 구매 트리거도 없음. 통증 치료형 표현은 컴플라 리스크."
+      "one_liner": "야랄났네 후렴을 명절 버전으로 갈아끼운 파생인데 원본(2.07)보다도 낮다.",
+      "why": "할인 배너를 상단에 박은 건 맞는 방향이지만, 소구가 '싸다' 하나뿐이라 시즌이 끝나면 남는 자산이 없다. 밈 파생은 원본 대비 체감 신선도가 떨어진다."
+    },
+    {
+      "key": "tw깎아줘요Ⅰ_AN",
+      "rank_note": "top",
+      "roas": 2.31,
+      "spend": 3193817.0,
+      "ctr": 2.66,
+      "cvr": 3.58,
+      "cpa": 23620,
+      "purchases": 135.218952,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 759133.0,
+          "revenue": 3135143.0,
+          "roas": 4.13,
+          "ctr": 1.81,
+          "cvr": 5.67,
+          "cpa": 13039,
+          "purchases": 58.218952,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 10.4,
+          "completion": 6.7
+        },
+        "meta": {
+          "spend": 2434684.0,
+          "revenue": 4255300.0,
+          "roas": 1.75,
+          "ctr": 3.23,
+          "cvr": 2.8,
+          "cpa": 31619,
+          "purchases": 77.0,
+          "hook_rate": 34.4,
+          "hold_rate": 34.8,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_10.5s.jpg",
+        "f05_20.9s.jpg",
+        "f06_31.4s.jpg",
+        "f07_41.9s.jpg",
+        "f08_52.3s.jpg",
+        "f09_62.8s.jpg"
+      ],
+      "transcript": "이거 좀 깎아줘요 사람들이 싸다고 다 짝퉁만 사요 건만 똑같지 효과, 제로인 플라스틱 판대기를 왜 돈 주고 사요 일반인들이 보기엔 모양 똑같으니까 효과도 도친 개친인 줄 아신다니까요 하... 진짜 현기증 납니다 그니까 우리도 깎아주세요 억울하잖아요 짝퉁 사서 돈 날리고 피눈물 흘리는 후기가 오조 어깬대 답답 우리만 팔 말 너네 팔고 있어요 이거 일반 지압판 아니라고요 전문가가 발구작해서 제작 가능한 거 아시잖아요 알겠으니까 정품 가격도 한 번 내려서서 기강 한 번 잡으시죠 하! 짝퉁 사, 짝퉁 사고 효과 못 본 분들을 위해 눈물 먹음 꼭 밀린 큰 어서 저 기절해요 절대 안 돼요 짝퉁 사서 몸 망가지지 정품으로 광명해 주는 게 대표님 알겠죠?",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "tw결정이파격Ⅰ_AIP",
+      "rank_note": "top",
+      "roas": 2.22,
+      "spend": 569356.0,
+      "ctr": 6.19,
+      "cvr": 0.5,
+      "cpa": 25880,
+      "purchases": 22.0,
+      "platforms": [
+        "google",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 78.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 0.0,
+          "cvr": null,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 0.0,
+          "completion": 0.0
+        },
+        "tiktok": {
+          "spend": 569278.0,
+          "revenue": 1263797.0,
+          "roas": 2.22,
+          "ctr": 6.19,
+          "cvr": 0.5,
+          "cpa": 25876,
+          "purchases": 22.0,
+          "hook_rate": 69.0,
+          "hold_rate": 94.9,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_8.6s.jpg",
+        "f05_17.3s.jpg",
+        "f06_25.9s.jpg",
+        "f07_34.5s.jpg",
+        "f08_43.2s.jpg",
+        "f09_51.8s.jpg"
+      ],
+      "transcript": "누적 방문자 6천만 명에 벌써 15번이나 품절된 똥 뱃살 종결 트위스터 아큐스터! 올 시즌 한 대 가격에 두 대를 들이는 전례 없는 파격 혜택 결정했습니다! 펑퍼짐한 똥 뱃살을 115도로 강제로 비틀어 주변 물렁살 무자비하게 조여내는 고스펙 트위스터! 무너진 복부 탄력 87% 이상 복원시켜서 출산 맘들 선호도 1순위 홈트 기구로 등극했다는데 출시일 1회 역대급 할인 특가창 풀려서 이번에 누적 판매량 100만 개 돌파해버렸대요 무작정 굶어보신 분들은 아시죠? 뱃살은 굶어도 미동조차 없는 거 근데 이 아큐스터는 복부에 동일 자극을 연속으로 꽂아 넣어주니까 숨겨진 S자 굴곡 무조건 찾습니다! 솔직히 PT 1회 값이 8만 원인데 이 고스펙 트위스터가 단돈 4만 원대? 말이 안 되잖아요 그래서 딱 물량 소진까지만 풀어놓는다니까 다급하신 분들은 지금 빨리 챙기세요 다시 한 번 말씀드립니다 최대 50% 파격 특가에 부담 없는 무이자 6개월 할부까지 이 황금 같은 할인 시즌에 한 줌 허리 발굴해보자고요",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
     },
     {
       "key": "tw추석깎아Ⅰ_TP",
       "rank_note": "top",
-      "roas": 2.23,
-      "spend": 13336278.0,
-      "ctr": 5.71,
-      "cvr": 1.14,
-      "cpa": 24789,
-      "purchases": 538.0,
+      "roas": 2.14,
+      "spend": 13632413.0,
+      "ctr": 5.2,
+      "cvr": 1.28,
+      "cpa": 25199,
+      "purchases": 541.0,
       "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 4733564.0,
-          "revenue": 9987820.0,
-          "roas": 2.11,
-          "ctr": 6.64,
-          "cvr": 0.49,
-          "cpa": 25866,
-          "purchases": 183.0,
-          "hook_rate": 66.6,
-          "hold_rate": 94.2,
+          "spend": 4712185.0,
+          "revenue": 9659979.0,
+          "roas": 2.05,
+          "ctr": 5.91,
+          "cvr": 0.57,
+          "cpa": 25891,
+          "purchases": 182.0,
+          "hook_rate": 65.2,
+          "hold_rate": 93.9,
           "play50": null,
           "completion": null
         },
         "meta": {
-          "spend": 8602714.0,
-          "revenue": 19711600.0,
-          "roas": 2.29,
-          "ctr": 3.7,
-          "cvr": 3.68,
-          "cpa": 24233,
-          "purchases": 355.0,
-          "hook_rate": 38.5,
-          "hold_rate": 49.4,
+          "spend": 8920228.0,
+          "revenue": 19477100.0,
+          "roas": 2.18,
+          "ctr": 3.79,
+          "cvr": 3.48,
+          "cpa": 24847,
+          "purchases": 359.0,
+          "hook_rate": 41.1,
+          "hold_rate": 50.2,
           "play50": null,
           "completion": null
         }
@@ -1529,390 +1621,28 @@
       "why": "정가→최종가의 시각적 낙차 + 환불 보장 + 비밀링크 희소성이 겹쳐 결정 문턱을 낮춘다. 훅과 오퍼가 같은 문장 안에 있어 메시지 손실이 없다."
     },
     {
-      "key": "tw추석선물상자분할Ⅰ_GP",
-      "rank_note": "top",
-      "roas": 2.09,
-      "spend": 7924827.0,
-      "ctr": 5.63,
-      "cvr": 0.62,
-      "cpa": 26313,
-      "purchases": 301.170869,
-      "platforms": [
-        "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 889812.0,
-          "revenue": 3398954.0,
-          "roas": 3.82,
-          "ctr": 0.99,
-          "cvr": 2.02,
-          "cpa": 14546,
-          "purchases": 61.170869,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 33.0,
-          "completion": 24.8
-        },
-        "meta": {
-          "spend": 7035015.0,
-          "revenue": 13181100.0,
-          "roas": 1.87,
-          "ctr": 8.16,
-          "cvr": 0.52,
-          "cpa": 29313,
-          "purchases": 240.0,
-          "hook_rate": 84.5,
-          "hold_rate": 63.4,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_2.1s.jpg",
-        "f04_3.0s.jpg",
-        "f05_4.3s.jpg",
-        "f06_6.4s.jpg",
-        "f07_8.6s.jpg",
-        "f08_10.7s.jpg",
-        "f09_12.9s.jpg"
-      ],
-      "transcript": "",
-      "analyzed": true,
-      "base": {
-        "hook_type": "시즌 프로모션 고지",
-        "first_3s": "AI 한복 토끼 캐릭터와 선물 보자기 위로 제품이 떠오르고 -53% 배지 노출",
-        "appeal_angle": "추석 세일 고지",
-        "cta": "가격 인상 전 마지막 특가 확인하기",
-        "keywords": [
-          "추석 세일",
-          "뱃살순삭템",
-          "연중 최대할인",
-          "가격 인상 전"
-        ]
-      },
-      "audio": {
-        "opening_line": "없음(무내레이션·BGM)",
-        "voice_style": "없음",
-        "narration_mode": "무내레이션"
-      },
-      "visual": {
-        "format": "상하 분할 배너형 15초 영상",
-        "mechanism_viz": "없음",
-        "before_after": "없음",
-        "subtitle_style": "대형 할인 배지 + 카피 판"
-      },
-      "target": {
-        "gender": "전체",
-        "age": "40·50대",
-        "segment": "명절 선물·자가 구매층",
-        "appeal_axis": "시즌 명분 + 가격"
-      },
-      "trust": {
-        "evidence": "없음",
-        "refund": "언급 없음",
-        "discount": "연중 최대 53%",
-        "compliance": "특이사항 없음"
-      },
-      "one_liner": "짧은 고지형 소재로, 상하 분할이라 작은 지면에서도 할인율과 제품이 한 번에 읽힌다. 설득 요소 없이 가격 신호만 전달한다.",
-      "why": "이미 의향이 있는 트래픽을 받아내는 자리에서는 정보가 적은 편이 오히려 유리하다. 신규 설득용으로 쓰면 남는 게 없다."
-    },
-    {
-      "key": "tw추석오픈Ⅰ_ANP",
-      "rank_note": "bottom",
-      "roas": 1.99,
-      "spend": 3309892.0,
-      "ctr": 6.81,
-      "cvr": 0.51,
-      "cpa": 26810,
-      "purchases": 123.459613,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 417697.0,
-          "revenue": 1246717.0,
-          "roas": 2.98,
-          "ctr": 1.0,
-          "cvr": 4.66,
-          "cpa": 17805,
-          "purchases": 23.459613,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 29.0,
-          "completion": 22.8
-        },
-        "tiktok": {
-          "spend": 1657164.0,
-          "revenue": 2883465.0,
-          "roas": 1.74,
-          "ctr": 8.5,
-          "cvr": 0.26,
-          "cpa": 30130,
-          "purchases": 55.0,
-          "hook_rate": 72.7,
-          "hold_rate": 95.5,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 1235031.0,
-          "revenue": 2455900.0,
-          "roas": 1.99,
-          "ctr": 4.35,
-          "cvr": 1.94,
-          "cpa": 27445,
-          "purchases": 45.0,
-          "hook_rate": 42.3,
-          "hold_rate": 53.5,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.8s.jpg",
-        "f05_15.6s.jpg",
-        "f06_23.4s.jpg",
-        "f07_31.2s.jpg",
-        "f08_39.0s.jpg",
-        "f09_46.8s.jpg"
-      ],
-      "transcript": "안 사고 버틴 분들 드디어 추석 한가위 기념 역대급 특가 오픈했습니다 숨쉬듯 불어나는 똥 뱃살 칼 차단 시켜주는 복근 스트레셔 아큐스터 하루 10분으로 복부 주변 지방 87%까지 박살 내주는 바이어트 급 파나움으로 난리인데 드디어 추석 한가위 기념 역대급 특가로 찾아왔습니다 꽉 막힌 복부순환 115도 회전 트위스트로 강제로 뚫고 167개 초정미 지압으로 전신연량까지 폭발적으로 태워주는 이 아큐스터 대충 겉근육만 흔들다 끝나는 저렴이 트위스터와는 비교조차 할 수 없습니다 단 몇번의 회전만으로도 잠들어있는 복행근 복지근 외복사근이 뿌리째 비틀어지면서 뱃살이 3배도 빠르게 타버린다는데 더더더 대박인건 2주만에 생전 처음 느껴보는 옆구리 뻐근함이 찾아오더니 한달만에 통자 허리가 콜라병 굴곡으로 갱생됐다는거에요 이 미칭 복근 스트레칭 발판을 추석 한가위 초초초 초특가로 4만원 대에 쟁일 수 있다는데 지금 사면 100% 무료 환불까지 챙겨준다니까 잔록허리가 꿈이라면 빨리 무료 체험해보세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "대기 구매자 호명 + 시즌 특가 오픈",
-        "first_3s": "발레리나들과 아큐스터 캐릭터가 테이프 커팅하는 AI 무대 + '안사고 버틴 분들' 자막",
-        "appeal_angle": "추석 특가 + 뱃살 차단 기능 과장 소구",
-        "cta": "4만원대 + 100% 무료 환불, 빨리 무료 체험",
-        "keywords": [
-          "안사고 버틴 분들",
-          "추석 한가위",
-          "역대급 특가",
-          "똥뱃살",
-          "53% 할인",
-          "100% 무료환불"
-        ]
-      },
-      "audio": {
-        "opening_line": "안 사고 버틴 분들 드디어 추석 한가위 기념 역대급 특가 오픈했습니다",
-        "voice_style": "속사포 홈쇼핑 성우",
-        "narration_mode": "전체 내레이션 + 자막"
-      },
-      "visual": {
-        "format": "AI 생성 영상(캐릭터·발레리나 무대) + 가격 카드",
-        "mechanism_viz": "회전 트위스트·지압 설명(내레이션 위주)",
-        "before_after": "통자허리→콜라병 언급(구두)",
-        "subtitle_style": "중앙 흰 자막 + 노란 하이라이트 할인 강조"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40·50대",
-        "segment": "구매 망설이던 대기층",
-        "appeal_axis": "뱃살·허리라인 + 시즌 할인"
-      },
-      "trust": {
-        "evidence": "'지방 87%', '3배 빠르게' 등 수치 주장(근거 미제시)",
-        "refund": "100% 무료 환불",
-        "discount": "53% 할인, 2SET 75,000원 가격카드",
-        "compliance": "⚠ '복부 지방 87% 박살'·'뱃살 3배 빠르게'·'다이어트급' 효능 과장 + 근육명 나열 — 표시광고 리스크. AI생성·의료기기아님 고지는 있음"
-      },
-      "one_liner": "'안사고 버틴 분들' 호명은 좋지만 AI 무대 연출과 근거 없는 지방감소 수치 과장이 뒤섞여 신뢰가 흐려진 시즌 특가물.",
-      "why": "가격카드·환불보장 등 구매 장벽 제거는 갖췄으나, 실사용 장면 대신 판타지 AI 무대라 '내 몸에 쓰는 장면'이 안 그려진다. 과장 수치는 오히려 의심을 키우고 컴플라 리스크까지 얹는다."
-    },
-    {
-      "key": "tw단단필라테스PPL_T",
-      "rank_note": "top",
-      "roas": 1.97,
-      "spend": 3772669.0,
-      "ctr": 1.45,
-      "cvr": 5.44,
-      "cpa": 27338,
-      "purchases": 138.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 3772669.0,
-          "revenue": 7447800.0,
-          "roas": 1.97,
-          "ctr": 1.45,
-          "cvr": 5.44,
-          "cpa": 27338,
-          "purchases": 138.0,
-          "hook_rate": 30.5,
-          "hold_rate": 15.0,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.1s.jpg",
-        "f05_10.3s.jpg",
-        "f06_15.4s.jpg",
-        "f07_20.6s.jpg",
-        "f08_25.7s.jpg",
-        "f09_30.8s.jpg"
-      ],
-      "transcript": "퉁퉁 부은 다리! 얇아지고 싶다면 하루에 딱 10분! 이 루틴만 지키세요 매일 밟고 돌리면 다리 라인이 달라집니다 수석 발레리나 선수들도 쓴다는 이 아큐스터 적절 전문가들이 개발한 157개 지압볼과 10개의 마그네틱볼로 설계된 구조인데 밟는 순간 발바닥 속금막부터 꾹꾹 마사지 되면서 하체 신환에 도움이 되더라고요 그리고 이 트위스터 동작을 반복하니까 호어도 강화되고 복부가 쥐어짜지면서 옆구리 라인 정리와 고관절 수변 근육이 풀리고 순환이 시작되면서 몸이 전체적으로 가벼워졌어요 집에 이거 하나 놔두면 하체 붓기 관리에 도움되니까 두꺼운 다리 때문에 스트레스 받으시는 분들 지금 최대 49% 할인과 환불보장 이벤트 진행할 때 타이밍 놓치지 마시고 꼭 써보세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "고민 지목형(붓기)",
-        "first_3s": "퉁퉁 부은 종아리 클로즈업에 '퉁퉁 부은 다리 얇아지고 싶다면' 자막",
-        "appeal_angle": "하체 붓기·다리 라인 + 필라테스 강사 권위",
-        "cta": "최대 49% 할인과 환불보장 이벤트 때 꼭 써보세요",
-        "keywords": [
-          "퉁퉁 부은 다리",
-          "하루 딱 10분",
-          "157개 지압볼",
-          "49% 할인",
-          "환불보장"
-        ]
-      },
-      "audio": {
-        "opening_line": "퉁퉁 부은 다리! 얇아지고 싶다면 하루에 딱 10분!",
-        "voice_style": "밝고 또렷한 강사 톤 여성",
-        "narration_mode": "1인 루틴 안내형"
-      },
-      "visual": {
-        "format": "실사 PPL(필라테스 스튜디오)",
-        "mechanism_viz": "157개 지압볼 클로즈업, 발바닥 자극 컷",
-        "before_after": "있음(사용 전 다리 비교 인서트)",
-        "subtitle_style": "노란 강조 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "하체 붓기·다리 굵기 스트레스",
-        "appeal_axis": "외형(다리라인)"
-      },
-      "trust": {
-        "evidence": "수석 발레리나·선수 사용, 157개 지압볼·10개 마그네틱볼, 체형 전문가 개발",
-        "refund": "환불보장 이벤트",
-        "discount": "최대 49%",
-        "compliance": "⚠ '수석 발레리나 선수들도 쓴다' 미검증 권위"
-      },
-      "one_liner": "스튜디오라는 배경 자체가 '전문가가 쓰는 물건'을 증명한다.",
-      "why": "붓기라는 즉각 체감 문제를 첫 컷에 놓고 강사가 직접 시연해 신뢰가 빠르다. 기간별로 순위가 뒤집힌 건 매체 풀 구성 차이라, 성과 자체는 안정적으로 보는 게 맞다."
-    },
-    {
-      "key": "tw김예지PPL_T",
-      "rank_note": "top",
-      "roas": 1.93,
-      "spend": 8028455.0,
-      "ctr": 2.29,
-      "cvr": 2.74,
-      "cpa": 28170,
-      "purchases": 285.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 8028455.0,
-          "revenue": 15528839.0,
-          "roas": 1.93,
-          "ctr": 2.29,
-          "cvr": 2.74,
-          "cpa": 28170,
-          "purchases": 285.0,
-          "hook_rate": 28.4,
-          "hold_rate": 36.6,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.4s.jpg",
-        "f05_14.8s.jpg",
-        "f06_22.2s.jpg",
-        "f07_29.6s.jpg",
-        "f08_37.1s.jpg",
-        "f09_44.5s.jpg"
-      ],
-      "transcript": "우와 이거 2주 밟으니까 몸 붓기가 좋아 빠졌어요 40세가 되니까 물만 마셔도 몸이 붓고 늘어가는 뱃살에 걱정하고 있었더니 친구가 저를 보더니 이거 하루 10분만에 봐 완전 달라질걸? 이러면 추천해주는데 사실 처음엔 기대 안했거든요 근데 아쿠스트에 올라서는 순간 발에서부터 시원한 자극이 느껴지고 답답했던 다리가 뻥 뚫린 느낌이라 너무 좋았어요 자세히 봤더니 어? 이거 뭐야? 157개 지하풀과 10개 마그네틱볼이 발바닥을 자극해주니까 몸이 전체적으로 순환되는 느낌이 들었어요 더 대박인건 트위스터 기능도 있어서 돌리면서 골반의 힘으로 허리까지 조여주니까 옆구리살은 빠지고 묵직했던 골반이 가벼워지는 느낌이 들었어요 지압이랑 트위스터가 체내에 쌓여있는 노폐물을 빼줘서 붓기도 잘 빠지고 몸이 가벼워지는건데 제일 마음에 들었던건 디스플레이로 횟수를 체크하면서 운동하니까 올라간 수치만큼 살이 빠진 것 같아서 엄청 뿌듯하더라구요 마침 49% 할인 중이더라구요 이렇게 좋은거 엄마 함께 사드리면서 효도 좀 해보려고 합니다",
-      "analyzed": true,
-      "base": {
-        "hook_type": "체험 감탄형",
-        "first_3s": "제품을 두 손으로 든 여성이 '와! 이거' 하며 2주 사용 결과를 꺼낸다",
-        "appeal_angle": "40세 붓기·뱃살 → 하루 10분",
-        "cta": "49% 할인, 엄마 사드리며 효도",
-        "keywords": [
-          "2주 밟으니까",
-          "40세가 되니까",
-          "157개 지압볼",
-          "트위스터",
-          "49% 할인"
-        ]
-      },
-      "audio": {
-        "opening_line": "우와 이거 2주 밟으니까 몸 붓기가 확 빠졌어요",
-        "voice_style": "높은 톤 존댓말 여성 리뷰",
-        "narration_mode": "1인 후기형"
-      },
-      "visual": {
-        "format": "실사 인플루언서 UGC(집안 여러 컷)",
-        "mechanism_viz": "지압볼·디스플레이 클로즈업",
-        "before_after": "체형 컷 대비(약함)",
-        "subtitle_style": "심플한 흰 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "붓기·뱃살 고민 + 부모 선물",
-        "appeal_axis": "또래 공감 + 효도 명분"
-      },
-      "trust": {
-        "evidence": "제품 사양(157개 지압볼·10개 마그네틱볼), 디스플레이 횟수 체크",
-        "refund": "–",
-        "discount": "49%",
-        "compliance": "온건"
-      },
-      "one_liner": "90일 지출 5,833만원·구매 2,777건으로 아큐스터 최대 물량 소재이면서 ROAS 2.54를 유지했다. 특별한 장치 없이 담백한 UGC 후기가 대물량을 견딘다는 증거다.",
-      "why": "과장 없이 '2주 써보니 이렇더라' 만으로 끝까지 간다. 광고 피로도가 낮아 오래 태울 수 있고, 마지막의 '엄마 선물' 한 줄이 구매 명분을 하나 더 만든다."
-    },
-    {
       "key": "tw추석도둑Ⅰ_AP",
       "rank_note": "top",
-      "roas": 1.86,
-      "spend": 1365535.0,
-      "ctr": 8.58,
-      "cvr": 0.32,
-      "cpa": 27868,
-      "purchases": 49.0,
+      "roas": 2.08,
+      "spend": 1224851.0,
+      "ctr": 7.42,
+      "cvr": 0.44,
+      "cpa": 25518,
+      "purchases": 48.0,
       "platforms": [
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 1365535.0,
-          "revenue": 2539895.0,
-          "roas": 1.86,
-          "ctr": 8.58,
-          "cvr": 0.32,
-          "cpa": 27868,
-          "purchases": 49.0,
-          "hook_rate": 77.1,
-          "hold_rate": 95.7,
+          "spend": 1224851.0,
+          "revenue": 2547690.0,
+          "roas": 2.08,
+          "ctr": 7.42,
+          "cvr": 0.44,
+          "cpa": 25518,
+          "purchases": 48.0,
+          "hook_rate": 72.6,
+          "hold_rate": 95.2,
           "play50": null,
           "completion": null
         }
@@ -1971,56 +1701,42 @@
       "why": "손실 회피 자극이 즉시 클릭을 만들고 명절 효도 명분이 구매 정당화를 얹는다. 다만 반복 노출되면 무뎌지고, 링크가 계속 열려 있으면 신뢰 비용으로 돌아온다."
     },
     {
-      "key": "tw사위참교육Ⅷ_AI",
+      "key": "tw다리아니라Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 1.74,
-      "spend": 4133924.0,
-      "ctr": 2.02,
-      "cvr": 2.23,
-      "cpa": 29339,
-      "purchases": 140.900977,
+      "roas": 2.06,
+      "spend": 1256782.0,
+      "ctr": 0.85,
+      "cvr": 2.37,
+      "cpa": 25271,
+      "purchases": 49.7312,
       "platforms": [
         "google",
-        "meta",
-        "tiktok"
+        "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 1834699.0,
-          "revenue": 4707217.0,
-          "roas": 2.57,
-          "ctr": 1.37,
-          "cvr": 2.91,
-          "cpa": 19964,
-          "purchases": 91.900977,
+          "spend": 1244899.0,
+          "revenue": 2585807.0,
+          "roas": 2.08,
+          "ctr": 0.84,
+          "cvr": 2.38,
+          "cpa": 25033,
+          "purchases": 49.7312,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 11.3,
-          "completion": 3.5
-        },
-        "tiktok": {
-          "spend": 105603.0,
-          "revenue": 165797.0,
-          "roas": 1.57,
-          "ctr": 2.84,
-          "cvr": 0.41,
-          "cpa": 35201,
-          "purchases": 3.0,
-          "hook_rate": 38.4,
-          "hold_rate": 85.6,
-          "play50": null,
-          "completion": null
+          "play50": 8.6,
+          "completion": 5.1
         },
         "meta": {
-          "spend": 2193622.0,
-          "revenue": 2333100.0,
-          "roas": 1.06,
-          "ctr": 4.29,
-          "cvr": 1.89,
-          "cpa": 47687,
-          "purchases": 46.0,
-          "hook_rate": 55.1,
-          "hold_rate": 63.6,
+          "spend": 11883.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 1.7,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 29.3,
+          "hold_rate": 30.2,
           "play50": null,
           "completion": null
         }
@@ -2030,96 +1746,48 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_21.4s.jpg",
-        "f05_42.8s.jpg",
-        "f06_64.2s.jpg",
-        "f07_85.7s.jpg",
-        "f08_107.1s.jpg",
-        "f09_128.5s.jpg"
+        "f04_7.6s.jpg",
+        "f05_15.2s.jpg",
+        "f06_22.8s.jpg",
+        "f07_30.4s.jpg",
+        "f08_38.0s.jpg",
+        "f09_45.6s.jpg"
       ],
-      "transcript": "내 나이 55, 백년기와 함께 찾아온 지옥 같은 다리절임 어머니 요즘 임산부들도 이것보단 빨리 걸어요 할머니 다 되셨네요 다들 웃는데 나만 웃질 못했어 예전엔 하루 종일 걸어도 끄떡없었는데 요즘엔 일어나기만 해도 무릎까지 찌릿해서 오래 걸을 수가 없더라고 아까 그건 너무하지 않았니? 내 체면이 뭐가 돼? 뭘 그런 걸 가지고 그래요 나이 들면 다 그런 거죠 억울하면 병원을 가세요 나도 알아 나이 들면 몸 변하는 거 근데 정말 인정하기 싫더라 한약 먹고 헬스까지 끊어봤는데 이 찌릿한 통증은 사라질 기미조차 안 보였어 그러다 남편이 택배 하나를 보내왔어 여보 이거 한번 밟아봐 우리 회사 이사님이 백년기 때 다리절임으로 고생하다 겨우 알아낸 거라는데 멈춘 혈액순환을 강제로 돌게 해주는 거라 엄청 어렵게 구한 거야 아프긴 하다던데 꾹 참고 한 번만 써봐 솔직히 또 쓸데없는 거 샀네 싶어 헛웃음만 나왔어 그래도 속는 셈 치고 밟아볼까 싶어 슬쩍 발 올려봤지 근데 지압 보기 위해 발을 올리자마자 악소리가 절로 나왔어 거의 고문 수준이더라 좋은 거 맞아? 싶으면서도 아프니까 뭐라도 되는 것 같아서 이 악물고 계속 밟았다? 그렇게 일주일쯤 지나니까 밤마다 다리 절여서 깨는 게 감쪽같이 사라졌어 원래 나는 자다가도 다리에 쥐나서 몇 번씩 깼었거든 근데 그날은 아침까지 푹 잤어 확실히 발바닥 순환이 뚫리니까 다리가 가벼워지고 고문 같았던 지압 돌기도 이제는 세상 시원하게 느껴지더라 두 달쯤 됐을 때 가족 모임이 다시 잡혔고 이번엔 다 같이 등산을 갔어 나는 성큼성큼 앞장서서 올라가는데 사위가 힘든지 계속 뒤처지더라? 그래서 안 참고 한마디 했어 아이고 나이도 어린 사람이 다리가 왜 그 모양이야 지금부터 그러면 내 나이에 맨날 누워만 있어야 돼 사위가 그 말 듣자마자 벙찐 것 같더라 그때 남편이 웃으면서 내 어깨를 딱 감싸더니 우리 와이프 다리 튼튼한 건 뭐 20대 수준이지 50대라고 하면 아무도 안 믿어 사위는 대꾸도 못하고 얼굴 시뻘개지면서 남은 산길 겨우겨우 올라가더라 집에 오는 차 안에서 남편이 말했어 오늘 완전 사이다였어 나 좀 반했잖아 3년 만에 처음으로 큰 소리 내고 웃었어 지옥 같았던 갱년기 다리절임 이거 하나로 완벽하게 끝내버렸어 갱년기 나이 탓 하면서 참고 넘기는 사람들 이거 모르면 손해야 잠들기 전 하루 10분이 나를 바꿔줍니다 지압 트위스터 아큐스터",
-      "analyzed": true,
-      "base": {
-        "hook_type": "장모님 무시 사위 참교육 사이다 막장 훅",
-        "first_3s": "꽃길 정원에서 허리를 짚고 괴로워하는 50대 여성 + '내 나이 쉰다섯, 갱년기와 함께 찾아온' 자막. 상단 고정 타이틀 '장모님 할머니 취급하는 선 넘은 꼴통 사위 참교육'",
-        "appeal_angle": "갱년기 다리저림으로 '할머니' 취급받던 굴욕 → 남편이 준 지압판으로 회복 → 등산에서 사위를 앞질러 참교육하는 사이다",
-        "cta": "잠들기 전 하루 10분이 나를 바꿔줍니다 / 지압 트위스터 아큐스터",
-        "keywords": [
-          "갱년기",
-          "다리저림",
-          "사위",
-          "참교육",
-          "할머니 취급",
-          "등산",
-          "사이다",
-          "남편 선물"
-        ]
-      },
-      "audio": {
-        "opening_line": "내 나이 55, 갱년기와 함께 찾아온 지옥 같은 다리저림",
-        "voice_style": "중년 여성 1인칭 회고 내레이션 + 사위·남편 대사 연기",
-        "narration_mode": "주인공 독백형 장편 스토리텔링(2분 30초)"
-      },
-      "visual": {
-        "format": "AI 생성 실사풍 가족 막장 드라마 장편",
-        "mechanism_viz": "없음",
-        "before_after": "허리·다리 부여잡고 절뚝이는 모습 → 등산에서 성큼성큼 앞장서는 모습",
-        "subtitle_style": "상단 고정 2줄 타이틀(흰·빨강·노랑) + 하단 손글씨풍 흰 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "50~60대",
-        "segment": "갱년기 다리저림·관절 불편 중년 여성",
-        "appeal_axis": "갱년기 다리저림 / 가족 내 자존심 회복(사이다)"
-      },
-      "trust": {
-        "evidence": "없음('회사 이사님이 알아낸 것' 지인 추천 서사)",
-        "refund": "없음",
-        "discount": "없음",
-        "compliance": "⚠ '할머니 다 되셨네요'·'임산부보다 느리다' 등 노화 지적, 한약 언급, '갱년기 다리저림 완벽하게 끝내버렸어' 과장, '혈액순환을 강제로 돌게' 효능 표현"
-      },
-      "one_liner": "사이다 서사는 탄탄하지만 주인공을 '할머니 취급받는 노화한 장모님'으로 세운 2분 반짜리 장편 막장극.",
-      "why": "훅이 '노화 지적'으로 시작해 시청자가 자신을 주인공에 투영하기 싫어지는 노화 프레임 — 같은 갱년기 소재라도 자존감을 지켜준 오피스 상황극과 대조적. 영상이 길고 제품 등장(40초 이후)과 효능 설명이 늦어 몰입은 돼도 구매 정보가 희박하며, 할인·환불 등 오퍼도 없음. 대물량 집행에 비해 효율이 따라오지 못한 구조."
+      "transcript": "다리가 아니라 발? 새벽 3시마다 종아리 경련으로 밤잠 설치시는 분들 중에 이미 10명 중 8명이 쓰고 있다는 4세대 혈제압 순환판. 단 몇 번 만으로도 막힌 용천열이 한 번에 뚫린다길래 한 번 올라가 봤거든. 근데 어이없게도 5분 만에 빌라테스 6년간 단 한 번도 느껴보지 못했던 고관절 안쪽 근육이 뻐근해지는 거야. 이거 알려준 친구가 재활센터 10년 차 원장이라 물어보니까 이 지압 림프 볼은 수기경락 한 시간은 받아야 겨우 닿는 종아리 비복근 자극을 단 1분 만에 도달되게 설계되었다고 하더라고. 심지어 재활치료사들도 다리절임 환자들 처방전으로 권장할 정도로 막힌 순환 3배 더 빨리 뚫어내는 미친 스펙이라더라. 5분 만에 막힌 현류 강제로 깨워내서 자주 밟을수록 혈관 탄력 살아나고 찌릿한 다리절임부터 부종까지 사라지는 원리라던데 일반 지압 이량은 차원이 달라. 이미 누적 판매량 100만 개 돌파하고 지금 할인율도 49%라니까? 괜히 PT나 필라테스에 돈 갖다 바치지 말고 꼭 이거부터 밟아봐.",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
     },
     {
-      "key": "tw골반궁금해Ⅸ_AI",
+      "key": "tw링크힙합Ⅰ_ANP",
       "rank_note": "bottom",
-      "roas": 1.58,
-      "spend": 725066.0,
-      "ctr": 7.91,
-      "cvr": 0.45,
-      "cpa": 40281,
-      "purchases": 18.0,
+      "roas": 2.03,
+      "spend": 1093391.0,
+      "ctr": 1.77,
+      "cvr": 2.95,
+      "cpa": 27486,
+      "purchases": 39.780062,
       "platforms": [
-        "meta",
-        "tiktok"
+        "google"
       ],
       "platform_metrics": {
-        "tiktok": {
-          "spend": 128247.0,
-          "revenue": 426038.0,
-          "roas": 3.32,
-          "ctr": 8.31,
-          "cvr": 0.32,
-          "cpa": 25649,
-          "purchases": 5.0,
-          "hook_rate": 80.6,
-          "hold_rate": 96.0,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 596819.0,
-          "revenue": 721600.0,
-          "roas": 1.21,
-          "ctr": 7.67,
-          "cvr": 0.53,
-          "cpa": 45909,
-          "purchases": 13.0,
-          "hook_rate": 76.4,
-          "hold_rate": 69.0,
-          "play50": null,
-          "completion": null
+        "google": {
+          "spend": 1093391.0,
+          "revenue": 2216928.0,
+          "roas": 2.03,
+          "ctr": 1.77,
+          "cvr": 2.95,
+          "cpa": 27486,
+          "purchases": 39.780062,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 8.1,
+          "completion": 4.5
         }
       },
       "frames": [
@@ -2127,149 +1795,63 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_6.2s.jpg",
-        "f05_12.5s.jpg",
-        "f06_18.7s.jpg",
-        "f07_25.0s.jpg",
-        "f08_31.2s.jpg",
-        "f09_37.5s.jpg"
+        "f04_7.0s.jpg",
+        "f05_13.9s.jpg",
+        "f06_20.9s.jpg",
+        "f07_27.8s.jpg",
+        "f08_34.8s.jpg",
+        "f09_41.8s.jpg"
       ],
-      "transcript": "많은 분들이 제 골반 대체 뭐한거냐고 하도 물어보셔서 오늘 공개할게요! 사실 저도 작년엔 완전 골반이었는데 골반뼈 자체를 넓히는건 아예 말도 안되고 이 위에 얹힌 군살만 제거해도 훨씬 훨씬 잘 녹게 보여요! 보이시죠? 비법은 바로바로 골반 볼록살 하루 300번 조지게! 피키받을 때 로테이션 플랭크 죽어라 했었는데 느낌은 똑같은데 이게 훨씬 쉬워요! 트위스터로 허리를 비틀 때마다 옆구리랑 엉덩이에 힘이 딱 들어가는게 그 로테이션 플랭크 할 때 느꼈던 그 지옥같은 느낌이에요! 하루에 딱 300번만 돌리세요! 전 TV보면서 쓰는데 돌리기만 해도 이 볼록살이 정리돼서 라인이 살더라구요! 효과 없으면 2주안에 100% 환불이라니까! 골반라인 간절하면 그냥 무조건 써보세요! 아큐스타 최고!",
+      "transcript": "퇴사한 아큐스터 직원들은 절대 공홈에서 안 사 새벽 3시 15분 그때만 열리는 링크가 따로 있어 누가 그 링크를 몰래 빼왔어 제일 싸운 링크 직원들은 그때부터 암암리에 거기서만 샀어 회사에서도 뱃살 잘 빼준다고 소문 났어 직원들이 먼저 달려들었는데 항상 재고가 없어서 못 샀던 아큐스터 밟고 돌려 아큐스터 167개 림프 볼 하루 10분에 옆구리가 사라져 링크는 딱 절반 50% 할인 퇴사한 애들이 하나 둘 주변에 뿌리면서 이제 아는 사람은 다 알아 이 광고 보고 있으면 딴 데 볼 것도 없어 그냥 여기서 싸 무조건 여기가 제일 싸니까 여기서 싸",
       "analyzed": true,
       "base": {
-        "hook_type": "전후 비교 + '뭐 한 거냐' 질문 훅",
-        "first_3s": "BEFORE/AFTER 거울 셀카 뒷모습 + '많은 분들이 제 골반 대체 뭐 한 거냐고'",
-        "appeal_angle": "골반 위 군살 제거 → 골반 라인, 로테이션 플랭크 대체",
-        "cta": "2주 내 100% 환불, 골반 라인 간절하면 무조건",
+        "hook_type": "내부자 비밀링크 서사",
+        "first_3s": "3D 애니 사무실, 짐 박스 들고 퇴사하는 직원 + '(긴급) 퇴사자가 단톡방에 떨구고 간 역대급 할인 링크'",
+        "appeal_angle": "직원만 알던 최저가 링크(희소·내부정보)",
+        "cta": "딴 데 볼 것 없이 여기서 사라(링크 유도)",
         "keywords": [
-          "골반",
-          "볼록살",
-          "300번",
-          "로테이션 플랭크",
-          "트위스터",
-          "100% 환불",
-          "아큐스터"
+          "퇴사자 링크",
+          "새벽 3시 15분",
+          "50% 할인",
+          "167개 지압볼",
+          "하루 10분"
         ]
       },
       "audio": {
-        "opening_line": "많은 분들이 제 골반 대체 뭐 한 거냐고 하도 물어보셔서",
-        "voice_style": "젊은 여성 밝은 후기 톤",
-        "narration_mode": "1인칭 후기형"
+        "opening_line": "퇴사한 아큐스터 직원들은 절대 공홈에서 안 사",
+        "voice_style": "힙합 비트에 얹은 랩·후렴 반복",
+        "narration_mode": "노래형"
       },
       "visual": {
-        "format": "AI 생성 인물 셀카·방 일상 + 트위스터 사용컷",
-        "mechanism_viz": "없음(사용 동작만)",
-        "before_after": "있음(AI 인물 전후)",
-        "subtitle_style": "중앙 흰 자막"
+        "format": "3D 캐릭터 애니(AI 고지문 표기)",
+        "mechanism_viz": "거의 없음",
+        "before_after": "없음",
+        "subtitle_style": "형광 강조 대문짝 자막"
       },
       "target": {
-        "gender": "여성",
-        "age": "20~30대",
-        "segment": "골반·옆구리 라인 관심층",
-        "appeal_axis": "라인 동경"
+        "gender": "남녀 공통",
+        "age": "30·40·50대",
+        "segment": "가격 민감·뱃살 고민층",
+        "appeal_axis": "가격·희소"
       },
       "trust": {
-        "evidence": "AI 인물 전후(실증 아님)",
-        "refund": "2주 100% 환불",
-        "discount": "없음",
-        "compliance": "⚠ AI 인물 가상 전후 비교(실사용 후기처럼 연출) + 신체 노출 강조 컷"
+        "evidence": "직원들이 먼저 산다는 서사",
+        "refund": "–",
+        "discount": "50%",
+        "compliance": "⚠ 실재하지 않는 '내부자 전용 링크·새벽 3시 15분' 허위 서사, 퇴사자 유출 프레임은 브랜드 신뢰 리스크"
       },
-      "one_liner": "골반 라인 전후로 강하게 시작하지만, AI 인물이 몸매를 과시하는 화보형이라 '나도 될까'보다 '원래 몸매 좋은 사람'으로 읽힌다.",
-      "why": "결과 이미지가 지나치게 완성형이라 공감보다 거리감을 만들고, AI 전후는 신뢰 근거가 되지 못한다. 할인 오퍼 없이 환불만 있어 행동 유인이 약하다."
-    },
-    {
-      "key": "tw빽가사용방법Ⅰ_T",
-      "rank_note": "bottom",
-      "roas": 1.5,
-      "spend": 1375386.0,
-      "ctr": 8.09,
-      "cvr": 0.33,
-      "cpa": 34385,
-      "purchases": 40.0,
-      "platforms": [
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 1375386.0,
-          "revenue": 2063079.0,
-          "roas": 1.5,
-          "ctr": 8.09,
-          "cvr": 0.33,
-          "cpa": 34385,
-          "purchases": 40.0,
-          "hook_rate": 80.0,
-          "hold_rate": 96.8,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_8.7s.jpg",
-        "f05_17.3s.jpg",
-        "f06_26.0s.jpg",
-        "f07_34.6s.jpg",
-        "f08_43.3s.jpg",
-        "f09_52.0s.jpg"
-      ],
-      "transcript": "전원을 켜줘, 그리고 전원 버튼을 한 번 더 터치해주면 모드를 바꿀 수 있어. T는 타이머 모드로 운동 시간을 체크해주는 모드야. 다음은 R 모드, 이건 트위스터 돌릴 때마다 1회씩 체크되는데 회전 횟수를 체크해주는 모드라고 생각하면 돼. 마지막으로 S 모드, 이건 스텝을 생각하면 되는데 걸음소리를 체크해주는 모드야. 자, 그럼 이제 올라가 볼게. 와, 이거거든! 와! 팔을 더 크게 크게 돌려주면 허리가 더 많이 비틀어지면서 야, 이 등까지 자극이 와. 아, 진짜 너무 시원해! 옆구리는 물론이고 이 복부랑 골반 주변 근육까지 자연스럽게 사용되니까 이 배랑 허리 쪽이 쪼여지는 느낌이 들어. 와, 나 벌써 열이 오르는데? 오! 야, 이거 진짜 운동된다. 궁금하려들, 한 살 한 살 먹을수록 늘어나는 군살 때문에 근심이 임한 저만이 아니었다면 이게 림프선을 깨워 뱃살 정리까지 도와주는 트윈1 드리바이어스 아티핀의 아큐스터! 한 번 써보는 거 어때? 보기 싫고 신경 쓰였던 군살들과 이거라는 나를 만나게 될 거야!",
-      "analyzed": true,
-      "base": {
-        "hook_type": "셀럽 PPL 사용법 시연형",
-        "first_3s": "빽가가 아큐스터 들고 '일단 전원 버튼을 눌러' + 상단 '🔥이거 만든 담당자님 누구세요!!!🔥'",
-        "appeal_angle": "셀럽 실사용 + 기능 설명(T/R/S 모드) + 뱃살 비포애프터 배너",
-        "cta": "한 번 써보는 거 어때?(약함)",
-        "keywords": [
-          "빽가",
-          "사용방법",
-          "타이머 모드",
-          "회전수",
-          "스텝",
-          "157개 림프볼",
-          "마그네틱볼",
-          "뱃살제로",
-          "똥배cut"
-        ]
-      },
-      "audio": {
-        "opening_line": "전원을 켜줘, 그리고 전원 버튼을 한 번 더 터치해주면 모드를 바꿀 수 있어.",
-        "voice_style": "셀럽(빽가) 반말 리액션형 시연",
-        "narration_mode": "셀럽 온캠 PPL(유튜브 채널 클립 재편집)"
-      },
-      "visual": {
-        "format": "상단 셀럽 유튜브 클립 + 하단 고정 상품 배너(전문가 직접 설계한 똥배cut 트위스터) + 비포/애프터 썸네일 3분할",
-        "mechanism_viz": "기기 디스플레이 모드 설명, 서서 팔 돌리며 비트는 시연",
-        "before_after": "하단 고정 배너에 남성 뱃살 Before/After 사진 상시 노출",
-        "subtitle_style": "상단 흰 손글씨 타이틀+불꽃 이모지, 영상 내 작은 흰 자막, 배너 파랑 타이포"
-      },
-      "target": {
-        "gender": "남녀 혼합(셀럽·비포애프터는 남성)",
-        "age": "30~50대",
-        "segment": "뱃살 고민 + 셀럽 인지층",
-        "appeal_axis": "셀럽 신뢰·기능 이해"
-      },
-      "trust": {
-        "evidence": "셀럽 실사용, 전문가 직접 설계, 157개 림프볼+10개 마그네틱볼 스펙",
-        "refund": "언급 없음",
-        "discount": "언급 없음(오퍼 배너 없음)",
-        "compliance": "⚠'림프선을 깨워 뱃살 정리' 효능 표현, 비포애프터 사진 상시 노출(개인차 고지 필요), '전문가 직접 설계' 권위 차용"
-      },
-      "one_liner": "셀럽이 기능을 친절히 보여주지만 '사용설명서'에 머문 PPL — 왜 지금 사야 하는지(오퍼)가 없다",
-      "why": "셀럽 얼굴과 비포애프터 배너로 시선은 잡지만, 영상 본문이 전원·모드 설명이라 욕구를 키우는 구간이 짧고 할인·환불 같은 즉시 구매 장치가 빠져 있음(셀럽 클립엔 오퍼 배너가 성패를 가르는 경향). 남성 셀럽·남성 뱃살 사진이 핵심 여성 타겟과도 엇갈림."
+      "one_liner": "힙합 훅이 리듬으로 붙잡는 데까지는 성공했는데, 내용이 전부 비밀 링크 서사라 제품이 왜 좋은지는 끝까지 안 나온다. 유출 프레임은 브랜드를 갉아먹는다.",
+      "why": "가격·희소만 반복하고 메커니즘도 전후도 없어 신규 설득이 되지 않는다. 노래 포맷은 유지하되 효능 구간을 한 소절이라도 끼워 넣어야 한다."
     },
     {
       "key": "tw푸른주스보다Ⅳ_T",
       "rank_note": "bottom",
-      "roas": 1.48,
-      "spend": 2666576.0,
-      "ctr": 1.41,
-      "cvr": 1.68,
-      "cpa": 37000,
-      "purchases": 72.069829,
+      "roas": 1.94,
+      "spend": 2947558.0,
+      "ctr": 1.49,
+      "cvr": 2.07,
+      "cpa": 29126,
+      "purchases": 101.200659,
       "platforms": [
         "google",
         "meta",
@@ -2277,17 +1859,17 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 2123375.0,
-          "revenue": 3418538.0,
-          "roas": 1.61,
+          "spend": 2230482.0,
+          "revenue": 4894423.0,
+          "roas": 2.19,
           "ctr": 0.76,
-          "cvr": 3.15,
-          "cpa": 33667,
-          "purchases": 63.069829,
+          "cvr": 4.12,
+          "cpa": 25579,
+          "purchases": 87.200659,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 9.5,
-          "completion": 6.2
+          "play50": 9.4,
+          "completion": 6.1
         },
         "tiktok": {
           "spend": 158077.0,
@@ -2303,15 +1885,15 @@
           "completion": null
         },
         "meta": {
-          "spend": 385124.0,
-          "revenue": 364100.0,
-          "roas": 0.95,
-          "ctr": 5.91,
-          "cvr": 0.42,
-          "cpa": 77025,
-          "purchases": 5.0,
-          "hook_rate": 74.7,
-          "hold_rate": 12.9,
+          "spend": 558999.0,
+          "revenue": 661600.0,
+          "roas": 1.18,
+          "ctr": 5.93,
+          "cvr": 0.59,
+          "cpa": 55900,
+          "purchases": 10.0,
+          "hook_rate": 74.9,
+          "hold_rate": 13.1,
           "play50": null,
           "completion": null
         }
@@ -2373,14 +1955,14 @@
       "why": "변비 훅은 스크롤을 멈추게 하지만 '발판을 밟아 변비 해결'이라는 연결이 반사구 이론에 기대 설득력이 약하고, 타겟(20~30대 변비 여성)이 아큐스터의 주력 구매층(순환·붓기 고민 중년)과 어긋남. 중반 원리 설명이 길어 이탈 구간이 생기고, 할인·환불은 맨 끝에 짧게 붙어 결정적 트리거로 작동하지 못함. 기사 UI 위장·의학 효능 주장은 컴플라 리스크."
     },
     {
-      "key": "tw불면5년차Ⅵ_AN",
+      "key": "tw사위참교육Ⅷ_AI",
       "rank_note": "bottom",
-      "roas": 1.46,
-      "spend": 907106.0,
-      "ctr": 1.54,
-      "cvr": 3.37,
-      "cpa": 39311,
-      "purchases": 23.075037000000002,
+      "roas": 1.89,
+      "spend": 4403938.0,
+      "ctr": 2.04,
+      "cvr": 2.47,
+      "cpa": 27171,
+      "purchases": 162.080498,
       "platforms": [
         "google",
         "meta",
@@ -2388,25 +1970,418 @@
       ],
       "platform_metrics": {
         "google": {
-          "spend": 116194.0,
-          "revenue": 626408.0,
-          "roas": 5.39,
-          "ctr": 1.59,
-          "cvr": 8.75,
-          "cpa": 9623,
-          "purchases": 12.075037,
+          "spend": 1865797.0,
+          "revenue": 5435559.0,
+          "roas": 2.91,
+          "ctr": 1.36,
+          "cvr": 3.32,
+          "cpa": 17589,
+          "purchases": 106.080498,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 11.4,
+          "completion": 3.5
+        },
+        "tiktok": {
+          "spend": 105603.0,
+          "revenue": 165797.0,
+          "roas": 1.57,
+          "ctr": 2.84,
+          "cvr": 0.41,
+          "cpa": 35201,
+          "purchases": 3.0,
+          "hook_rate": 38.4,
+          "hold_rate": 85.6,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 2432538.0,
+          "revenue": 2729200.0,
+          "roas": 1.12,
+          "ctr": 4.32,
+          "cvr": 2.01,
+          "cpa": 45897,
+          "purchases": 53.0,
+          "hook_rate": 55.3,
+          "hold_rate": 63.8,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_21.4s.jpg",
+        "f05_42.8s.jpg",
+        "f06_64.2s.jpg",
+        "f07_85.7s.jpg",
+        "f08_107.1s.jpg",
+        "f09_128.5s.jpg"
+      ],
+      "transcript": "내 나이 55, 백년기와 함께 찾아온 지옥 같은 다리절임 어머니 요즘 임산부들도 이것보단 빨리 걸어요 할머니 다 되셨네요 다들 웃는데 나만 웃질 못했어 예전엔 하루 종일 걸어도 끄떡없었는데 요즘엔 일어나기만 해도 무릎까지 찌릿해서 오래 걸을 수가 없더라고 아까 그건 너무하지 않았니? 내 체면이 뭐가 돼? 뭘 그런 걸 가지고 그래요 나이 들면 다 그런 거죠 억울하면 병원을 가세요 나도 알아 나이 들면 몸 변하는 거 근데 정말 인정하기 싫더라 한약 먹고 헬스까지 끊어봤는데 이 찌릿한 통증은 사라질 기미조차 안 보였어 그러다 남편이 택배 하나를 보내왔어 여보 이거 한번 밟아봐 우리 회사 이사님이 백년기 때 다리절임으로 고생하다 겨우 알아낸 거라는데 멈춘 혈액순환을 강제로 돌게 해주는 거라 엄청 어렵게 구한 거야 아프긴 하다던데 꾹 참고 한 번만 써봐 솔직히 또 쓸데없는 거 샀네 싶어 헛웃음만 나왔어 그래도 속는 셈 치고 밟아볼까 싶어 슬쩍 발 올려봤지 근데 지압 보기 위해 발을 올리자마자 악소리가 절로 나왔어 거의 고문 수준이더라 좋은 거 맞아? 싶으면서도 아프니까 뭐라도 되는 것 같아서 이 악물고 계속 밟았다? 그렇게 일주일쯤 지나니까 밤마다 다리 절여서 깨는 게 감쪽같이 사라졌어 원래 나는 자다가도 다리에 쥐나서 몇 번씩 깼었거든 근데 그날은 아침까지 푹 잤어 확실히 발바닥 순환이 뚫리니까 다리가 가벼워지고 고문 같았던 지압 돌기도 이제는 세상 시원하게 느껴지더라 두 달쯤 됐을 때 가족 모임이 다시 잡혔고 이번엔 다 같이 등산을 갔어 나는 성큼성큼 앞장서서 올라가는데 사위가 힘든지 계속 뒤처지더라? 그래서 안 참고 한마디 했어 아이고 나이도 어린 사람이 다리가 왜 그 모양이야 지금부터 그러면 내 나이에 맨날 누워만 있어야 돼 사위가 그 말 듣자마자 벙찐 것 같더라 그때 남편이 웃으면서 내 어깨를 딱 감싸더니 우리 와이프 다리 튼튼한 건 뭐 20대 수준이지 50대라고 하면 아무도 안 믿어 사위는 대꾸도 못하고 얼굴 시뻘개지면서 남은 산길 겨우겨우 올라가더라 집에 오는 차 안에서 남편이 말했어 오늘 완전 사이다였어 나 좀 반했잖아 3년 만에 처음으로 큰 소리 내고 웃었어 지옥 같았던 갱년기 다리절임 이거 하나로 완벽하게 끝내버렸어 갱년기 나이 탓 하면서 참고 넘기는 사람들 이거 모르면 손해야 잠들기 전 하루 10분이 나를 바꿔줍니다 지압 트위스터 아큐스터",
+      "analyzed": true,
+      "base": {
+        "hook_type": "장모님 무시 사위 참교육 사이다 막장 훅",
+        "first_3s": "꽃길 정원에서 허리를 짚고 괴로워하는 50대 여성 + '내 나이 쉰다섯, 갱년기와 함께 찾아온' 자막. 상단 고정 타이틀 '장모님 할머니 취급하는 선 넘은 꼴통 사위 참교육'",
+        "appeal_angle": "갱년기 다리저림으로 '할머니' 취급받던 굴욕 → 남편이 준 지압판으로 회복 → 등산에서 사위를 앞질러 참교육하는 사이다",
+        "cta": "잠들기 전 하루 10분이 나를 바꿔줍니다 / 지압 트위스터 아큐스터",
+        "keywords": [
+          "갱년기",
+          "다리저림",
+          "사위",
+          "참교육",
+          "할머니 취급",
+          "등산",
+          "사이다",
+          "남편 선물"
+        ]
+      },
+      "audio": {
+        "opening_line": "내 나이 55, 갱년기와 함께 찾아온 지옥 같은 다리저림",
+        "voice_style": "중년 여성 1인칭 회고 내레이션 + 사위·남편 대사 연기",
+        "narration_mode": "주인공 독백형 장편 스토리텔링(2분 30초)"
+      },
+      "visual": {
+        "format": "AI 생성 실사풍 가족 막장 드라마 장편",
+        "mechanism_viz": "없음",
+        "before_after": "허리·다리 부여잡고 절뚝이는 모습 → 등산에서 성큼성큼 앞장서는 모습",
+        "subtitle_style": "상단 고정 2줄 타이틀(흰·빨강·노랑) + 하단 손글씨풍 흰 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "50~60대",
+        "segment": "갱년기 다리저림·관절 불편 중년 여성",
+        "appeal_axis": "갱년기 다리저림 / 가족 내 자존심 회복(사이다)"
+      },
+      "trust": {
+        "evidence": "없음('회사 이사님이 알아낸 것' 지인 추천 서사)",
+        "refund": "없음",
+        "discount": "없음",
+        "compliance": "⚠ '할머니 다 되셨네요'·'임산부보다 느리다' 등 노화 지적, 한약 언급, '갱년기 다리저림 완벽하게 끝내버렸어' 과장, '혈액순환을 강제로 돌게' 효능 표현"
+      },
+      "one_liner": "사이다 서사는 탄탄하지만 주인공을 '할머니 취급받는 노화한 장모님'으로 세운 2분 반짜리 장편 막장극.",
+      "why": "훅이 '노화 지적'으로 시작해 시청자가 자신을 주인공에 투영하기 싫어지는 노화 프레임 — 같은 갱년기 소재라도 자존감을 지켜준 오피스 상황극과 대조적. 영상이 길고 제품 등장(40초 이후)과 효능 설명이 늦어 몰입은 돼도 구매 정보가 희박하며, 할인·환불 등 오퍼도 없음."
+    },
+    {
+      "key": "tw추석선물상자분할Ⅰ_GP",
+      "rank_note": "top",
+      "roas": 1.82,
+      "spend": 7532933.0,
+      "ctr": 6.31,
+      "cvr": 0.47,
+      "cpa": 29992,
+      "purchases": 251.161263,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 615546.0,
+          "revenue": 2236148.0,
+          "roas": 3.63,
+          "ctr": 0.91,
+          "cvr": 1.86,
+          "cpa": 15327,
+          "purchases": 40.161263,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 24.0,
+          "completion": 17.5
+        },
+        "meta": {
+          "spend": 6917387.0,
+          "revenue": 11470300.0,
+          "roas": 1.66,
+          "ctr": 8.43,
+          "cvr": 0.41,
+          "cpa": 32784,
+          "purchases": 211.0,
+          "hook_rate": 87.4,
+          "hold_rate": 63.0,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_2.1s.jpg",
+        "f04_3.0s.jpg",
+        "f05_4.3s.jpg",
+        "f06_6.4s.jpg",
+        "f07_8.6s.jpg",
+        "f08_10.7s.jpg",
+        "f09_12.9s.jpg"
+      ],
+      "transcript": "",
+      "analyzed": true,
+      "base": {
+        "hook_type": "시즌 프로모션 고지",
+        "first_3s": "AI 한복 토끼 캐릭터와 선물 보자기 위로 제품이 떠오르고 -53% 배지 노출",
+        "appeal_angle": "추석 세일 고지",
+        "cta": "가격 인상 전 마지막 특가 확인하기",
+        "keywords": [
+          "추석 세일",
+          "뱃살순삭템",
+          "연중 최대할인",
+          "가격 인상 전"
+        ]
+      },
+      "audio": {
+        "opening_line": "없음(무내레이션·BGM)",
+        "voice_style": "없음",
+        "narration_mode": "무내레이션"
+      },
+      "visual": {
+        "format": "상하 분할 배너형 15초 영상",
+        "mechanism_viz": "없음",
+        "before_after": "없음",
+        "subtitle_style": "대형 할인 배지 + 카피 판"
+      },
+      "target": {
+        "gender": "전체",
+        "age": "40·50대",
+        "segment": "명절 선물·자가 구매층",
+        "appeal_axis": "시즌 명분 + 가격"
+      },
+      "trust": {
+        "evidence": "없음",
+        "refund": "언급 없음",
+        "discount": "연중 최대 53%",
+        "compliance": "특이사항 없음"
+      },
+      "one_liner": "짧은 고지형 소재로, 상하 분할이라 작은 지면에서도 할인율과 제품이 한 번에 읽힌다. 설득 요소 없이 가격 신호만 전달한다.",
+      "why": "이미 의향이 있는 트래픽을 받아내는 자리에서는 정보가 적은 편이 오히려 유리하다. 신규 설득용으로 쓰면 남는 게 없다."
+    },
+    {
+      "key": "tw김예지PPL_T",
+      "rank_note": "top",
+      "roas": 1.7,
+      "spend": 7662986.0,
+      "ctr": 2.42,
+      "cvr": 2.38,
+      "cpa": 31406,
+      "purchases": 244.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 7662986.0,
+          "revenue": 13046039.0,
+          "roas": 1.7,
+          "ctr": 2.42,
+          "cvr": 2.38,
+          "cpa": 31406,
+          "purchases": 244.0,
+          "hook_rate": 29.2,
+          "hold_rate": 37.2,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.4s.jpg",
+        "f05_14.8s.jpg",
+        "f06_22.2s.jpg",
+        "f07_29.6s.jpg",
+        "f08_37.1s.jpg",
+        "f09_44.5s.jpg"
+      ],
+      "transcript": "우와 이거 2주 밟으니까 몸 붓기가 좋아 빠졌어요 40세가 되니까 물만 마셔도 몸이 붓고 늘어가는 뱃살에 걱정하고 있었더니 친구가 저를 보더니 이거 하루 10분만에 봐 완전 달라질걸? 이러면 추천해주는데 사실 처음엔 기대 안했거든요 근데 아쿠스트에 올라서는 순간 발에서부터 시원한 자극이 느껴지고 답답했던 다리가 뻥 뚫린 느낌이라 너무 좋았어요 자세히 봤더니 어? 이거 뭐야? 157개 지하풀과 10개 마그네틱볼이 발바닥을 자극해주니까 몸이 전체적으로 순환되는 느낌이 들었어요 더 대박인건 트위스터 기능도 있어서 돌리면서 골반의 힘으로 허리까지 조여주니까 옆구리살은 빠지고 묵직했던 골반이 가벼워지는 느낌이 들었어요 지압이랑 트위스터가 체내에 쌓여있는 노폐물을 빼줘서 붓기도 잘 빠지고 몸이 가벼워지는건데 제일 마음에 들었던건 디스플레이로 횟수를 체크하면서 운동하니까 올라간 수치만큼 살이 빠진 것 같아서 엄청 뿌듯하더라구요 마침 49% 할인 중이더라구요 이렇게 좋은거 엄마 함께 사드리면서 효도 좀 해보려고 합니다",
+      "analyzed": true,
+      "base": {
+        "hook_type": "체험 감탄형",
+        "first_3s": "제품을 두 손으로 든 여성이 '와! 이거' 하며 2주 사용 결과를 꺼낸다",
+        "appeal_angle": "40세 붓기·뱃살 → 하루 10분",
+        "cta": "49% 할인, 엄마 사드리며 효도",
+        "keywords": [
+          "2주 밟으니까",
+          "40세가 되니까",
+          "157개 지압볼",
+          "트위스터",
+          "49% 할인"
+        ]
+      },
+      "audio": {
+        "opening_line": "우와 이거 2주 밟으니까 몸 붓기가 확 빠졌어요",
+        "voice_style": "높은 톤 존댓말 여성 리뷰",
+        "narration_mode": "1인 후기형"
+      },
+      "visual": {
+        "format": "실사 인플루언서 UGC(집안 여러 컷)",
+        "mechanism_viz": "지압볼·디스플레이 클로즈업",
+        "before_after": "체형 컷 대비(약함)",
+        "subtitle_style": "심플한 흰 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "붓기·뱃살 고민 + 부모 선물",
+        "appeal_axis": "또래 공감 + 효도 명분"
+      },
+      "trust": {
+        "evidence": "제품 사양(157개 지압볼·10개 마그네틱볼), 디스플레이 횟수 체크",
+        "refund": "–",
+        "discount": "49%",
+        "compliance": "온건"
+      },
+      "one_liner": "90일 지출 5,833만원·구매 2,777건으로 아큐스터 최대 물량 소재이면서 ROAS 2.54를 유지했다. 특별한 장치 없이 담백한 UGC 후기가 대물량을 견딘다는 증거다.",
+      "why": "과장 없이 '2주 써보니 이렇더라' 만으로 끝까지 간다. 광고 피로도가 낮아 오래 태울 수 있고, 마지막의 '엄마 선물' 한 줄이 구매 명분을 하나 더 만든다."
+    },
+    {
+      "key": "tw추석오픈Ⅰ_ANP",
+      "rank_note": "bottom",
+      "roas": 1.68,
+      "spend": 1804055.0,
+      "ctr": 6.87,
+      "cvr": 0.45,
+      "cpa": 31033,
+      "purchases": 58.132967,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 51276.0,
+          "revenue": 147403.0,
+          "roas": 2.87,
+          "ctr": 1.86,
+          "cvr": 4.75,
+          "cpa": 16367,
+          "purchases": 3.132967,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 31.0,
+          "completion": 27.2
+        },
+        "tiktok": {
+          "spend": 913639.0,
+          "revenue": 1644550.0,
+          "roas": 1.8,
+          "ctr": 7.65,
+          "cvr": 0.28,
+          "cpa": 29472,
+          "purchases": 31.0,
+          "hook_rate": 69.6,
+          "hold_rate": 96.6,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 839140.0,
+          "revenue": 1237500.0,
+          "roas": 1.47,
+          "ctr": 4.3,
+          "cvr": 1.5,
+          "cpa": 34964,
+          "purchases": 24.0,
+          "hook_rate": 42.7,
+          "hold_rate": 56.0,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.8s.jpg",
+        "f05_15.6s.jpg",
+        "f06_23.4s.jpg",
+        "f07_31.2s.jpg",
+        "f08_39.0s.jpg",
+        "f09_46.8s.jpg"
+      ],
+      "transcript": "안 사고 버틴 분들 드디어 추석 한가위 기념 역대급 특가 오픈했습니다 숨쉬듯 불어나는 똥 뱃살 칼 차단 시켜주는 복근 스트레셔 아큐스터 하루 10분으로 복부 주변 지방 87%까지 박살 내주는 바이어트 급 파나움으로 난리인데 드디어 추석 한가위 기념 역대급 특가로 찾아왔습니다 꽉 막힌 복부순환 115도 회전 트위스트로 강제로 뚫고 167개 초정미 지압으로 전신연량까지 폭발적으로 태워주는 이 아큐스터 대충 겉근육만 흔들다 끝나는 저렴이 트위스터와는 비교조차 할 수 없습니다 단 몇번의 회전만으로도 잠들어있는 복행근 복지근 외복사근이 뿌리째 비틀어지면서 뱃살이 3배도 빠르게 타버린다는데 더더더 대박인건 2주만에 생전 처음 느껴보는 옆구리 뻐근함이 찾아오더니 한달만에 통자 허리가 콜라병 굴곡으로 갱생됐다는거에요 이 미칭 복근 스트레칭 발판을 추석 한가위 초초초 초특가로 4만원 대에 쟁일 수 있다는데 지금 사면 100% 무료 환불까지 챙겨준다니까 잔록허리가 꿈이라면 빨리 무료 체험해보세요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "대기 구매자 호명 + 시즌 특가 오픈",
+        "first_3s": "발레리나들과 아큐스터 캐릭터가 테이프 커팅하는 AI 무대 + '안사고 버틴 분들' 자막",
+        "appeal_angle": "추석 특가 + 뱃살 차단 기능 과장 소구",
+        "cta": "4만원대 + 100% 무료 환불, 빨리 무료 체험",
+        "keywords": [
+          "안사고 버틴 분들",
+          "추석 한가위",
+          "역대급 특가",
+          "똥뱃살",
+          "53% 할인",
+          "100% 무료환불"
+        ]
+      },
+      "audio": {
+        "opening_line": "안 사고 버틴 분들 드디어 추석 한가위 기념 역대급 특가 오픈했습니다",
+        "voice_style": "속사포 홈쇼핑 성우",
+        "narration_mode": "전체 내레이션 + 자막"
+      },
+      "visual": {
+        "format": "AI 생성 영상(캐릭터·발레리나 무대) + 가격 카드",
+        "mechanism_viz": "회전 트위스트·지압 설명(내레이션 위주)",
+        "before_after": "통자허리→콜라병 언급(구두)",
+        "subtitle_style": "중앙 흰 자막 + 노란 하이라이트 할인 강조"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40·50대",
+        "segment": "구매 망설이던 대기층",
+        "appeal_axis": "뱃살·허리라인 + 시즌 할인"
+      },
+      "trust": {
+        "evidence": "'지방 87%', '3배 빠르게' 등 수치 주장(근거 미제시)",
+        "refund": "100% 무료 환불",
+        "discount": "53% 할인, 2SET 75,000원 가격카드",
+        "compliance": "⚠ '복부 지방 87% 박살'·'뱃살 3배 빠르게'·'다이어트급' 효능 과장 + 근육명 나열 — 표시광고 리스크. AI생성·의료기기아님 고지는 있음"
+      },
+      "one_liner": "'안사고 버틴 분들' 호명은 좋지만 AI 무대 연출과 근거 없는 지방감소 수치 과장이 뒤섞여 신뢰가 흐려진 시즌 특가물.",
+      "why": "가격카드·환불보장 등 구매 장벽 제거는 갖췄으나, 실사용 장면 대신 판타지 AI 무대라 '내 몸에 쓰는 장면'이 안 그려진다. 과장 수치는 오히려 의심을 키우고 컴플라 리스크까지 얹는다."
+    },
+    {
+      "key": "tw불면5년차Ⅵ_AN",
+      "rank_note": "bottom",
+      "roas": 1.55,
+      "spend": 941024.0,
+      "ctr": 1.56,
+      "cvr": 3.63,
+      "cpa": 36382,
+      "purchases": 25.865427,
+      "platforms": [
+        "google",
+        "meta",
+        "tiktok"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 123984.0,
+          "revenue": 762844.0,
+          "roas": 6.15,
+          "ctr": 1.62,
+          "cvr": 9.84,
+          "cpa": 8340,
+          "purchases": 14.865427,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 6.1,
           "completion": 2.0
         },
         "tiktok": {
-          "spend": 32163.0,
-          "revenue": 153739.0,
-          "roas": 4.78,
-          "ctr": 0.85,
+          "spend": 32355.0,
+          "revenue": 153686.0,
+          "roas": 4.75,
+          "ctr": 0.86,
           "cvr": 1.23,
-          "cpa": 16082,
+          "cpa": 16178,
           "purchases": 2.0,
           "hook_rate": 16.8,
           "hold_rate": 48.9,
@@ -2414,12 +2389,12 @@
           "completion": null
         },
         "meta": {
-          "spend": 758749.0,
+          "spend": 784685.0,
           "revenue": 543700.0,
-          "roas": 0.72,
-          "ctr": 2.28,
-          "cvr": 2.34,
-          "cpa": 84305,
+          "roas": 0.69,
+          "ctr": 2.29,
+          "cvr": 2.26,
+          "cpa": 87187,
           "purchases": 9.0,
           "hook_rate": 48.0,
           "hold_rate": 28.7,
@@ -2484,28 +2459,28 @@
       "why": "아큐스터의 핵심 기대(붓기·하체·순환)와 무관한 '불면' 앵글이라 구매 동기 연결이 약함. 3D 애니+노래는 시청 유지엔 도움이나 정보 밀도·신뢰 장치(전후·후기·오퍼)가 거의 없고, 제품 등장이 30초 가까이 늦어 전환으로 이어지기 어려운 구조."
     },
     {
-      "key": "tw동창회복수상황극Ⅰ_AI",
+      "key": "tw빽가사용방법Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 1.34,
-      "spend": 5511532.0,
-      "ctr": 4.74,
-      "cvr": 1.65,
-      "cpa": 38814,
-      "purchases": 142.0,
+      "roas": 1.5,
+      "spend": 1141739.0,
+      "ctr": 8.02,
+      "cvr": 0.32,
+      "cpa": 33581,
+      "purchases": 34.0,
       "platforms": [
-        "meta"
+        "tiktok"
       ],
       "platform_metrics": {
-        "meta": {
-          "spend": 5511532.0,
-          "revenue": 7411300.0,
-          "roas": 1.34,
-          "ctr": 4.74,
-          "cvr": 1.65,
-          "cpa": 38814,
-          "purchases": 142.0,
-          "hook_rate": 57.8,
-          "hold_rate": 66.3,
+        "tiktok": {
+          "spend": 1141739.0,
+          "revenue": 1712609.0,
+          "roas": 1.5,
+          "ctr": 8.02,
+          "cvr": 0.32,
+          "cpa": 33581,
+          "purchases": 34.0,
+          "hook_rate": 81.2,
+          "hold_rate": 97.0,
           "play50": null,
           "completion": null
         }
@@ -2515,79 +2490,109 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_10.6s.jpg",
-        "f05_21.1s.jpg",
-        "f06_31.7s.jpg",
-        "f07_42.2s.jpg",
-        "f08_52.8s.jpg",
-        "f09_63.4s.jpg"
+        "f04_8.7s.jpg",
+        "f05_17.3s.jpg",
+        "f06_26.0s.jpg",
+        "f07_34.6s.jpg",
+        "f08_43.3s.jpg",
+        "f09_52.0s.jpg"
       ],
-      "transcript": "야! 지환이 내 엄마 개뚱뚱하다! 이번엔 다르게 나타난다 굶어도 뛰어도 그대로야 잠들기 전 하루 10분 아큐스터가 고인 붓기를 혈자리로 빼낸다 살이 문제가 아니라 붓기였다 저 사람 누구야? 니가 뚱뚱하다고 놀렸던 지환이 엄마야 잠들기 전 하루 10분이 나를 바꿔줍니다 지압 트위스터 아큐스터",
+      "transcript": "전원을 켜줘, 그리고 전원 버튼을 한 번 더 터치해주면 모드를 바꿀 수 있어. T는 타이머 모드로 운동 시간을 체크해주는 모드야. 다음은 R 모드, 이건 트위스터 돌릴 때마다 1회씩 체크되는데 회전 횟수를 체크해주는 모드라고 생각하면 돼. 마지막으로 S 모드, 이건 스텝을 생각하면 되는데 걸음소리를 체크해주는 모드야. 자, 그럼 이제 올라가 볼게. 와, 이거거든! 와! 팔을 더 크게 크게 돌려주면 허리가 더 많이 비틀어지면서 야, 이 등까지 자극이 와. 아, 진짜 너무 시원해! 옆구리는 물론이고 이 복부랑 골반 주변 근육까지 자연스럽게 사용되니까 이 배랑 허리 쪽이 쪼여지는 느낌이 들어. 와, 나 벌써 열이 오르는데? 오! 야, 이거 진짜 운동된다. 궁금하려들, 한 살 한 살 먹을수록 늘어나는 군살 때문에 근심이 임한 저만이 아니었다면 이게 림프선을 깨워 뱃살 정리까지 도와주는 트윈1 드리바이어스 아티핀의 아큐스터! 한 번 써보는 거 어때? 보기 싫고 신경 쓰였던 군살들과 이거라는 나를 만나게 될 거야!",
       "analyzed": true,
       "base": {
-        "hook_type": "모욕·복수 상황극(아이 친구에게 놀림받는 엄마)",
-        "first_3s": "학부모 참관날 통통한 엄마와 아들 → 아이들 '야 지환이네 엄마 개뚱뚱하다ㅋㅋㅋ' + 상단 '느그 엄마 개뚱뚱함ㅋ 선 넘은 아들 친구 참교육ㄷㄷ'",
-        "appeal_angle": "외모 모욕 → 붓기 빼고 변신 복수(살이 아니라 붓기였다)",
-        "cta": "잠들기 전 하루 10분이 나를 바꿔줍니다 — 지압 트위스터 아큐스터",
+        "hook_type": "셀럽 PPL 사용법 시연형",
+        "first_3s": "빽가가 아큐스터 들고 '일단 전원 버튼을 눌러' + 상단 '🔥이거 만든 담당자님 누구세요!!!🔥'",
+        "appeal_angle": "셀럽 실사용 + 기능 설명(T/R/S 모드) + 뱃살 비포애프터 배너",
+        "cta": "한 번 써보는 거 어때?(약함)",
         "keywords": [
-          "참교육",
-          "개뚱뚱",
-          "복수",
-          "붓기",
-          "잠들기 전 10분",
-          "변신",
-          "AI 상황극"
+          "빽가",
+          "사용방법",
+          "타이머 모드",
+          "회전수",
+          "스텝",
+          "157개 림프볼",
+          "마그네틱볼",
+          "뱃살제로",
+          "똥배cut"
         ]
       },
       "audio": {
-        "opening_line": "야! 지환이네 엄마 개뚱뚱하다!",
-        "voice_style": "아이 대사 + 짧은 내레이션 카피, BGM 위주",
-        "narration_mode": "AI 드라마 상황극(대사 최소, 자막 서사)"
+        "opening_line": "전원을 켜줘, 그리고 전원 버튼을 한 번 더 터치해주면 모드를 바꿀 수 있어.",
+        "voice_style": "셀럽(빽가) 반말 리액션형 시연",
+        "narration_mode": "셀럽 온캠 PPL(유튜브 채널 클립 재편집)"
       },
       "visual": {
-        "format": "AI 생성 실사풍 숏드라마(학교·공원·거실)",
-        "mechanism_viz": "약함 — 혈자리로 붓기 빼낸다는 카피 위주, 제품 사용 장면 비중 낮음",
-        "before_after": "뚱뚱한 엄마 → 날씬한 다리·슬릿 스커트 변신(드라마 반전형)",
-        "subtitle_style": "상단 고정 밈 타이틀(노랑+빨강 'ㅋ','ㄷㄷ'), 중앙 검정 박스 대사 자막"
+        "format": "상단 셀럽 유튜브 클립 + 하단 고정 상품 배너(전문가 직접 설계한 똥배cut 트위스터) + 비포/애프터 썸네일 3분할",
+        "mechanism_viz": "기기 디스플레이 모드 설명, 서서 팔 돌리며 비트는 시연",
+        "before_after": "하단 고정 배너에 남성 뱃살 Before/After 사진 상시 노출",
+        "subtitle_style": "상단 흰 손글씨 타이틀+불꽃 이모지, 영상 내 작은 흰 자막, 배너 파랑 타이포"
       },
       "target": {
-        "gender": "여성",
-        "age": "30~40대 학부모",
-        "segment": "출산 후 체중 고민 엄마",
-        "appeal_axis": "외모 콤플렉스·사회적 시선(복수 판타지)"
+        "gender": "남녀 혼합(셀럽·비포애프터는 남성)",
+        "age": "30~50대",
+        "segment": "뱃살 고민 + 셀럽 인지층",
+        "appeal_axis": "셀럽 신뢰·기능 이해"
       },
       "trust": {
-        "evidence": "없음(서사만)",
+        "evidence": "셀럽 실사용, 전문가 직접 설계, 157개 림프볼+10개 마그네틱볼 스펙",
         "refund": "언급 없음",
-        "discount": "언급 없음",
-        "compliance": "⚠체형 비하('개뚱뚱') 자극 훅, 극단적 체형 변화 AI 연출(비현실적 비포애프터 오인 소지), '붓기를 혈자리로 빼낸다' 효능 표현"
+        "discount": "언급 없음(오퍼 배너 없음)",
+        "compliance": "⚠'림프선을 깨워 뱃살 정리' 효능 표현, 비포애프터 사진 상시 노출(개인차 고지 필요), '전문가 직접 설계' 권위 차용"
       },
-      "one_liner": "복수 서사로 끝까지 보게는 만들지만 제품은 소품에 그친 AI 숏드라마 — 변신의 근거가 비어 있다",
-      "why": "모욕→복수 구조는 시청 유지와 클릭엔 강하지만, 비만 주인공이 하루 10분으로 극적 변신하는 비현실적 연출이라 '나도 될까'라는 믿음을 못 줌. 사용법·기전·가격·환불이 거의 없어 구매 결정 정보가 부족하고, 체형 비하 자극 훅이 잘못된(구경꾼) 관심층을 데려오는 경향."
+      "one_liner": "셀럽이 기능을 친절히 보여주지만 '사용설명서'에 머문 PPL — 왜 지금 사야 하는지(오퍼)가 없다",
+      "why": "셀럽 얼굴과 비포애프터 배너로 시선은 잡지만, 영상 본문이 전원·모드 설명이라 욕구를 키우는 구간이 짧고 할인·환불 같은 즉시 구매 장치가 빠져 있음(셀럽 클립엔 오퍼 배너가 성패를 가르는 경향). 남성 셀럽·남성 뱃살 사진이 핵심 여성 타겟과도 엇갈림."
     },
     {
       "key": "tw복스럽다Ⅰ_AN",
       "rank_note": "bottom",
-      "roas": 1.34,
-      "spend": 754933.0,
-      "ctr": 1.35,
-      "cvr": 1.63,
-      "cpa": 37747,
-      "purchases": 20.0,
+      "roas": 1.46,
+      "spend": 989410.0,
+      "ctr": 1.45,
+      "cvr": 1.89,
+      "cpa": 35362,
+      "purchases": 27.979664,
       "platforms": [
+        "google",
+        "meta",
         "tiktok"
       ],
       "platform_metrics": {
+        "google": {
+          "spend": 15401.0,
+          "revenue": 94826.0,
+          "roas": 6.16,
+          "ctr": 0.93,
+          "cvr": 8.61,
+          "cpa": 7780,
+          "purchases": 1.979664,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 9.0,
+          "completion": 2.8
+        },
         "tiktok": {
-          "spend": 754933.0,
-          "revenue": 1011610.0,
-          "roas": 1.34,
+          "spend": 779758.0,
+          "revenue": 1083864.0,
+          "roas": 1.39,
           "ctr": 1.35,
-          "cvr": 1.63,
-          "cpa": 37747,
-          "purchases": 20.0,
-          "hook_rate": 32.6,
+          "cvr": 1.67,
+          "cpa": 37131,
+          "purchases": 21.0,
+          "hook_rate": 32.5,
           "hold_rate": 62.8,
+          "play50": null,
+          "completion": null
+        },
+        "meta": {
+          "spend": 194251.0,
+          "revenue": 269600.0,
+          "roas": 1.39,
+          "ctr": 3.32,
+          "cvr": 2.48,
+          "cpa": 38850,
+          "purchases": 5.0,
+          "hook_rate": 64.3,
+          "hold_rate": 27.8,
           "play50": null,
           "completion": null
         }
@@ -2649,28 +2654,56 @@
       "why": "첫 10초를 같은 후렴 반복에 쓰고 제품 설명은 몇 줄뿐이라 '재밌는 영상'으로 소비되고 끝남. 3D 애니의 극단적 변신은 신뢰를 주지 못하고, 아큐스터의 붓기·순환 맥락 대신 체중 감량으로 읽혀 과장 인상. 오퍼·근거 장치도 없음."
     },
     {
-      "key": "tw엘베상황극Ⅰ_AI",
+      "key": "tw남편외도상황극Ⅰ_AI",
       "rank_note": "bottom",
-      "roas": 1.13,
-      "spend": 805220.0,
-      "ctr": 4.9,
-      "cvr": 1.36,
-      "cpa": 50326,
-      "purchases": 16.0,
+      "roas": 1.32,
+      "spend": 2697597.0,
+      "ctr": 1.76,
+      "cvr": 1.14,
+      "cpa": 39112,
+      "purchases": 68.97103100000001,
       "platforms": [
-        "meta"
+        "google",
+        "meta",
+        "tiktok"
       ],
       "platform_metrics": {
+        "google": {
+          "spend": 1298403.0,
+          "revenue": 2687045.0,
+          "roas": 2.07,
+          "ctr": 1.33,
+          "cvr": 1.45,
+          "cpa": 25473,
+          "purchases": 50.971031,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 23.5,
+          "completion": 8.8
+        },
+        "tiktok": {
+          "spend": 203569.0,
+          "revenue": 195426.0,
+          "roas": 0.96,
+          "ctr": 1.12,
+          "cvr": 0.92,
+          "cpa": 50892,
+          "purchases": 4.0,
+          "hook_rate": 32.1,
+          "hold_rate": 59.0,
+          "play50": null,
+          "completion": null
+        },
         "meta": {
-          "spend": 805220.0,
-          "revenue": 913900.0,
-          "roas": 1.13,
-          "ctr": 4.9,
-          "cvr": 1.36,
-          "cpa": 50326,
-          "purchases": 16.0,
-          "hook_rate": 53.1,
-          "hold_rate": 55.4,
+          "spend": 1195625.0,
+          "revenue": 682600.0,
+          "roas": 0.57,
+          "ctr": 5.2,
+          "cvr": 0.67,
+          "cpa": 85402,
+          "purchases": 14.0,
+          "hook_rate": 63.9,
+          "hold_rate": 63.4,
           "play50": null,
           "completion": null
         }
@@ -2680,80 +2713,128 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_13.2s.jpg",
-        "f05_26.4s.jpg",
-        "f06_39.5s.jpg",
-        "f07_52.7s.jpg",
-        "f08_65.9s.jpg",
-        "f09_79.1s.jpg"
+        "f04_12.3s.jpg",
+        "f05_24.6s.jpg",
+        "f06_36.8s.jpg",
+        "f07_49.1s.jpg",
+        "f08_61.4s.jpg",
+        "f09_73.7s.jpg"
       ],
-      "transcript": "잠깐만요 잠깐만요 죄송합니다 제가 먼저 탔는데 언제까지 왜 매번 내가 양보해 참자 참아 아큐스터가 발바닥 혈자리로 보인 붓기를 전부 빼낸다 굶어도 안 빠지던 건 살이 아니라 붓기였다 마지막에 타신 분 빨리 내리세요 죄송합니다 요즘 사람들 참 뻔뻔해 잠들기 전 하루 10분이 나를 바꿔줍니다 지압 트위스터 아큐스터",
-      "analyzed": true,
-      "base": {
-        "hook_type": "엘리베이터 정원초과 굴욕 상황극 훅",
-        "first_3s": "오피스 로비 엘리베이터에 직장인들 탑승, 통통한 중년 여성이 '잠깐만요!' 외치며 뛰어옴. 상단 '엘리베이터 정원초과 공포증 극복하게 해준 아큐스터'",
-        "appeal_angle": "체중/붓기로 인한 사회적 굴욕(정원초과 버저) → 살이 아니라 붓기였다 → 붓기 제거",
-        "cta": "잠들기 전 하루 10분이 나를 바꿔줍니다 - 지압 트위스터 아큐스터",
-        "keywords": [
-          "엘리베이터",
-          "정원초과",
-          "상황극",
-          "굴욕",
-          "붓기",
-          "혈자리",
-          "AI인물",
-          "직장인"
-        ]
-      },
-      "audio": {
-        "opening_line": "잠깐만요 잠깐만요, 죄송합니다",
-        "voice_style": "드라마식 연기 대사 + 차분한 성우 내레이션",
-        "narration_mode": "상황극 대사 + 후반 성우 해설"
-      },
-      "visual": {
-        "format": "AI 실사 인물 숏드라마(상황극), 92초 롱폼",
-        "mechanism_viz": "다리 정맥·림프 혈류 3D 해부 애니(화살표로 순환 표현)",
-        "before_after": "통통한 주인공 → 날씬해진 주인공(서사적 전후)",
-        "subtitle_style": "상단 빨강/흰/노랑 고정 타이틀, 하단 검정 박스 흰 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "40~50대",
-        "segment": "체중·붓기로 외모 콤플렉스 있는 직장 여성",
-        "appeal_axis": "체형/외모 굴욕 탈출"
-      },
-      "trust": {
-        "evidence": "해부 애니메이션 외 근거 없음",
-        "refund": "없음",
-        "discount": "없음",
-        "compliance": "⚠ '혈자리' 한방 표현, 체형 비하형 굴욕 연출(정원초과 버저)"
-      },
-      "one_liner": "엘리베이터 굴욕이라는 강한 상황 훅은 눈길을 끌지만, 중년 체형 비하 서사가 길고 제품은 후반에야 짧게 나온다.",
-      "why": "굴욕 상황극은 클릭을 부르는 자극형 훅이라 관심은 끌지만, 주인공을 '살찐 중년' 프레임에 둬 시청자가 자신과 동일시하기 싫어하는 구조. 92초 중 제품·원리가 차지하는 비중이 작고 오퍼·근거 장치가 없어 관심이 구매로 이어지지 않음."
+      "transcript": "여보! 언니 몸 보면 오빠도 좀 이해되죠? 우리 먼저 갈게 둔해 보이는 내 몸뚱이 내가 봐도 한심하고 초라하다 잠들기 전 하루 10분 아큐스터가 고인 붓기를 혈자리로 빼낸다 살이 문제가 아니라 붓기였다 여보! 그쪽 몸 보면 좀 이해되죠? 살은 그대로야 붓기만 뺐지 잠들기 전 하루 10분이 나를 바꿔줍니다 지압 트위스터 아큐스터",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
     },
     {
-      "key": "tw도파민선PPL_T",
-      "rank_note": "top",
-      "roas": 1.01,
-      "spend": 1447538.0,
-      "ctr": 4.29,
-      "cvr": 0.35,
-      "cpa": 55675,
-      "purchases": 26.0,
+      "key": "tw동창회복수상황극Ⅰ_AI",
+      "rank_note": "bottom",
+      "roas": 1.18,
+      "spend": 3957319.0,
+      "ctr": 4.57,
+      "cvr": 1.56,
+      "cpa": 45486,
+      "purchases": 87.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1447538.0,
-          "revenue": 1456800.0,
-          "roas": 1.01,
-          "ctr": 4.29,
-          "cvr": 0.35,
-          "cpa": 55675,
-          "purchases": 26.0,
-          "hook_rate": 39.1,
-          "hold_rate": 31.7,
+          "spend": 3957319.0,
+          "revenue": 4656900.0,
+          "roas": 1.18,
+          "ctr": 4.57,
+          "cvr": 1.56,
+          "cpa": 45486,
+          "purchases": 87.0,
+          "hook_rate": 58.3,
+          "hold_rate": 66.2,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_10.6s.jpg",
+        "f05_21.1s.jpg",
+        "f06_31.7s.jpg",
+        "f07_42.2s.jpg",
+        "f08_52.8s.jpg",
+        "f09_63.4s.jpg"
+      ],
+      "transcript": "야! 지환이 내 엄마 개뚱뚱하다! 이번엔 다르게 나타난다 굶어도 뛰어도 그대로야 잠들기 전 하루 10분 아큐스터가 고인 붓기를 혈자리로 빼낸다 살이 문제가 아니라 붓기였다 저 사람 누구야? 니가 뚱뚱하다고 놀렸던 지환이 엄마야 잠들기 전 하루 10분이 나를 바꿔줍니다 지압 트위스터 아큐스터",
+      "analyzed": true,
+      "base": {
+        "hook_type": "모욕·복수 상황극(아이 친구에게 놀림받는 엄마)",
+        "first_3s": "학부모 참관날 통통한 엄마와 아들 → 아이들 '야 지환이네 엄마 개뚱뚱하다ㅋㅋㅋ' + 상단 '느그 엄마 개뚱뚱함ㅋ 선 넘은 아들 친구 참교육ㄷㄷ'",
+        "appeal_angle": "외모 모욕 → 붓기 빼고 변신 복수(살이 아니라 붓기였다)",
+        "cta": "잠들기 전 하루 10분이 나를 바꿔줍니다 — 지압 트위스터 아큐스터",
+        "keywords": [
+          "참교육",
+          "개뚱뚱",
+          "복수",
+          "붓기",
+          "잠들기 전 10분",
+          "변신",
+          "AI 상황극"
+        ]
+      },
+      "audio": {
+        "opening_line": "야! 지환이네 엄마 개뚱뚱하다!",
+        "voice_style": "아이 대사 + 짧은 내레이션 카피, BGM 위주",
+        "narration_mode": "AI 드라마 상황극(대사 최소, 자막 서사)"
+      },
+      "visual": {
+        "format": "AI 생성 실사풍 숏드라마(학교·공원·거실)",
+        "mechanism_viz": "약함 — 혈자리로 붓기 빼낸다는 카피 위주, 제품 사용 장면 비중 낮음",
+        "before_after": "뚱뚱한 엄마 → 날씬한 다리·슬릿 스커트 변신(드라마 반전형)",
+        "subtitle_style": "상단 고정 밈 타이틀(노랑+빨강 'ㅋ','ㄷㄷ'), 중앙 검정 박스 대사 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30~40대 학부모",
+        "segment": "출산 후 체중 고민 엄마",
+        "appeal_axis": "외모 콤플렉스·사회적 시선(복수 판타지)"
+      },
+      "trust": {
+        "evidence": "없음(서사만)",
+        "refund": "언급 없음",
+        "discount": "언급 없음",
+        "compliance": "⚠체형 비하('개뚱뚱') 자극 훅, 극단적 체형 변화 AI 연출(비현실적 비포애프터 오인 소지), '붓기를 혈자리로 빼낸다' 효능 표현"
+      },
+      "one_liner": "복수 서사로 끝까지 보게는 만들지만 제품은 소품에 그친 AI 숏드라마 — 변신의 근거가 비어 있다",
+      "why": "모욕→복수 구조는 시청 유지와 클릭엔 강하지만, 비만 주인공이 하루 10분으로 극적 변신하는 비현실적 연출이라 '나도 될까'라는 믿음을 못 줌. 사용법·기전·가격·환불이 거의 없어 구매 결정 정보가 부족하고, 체형 비하 자극 훅이 잘못된(구경꾼) 관심층을 데려오는 경향."
+    },
+    {
+      "key": "tw도파민선PPL_T",
+      "rank_note": "top",
+      "roas": 0.93,
+      "spend": 1494384.0,
+      "ctr": 4.22,
+      "cvr": 0.31,
+      "cpa": 59775,
+      "purchases": 25.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 1494384.0,
+          "revenue": 1385800.0,
+          "roas": 0.93,
+          "ctr": 4.22,
+          "cvr": 0.31,
+          "cpa": 59775,
+          "purchases": 25.0,
+          "hook_rate": 36.8,
+          "hold_rate": 28.2,
           "play50": null,
           "completion": null
         }
@@ -2811,110 +2892,42 @@
       "why": "광고 티가 안 나는 사무실 셀프캠 + '앉아서 일하는 사람'이라는 정확한 자기지목이 주효."
     },
     {
-      "key": "tw코끼리언니Ⅷ_AN",
-      "rank_note": "top",
-      "roas": 0.98,
-      "spend": 604701.0,
-      "ctr": 7.44,
-      "cvr": 0.17,
-      "cpa": 54973,
-      "purchases": 11.0,
-      "platforms": [
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 604701.0,
-          "revenue": 592607.0,
-          "roas": 0.98,
-          "ctr": 7.44,
-          "cvr": 0.17,
-          "cpa": 54973,
-          "purchases": 11.0,
-          "hook_rate": 75.5,
-          "hold_rate": 93.6,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_8.8s.jpg",
-        "f05_17.5s.jpg",
-        "f06_26.3s.jpg",
-        "f07_35.1s.jpg",
-        "f08_43.9s.jpg",
-        "f09_52.6s.jpg"
-      ],
-      "transcript": "16,000개를 10분만을 뚫어내는 엑시키스 너무 밟으면 이쑤시게 달이 되니까 꼭꼭꼭 조심해서 밟을 하잖아요 반짝 안 밟지만 대로 깎아주는 아키스턴 모르면 무조건 손해라니까요 실시되자마자 시차한 물 어겁지 않죠",
-      "analyzed": true,
-      "base": {
-        "hook_type": "AI 애니 '코끼리 언니' 하체 지적 훅",
-        "first_3s": "청바지 입은 통통한 하체 뒷모습(픽사풍 3D) + '코끼리 언니들 제발 봐주세요~!!'",
-        "appeal_angle": "하체 붓기 → 발바닥 혈자리 지압으로 디톡스, 10차 물량까지 동난 화제성",
-        "cta": "그 짜릿한 경험 하고 싶은 분",
-        "keywords": [
-          "코끼리",
-          "하체",
-          "붓기",
-          "발바닥 혈자리",
-          "디톡스",
-          "10차 물량",
-          "아큐스터"
-        ]
-      },
-      "audio": {
-        "opening_line": "코끼리 언니들 제발 봐주세요",
-        "voice_style": "애니 캐릭터 톤 내레이션(음성 인식 불명확)",
-        "narration_mode": "3인칭 애니 스토리"
-      },
-      "visual": {
-        "format": "3D 애니메이션(픽사풍) 캐릭터 스토리",
-        "mechanism_viz": "발바닥 지압 사용컷(애니)",
-        "before_after": "있음(통통→날씬 캐릭터 대비)",
-        "subtitle_style": "중앙 손글씨체 컬러 강조 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20~40대",
-        "segment": "하체비만·붓기 고민층",
-        "appeal_axis": "하체 라인 변화"
-      },
-      "trust": {
-        "evidence": "'10차 물량 동남' 화제성",
-        "refund": "없음",
-        "discount": "없음",
-        "compliance": "⚠ '코끼리' 신체 비하 표현(체형 지적) + '혈자리 디톡스' 한방 효능 표현"
-      },
-      "one_liner": "픽사풍 애니로 체형 고민을 귀엽게 포장해 시선을 잡지만, '코끼리' 지칭이 비하로 읽힐 수 있다.",
-      "why": "애니 포맷은 실사 노출 부담 없이 하체 비교를 보여주고 품절 군중 장면으로 화제성을 주지만, 오퍼가 없고 체형 비하 리스크가 있어 기간별로 반응이 엇갈린다."
-    },
-    {
-      "key": "tw요가황지연PPL_T",
+      "key": "tw안전바상황극Ⅰ_AI",
       "rank_note": "bottom",
-      "roas": 0.4,
-      "spend": 793678.0,
-      "ctr": 4.23,
-      "cvr": 0.09,
-      "cpa": 132280,
-      "purchases": 6.0,
+      "roas": 0.9,
+      "spend": 861722.0,
+      "ctr": 4.93,
+      "cvr": 0.97,
+      "cpa": 57460,
+      "purchases": 14.996839999999999,
       "platforms": [
+        "google",
         "meta"
       ],
       "platform_metrics": {
+        "google": {
+          "spend": 29788.0,
+          "revenue": 275221.0,
+          "roas": 9.24,
+          "ctr": 1.03,
+          "cvr": 12.19,
+          "cpa": 5961,
+          "purchases": 4.99684,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 16.7,
+          "completion": 5.7
+        },
         "meta": {
-          "spend": 793678.0,
-          "revenue": 318300.0,
-          "roas": 0.4,
-          "ctr": 4.23,
-          "cvr": 0.09,
-          "cpa": 132280,
-          "purchases": 6.0,
-          "hook_rate": 29.0,
-          "hold_rate": 33.0,
+          "spend": 831934.0,
+          "revenue": 502900.0,
+          "roas": 0.6,
+          "ctr": 5.49,
+          "cvr": 0.66,
+          "cpa": 83193,
+          "purchases": 10.0,
+          "hook_rate": 52.4,
+          "hold_rate": 61.1,
           "play50": null,
           "completion": null
         }
@@ -2924,77 +2937,77 @@
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_6.3s.jpg",
-        "f05_12.6s.jpg",
-        "f06_18.9s.jpg",
-        "f07_25.1s.jpg",
-        "f08_31.4s.jpg",
-        "f09_37.7s.jpg"
+        "f04_10.8s.jpg",
+        "f05_21.6s.jpg",
+        "f06_32.3s.jpg",
+        "f07_43.1s.jpg",
+        "f08_53.9s.jpg",
+        "f09_64.7s.jpg"
       ],
-      "transcript": "요가 강사인 저도요 아침 붓기만큼은 진짜 답이 없었어요 얼굴도 붓고 몸도 무겁고 스트레칭 해도 바로 안 빠지잖아요 근데 요즘 저는 아침에 따로 시간 안내요 그냥 양치할때 압교수태 위에 올라가요 처음엔 그냥 시원한 정도겠지 했는데 167개의 지압돌기가 헤어자리에 맞게 발바닥 근막을 깊숙이 눌러주니까 꽉 막혀있던 순환이 뚫리면서 몸속 노폐물들이 싹 빠져나가는 느낌이더라구요 운동이나 아이스팩은 따로 시간을 드려야 되는데 이건 바쁜 아침에도 진짜 잘하게 돼요 저 요즘 하루 10분 압교수태 루틴 하는데 몸 붓기, 얼굴 붓기까지 전보다 훨씬 가벼운 느낌이에요 아침 붓기 심한 분들은 진짜 양치시간부터 바꿔보세요 저는 이 루틴 이제 못 끊어요",
+      "transcript": "얼마 전 아들 데리고 놀이공원 갔는데 바이킹 안전바가 배에 걸려 딸깍 소리가 안 나는 거야. 직원이 다가와 몇 번을 눌러보더니 고객님 자세 좀 바꿔서 다시 앉아보시겠어요. 옆에 있던 아들이 고개를 푹 숙이더니 내 손을 슬쩍 놓더라 결국 나만 내려서 벤치에 혼자 앉아 있는데 아들 표정이 계속 눈에 밟혔어. 그날 새벽 4시까지 뱃살 빼는 법만 검색했어. 이것저것 보다가 지압 트위스터로 뱃살 뺐다는 후기들이 자꾸 눈에 띄었고 미쳐야 본전이다 싶어서 하나 주문했어. 올라가자마자 악소리 날 만큼 아프더라. 이게 마사지야 고문이야 싶었지만 일단 양말 신고 버텨봤어. 트위스터도 몇 바퀴 돌리고 나면 허리며 옆구리며 안 뻐근한 데가 없었어. 그래도 아들 얼굴 생각하면서 이 악물고 매일 했어. 그러다 일주일쯤 지나니까 허리가 잘록해진 느낌이 들더라. 두 달쯤 됐을 때 아들이 또 놀이공원 가자고 졸랐어. 안전바를 내리는데 한 번에 걸리는 거야. 아들이 엄마 예뻐졌다 하고 활짝 웃더라. 48에 아들한테 예쁘다는 말 듣는 게 이렇게 행복한 일인 줄 몰랐어. 나처럼 뱃 때문에 자신감 떨어져 있던 사람들 이거 꼭 한번 써봐.",
       "analyzed": true,
       "base": {
-        "hook_type": "전문가 실패 고백형",
-        "first_3s": "요가 강사가 얼굴을 감싸며 '요가 강사인 저도요, 아침 붓기만큼은 진짜 답이 없었어요'",
-        "appeal_angle": "양치하는 시간에 올라서는 아침 루틴",
-        "cta": "아침 붓기 심한 분들은 양치 시간부터 바꿔보세요",
+        "hook_type": "사연 드라마형(공개 굴욕)",
+        "first_3s": "'실제 사연을 AI로 재구성' 고지 후 놀이공원 바이킹 안전바가 안 잠기는 장면",
+        "appeal_angle": "아들 앞에서의 수치 → 두 달 뒤 '엄마 예뻐졌다'",
+        "cta": "배 때문에 자신감 떨어져 있던 사람들 꼭 써보라",
         "keywords": [
-          "요가 강사인 저도",
-          "아침 붓기",
-          "양치할 때",
-          "167개 지압돌기",
-          "하루 10분 루틴"
+          "안전바가 딸깍 안 됨",
+          "아들이 손을 놓더라",
+          "새벽 4시까지 검색",
+          "고문 같은 통증",
+          "48에 예쁘다는 말"
         ]
       },
       "audio": {
-        "opening_line": "요가 강사인 저도요, 아침 붓기만큼은 진짜 답이 없었어요",
-        "voice_style": "부드러운 존댓말 여성",
-        "narration_mode": "1인 루틴 후기형"
+        "opening_line": "얼마 전 아들 데리고 놀이공원 갔는데 바이킹 안전바가 배에 걸려 딸깍 소리가 안 나는 거야",
+        "voice_style": "담담한 반말 회고체",
+        "narration_mode": "1인칭 사연 회고"
       },
       "visual": {
-        "format": "실사 인플루언서 UGC(집·요가 동작)",
-        "mechanism_viz": "발바닥 근막 압박 클로즈업",
-        "before_after": "없음",
-        "subtitle_style": "얇은 흰 자막(가독성 낮음)"
+        "format": "AI 생성 실사풍 드라마",
+        "mechanism_viz": "없음",
+        "before_after": "거울 앞 허리 라인 대비",
+        "subtitle_style": "영화 자막풍 흰 자막"
       },
       "target": {
         "gender": "여성",
-        "age": "20·30대",
-        "segment": "아침 붓기 있는 직장인·요가족",
-        "appeal_axis": "전문가도 못 이긴 문제"
+        "age": "40·50대",
+        "segment": "복부비만 중년 엄마",
+        "appeal_axis": "가족 앞 수치심 회복"
       },
       "trust": {
-        "evidence": "요가 강사 본인 사례",
+        "evidence": "없음(체험 서사만)",
         "refund": "–",
         "discount": "–",
-        "compliance": "온건"
+        "compliance": "AI 재구성 고지 있음(양호)"
       },
-      "one_liner": "'전문가도 안 되더라'는 각도는 좋았지만 자막이 얇고 작아 무음 시청 환경에서 메시지가 전달되지 않는다.",
-      "why": "루틴 소구(양치할 때)는 진입 장벽을 낮추는 좋은 장치다."
+      "one_liner": "서사 완성도는 시리즈 중 가장 높은데 75초 길이와 3초 고지 화면이 성과를 눌렀다.",
+      "why": "'아들이 손을 슬쩍 놓더라' 같은 디테일은 강력하다. 앞 15초만 남긴 숏 버전을 별도로 만들어 재시도할 가치가 있다."
     },
     {
       "key": "tw느릿느리PPL_T",
       "rank_note": "bottom",
-      "roas": 0.4,
-      "spend": 606458.0,
-      "ctr": 4.17,
-      "cvr": 0.12,
-      "cpa": 121292,
-      "purchases": 5.0,
+      "roas": 0.53,
+      "spend": 646309.0,
+      "ctr": 4.26,
+      "cvr": 0.16,
+      "cpa": 92330,
+      "purchases": 7.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 606458.0,
-          "revenue": 245500.0,
-          "roas": 0.4,
-          "ctr": 4.17,
-          "cvr": 0.12,
-          "cpa": 121292,
-          "purchases": 5.0,
-          "hook_rate": 36.4,
-          "hold_rate": 14.1,
+          "spend": 646309.0,
+          "revenue": 343300.0,
+          "roas": 0.53,
+          "ctr": 4.26,
+          "cvr": 0.16,
+          "cpa": 92330,
+          "purchases": 7.0,
+          "hook_rate": 35.8,
+          "hold_rate": 15.4,
           "play50": null,
           "completion": null
         }
@@ -3053,28 +3066,108 @@
       "why": "불꽃 CG와 4kg 수치가 클릭을 만들고 그만큼 기대를 부풀린다. 다만 메타에서 3.16을 낸 건 눈여겨볼 만하다 — 틱톡 비중을 줄이고 메타로 소액 확장해 재검증할 소재."
     },
     {
+      "key": "tw요가황지연PPL_T",
+      "rank_note": "bottom",
+      "roas": 0.34,
+      "spend": 930455.0,
+      "ctr": 4.2,
+      "cvr": 0.08,
+      "cpa": 155076,
+      "purchases": 6.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 930455.0,
+          "revenue": 318300.0,
+          "roas": 0.34,
+          "ctr": 4.2,
+          "cvr": 0.08,
+          "cpa": 155076,
+          "purchases": 6.0,
+          "hook_rate": 27.5,
+          "hold_rate": 28.4,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_6.3s.jpg",
+        "f05_12.6s.jpg",
+        "f06_18.9s.jpg",
+        "f07_25.1s.jpg",
+        "f08_31.4s.jpg",
+        "f09_37.7s.jpg"
+      ],
+      "transcript": "요가 강사인 저도요 아침 붓기만큼은 진짜 답이 없었어요 얼굴도 붓고 몸도 무겁고 스트레칭 해도 바로 안 빠지잖아요 근데 요즘 저는 아침에 따로 시간 안내요 그냥 양치할때 압교수태 위에 올라가요 처음엔 그냥 시원한 정도겠지 했는데 167개의 지압돌기가 헤어자리에 맞게 발바닥 근막을 깊숙이 눌러주니까 꽉 막혀있던 순환이 뚫리면서 몸속 노폐물들이 싹 빠져나가는 느낌이더라구요 운동이나 아이스팩은 따로 시간을 드려야 되는데 이건 바쁜 아침에도 진짜 잘하게 돼요 저 요즘 하루 10분 압교수태 루틴 하는데 몸 붓기, 얼굴 붓기까지 전보다 훨씬 가벼운 느낌이에요 아침 붓기 심한 분들은 진짜 양치시간부터 바꿔보세요 저는 이 루틴 이제 못 끊어요",
+      "analyzed": true,
+      "base": {
+        "hook_type": "전문가 실패 고백형",
+        "first_3s": "요가 강사가 얼굴을 감싸며 '요가 강사인 저도요, 아침 붓기만큼은 진짜 답이 없었어요'",
+        "appeal_angle": "양치하는 시간에 올라서는 아침 루틴",
+        "cta": "아침 붓기 심한 분들은 양치 시간부터 바꿔보세요",
+        "keywords": [
+          "요가 강사인 저도",
+          "아침 붓기",
+          "양치할 때",
+          "167개 지압돌기",
+          "하루 10분 루틴"
+        ]
+      },
+      "audio": {
+        "opening_line": "요가 강사인 저도요, 아침 붓기만큼은 진짜 답이 없었어요",
+        "voice_style": "부드러운 존댓말 여성",
+        "narration_mode": "1인 루틴 후기형"
+      },
+      "visual": {
+        "format": "실사 인플루언서 UGC(집·요가 동작)",
+        "mechanism_viz": "발바닥 근막 압박 클로즈업",
+        "before_after": "없음",
+        "subtitle_style": "얇은 흰 자막(가독성 낮음)"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "아침 붓기 있는 직장인·요가족",
+        "appeal_axis": "전문가도 못 이긴 문제"
+      },
+      "trust": {
+        "evidence": "요가 강사 본인 사례",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "온건"
+      },
+      "one_liner": "'전문가도 안 되더라'는 각도는 좋았지만 자막이 얇고 작아 무음 시청 환경에서 메시지가 전달되지 않는다.",
+      "why": "루틴 소구(양치할 때)는 진입 장벽을 낮추는 좋은 장치다."
+    },
+    {
       "key": "tw마미맘마PPL_T",
       "rank_note": "top",
-      "roas": 0.06,
-      "spend": 1409716.0,
-      "ctr": 4.01,
+      "roas": 0.07,
+      "spend": 1270078.0,
+      "ctr": 3.8,
       "cvr": 0.02,
-      "cpa": 704858,
+      "cpa": 635039,
       "purchases": 2.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1409716.0,
+          "spend": 1270078.0,
           "revenue": 86800.0,
-          "roas": 0.06,
-          "ctr": 4.01,
+          "roas": 0.07,
+          "ctr": 3.8,
           "cvr": 0.02,
-          "cpa": 704858,
+          "cpa": 635039,
           "purchases": 2.0,
-          "hook_rate": 87.9,
-          "hold_rate": 91.9,
+          "hook_rate": 87.8,
+          "hold_rate": 91.5,
           "play50": null,
           "completion": null
         }

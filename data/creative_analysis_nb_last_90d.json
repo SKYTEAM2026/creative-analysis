@@ -2,7 +2,7 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_90d",
-  "generated": "2026-10-19",
+  "generated": "2026-10-22",
   "criteria": "유의미 지출(3,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -270,26 +270,26 @@
     {
       "key": "nb방씨PPL_T",
       "rank_note": "top",
-      "roas": 1.85,
-      "spend": 20953208.0,
-      "ctr": 1.45,
-      "cvr": 2.11,
-      "cpa": 69381,
-      "purchases": 302.0,
+      "roas": 1.89,
+      "spend": 19904045.0,
+      "ctr": 1.42,
+      "cvr": 2.15,
+      "cpa": 68635,
+      "purchases": 290.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 20953208.0,
-          "revenue": 38734900.0,
-          "roas": 1.85,
-          "ctr": 1.45,
-          "cvr": 2.11,
-          "cpa": 69381,
-          "purchases": 302.0,
-          "hook_rate": 34.9,
-          "hold_rate": 24.0,
+          "spend": 19904045.0,
+          "revenue": 37524900.0,
+          "roas": 1.89,
+          "ctr": 1.42,
+          "cvr": 2.15,
+          "cpa": 68635,
+          "purchases": 290.0,
+          "hook_rate": 34.8,
+          "hold_rate": 23.8,
           "play50": null,
           "completion": null
         }
@@ -430,26 +430,26 @@
     {
       "key": "nb사라진대Ⅱ_TP",
       "rank_note": "top",
-      "roas": 1.84,
-      "spend": 12197916.0,
-      "ctr": 1.69,
-      "cvr": 3.86,
-      "cpa": 67766,
-      "purchases": 180.0,
+      "roas": 1.82,
+      "spend": 11800985.0,
+      "ctr": 1.7,
+      "cvr": 3.82,
+      "cpa": 68214,
+      "purchases": 173.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 12197916.0,
-          "revenue": 22397000.0,
-          "roas": 1.84,
-          "ctr": 1.69,
-          "cvr": 3.86,
-          "cpa": 67766,
-          "purchases": 180.0,
-          "hook_rate": 15.2,
-          "hold_rate": 25.7,
+          "spend": 11800985.0,
+          "revenue": 21522600.0,
+          "roas": 1.82,
+          "ctr": 1.7,
+          "cvr": 3.82,
+          "cpa": 68214,
+          "purchases": 173.0,
+          "hook_rate": 15.4,
+          "hold_rate": 25.8,
           "play50": null,
           "completion": null
         }
@@ -509,26 +509,26 @@
     {
       "key": "nb할인좀Ⅱ_AIP",
       "rank_note": "top",
-      "roas": 1.77,
-      "spend": 65658210.0,
-      "ctr": 1.48,
+      "roas": 1.79,
+      "spend": 62699272.0,
+      "ctr": 1.47,
       "cvr": 3.12,
-      "cpa": 74696,
-      "purchases": 879.0,
+      "cpa": 74113,
+      "purchases": 846.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 65658210.0,
-          "revenue": 116466300.0,
-          "roas": 1.77,
-          "ctr": 1.48,
+          "spend": 62699272.0,
+          "revenue": 112278300.0,
+          "roas": 1.79,
+          "ctr": 1.47,
           "cvr": 3.12,
-          "cpa": 74696,
-          "purchases": 879.0,
-          "hook_rate": 17.5,
-          "hold_rate": 24.0,
+          "cpa": 74113,
+          "purchases": 846.0,
+          "hook_rate": 17.3,
+          "hold_rate": 24.1,
           "play50": null,
           "completion": null
         }
@@ -588,26 +588,26 @@
     {
       "key": "nb뷰티지도PPL_T",
       "rank_note": "top",
-      "roas": 1.62,
-      "spend": 8581119.0,
-      "ctr": 1.16,
-      "cvr": 3.83,
-      "cpa": 75273,
-      "purchases": 114.0,
+      "roas": 1.66,
+      "spend": 7483738.0,
+      "ctr": 1.17,
+      "cvr": 3.76,
+      "cpa": 74096,
+      "purchases": 101.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 8581119.0,
-          "revenue": 13882000.0,
-          "roas": 1.62,
-          "ctr": 1.16,
-          "cvr": 3.83,
-          "cpa": 75273,
-          "purchases": 114.0,
-          "hook_rate": 16.5,
-          "hold_rate": 21.0,
+          "spend": 7483738.0,
+          "revenue": 12429000.0,
+          "roas": 1.66,
+          "ctr": 1.17,
+          "cvr": 3.76,
+          "cpa": 74096,
+          "purchases": 101.0,
+          "hook_rate": 16.7,
+          "hold_rate": 21.2,
           "play50": null,
           "completion": null
         }
@@ -828,25 +828,25 @@
       "key": "nb연아트핏PPL_T",
       "rank_note": "bottom",
       "roas": 1.45,
-      "spend": 4035624.0,
-      "ctr": 2.52,
-      "cvr": 1.73,
-      "cpa": 84076,
-      "purchases": 48.0,
+      "spend": 3555117.0,
+      "ctr": 2.51,
+      "cvr": 1.72,
+      "cpa": 82677,
+      "purchases": 43.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 4035624.0,
-          "revenue": 5871400.0,
+          "spend": 3555117.0,
+          "revenue": 5169400.0,
           "roas": 1.45,
-          "ctr": 2.52,
-          "cvr": 1.73,
-          "cpa": 84076,
-          "purchases": 48.0,
-          "hook_rate": 40.7,
-          "hold_rate": 17.3,
+          "ctr": 2.51,
+          "cvr": 1.72,
+          "cpa": 82677,
+          "purchases": 43.0,
+          "hook_rate": 40.5,
+          "hold_rate": 16.9,
           "play50": null,
           "completion": null
         }
@@ -906,25 +906,25 @@
     {
       "key": "nb감도안온다Ⅱ_T",
       "rank_note": "bottom",
-      "roas": 1.4,
-      "spend": 16575973.0,
+      "roas": 1.38,
+      "spend": 15202878.0,
       "ctr": 1.89,
-      "cvr": 2.31,
-      "cpa": 93123,
-      "purchases": 178.0,
+      "cvr": 2.24,
+      "cpa": 95018,
+      "purchases": 160.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 16575973.0,
-          "revenue": 23191200.0,
-          "roas": 1.4,
+          "spend": 15202878.0,
+          "revenue": 20933200.0,
+          "roas": 1.38,
           "ctr": 1.89,
-          "cvr": 2.31,
-          "cpa": 93123,
-          "purchases": 178.0,
-          "hook_rate": 16.8,
+          "cvr": 2.24,
+          "cpa": 95018,
+          "purchases": 160.0,
+          "hook_rate": 16.9,
           "hold_rate": 23.0,
           "play50": null,
           "completion": null
@@ -1143,6 +1143,85 @@
       "why": "'3일·2주' 즉효 약속이 기대를 과하게 올려 반품·낮은 회수로 이어질 소지가 있고, 시술 대체 표현은 심의 리스크가 커 증액 대상이 아니다."
     },
     {
+      "key": "nb뼈다귀웅장Ⅱ_AN",
+      "rank_note": "bottom",
+      "roas": 0.68,
+      "spend": 2284337.0,
+      "ctr": 3.67,
+      "cvr": 1.02,
+      "cpa": 207667,
+      "purchases": 11.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 2284337.0,
+          "revenue": 1553000.0,
+          "roas": 0.68,
+          "ctr": 3.67,
+          "cvr": 1.02,
+          "cpa": 207667,
+          "purchases": 11.0,
+          "hook_rate": 45.6,
+          "hold_rate": 33.2,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.2s.jpg",
+        "f05_14.3s.jpg",
+        "f06_21.5s.jpg",
+        "f07_28.6s.jpg",
+        "f08_35.8s.jpg",
+        "f09_42.9s.jpg"
+      ],
+      "transcript": "14일 동안, 고도비만 전용 특수지흡 밴드 쓰면 무슨 일이 일어날까요? 1일차, 돌덩이처럼 단단하던 지방층이 왁부볼 깨지듯 박살 나면서 지방층이 빠른 속도로 무너지기 시작합니다 5일차, 끈적하게 떡져있는 지방세포가 하루 60cc씩 증발하듯 실종되면서 묵직한 헤비크 팔뚝이 최소 1인치가 줄어듭니다 11차, 군사래 3분의 2가 처참이 무너지며 상체라인의 대격변이 시작됩니다 청담 VIP 에스테틱에서 막 걸어나온 듯한 피부 탄력감, 팔뚝 겨드랑이 사이 생긴 여유로운 빈 공간을 보며 온몸의 전율을 느끼게 되실 겁니다 드디어 14일차, 날카로운 파륜각이 드러나며 깡마른 극세사 팔뚝이 되었습니다 단 2주 만에 지방 최소 330cc 이상 빠졌는데 레드라이트가 피부진피층까지 짱짱하게 조여줘서 늘어짐도 일절 없습니다 이 압도적인 효과에 가슴이 뛰기 시작했다면 딱 14일만 써보세요 팔뚝살만 쏙 썰려 나가는 극적인 경험을 하게 되실 겁니다",
+      "analyzed": true,
+      "base": {
+        "hook_type": "일차별 변화형",
+        "first_3s": "애니, '14일 고도비만 전용 지흡밴드 쓰면?'",
+        "appeal_angle": "팔뚝 지방(고도비만)",
+        "cta": "",
+        "keywords": [
+          "14일",
+          "고도비만 지흡밴드",
+          "일차별",
+          "1인치 감소"
+        ]
+      },
+      "audio": {
+        "opening_line": "14일 동안 고도비만 전용 특수지흡 밴드 쓰면 무슨 일이 일어날까요?",
+        "voice_style": "실험 나열체",
+        "narration_mode": "해설형"
+      },
+      "visual": {
+        "format": "AI 애니",
+        "mechanism_viz": "지방층 박살 일차별",
+        "before_after": "팔뚝 1인치↓",
+        "subtitle_style": "자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40대",
+        "segment": "고도비만 팔뚝",
+        "appeal_axis": "미용(팔라인)"
+      },
+      "trust": {
+        "evidence": "일차별 cc 수치",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ 지흡밴드·고도비만 과장"
+      },
+      "one_liner": "일차별 변화 나열은 정보성이나 애니 체감 약함 + 과장(지흡밴드)으로 0.62 저조.",
+      "why": "애니 체감 부족 + 과장. 2.3M 대비 최하위권."
+    },
+    {
       "key": "nb헬스사암년Ⅱ_AN",
       "rank_note": "bottom",
       "roas": 0.66,
@@ -1304,85 +1383,6 @@
       "why": "뉴베로가 잘 먹히는 미용 축을 버리고 기능(근육량) 축으로 옮긴 것이 실패 원인 — 병원 배경은 의료기기 오인 리스크까지 얹음."
     },
     {
-      "key": "nb서령PPL_T",
-      "rank_note": "bottom",
-      "roas": 0.62,
-      "spend": 520872.0,
-      "ctr": 2.58,
-      "cvr": 0.78,
-      "cpa": 260436,
-      "purchases": 2.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 520872.0,
-          "revenue": 324000.0,
-          "roas": 0.62,
-          "ctr": 2.58,
-          "cvr": 0.78,
-          "cpa": 260436,
-          "purchases": 2.0,
-          "hook_rate": 27.6,
-          "hold_rate": 21.9,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_3.3s.jpg",
-        "f05_6.5s.jpg",
-        "f06_9.8s.jpg",
-        "f07_13.1s.jpg",
-        "f08_16.3s.jpg",
-        "f09_19.6s.jpg"
-      ],
-      "transcript": "다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술. 운동 없이 찐으로 효과 받던 이주 관리 루틴 알려드릴게요 운동이나 식단으로는 절대 안 빠지는 팔뚝살 너무 스트레스 받아서 지흡, 인모드 찾아보다가 알게 된 유배로 승무원 언니들도 매일 가지고 다녀서 유명해진 거라는데 밴드형이랑 소파에 누워서 그냥 가만 두면 끝이라 꾸준히 쓰기 좋아요 미세전류랑 레드라이트가 같이 나와서 펀만 자극하는 게 아니라 속지방까지 분해 시켜줘요 독일 임상도 완료된 거고 판불 보장까지 된다고 하니 죽어도 안 빠지는 팔뚝살 고민이라면 이거 꼭 써보세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "시술 대체형",
-        "first_3s": "'다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술'",
-        "appeal_angle": "안 빠지는 팔뚝·시술회피",
-        "cta": "죽어도 안 빠지면 써보세요",
-        "keywords": [
-          "지흡",
-          "인모드",
-          "승무원 언니",
-          "독일 임상"
-        ]
-      },
-      "audio": {
-        "opening_line": "다이어트 해도 팔뚝살만 안 빠지는 진짜 이유 시술",
-        "voice_style": "정보성 후기",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사 UGC",
-        "mechanism_viz": "미세전류·레드라이트 속지방",
-        "before_after": "–",
-        "subtitle_style": "그래픽 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "시술 고민층",
-        "appeal_axis": "미용(시술 대체)"
-      },
-      "trust": {
-        "evidence": "독일 임상·환불",
-        "refund": "환불 보장",
-        "discount": "–",
-        "compliance": "⚠ 지흡·인모드 등 시술 직접 언급 — 표현 관찰"
-      },
-      "one_liner": "지흡·인모드 등 시술을 직접 끌어와 대체를 주장하지만, 23초로 얕고 시술 언급은 컴플라 관찰이 필요하다. 1.24 최하위권.",
-      "why": "시술 비교 리스크 + 얕은 전개."
-    },
-    {
       "key": "nb부녀회장Ⅱ_AI",
       "rank_note": "bottom",
       "roas": 0.58,
@@ -1461,85 +1461,6 @@
       },
       "one_liner": "나이 지적과 외모 비하 대사가 공감보다 불쾌감을 남긴다.",
       "why": "중년 캐릭터·노화 프레임은 이번 주 아큐스터(왕년에퀸카 1.28)에서도 같이 무너진 패턴 — 예산 재배분 1순위."
-    },
-    {
-      "key": "nb으니PPL_T",
-      "rank_note": "bottom",
-      "roas": 0.43,
-      "spend": 553106.0,
-      "ctr": 2.35,
-      "cvr": 0.51,
-      "cpa": 276553,
-      "purchases": 2.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 553106.0,
-          "revenue": 238000.0,
-          "roas": 0.43,
-          "ctr": 2.35,
-          "cvr": 0.51,
-          "cpa": 276553,
-          "purchases": 2.0,
-          "hook_rate": 53.2,
-          "hold_rate": 8.9,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_3.1s.jpg",
-        "f05_6.2s.jpg",
-        "f06_9.3s.jpg",
-        "f07_12.3s.jpg",
-        "f08_15.4s.jpg",
-        "f09_18.5s.jpg"
-      ],
-      "transcript": "결혼 준비하면서 제일 많이 받은 질문은 바로 팔뚝살 어떻게 뺐어? 지읍 안 했는데 팔라인 예뻐지니까 결혼 앞둔 지인들이 다들 물어봤어요 단백질 위주로 먹은 것도 물론 도움 됐지만 제일 효과 받던 건 바로 뉴베로 팔뚝 리프팅 밴드 따로 시간 내서 관리하는 게 너무 귀찮았는데 이건 그냥 차고 있으면 끝 결혼식 후에도 집에 오자마자 매일 착용해요 팔라인 정리되니까 드레스 핏도 만족? 예비 신부들한테 너무 추천하고 저도 평생 꾸준히 쓸 거예요 지금 이벤트 중인데 궁금하면 캡션하기 필수",
-      "analyzed": true,
-      "base": {
-        "hook_type": "결혼 질문형",
-        "first_3s": "'결혼 준비하며 제일 많이 받은 질문, 팔뚝살 어떻게 뺐어'",
-        "appeal_angle": "예신 팔뚝",
-        "cta": "예비신부한테 추천",
-        "keywords": [
-          "결혼",
-          "드레스 핏",
-          "차고 있으면 끝",
-          "이벤트"
-        ]
-      },
-      "audio": {
-        "opening_line": "결혼 준비하면서 제일 많이 받은 질문은 팔뚝살",
-        "voice_style": "잔잔한 후기",
-        "narration_mode": "1인칭 후기"
-      },
-      "visual": {
-        "format": "실사 UGC",
-        "mechanism_viz": "전류 자극",
-        "before_after": "드레스 핏 만족",
-        "subtitle_style": "그래픽 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "예신",
-        "appeal_axis": "미용(웨딩)"
-      },
-      "trust": {
-        "evidence": "–",
-        "refund": "–",
-        "discount": "이벤트",
-        "compliance": "양호"
-      },
-      "one_liner": "방씨와 같은 웨딩 각인데 훅이 '질문 받았다'로 약하고 21초로 근거가 얕다. 같은 타겟에 더 센 소재(방씨)에 밀림.",
-      "why": "동일 타겟 내 약한 훅 + 얕은 근거."
     },
     {
       "key": "nb대폭조정Ⅱ_T",
@@ -1622,11 +1543,90 @@
       "why": "훅에 문제 공감이 없고 곧바로 명령·전문샵 권위로 들어가 콜드 트래픽이 붙지 않았다. 컴플라이언스 리스크까지 겹쳐 즉시 중단이 맞다."
     },
     {
+      "key": "nb오늬PPL_T",
+      "rank_note": "bottom",
+      "roas": 0.19,
+      "spend": 515253.0,
+      "ctr": 1.98,
+      "cvr": 0.51,
+      "cpa": 515253,
+      "purchases": 1.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 515253.0,
+          "revenue": 99000.0,
+          "roas": 0.19,
+          "ctr": 1.98,
+          "cvr": 0.51,
+          "cpa": 515253,
+          "purchases": 1.0,
+          "hook_rate": 31.8,
+          "hold_rate": 26.2,
+          "play50": null,
+          "completion": null
+        }
+      },
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.5s.jpg",
+        "f05_15.0s.jpg",
+        "f06_22.5s.jpg",
+        "f07_30.0s.jpg",
+        "f08_37.5s.jpg",
+        "f09_45.0s.jpg"
+      ],
+      "transcript": "죽어라 운동해도 팔 라인 그대로인 분들 주목! 제가 딱 그랬어요. 이렇게 아이통이 볼록 튀어나온 것처럼 생겨서 여름에 나시 입을 때마다 스트레스 받아서 팔톡 씻을 고민했어요. 근데 최근에 아이돌 뼈팔 유지템으로 유명해진 유베로가 계속 뜨더라고요. 그래서 바로 써봤습니다. 국내 유일 코어 웨이브 듀얼 기능이 들어간 EMS 랜드인데 겉만 마사지하는 게 아니라 손으로 닿지 않는 피아 지방층 7mm까지 들어가 자극해준다고 하더라고요. 게다가 레드라이트 광선이 피부 겉 탄력까지 끌어올려서 리프팅해주니까 팔톡 관리가 제대로 되는 거죠. 전 하루 10분씩 아침, 저녁으로 팔을 끼고 생활했어요. 속까지 덜덜덜 떨리면서 정체된 부위가 따뜻하게 풀리는 느낌이라 하고 나면 팔톡이 너무 깨어나고 붓기가 쏙 빠져 있어요. 이게 사용하기 전 후에요. 확실히 팔 라인이 많이 정리되고 매끈해졌죠? 최근 국대 피겨 선수들 팔톡 관리용으로도 쓰는 관리템으로도 유명해졌던데 구차 재입고 기념으로 이번에 자전까지 45% 할인해 불만둑 시 100% 환불까지 해준다니까 참고하셔서 구매하세요.",
+      "analyzed": true,
+      "base": {
+        "hook_type": "운동무용형",
+        "first_3s": "'죽어라 운동해도 팔 라인 그대로인 분들 주목'",
+        "appeal_angle": "안 빠지는 팔뚝",
+        "cta": "",
+        "keywords": [
+          "아이돌 뼈팔",
+          "7mm 피하지방",
+          "레드라이트 리프팅",
+          "10분"
+        ]
+      },
+      "audio": {
+        "opening_line": "죽어라 운동해도 팔 라인 그대로인 분들 주목",
+        "voice_style": "답답 호소 후기",
+        "narration_mode": "1인칭 후기"
+      },
+      "visual": {
+        "format": "실사 UGC",
+        "mechanism_viz": "7mm 침투·리프팅",
+        "before_after": "팔톡 관리",
+        "subtitle_style": "그래픽 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "운동해도 안 빠지는 팔뚝",
+        "appeal_axis": "미용(팔라인)"
+      },
+      "trust": {
+        "evidence": "코어웨이브·7mm",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "양호"
+      },
+      "one_liner": "'운동해도 안 된다'는 흔한 훅이라 차별성이 약하다. 아이돌 뼈팔 언급은 좋으나 임팩트가 분산됨.",
+      "why": "진부한 훅 + 메시지 분산."
+    },
+    {
       "key": "nb양궁선수Ⅴ_AI",
       "rank_note": "bottom",
       "roas": 0.0,
-      "spend": 713340.0,
-      "ctr": 1.93,
+      "spend": 613788.0,
+      "ctr": 1.92,
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
@@ -1635,15 +1635,15 @@
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 713340.0,
+          "spend": 613788.0,
           "revenue": 0.0,
           "roas": 0.0,
-          "ctr": 1.93,
+          "ctr": 1.92,
           "cvr": 0.0,
           "cpa": null,
           "purchases": 0.0,
-          "hook_rate": 32.8,
-          "hold_rate": 18.8,
+          "hook_rate": 32.2,
+          "hold_rate": 18.2,
           "play50": null,
           "completion": null
         }
