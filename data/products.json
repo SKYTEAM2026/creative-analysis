@@ -17,23 +17,23 @@
       },
       "counts": {
         "last_14d": {
-          "n": 44,
-          "analyzed": 40
+          "n": 40,
+          "analyzed": 34
         },
         "last_30d": {
-          "n": 48,
-          "analyzed": 45
+          "n": 44,
+          "analyzed": 41
         },
         "last_7d": {
-          "n": 39,
-          "analyzed": 35
+          "n": 33,
+          "analyzed": 25
         },
         "last_90d": {
-          "n": 50,
+          "n": 49,
           "analyzed": 48
         }
       },
-      "generated": "2026-10-22",
+      "generated": "2026-10-26",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -56,19 +56,19 @@
           "analyzed": 2
         },
         "last_30d": {
-          "n": 9,
-          "analyzed": 9
+          "n": 8,
+          "analyzed": 8
         },
         "last_7d": {
-          "n": 2,
-          "analyzed": 2
+          "n": 1,
+          "analyzed": 1
         },
         "last_90d": {
-          "n": 22,
-          "analyzed": 22
+          "n": 23,
+          "analyzed": 23
         }
       },
-      "generated": "2026-10-22",
+      "generated": "2026-10-26",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -87,23 +87,23 @@
       },
       "counts": {
         "last_14d": {
-          "n": 36,
-          "analyzed": 31
+          "n": 33,
+          "analyzed": 25
         },
         "last_30d": {
-          "n": 46,
-          "analyzed": 43
+          "n": 45,
+          "analyzed": 39
         },
         "last_7d": {
-          "n": 28,
-          "analyzed": 24
+          "n": 25,
+          "analyzed": 16
         },
         "last_90d": {
-          "n": 51,
-          "analyzed": 49
+          "n": 50,
+          "analyzed": 46
         }
       },
-      "generated": "2026-10-22",
+      "generated": "2026-10-26",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -138,7 +138,7 @@
           "analyzed": 11
         }
       },
-      "generated": "2026-10-22",
+      "generated": "2026-10-26",
       "ranges": [
         "last_7d",
         "last_14d",
