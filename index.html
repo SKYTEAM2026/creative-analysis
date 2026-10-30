@@ -79,7 +79,7 @@
         <div style="background:var(--card2);border:1px solid var(--bd);border-radius:8px;padding:10px 12px">
           <b style="color:var(--good)">👥 구매자 분포</b> <span style="color:var(--tx2)">· 메타</span><br>
           <span style="color:var(--tx2)">이 소재 보고 <b>실제로 산 사람</b>의 연령·성별.</span><br>
-          막대 = 연령대별 비중, <span style="color:#7b61ff;font-weight:700">■</span> 남 / <span style="color:#18b5c4;font-weight:700">■</span> 여 색으로 분할.<br>
+          막대 = 연령대별 비중, <span style="color:#3b82f6;font-weight:700">■</span> 남 / <span style="color:#ef4444;font-weight:700">■</span> 여 색으로 분할.<br>
           <span style="font-size:11.5px"><b>"구매 기준 N건"</b>=실제 구매자 분포. 구매가 10건 미만이면 표본이 적어 <b>"노출 기준"</b>(누가 봤나)으로 자동 전환돼요.</span></div>
         <div style="background:var(--card2);border:1px solid var(--bd);border-radius:8px;padding:10px 12px">
           <b style="color:var(--good)">📉 시청 유지 곡선</b><br>
@@ -90,9 +90,9 @@
       <div style="background:var(--card2);border-left:3px solid var(--good);border-radius:6px;padding:8px 11px;color:var(--tx2);margin-bottom:6px">💡 <b style="color:var(--tx)">이걸로 뭘 하나</b> — <b style="color:var(--tx)">구매자 분포</b>: 노린 타겟이 실제로 사는지 확인. <span style="color:var(--tx2)">예) 중년 남성 겨냥 소재인데 구매자가 젊은 여성이면 → 타겟·소구 다시 점검.</span> <b style="color:var(--tx)">유지 곡선</b>: 어디서 지루해서 나가는지 확인 → <b>초반 급락 = 훅(첫 3초) 문제</b>, <b>중반 급락 = 늘어지는 구간</b> 편집해서 잘라내기.</div>
       <div style="background:var(--card2);border-radius:6px;padding:9px 11px;color:var(--tx2);font-size:11.5px">ℹ️ <b style="color:var(--tx)">곡선은 매체마다 받는 데이터가 달라요</b>
         <div style="margin-top:5px;line-height:1.7">
-          • <b style="color:#8e7bef">메타 (실측)</b> — 영상을 <b>22등분</b>한 각 지점의 <b>실제 유지율</b>을 그대로 줍니다 → 매끈한 곡선, 가장 정확.<br>
-          • <b style="color:#f24d7a">틱톡 (사분위 근사)</b> — 틱톡은 "영상 <b>25·50·75·100% 지점까지 본 재생 수</b>"만 줘요. 그걸 <b>총 재생수로 나눠</b> 각 지점 유지율을 계산(예: 50%지점 본 재생 5,000 ÷ 전체 1만 = 50%). <b>4지점</b>이라 꺾은선.<br>
-          • <b style="color:#4a9ee0">구글 (사분위 근사)</b> — 구글은 "<b>25·50·75·100% 지점 도달률(%)</b>"을 이미 %로 줘서 그대로 사용. 역시 <b>4지점</b> 꺾은선.<br>
+          • <b style="color:#3b82f6">메타 (실측)</b> — 영상을 <b>22등분</b>한 각 지점의 <b>실제 유지율</b>을 그대로 줍니다 → 매끈한 곡선, 가장 정확.<br>
+          • <b style="color:#9b5cf6">틱톡 (사분위 근사)</b> — 틱톡은 "영상 <b>25·50·75·100% 지점까지 본 재생 수</b>"만 줘요. 그걸 <b>총 재생수로 나눠</b> 각 지점 유지율을 계산(예: 50%지점 본 재생 5,000 ÷ 전체 1만 = 50%). <b>4지점</b>이라 꺾은선.<br>
+          • <b style="color:#ef4444">구글 (사분위 근사)</b> — 구글은 "<b>25·50·75·100% 지점 도달률(%)</b>"을 이미 %로 줘서 그대로 사용. 역시 <b>4지점</b> 꺾은선.<br>
           → 그래서 틱톡·구글은 <b>4지점뿐</b>이라 그 사이 초수("유지50% N초차")는 <b>비례로 추정한 대략치</b>예요. 메타만 매 초 정밀.
         </div>
         <div style="margin-top:5px;color:var(--tx2)">※ 틱톡·구글도 <b>초단위 원본·구매자 분포</b>가 원래 있지만(틱톡 '동영상 키프레임'·구글 '잠재고객 보유' 화면) 현재 데이터 연동엔 아직 안 들어와요 — 추가 요청해둔 상태.</div></div>
@@ -149,7 +149,7 @@ function tagBlock(title,obj,rows){return `<div class="tg"><h4>${title}</h4>${row
 
 // 👥 구매자 연령·성별 분포 (메타 전용)
 const AGES=['13-17','18-24','25-34','35-44','45-54','55-64','65+'];
-const GCOL={male:'#7b61ff',female:'#18b5c4',unknown:'#5a6475'};
+const GCOL={male:'#3b82f6',female:'#ef4444',unknown:'#5a6475'};
 function demoBlock(c){
   const d=c.demo; if(!d||!(d.buckets||[]).length)return '';
   const tot=d.pur_total||0, thin=tot<10, metric=thin?'imp':'pur';
@@ -179,7 +179,7 @@ function demoBlock(c){
 }
 
 // 📉 시청 유지 곡선
-const RETCOL={meta:'#8e7bef',tiktok:'#f24d7a',google:'#4a9ee0'};
+const RETCOL={meta:'#3b82f6',tiktok:'#9b5cf6',google:'#ef4444'};
 const _sec=s=>s==null?'':(s<10?(Math.round(s*10)/10):Math.round(s))+'초';
 // 유지율이 50%로 떨어지는 시점(초). 곡선 인덱스=영상 진행 비율(균등). 선형보간.
 function cross50(cv,dur){
