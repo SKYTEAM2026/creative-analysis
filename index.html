@@ -88,7 +88,14 @@
           <span style="font-size:11.5px"><b>"유지50% N초차"</b> = 절반이 빠져나간 시점. 곡선이 <b>뚝 떨어지는 지점 = 이탈 포인트</b>.</span></div>
       </div>
       <div style="background:var(--card2);border-left:3px solid var(--good);border-radius:6px;padding:8px 11px;color:var(--tx2);margin-bottom:6px">💡 <b style="color:var(--tx)">이걸로 뭘 하나</b> — <b style="color:var(--tx)">구매자 분포</b>: 노린 타겟이 실제로 사는지 확인. <span style="color:var(--tx2)">예) 중년 남성 겨냥 소재인데 구매자가 젊은 여성이면 → 타겟·소구 다시 점검.</span> <b style="color:var(--tx)">유지 곡선</b>: 어디서 지루해서 나가는지 확인 → <b>초반 급락 = 훅(첫 3초) 문제</b>, <b>중반 급락 = 늘어지는 구간</b> 편집해서 잘라내기.</div>
-      <div style="background:var(--card2);border-radius:6px;padding:8px 11px;color:var(--tx2);font-size:11.5px">ℹ️ <b style="color:var(--tx)">정밀도</b> — <b>메타는 실측</b>(초단위 22포인트, 정확). <b>틱톡·구글은 "사분위 근사"</b>(25·50·75·100% 4지점만 받아서 꺾은선으로 이은 것 → 초수는 대략치). 틱톡·구글의 구매자 분포는 아직 안 나와요(데이터 연동 요청해둠).</div>
+      <div style="background:var(--card2);border-radius:6px;padding:9px 11px;color:var(--tx2);font-size:11.5px">ℹ️ <b style="color:var(--tx)">곡선은 매체마다 받는 데이터가 달라요</b>
+        <div style="margin-top:5px;line-height:1.7">
+          • <b style="color:#8e7bef">메타 (실측)</b> — 영상을 <b>22등분</b>한 각 지점의 <b>실제 유지율</b>을 그대로 줍니다 → 매끈한 곡선, 가장 정확.<br>
+          • <b style="color:#f24d7a">틱톡 (사분위 근사)</b> — 틱톡은 "영상 <b>25·50·75·100% 지점까지 본 재생 수</b>"만 줘요. 그걸 <b>총 재생수로 나눠</b> 각 지점 유지율을 계산(예: 50%지점 본 재생 5,000 ÷ 전체 1만 = 50%). <b>4지점</b>이라 꺾은선.<br>
+          • <b style="color:#4a9ee0">구글 (사분위 근사)</b> — 구글은 "<b>25·50·75·100% 지점 도달률(%)</b>"을 이미 %로 줘서 그대로 사용. 역시 <b>4지점</b> 꺾은선.<br>
+          → 그래서 틱톡·구글은 <b>4지점뿐</b>이라 그 사이 초수("유지50% N초차")는 <b>비례로 추정한 대략치</b>예요. 메타만 매 초 정밀.
+        </div>
+        <div style="margin-top:5px;color:var(--tx2)">※ 틱톡·구글도 <b>초단위 원본·구매자 분포</b>가 원래 있지만(틱톡 '동영상 키프레임'·구글 '잠재고객 보유' 화면) 현재 데이터 연동엔 아직 안 들어와요 — 추가 요청해둔 상태.</div></div>
     </div>
   </details>
   <div id="viewTabs" style="display:flex;gap:6px;flex-wrap:wrap;margin:0 0 14px"></div>
