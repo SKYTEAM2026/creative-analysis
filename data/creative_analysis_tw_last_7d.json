@@ -2,7 +2,7 @@
   "code": "tw",
   "product": "아큐스터",
   "range": "last_7d",
-  "generated": "2026-10-26",
+  "generated": "2026-10-30",
   "criteria": "유의미 지출(1,000,000원↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -27,30 +27,38 @@
     {
       "key": "tw가장빨리빼Ⅰ_AI",
       "rank_note": "top",
-      "roas": 4.52,
-      "spend": 3499954.0,
-      "ctr": 0.61,
-      "cvr": 5.96,
-      "cpa": 11409,
-      "purchases": 306.778059,
+      "roas": 4.5,
+      "spend": 3693520.0,
+      "ctr": 0.57,
+      "cvr": 6.48,
+      "cpa": 11596,
+      "purchases": 318.523547,
       "platforms": [
         "google"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 3499954.0,
-          "revenue": 15817087.0,
-          "roas": 4.52,
-          "ctr": 0.61,
-          "cvr": 5.96,
-          "cpa": 11409,
-          "purchases": 306.778059,
+          "spend": 3693520.0,
+          "revenue": 16628153.0,
+          "roas": 4.5,
+          "ctr": 0.57,
+          "cvr": 6.48,
+          "cpa": 11596,
+          "purchases": 318.523547,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 5.0,
-          "completion": 2.4
+          "play50": 4.2,
+          "completion": 1.8,
+          "ret_curve": [
+            100.0,
+            8.1,
+            4.2,
+            2.7,
+            1.8
+          ]
         }
       },
+      "demo": null,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -104,31 +112,267 @@
       "why": "권위+데드라인+단순 공식. AI 인물로 몸매 훅을 안전하게 확보. 결과 수치는 과장 관찰."
     },
     {
+      "key": "tw밟는경락남성Ⅰ_AN",
+      "rank_note": "bottom",
+      "roas": 4.2,
+      "spend": 818559.0,
+      "ctr": 0.81,
+      "cvr": 4.66,
+      "cpa": 12160,
+      "purchases": 67.317804,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 818559.0,
+          "revenue": 3441957.0,
+          "roas": 4.2,
+          "ctr": 0.81,
+          "cvr": 4.66,
+          "cpa": 12160,
+          "purchases": 67.317804,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 10.6,
+          "completion": 5.3,
+          "ret_curve": [
+            100.0,
+            15.4,
+            10.6,
+            7.5,
+            5.3
+          ]
+        },
+        "meta": {
+          "spend": 0.0,
+          "revenue": 0.0,
+          "roas": null,
+          "ctr": null,
+          "cvr": null,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": null,
+          "completion": null,
+          "ret_curve": null
+        }
+      },
+      "demo": null,
+      "frames": [
+        "f00_0.3s.jpg",
+        "f01_1.0s.jpg",
+        "f02_2.0s.jpg",
+        "f03_3.0s.jpg",
+        "f04_7.0s.jpg",
+        "f05_13.9s.jpg",
+        "f06_20.9s.jpg",
+        "f07_27.8s.jpg",
+        "f08_34.8s.jpg",
+        "f09_41.7s.jpg"
+      ],
+      "transcript": "52, 내 뱀을 좀 보세요 3주 전 그리고 지금 한 대에 800만 원 ㅈㄴ하게 다 부었지",
+      "analyzed": true,
+      "base": {
+        "hook_type": "나이 제시 + 전후 비교 선언",
+        "first_3s": "만화풍 애니 52세 남성이 배를 내밀고 손가락으로 나이를 표시 + '52세' 자막",
+        "appeal_angle": "중년 남성 뱃살 3주 전후",
+        "cta": "약함",
+        "keywords": [
+          "52세",
+          "3주 전 그리고 지금",
+          "밟는 경락판",
+          "지압볼",
+          "뱃살"
+        ]
+      },
+      "audio": {
+        "opening_line": "52, 내 배를 좀 보세요. 3주 전 그리고 지금",
+        "voice_style": "중년 남성 무심한 톤, 대사량 적음",
+        "narration_mode": "1인칭 짧은 대사 + 자막 위주"
+      },
+      "visual": {
+        "format": "2D 만화 애니(AI 고지문 표기)",
+        "mechanism_viz": "제품 지압볼 클로즈업 위주",
+        "before_after": "전후 비교를 서사로 제시",
+        "subtitle_style": "흰 굵은 자막"
+      },
+      "target": {
+        "gender": "남성",
+        "age": "50대",
+        "segment": "뱃살 신경 쓰는 중년 남성",
+        "appeal_axis": "전후 변화 + 자기비하 유머"
+      },
+      "trust": {
+        "evidence": "본인 전후 주장",
+        "refund": "–",
+        "discount": "–",
+        "compliance": "⚠ 3주 만의 체형 변화 단정, 경락·혈 자극 등 한방 표현"
+      },
+      "one_liner": "중년 남성을 만화로 그려 거부감 없이 뱃살 얘기를 꺼내는 건 영리한 선택이고 타겟도 선명하다. 다만 대사가 거의 없어 전후 주장만 남고 근거 구간이 비어 있다.",
+      "why": "만화 포맷 덕에 체형 소재를 불쾌감 없이 다루지만, 메커니즘 설명과 오퍼가 얇아 클릭 이후를 받쳐주지 못한다. 같은 캐릭터로 원리 컷을 붙이는 게 개선 방향."
+    },
+    {
       "key": "tw추석다음은없다_GP",
       "rank_note": "bottom",
-      "roas": 3.39,
-      "spend": 868268.0,
-      "ctr": 5.86,
-      "cvr": 2.59,
-      "cpa": 14970,
-      "purchases": 58.0,
+      "roas": 4.02,
+      "spend": 515913.0,
+      "ctr": 7.15,
+      "cvr": 4.22,
+      "cpa": 13229,
+      "purchases": 39.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 868268.0,
-          "revenue": 2939900.0,
-          "roas": 3.39,
-          "ctr": 5.86,
-          "cvr": 2.59,
-          "cpa": 14970,
-          "purchases": 58.0,
-          "hook_rate": 60.4,
-          "hold_rate": 47.9,
+          "spend": 515913.0,
+          "revenue": 2072300.0,
+          "roas": 4.02,
+          "ctr": 7.15,
+          "cvr": 4.22,
+          "cpa": 13229,
+          "purchases": 39.0,
+          "hook_rate": 58.5,
+          "hold_rate": 42.0,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            86,
+            71,
+            62,
+            54,
+            50,
+            45,
+            38,
+            35,
+            33,
+            32,
+            7,
+            6,
+            5,
+            4,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 39,
+        "imp_total": 12936,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 1,
+            "imp": 981
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 490
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 7
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 2,
+            "imp": 1259
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 2,
+            "imp": 565
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 5,
+            "imp": 2505
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 1,
+            "imp": 421
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 6
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 18,
+            "imp": 3778
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 2,
+            "imp": 657
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 15
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 8,
+            "imp": 1706
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 285
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 193
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 63
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
@@ -183,109 +427,40 @@
       "why": "클릭은 잘 끌어도 왜 사야 하는지(하체·뱃살·순환) 설명이 전혀 없어 신규 유입자는 상세페이지에서 이탈한다. 시즌 배너는 리타겟/검색 등 구매의도 높은 지면에서만 효율이 난다."
     },
     {
-      "key": "tw해골쓰리Ⅹ_AI",
-      "rank_note": "top",
-      "roas": 3.11,
-      "spend": 5404757.0,
-      "ctr": 1.33,
-      "cvr": 2.72,
-      "cpa": 17375,
-      "purchases": 311.071572,
-      "platforms": [
-        "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 3142793.0,
-          "revenue": 13441857.0,
-          "roas": 4.28,
-          "ctr": 1.24,
-          "cvr": 2.58,
-          "cpa": 12518,
-          "purchases": 251.071572,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 7.0,
-          "completion": 2.6
-        },
-        "meta": {
-          "spend": 2261964.0,
-          "revenue": 3364700.0,
-          "roas": 1.49,
-          "ctr": 2.32,
-          "cvr": 3.55,
-          "cpa": 37699,
-          "purchases": 60.0,
-          "hook_rate": 52.6,
-          "hold_rate": 30.0,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.0s.jpg",
-        "f05_14.0s.jpg",
-        "f06_20.9s.jpg",
-        "f07_27.9s.jpg",
-        "f08_34.9s.jpg",
-        "f09_41.9s.jpg"
-      ],
-      "transcript": "무언가 붙잡지 않으면 일어날 수 없는 당신이 매일 이걸 밟으면 생기는 변화입니다 무릎이 삐걱되고 다리 힘이 풀리는 건 관절을 꽉 붙잡아주던 속근육이 폭삭 사가버렸기 때문입니다 이 상태로 억지로 걷기 운동을 하는 건 관절을 맷돌처럼 갈아내는 것과 같습니다 이때 아큐스터를 밟으면 167개의 지압 돌기가 발바닥 반사하고 신경을 동시에 눌러 다리에 고여있던 혈액을 위로 힘차게 끌어올립니다 이때 절임과 목직함의 원인이었던 노폐물이 배출되면서 근육 재생에 필요한 영양과 산소가 속근육까지 전달되죠 그 다음 트위스터를 좌우로 비트는 순간 평소 쓰지 않던 허벅지 내정근과 골반 속근육이 수축과 이완을 반복하며 느슨해진 다리의 탄탄한 근력을 차곡차곡 쌓아 올리게 됩니다 2주 정도 지나면 저릿하던 다리에 생기가 돌고 힘없이 풀리던 하체에 단단한 버틴목이 생기며 일어설 때마다 세워나오던 아이고 소리가 쏙 들어갑니다 통증 없는 산뜻한 다리가 얼마만인지 잔뜩 신이 날 수밖에 없죠 맨몸으로 뼈 갈가먹는 고생은 이제 그만 두시고 49% 파격 할인할 때 다리에 속근육 충전기 하나 꽂아 두세요",
-      "analyzed": false,
-      "base": {},
-      "audio": {},
-      "visual": {},
-      "target": {},
-      "trust": {},
-      "one_liner": "",
-      "why": ""
-    },
-    {
       "key": "tw기절지압Ⅵ_T",
       "rank_note": "bottom",
-      "roas": 3.01,
-      "spend": 831609.0,
-      "ctr": 0.68,
-      "cvr": 5.55,
-      "cpa": 18353,
-      "purchases": 45.312579,
+      "roas": 3.48,
+      "spend": 559558.0,
+      "ctr": 0.65,
+      "cvr": 6.23,
+      "cpa": 15873,
+      "purchases": 35.251474,
       "platforms": [
-        "google",
-        "meta"
+        "google"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 831609.0,
-          "revenue": 2503737.0,
-          "roas": 3.01,
-          "ctr": 0.68,
-          "cvr": 5.55,
-          "cpa": 18353,
-          "purchases": 45.312579,
+          "spend": 559558.0,
+          "revenue": 1946080.0,
+          "roas": 3.48,
+          "ctr": 0.65,
+          "cvr": 6.23,
+          "cpa": 15873,
+          "purchases": 35.251474,
           "hook_rate": null,
           "hold_rate": null,
           "play50": 14.2,
-          "completion": 11.8
-        },
-        "meta": {
-          "spend": 0.0,
-          "revenue": 0.0,
-          "roas": null,
-          "ctr": null,
-          "cvr": null,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": null,
-          "completion": null
+          "completion": 11.8,
+          "ret_curve": [
+            100.0,
+            16.6,
+            14.2,
+            12.9,
+            11.8
+          ]
         }
       },
+      "demo": null,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -342,59 +517,403 @@
       "why": "역설형 1인칭 훅과 치킨값 가성비·100% 환불 마무리는 전환 장치로 탄탄함. 그러나 메인 약속이 '잠'이라 체형 고민층이 자기 문제로 받아들이지 못하고, 수면 효능은 체감 증명이 어려워 구매 확신이 약함. 같은 화법을 허리·뱃살 소구에 붙였다면 더 나았을 가능성."
     },
     {
-      "key": "tw깎아줘요Ⅰ_AN",
+      "key": "tw단종될Ⅳ_T",
       "rank_note": "top",
-      "roas": 2.92,
-      "spend": 8530938.0,
-      "ctr": 1.78,
-      "cvr": 3.48,
-      "cpa": 18738,
-      "purchases": 455.274726,
+      "roas": 2.83,
+      "spend": 1081899.0,
+      "ctr": 2.51,
+      "cvr": 2.06,
+      "cpa": 18952,
+      "purchases": 57.086741,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 2815257.0,
-          "revenue": 13747494.0,
-          "roas": 4.88,
-          "ctr": 0.96,
-          "cvr": 4.88,
-          "cpa": 11249,
-          "purchases": 250.274726,
+          "spend": 828352.0,
+          "revenue": 2696692.0,
+          "roas": 3.26,
+          "ctr": 1.11,
+          "cvr": 4.89,
+          "cpa": 16538,
+          "purchases": 50.086741,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 5.7,
-          "completion": 2.9
+          "play50": 4.6,
+          "completion": 2.1,
+          "ret_curve": [
+            100.0,
+            8.1,
+            4.6,
+            3.1,
+            2.1
+          ]
         },
         "meta": {
-          "spend": 5715681.0,
-          "revenue": 11183300.0,
-          "roas": 1.96,
-          "ctr": 3.98,
-          "cvr": 2.58,
-          "cpa": 27881,
-          "purchases": 205.0,
-          "hook_rate": 42.4,
-          "hold_rate": 31.8,
+          "spend": 253547.0,
+          "revenue": 370200.0,
+          "roas": 1.46,
+          "ctr": 9.55,
+          "cvr": 0.4,
+          "cpa": 36221,
+          "purchases": 7.0,
+          "hook_rate": 85.0,
+          "hold_rate": 63.9,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            95,
+            89,
+            87,
+            81,
+            78,
+            73,
+            67,
+            64,
+            62,
+            61,
+            60,
+            59,
+            58,
+            57,
+            57,
+            38,
+            31,
+            28,
+            10,
+            6,
+            0
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 7,
+        "imp_total": 18248,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 1,
+            "imp": 595
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 341
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 15
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1057
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 547
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 14
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 1,
+            "imp": 2395
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 381
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 19
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 3,
+            "imp": 5792
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1102
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 25
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 1,
+            "imp": 4187
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 908
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 27
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 518
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 322
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 3
+          }
+        ]
+      },
+      "frames": [],
+      "transcript": "",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "tw해골쓰리Ⅹ_AI",
+      "rank_note": "top",
+      "roas": 2.81,
+      "spend": 8276623.0,
+      "ctr": 1.14,
+      "cvr": 2.96,
+      "cpa": 19058,
+      "purchases": 434.274681,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 6098148.0,
+          "revenue": 20516727.0,
+          "roas": 3.36,
+          "ctr": 1.08,
+          "cvr": 2.95,
+          "cpa": 15869,
+          "purchases": 384.274681,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 8.7,
+          "completion": 4.6,
+          "ret_curve": [
+            100.0,
+            14.4,
+            8.7,
+            6.4,
+            4.6
+          ]
+        },
+        "meta": {
+          "spend": 2178475.0,
+          "revenue": 2780900.0,
+          "roas": 1.28,
+          "ctr": 2.22,
+          "cvr": 3.07,
+          "cpa": 43570,
+          "purchases": 50.0,
+          "hook_rate": 51.4,
+          "hold_rate": 29.5,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            84,
+            62,
+            52,
+            37,
+            30,
+            26,
+            23,
+            21,
+            20,
+            19,
+            18,
+            18,
+            17,
+            17,
+            16,
+            10,
+            8,
+            7,
+            5,
+            0,
+            0
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 50,
+        "imp_total": 73495,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 1,
+            "imp": 865
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 1,
+            "imp": 189
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 13
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 1,
+            "imp": 3216
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 1,
+            "imp": 595
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 22
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 9,
+            "imp": 12967
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1643
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 44
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 19,
+            "imp": 27676
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3236
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 134
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 14,
+            "imp": 18201
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 2,
+            "imp": 2087
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 68
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 1,
+            "imp": 2164
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 367
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 8
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_10.5s.jpg",
-        "f05_20.9s.jpg",
-        "f06_31.4s.jpg",
-        "f07_41.9s.jpg",
-        "f08_52.3s.jpg",
-        "f09_62.8s.jpg"
+        "f04_7.0s.jpg",
+        "f05_14.0s.jpg",
+        "f06_20.9s.jpg",
+        "f07_27.9s.jpg",
+        "f08_34.9s.jpg",
+        "f09_41.9s.jpg"
       ],
-      "transcript": "이거 좀 깎아줘요 사람들이 싸다고 다 짝퉁만 사요 건만 똑같지 효과, 제로인 플라스틱 판대기를 왜 돈 주고 사요 일반인들이 보기엔 모양 똑같으니까 효과도 도친 개친인 줄 아신다니까요 하... 진짜 현기증 납니다 그니까 우리도 깎아주세요 억울하잖아요 짝퉁 사서 돈 날리고 피눈물 흘리는 후기가 오조 어깬대 답답 우리만 팔 말 너네 팔고 있어요 이거 일반 지압판 아니라고요 전문가가 발구작해서 제작 가능한 거 아시잖아요 알겠으니까 정품 가격도 한 번 내려서서 기강 한 번 잡으시죠 하! 짝퉁 사, 짝퉁 사고 효과 못 본 분들을 위해 눈물 먹음 꼭 밀린 큰 어서 저 기절해요 절대 안 돼요 짝퉁 사서 몸 망가지지 정품으로 광명해 주는 게 대표님 알겠죠?",
+      "transcript": "무언가 붙잡지 않으면 일어날 수 없는 당신이 매일 이걸 밟으면 생기는 변화입니다 무릎이 삐걱되고 다리 힘이 풀리는 건 관절을 꽉 붙잡아주던 속근육이 폭삭 사가버렸기 때문입니다 이 상태로 억지로 걷기 운동을 하는 건 관절을 맷돌처럼 갈아내는 것과 같습니다 이때 아큐스터를 밟으면 167개의 지압 돌기가 발바닥 반사하고 신경을 동시에 눌러 다리에 고여있던 혈액을 위로 힘차게 끌어올립니다 이때 절임과 목직함의 원인이었던 노폐물이 배출되면서 근육 재생에 필요한 영양과 산소가 속근육까지 전달되죠 그 다음 트위스터를 좌우로 비트는 순간 평소 쓰지 않던 허벅지 내정근과 골반 속근육이 수축과 이완을 반복하며 느슨해진 다리의 탄탄한 근력을 차곡차곡 쌓아 올리게 됩니다 2주 정도 지나면 저릿하던 다리에 생기가 돌고 힘없이 풀리던 하체에 단단한 버틴목이 생기며 일어설 때마다 세워나오던 아이고 소리가 쏙 들어갑니다 통증 없는 산뜻한 다리가 얼마만인지 잔뜩 신이 날 수밖에 없죠 맨몸으로 뼈 갈가먹는 고생은 이제 그만 두시고 49% 파격 할인할 때 다리에 속근육 충전기 하나 꽂아 두세요",
       "analyzed": false,
       "base": {},
       "audio": {},
@@ -407,43 +926,174 @@
     {
       "key": "tw나나PPL_T",
       "rank_note": "top",
-      "roas": 2.68,
-      "spend": 1878477.0,
-      "ctr": 2.09,
-      "cvr": 4.69,
-      "cpa": 20126,
-      "purchases": 93.337525,
+      "roas": 2.77,
+      "spend": 1109995.0,
+      "ctr": 2.42,
+      "cvr": 4.65,
+      "cpa": 19138,
+      "purchases": 58.0,
       "platforms": [
-        "google",
         "meta"
       ],
       "platform_metrics": {
-        "google": {
-          "spend": 142532.0,
-          "revenue": 692255.0,
-          "roas": 4.86,
-          "ctr": 1.1,
-          "cvr": 6.74,
-          "cpa": 11553,
-          "purchases": 12.337525,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 7.0,
-          "completion": 3.7
-        },
         "meta": {
-          "spend": 1735945.0,
-          "revenue": 4341900.0,
-          "roas": 2.5,
-          "ctr": 2.3,
-          "cvr": 4.49,
-          "cpa": 21431,
-          "purchases": 81.0,
-          "hook_rate": 22.0,
-          "hold_rate": 28.3,
+          "spend": 1109995.0,
+          "revenue": 3075200.0,
+          "roas": 2.77,
+          "ctr": 2.42,
+          "cvr": 4.65,
+          "cpa": 19138,
+          "purchases": 58.0,
+          "hook_rate": 23.4,
+          "hold_rate": 29.9,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            63,
+            35,
+            26,
+            20,
+            16,
+            14,
+            12,
+            11,
+            10,
+            9,
+            9,
+            9,
+            8,
+            8,
+            8,
+            5,
+            4,
+            3,
+            1,
+            0,
+            0
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 58,
+        "imp_total": 51480,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 4,
+            "imp": 7328
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3135
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 97
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 9,
+            "imp": 9710
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 5,
+            "imp": 3619
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 69
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 9,
+            "imp": 8601
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1922
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 35
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 16,
+            "imp": 8669
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2157
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 65
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 7,
+            "imp": 3699
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 5,
+            "imp": 1382
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 21
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 531
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 1,
+            "imp": 435
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 3
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
@@ -503,408 +1153,223 @@
       "why": "가장 흔한 핑계를 훅으로 써 공감 폭이 넓고, 실제 사용 동작·지압볼 디테일·할인+환불까지 짧게 이어져 이탈 지점이 적다."
     },
     {
-      "key": "tw짝퉁사지마노래Ⅰ_AN",
+      "key": "tw깎아줘요Ⅰ_AN",
       "rank_note": "top",
-      "roas": 2.41,
-      "spend": 1261587.0,
-      "ctr": 0.97,
-      "cvr": 1.32,
-      "cpa": 24564,
-      "purchases": 51.358473,
-      "platforms": [
-        "google",
-        "meta",
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 1175888.0,
-          "revenue": 2943690.0,
-          "roas": 2.5,
-          "ctr": 0.87,
-          "cvr": 1.45,
-          "cpa": 23823,
-          "purchases": 49.358473,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 18.7,
-          "completion": 12.3
-        },
-        "tiktok": {
-          "spend": 85699.0,
-          "revenue": 95126.0,
-          "roas": 1.11,
-          "ctr": 4.01,
-          "cvr": 0.4,
-          "cpa": 42850,
-          "purchases": 2.0,
-          "hook_rate": 43.4,
-          "hold_rate": 78.7,
-          "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 0.0,
-          "revenue": 0.0,
-          "roas": null,
-          "ctr": null,
-          "cvr": null,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_9.2s.jpg",
-        "f05_18.4s.jpg",
-        "f06_27.7s.jpg",
-        "f07_36.9s.jpg",
-        "f08_46.1s.jpg",
-        "f09_55.3s.jpg"
-      ],
-      "transcript": "제발 작품 좀 사지 마세요 왜 효과도 누군가가 일밀히 단위로 직접 설계한 기주만 써도 완벽한 보건자",
-      "analyzed": true,
-      "base": {
-        "hook_type": "경고·비교형(짝퉁 사지 마세요)",
-        "first_3s": "롤빗 꽂은 통통한 애니 아줌마가 정품/짝퉁 두 지압판 들고 '제발 짝퉁 좀 사지 마세요~!!!!!'",
-        "appeal_angle": "정품 차별화(설계·지압 혈자리 자극·트위스트) vs 효과 없는 짝퉁",
-        "cta": "정품 선택 유도(명시 가격 CTA 약함)",
-        "keywords": [
-          "짝퉁",
-          "정품",
-          "발바닥 혈자리",
-          "좌로 우로 트위스트",
-          "효과 1도 없어요",
-          "노래",
-          "애니"
-        ]
-      },
-      "audio": {
-        "opening_line": "제발 짝퉁 좀 사지 마세요",
-        "voice_style": "중년 아줌마 캐릭터의 코믹 트로트풍 노래",
-        "narration_mode": "징글/노래 + 3D 애니메이션"
-      },
-      "visual": {
-        "format": "픽사풍 3D 애니메이션 캐릭터 코미디",
-        "mechanism_viz": "발바닥이 지압 돌기 밟는 3D 컷, 좌우 트위스트 댄스",
-        "before_after": "짝퉁 쓰고 '효과 1도 없어요' 뱃살 잡는 컷 vs 정품 엄지척 대비",
-        "subtitle_style": "중앙 노랑 테두리 파랑/흰 굵은 자막(노래 가사)"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30~50대",
-        "segment": "유사품 비교 중인 구매 고려층",
-        "appeal_axis": "정품 신뢰·손해 회피"
-      },
-      "trust": {
-        "evidence": "직접 설계한 정품 강조(구체 근거는 약함)",
-        "refund": "언급 없음",
-        "discount": "언급 없음",
-        "compliance": "특이 리스크 없음(타사 지칭 없는 '짝퉁' 비교, 체형 묘사는 코믹 캐릭터 수준)"
-      },
-      "one_liner": "'짝퉁 사지 마세요' 한 줄로 이미 비교 중인 사람을 정품으로 끌어오는 코믹 애니 노래 — 하단 퍼널을 정확히 겨눈다",
-      "why": "카테고리 유사품이 많은 상황에서 '살지 말지'가 아니라 '어디서 살지' 고민하는 구매 직전층을 겨냥해 손해 회피 심리를 건드림. 통통한 아줌마 캐릭터지만 애니 코미디라 노화·비하 거부감이 적고, 노래로 메시지가 반복 각인됨. 혈자리·트위스트 기전도 짧게 넣어 정품 차별 이유를 최소한 제시."
-    },
-    {
-      "key": "tw추석쌩돈Ⅷ_AP",
-      "rank_note": "bottom",
-      "roas": 2.41,
-      "spend": 918477.0,
-      "ctr": 14.44,
-      "cvr": 0.28,
-      "cpa": 22402,
-      "purchases": 41.0,
-      "platforms": [
-        "tiktok"
-      ],
-      "platform_metrics": {
-        "tiktok": {
-          "spend": 918477.0,
-          "revenue": 2213530.0,
-          "roas": 2.41,
-          "ctr": 14.44,
-          "cvr": 0.28,
-          "cpa": 22402,
-          "purchases": 41.0,
-          "hook_rate": 78.3,
-          "hold_rate": 91.7,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_5.7s.jpg",
-        "f05_11.5s.jpg",
-        "f06_17.2s.jpg",
-        "f07_23.0s.jpg",
-        "f08_28.7s.jpg",
-        "f09_34.4s.jpg"
-      ],
-      "transcript": "받는 병락판. 제발. 생돈 주고 사지마. 4만원이나 깎아주는 미리 추적돈가 떴다는데 이때 챙겨야지. 돌덩이처럼 딱딱한 종아리알 말랑하게 풀어주는 것도 모자라 기존 할인가에서 두 번이나 더 깎아버린 역대 최초 할인율이라니. 이번 16차 물량도 금방 동나겠는데? 이게 누적판매량 100만개 터진 셀프 닭막 발판인데 발기만 해도 167개 지압볼이 발바닥을 잘근잘근 눌러주면서 핵심 할을 찔러주니까 10분 만에 발바닥 순환기 터지면서 하체 전신으로 피가 통하게 되는 거야. 아무래도 족저 전문가들이 직접 설계한 1mm 단차 구조니까 일반 지압으로 닿지 않는 발바닥 뼈 마디 마디까지 빠짐없이 자극되는 거 아니겠어? 붓기로 꽉 차있던 종아리, 허벅지 쫙 디톡스 시키려면 이 받는 정랍판은 무조건이다. 초저 기획전 특가 중에 아래 링크가 혜택 제일 세니까 꼭 여기서 사. 잊지마. 이 링크가 제일 싸다.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "금지 명령형",
-        "first_3s": "발판 위 발 클로즈업 + '밟는 경락판' 자막, 번쩍이는 순환 이펙트",
-        "appeal_angle": "종아리·하체 붓기 디톡스 + 추가 인하",
-        "cta": "아래 링크가 제일 싸다",
-        "keywords": [
-          "생돈 주고 사지마",
-          "밟는 경락판",
-          "종아리알",
-          "16차 물량",
-          "167개 지압볼"
-        ]
-      },
-      "audio": {
-        "opening_line": "제발, 생돈 주고 사지마",
-        "voice_style": "반말 친구 톤, 빠른 속도",
-        "narration_mode": "2인칭 반말 권유"
-      },
-      "visual": {
-        "format": "AI 생성 영상(AI 고지문 표기)",
-        "mechanism_viz": "발바닥 지압점·순환 이펙트",
-        "before_after": "없음",
-        "subtitle_style": "노란 대문짝 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "종아리 붓기·하체 무거움",
-        "appeal_axis": "가격 + 붓기"
-      },
-      "trust": {
-        "evidence": "누적판매량 100만개·족저 전문가 설계 주장",
-        "refund": "–",
-        "discount": "기존가에서 2회 추가 인하",
-        "compliance": "⚠ 누적판매량 주장 검증 필요, 경락·혈 자극 등 한방 표현"
-      },
-      "one_liner": "훅과 가격 메시지는 선명한데 소구가 종아리 붓기로 좁아진 반면 화면은 발 클로즈업뿐이라, 이 제품의 주력인 복부 소구와 따로 논다.",
-      "why": "붓기는 보조 소구라 구매 동기가 약하고, 사용 전후나 복부 변화 장면이 없어 결정 근거가 얇다. 같은 오퍼를 복부 소구에 얹는 편이 낫다."
-    },
-    {
-      "key": "tw추석선물상자분할Ⅰ_GP",
-      "rank_note": "top",
-      "roas": 2.38,
-      "spend": 1115490.0,
-      "ctr": 8.59,
-      "cvr": 0.47,
-      "cpa": 23239,
-      "purchases": 48.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 1115490.0,
-          "revenue": 2656200.0,
-          "roas": 2.38,
-          "ctr": 8.59,
-          "cvr": 0.47,
-          "cpa": 23239,
-          "purchases": 48.0,
-          "hook_rate": 91.7,
-          "hold_rate": 56.6,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_2.1s.jpg",
-        "f04_3.0s.jpg",
-        "f05_4.3s.jpg",
-        "f06_6.4s.jpg",
-        "f07_8.6s.jpg",
-        "f08_10.7s.jpg",
-        "f09_12.9s.jpg"
-      ],
-      "transcript": "",
-      "analyzed": true,
-      "base": {
-        "hook_type": "시즌 프로모션 고지",
-        "first_3s": "AI 한복 토끼 캐릭터와 선물 보자기 위로 제품이 떠오르고 -53% 배지 노출",
-        "appeal_angle": "추석 세일 고지",
-        "cta": "가격 인상 전 마지막 특가 확인하기",
-        "keywords": [
-          "추석 세일",
-          "뱃살순삭템",
-          "연중 최대할인",
-          "가격 인상 전"
-        ]
-      },
-      "audio": {
-        "opening_line": "없음(무내레이션·BGM)",
-        "voice_style": "없음",
-        "narration_mode": "무내레이션"
-      },
-      "visual": {
-        "format": "상하 분할 배너형 15초 영상",
-        "mechanism_viz": "없음",
-        "before_after": "없음",
-        "subtitle_style": "대형 할인 배지 + 카피 판"
-      },
-      "target": {
-        "gender": "전체",
-        "age": "40·50대",
-        "segment": "명절 선물·자가 구매층",
-        "appeal_axis": "시즌 명분 + 가격"
-      },
-      "trust": {
-        "evidence": "없음",
-        "refund": "언급 없음",
-        "discount": "연중 최대 53%",
-        "compliance": "특이사항 없음"
-      },
-      "one_liner": "짧은 고지형 소재로, 상하 분할이라 작은 지면에서도 할인율과 제품이 한 번에 읽힌다. 설득 요소 없이 가격 신호만 전달한다.",
-      "why": "이미 의향이 있는 트래픽을 받아내는 자리에서는 정보가 적은 편이 오히려 유리하다. 신규 설득용으로 쓰면 남는 게 없다."
-    },
-    {
-      "key": "tw링크힙합Ⅰ_ANP",
-      "rank_note": "bottom",
-      "roas": 2.32,
-      "spend": 1022119.0,
-      "ctr": 1.81,
-      "cvr": 3.42,
-      "cpa": 24241,
-      "purchases": 42.164361,
-      "platforms": [
-        "google"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 1022119.0,
-          "revenue": 2371029.0,
-          "roas": 2.32,
-          "ctr": 1.81,
-          "cvr": 3.42,
-          "cpa": 24241,
-          "purchases": 42.164361,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 8.4,
-          "completion": 4.7
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.0s.jpg",
-        "f05_13.9s.jpg",
-        "f06_20.9s.jpg",
-        "f07_27.8s.jpg",
-        "f08_34.8s.jpg",
-        "f09_41.8s.jpg"
-      ],
-      "transcript": "퇴사한 아큐스터 직원들은 절대 공홈에서 안 사 새벽 3시 15분 그때만 열리는 링크가 따로 있어 누가 그 링크를 몰래 빼왔어 제일 싸운 링크 직원들은 그때부터 암암리에 거기서만 샀어 회사에서도 뱃살 잘 빼준다고 소문 났어 직원들이 먼저 달려들었는데 항상 재고가 없어서 못 샀던 아큐스터 밟고 돌려 아큐스터 167개 림프 볼 하루 10분에 옆구리가 사라져 링크는 딱 절반 50% 할인 퇴사한 애들이 하나 둘 주변에 뿌리면서 이제 아는 사람은 다 알아 이 광고 보고 있으면 딴 데 볼 것도 없어 그냥 여기서 싸 무조건 여기가 제일 싸니까 여기서 싸",
-      "analyzed": true,
-      "base": {
-        "hook_type": "내부자 비밀링크 서사",
-        "first_3s": "3D 애니 사무실, 짐 박스 들고 퇴사하는 직원 + '(긴급) 퇴사자가 단톡방에 떨구고 간 역대급 할인 링크'",
-        "appeal_angle": "직원만 알던 최저가 링크(희소·내부정보)",
-        "cta": "딴 데 볼 것 없이 여기서 사라(링크 유도)",
-        "keywords": [
-          "퇴사자 링크",
-          "새벽 3시 15분",
-          "50% 할인",
-          "167개 지압볼",
-          "하루 10분"
-        ]
-      },
-      "audio": {
-        "opening_line": "퇴사한 아큐스터 직원들은 절대 공홈에서 안 사",
-        "voice_style": "힙합 비트에 얹은 랩·후렴 반복",
-        "narration_mode": "노래형"
-      },
-      "visual": {
-        "format": "3D 캐릭터 애니(AI 고지문 표기)",
-        "mechanism_viz": "거의 없음",
-        "before_after": "없음",
-        "subtitle_style": "형광 강조 대문짝 자막"
-      },
-      "target": {
-        "gender": "남녀 공통",
-        "age": "30·40·50대",
-        "segment": "가격 민감·뱃살 고민층",
-        "appeal_axis": "가격·희소"
-      },
-      "trust": {
-        "evidence": "직원들이 먼저 산다는 서사",
-        "refund": "–",
-        "discount": "50%",
-        "compliance": "⚠ 실재하지 않는 '내부자 전용 링크·새벽 3시 15분' 허위 서사, 퇴사자 유출 프레임은 브랜드 신뢰 리스크"
-      },
-      "one_liner": "힙합 훅이 리듬으로 붙잡는 데까지는 성공했는데, 내용이 전부 비밀 링크 서사라 제품이 왜 좋은지는 끝까지 안 나온다. 유출 프레임은 브랜드를 갉아먹는다.",
-      "why": "가격·희소만 반복하고 메커니즘도 전후도 없어 신규 설득이 되지 않는다. 노래 포맷은 유지하되 효능 구간을 한 소절이라도 끼워 넣어야 한다."
-    },
-    {
-      "key": "tw다리아니라Ⅵ_T",
-      "rank_note": "top",
-      "roas": 2.19,
-      "spend": 2330855.0,
-      "ctr": 0.87,
-      "cvr": 2.16,
-      "cpa": 23446,
-      "purchases": 99.4122,
+      "roas": 2.57,
+      "spend": 9270302.0,
+      "ctr": 1.34,
+      "cvr": 2.81,
+      "cpa": 20993,
+      "purchases": 441.594955,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 2313757.0,
-          "revenue": 5056540.0,
-          "roas": 2.19,
-          "ctr": 0.87,
-          "cvr": 2.15,
-          "cpa": 23511,
-          "purchases": 98.4122,
+          "spend": 3302925.0,
+          "revenue": 13752846.0,
+          "roas": 4.16,
+          "ctr": 0.7,
+          "cvr": 3.68,
+          "cpa": 13076,
+          "purchases": 252.594955,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 8.9,
-          "completion": 5.3
+          "play50": 4.6,
+          "completion": 2.1,
+          "ret_curve": [
+            100.0,
+            7.4,
+            4.6,
+            3.2,
+            2.1
+          ]
         },
         "meta": {
-          "spend": 17098.0,
-          "revenue": 47900.0,
-          "roas": 2.8,
-          "ctr": 3.64,
-          "cvr": 4.17,
-          "cpa": 17098,
-          "purchases": 1.0,
-          "hook_rate": 57.0,
-          "hold_rate": 65.7,
+          "spend": 5967377.0,
+          "revenue": 10032700.0,
+          "roas": 1.68,
+          "ctr": 4.61,
+          "cvr": 2.14,
+          "cpa": 31573,
+          "purchases": 189.0,
+          "hook_rate": 49.1,
+          "hold_rate": 29.7,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            84,
+            59,
+            50,
+            42,
+            38,
+            31,
+            26,
+            23,
+            21,
+            20,
+            18,
+            18,
+            17,
+            16,
+            15,
+            13,
+            11,
+            10,
+            8,
+            7,
+            5
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 189,
+        "imp_total": 191513,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 3,
+            "imp": 11774
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 3,
+            "imp": 4039
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 287
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 35,
+            "imp": 41619
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 5,
+            "imp": 7113
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 407
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 62,
+            "imp": 48902
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 1,
+            "imp": 7320
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 291
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 51,
+            "imp": 39659
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 2,
+            "imp": 6595
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 325
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 25,
+            "imp": 17103
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3186
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 133
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1891
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 838
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 26
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 0
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_7.6s.jpg",
-        "f05_15.2s.jpg",
-        "f06_22.8s.jpg",
-        "f07_30.4s.jpg",
-        "f08_38.0s.jpg",
-        "f09_45.6s.jpg"
+        "f04_10.5s.jpg",
+        "f05_20.9s.jpg",
+        "f06_31.4s.jpg",
+        "f07_41.9s.jpg",
+        "f08_52.3s.jpg",
+        "f09_62.8s.jpg"
       ],
-      "transcript": "다리가 아니라 발? 새벽 3시마다 종아리 경련으로 밤잠 설치시는 분들 중에 이미 10명 중 8명이 쓰고 있다는 4세대 혈제압 순환판. 단 몇 번 만으로도 막힌 용천열이 한 번에 뚫린다길래 한 번 올라가 봤거든. 근데 어이없게도 5분 만에 빌라테스 6년간 단 한 번도 느껴보지 못했던 고관절 안쪽 근육이 뻐근해지는 거야. 이거 알려준 친구가 재활센터 10년 차 원장이라 물어보니까 이 지압 림프 볼은 수기경락 한 시간은 받아야 겨우 닿는 종아리 비복근 자극을 단 1분 만에 도달되게 설계되었다고 하더라고. 심지어 재활치료사들도 다리절임 환자들 처방전으로 권장할 정도로 막힌 순환 3배 더 빨리 뚫어내는 미친 스펙이라더라. 5분 만에 막힌 현류 강제로 깨워내서 자주 밟을수록 혈관 탄력 살아나고 찌릿한 다리절임부터 부종까지 사라지는 원리라던데 일반 지압 이량은 차원이 달라. 이미 누적 판매량 100만 개 돌파하고 지금 할인율도 49%라니까? 괜히 PT나 필라테스에 돈 갖다 바치지 말고 꼭 이거부터 밟아봐.",
+      "transcript": "이거 좀 깎아줘요 사람들이 싸다고 다 짝퉁만 사요 건만 똑같지 효과, 제로인 플라스틱 판대기를 왜 돈 주고 사요 일반인들이 보기엔 모양 똑같으니까 효과도 도친 개친인 줄 아신다니까요 하... 진짜 현기증 납니다 그니까 우리도 깎아주세요 억울하잖아요 짝퉁 사서 돈 날리고 피눈물 흘리는 후기가 오조 어깬대 답답 우리만 팔 말 너네 팔고 있어요 이거 일반 지압판 아니라고요 전문가가 발구작해서 제작 가능한 거 아시잖아요 알겠으니까 정품 가격도 한 번 내려서서 기강 한 번 잡으시죠 하! 짝퉁 사, 짝퉁 사고 효과 못 본 분들을 위해 눈물 먹음 꼭 밀린 큰 어서 저 기절해요 절대 안 돼요 짝퉁 사서 몸 망가지지 정품으로 광명해 주는 게 대표님 알겠죠?",
       "analyzed": false,
       "base": {},
       "audio": {},
@@ -917,43 +1382,201 @@
     {
       "key": "tw추석깎아Ⅰ_TP",
       "rank_note": "top",
-      "roas": 2.16,
-      "spend": 5781500.0,
-      "ctr": 4.69,
-      "cvr": 1.75,
-      "cpa": 24920,
-      "purchases": 232.0,
+      "roas": 2.3,
+      "spend": 5799309.0,
+      "ctr": 5.3,
+      "cvr": 1.47,
+      "cpa": 24164,
+      "purchases": 240.0,
       "platforms": [
         "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 1160272.0,
-          "revenue": 2065284.0,
-          "roas": 1.78,
-          "ctr": 5.45,
-          "cvr": 0.47,
-          "cpa": 31359,
-          "purchases": 37.0,
-          "hook_rate": 54.6,
-          "hold_rate": 92.9,
+          "spend": 1248861.0,
+          "revenue": 2397813.0,
+          "roas": 1.92,
+          "ctr": 6.58,
+          "cvr": 0.42,
+          "cpa": 28383,
+          "purchases": 44.0,
+          "hook_rate": 67.5,
+          "hold_rate": 92.8,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100.0,
+            12.6,
+            9.7,
+            8.9,
+            8.4
+          ]
         },
         "meta": {
-          "spend": 4621228.0,
-          "revenue": 10406100.0,
-          "roas": 2.25,
-          "ctr": 3.91,
-          "cvr": 3.57,
-          "cpa": 23699,
-          "purchases": 195.0,
-          "hook_rate": 44.1,
-          "hold_rate": 46.0,
+          "spend": 4550448.0,
+          "revenue": 10939500.0,
+          "roas": 2.4,
+          "ctr": 3.92,
+          "cvr": 3.38,
+          "cpa": 23217,
+          "purchases": 196.0,
+          "hook_rate": 41.0,
+          "hold_rate": 41.4,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            72,
+            49,
+            42,
+            37,
+            34,
+            30,
+            27,
+            24,
+            22,
+            21,
+            20,
+            20,
+            19,
+            19,
+            19,
+            13,
+            12,
+            10,
+            4,
+            0,
+            0
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 196,
+        "imp_total": 147897,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 2,
+            "imp": 7101
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3314
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 71
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 16,
+            "imp": 16814
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 11,
+            "imp": 5605
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 82
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 61,
+            "imp": 32683
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 2,
+            "imp": 5348
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 100
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 57,
+            "imp": 44517
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 9,
+            "imp": 6974
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 333
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 30,
+            "imp": 18532
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3427
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 54
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 1,
+            "imp": 2001
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 1,
+            "imp": 936
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 2,
+            "imp": 0
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
@@ -1009,309 +1632,264 @@
       "why": "정가→최종가의 시각적 낙차 + 환불 보장 + 비밀링크 희소성이 겹쳐 결정 문턱을 낮춘다. 훅과 오퍼가 같은 문장 안에 있어 메시지 손실이 없다."
     },
     {
-      "key": "tw남편외도상황극Ⅰ_AI",
-      "rank_note": "top",
-      "roas": 2.11,
-      "spend": 3375993.0,
-      "ctr": 1.61,
-      "cvr": 1.59,
-      "cpa": 24541,
-      "purchases": 137.567359,
-      "platforms": [
-        "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 2180368.0,
-          "revenue": 6343054.0,
-          "roas": 2.91,
-          "ctr": 1.32,
-          "cvr": 1.86,
-          "cpa": 17935,
-          "purchases": 121.567359,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 21.6,
-          "completion": 7.7
-        },
-        "meta": {
-          "spend": 1195625.0,
-          "revenue": 780400.0,
-          "roas": 0.65,
-          "ctr": 5.2,
-          "cvr": 0.76,
-          "cpa": 74727,
-          "purchases": 16.0,
-          "hook_rate": 63.9,
-          "hold_rate": 63.4,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_12.3s.jpg",
-        "f05_24.6s.jpg",
-        "f06_36.8s.jpg",
-        "f07_49.1s.jpg",
-        "f08_61.4s.jpg",
-        "f09_73.7s.jpg"
-      ],
-      "transcript": "여보! 언니 몸 보면 오빠도 좀 이해되죠? 우리 먼저 갈게 둔해 보이는 내 몸뚱이 내가 봐도 한심하고 초라하다 잠들기 전 하루 10분 아큐스터가 고인 붓기를 혈자리로 빼낸다 살이 문제가 아니라 붓기였다 여보! 그쪽 몸 보면 좀 이해되죠? 살은 그대로야 붓기만 뺐지 잠들기 전 하루 10분이 나를 바꿔줍니다 지압 트위스터 아큐스터",
-      "analyzed": false,
-      "base": {},
-      "audio": {},
-      "visual": {},
-      "target": {},
-      "trust": {},
-      "one_liner": "",
-      "why": ""
-    },
-    {
-      "key": "tw추석야랄Ⅰ_AN",
+      "key": "tw추석쌩돈Ⅷ_AP",
       "rank_note": "bottom",
-      "roas": 2.1,
-      "spend": 1246856.0,
-      "ctr": 20.72,
-      "cvr": 0.17,
-      "cpa": 26529,
-      "purchases": 47.0,
+      "roas": 2.22,
+      "spend": 1228340.0,
+      "ctr": 10.39,
+      "cvr": 0.36,
+      "cpa": 23176,
+      "purchases": 53.0,
       "platforms": [
-        "meta",
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 1246856.0,
-          "revenue": 2618398.0,
-          "roas": 2.1,
-          "ctr": 20.72,
-          "cvr": 0.17,
-          "cpa": 26529,
-          "purchases": 47.0,
-          "hook_rate": 76.8,
-          "hold_rate": 84.6,
+          "spend": 1228340.0,
+          "revenue": 2726915.0,
+          "roas": 2.22,
+          "ctr": 10.39,
+          "cvr": 0.36,
+          "cpa": 23176,
+          "purchases": 53.0,
+          "hook_rate": 75.7,
+          "hold_rate": 91.8,
           "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 0.0,
-          "revenue": 0.0,
-          "roas": null,
-          "ctr": null,
-          "cvr": null,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100.0,
+            31.1,
+            24.9,
+            22.7,
+            18.4
+          ]
         }
       },
+      "demo": null,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_11.4s.jpg",
-        "f05_22.8s.jpg",
-        "f06_34.2s.jpg",
-        "f07_45.6s.jpg",
-        "f08_57.0s.jpg",
-        "f09_68.4s.jpg"
+        "f04_5.7s.jpg",
+        "f05_11.5s.jpg",
+        "f06_17.2s.jpg",
+        "f07_23.0s.jpg",
+        "f08_28.7s.jpg",
+        "f09_34.4s.jpg"
       ],
-      "transcript": "퀄리티가 개니허리가 됐길래 비결이 뭐냐고 물어보니 야! 큐스터분 발꼽에 없다는데 야랄란데 야랄란데 국가대표라임",
+      "transcript": "받는 병락판. 제발. 생돈 주고 사지마. 4만원이나 깎아주는 미리 추적돈가 떴다는데 이때 챙겨야지. 돌덩이처럼 딱딱한 종아리알 말랑하게 풀어주는 것도 모자라 기존 할인가에서 두 번이나 더 깎아버린 역대 최초 할인율이라니. 이번 16차 물량도 금방 동나겠는데? 이게 누적판매량 100만개 터진 셀프 닭막 발판인데 발기만 해도 167개 지압볼이 발바닥을 잘근잘근 눌러주면서 핵심 할을 찔러주니까 10분 만에 발바닥 순환기 터지면서 하체 전신으로 피가 통하게 되는 거야. 아무래도 족저 전문가들이 직접 설계한 1mm 단차 구조니까 일반 지압으로 닿지 않는 발바닥 뼈 마디 마디까지 빠짐없이 자극되는 거 아니겠어? 붓기로 꽉 차있던 종아리, 허벅지 쫙 디톡스 시키려면 이 받는 정랍판은 무조건이다. 초저 기획전 특가 중에 아래 링크가 혜택 제일 세니까 꼭 여기서 사. 잊지마. 이 링크가 제일 싸다.",
       "analyzed": true,
       "base": {
-        "hook_type": "시즌 밈 + 할인 고지",
-        "first_3s": "한옥 마당에서 한복 입은 3D 가족 5명이 제품 위에 올라 춤 + '아큐스터 추석특가 시작 최대 -53%off'",
-        "appeal_angle": "명절 시즌 특가",
-        "cta": "추석특가 최대 53% off",
+        "hook_type": "금지 명령형",
+        "first_3s": "발판 위 발 클로즈업 + '밟는 경락판' 자막, 번쩍이는 순환 이펙트",
+        "appeal_angle": "종아리·하체 붓기 디톡스 + 추가 인하",
+        "cta": "아래 링크가 제일 싸다",
         "keywords": [
-          "추석특가",
-          "53% off",
-          "야랄났네",
-          "국가대표라임"
+          "생돈 주고 사지마",
+          "밟는 경락판",
+          "종아리알",
+          "16차 물량",
+          "167개 지압볼"
         ]
       },
       "audio": {
-        "opening_line": "허리가 개미허리가 됐길래 비결이 뭐냐고 물어보니",
-        "voice_style": "야랄났네 후렴 재활용 노래",
-        "narration_mode": "노래+짧은 내레이션"
+        "opening_line": "제발, 생돈 주고 사지마",
+        "voice_style": "반말 친구 톤, 빠른 속도",
+        "narration_mode": "2인칭 반말 권유"
       },
       "visual": {
-        "format": "3D 애니(한복·한옥)",
-        "mechanism_viz": "없음",
+        "format": "AI 생성 영상(AI 고지문 표기)",
+        "mechanism_viz": "발바닥 지압점·순환 이펙트",
         "before_after": "없음",
-        "subtitle_style": "상단 대형 할인 고지 배너 고정"
+        "subtitle_style": "노란 대문짝 자막"
       },
       "target": {
         "gender": "여성",
-        "age": "30·40·50대",
-        "segment": "명절 소비 시즌 구매층",
-        "appeal_axis": "시즌 할인"
+        "age": "30·40대",
+        "segment": "종아리 붓기·하체 무거움",
+        "appeal_axis": "가격 + 붓기"
       },
       "trust": {
-        "evidence": "없음",
+        "evidence": "누적판매량 100만개·족저 전문가 설계 주장",
         "refund": "–",
-        "discount": "최대 53% off 상단 고정",
-        "compliance": "⚠ 상시 할인이면 '추석특가' 한정 표현은 표시광고 리스크"
+        "discount": "기존가에서 2회 추가 인하",
+        "compliance": "⚠ 누적판매량 주장 검증 필요, 경락·혈 자극 등 한방 표현"
       },
-      "one_liner": "야랄났네 후렴을 명절 버전으로 갈아끼운 파생인데 원본(2.07)보다도 낮다.",
-      "why": "할인 배너를 상단에 박은 건 맞는 방향이지만, 소구가 '싸다' 하나뿐이라 시즌이 끝나면 남는 자산이 없다. 밈 파생은 원본 대비 체감 신선도가 떨어진다."
-    },
-    {
-      "key": "tw밟는경락남성Ⅰ_AN",
-      "rank_note": "bottom",
-      "roas": 2.09,
-      "spend": 3256960.0,
-      "ctr": 0.84,
-      "cvr": 2.86,
-      "cpa": 25346,
-      "purchases": 128.498625,
-      "platforms": [
-        "google",
-        "meta"
-      ],
-      "platform_metrics": {
-        "google": {
-          "spend": 2361850.0,
-          "revenue": 5791337.0,
-          "roas": 2.45,
-          "ctr": 0.73,
-          "cvr": 2.91,
-          "cpa": 21570,
-          "purchases": 109.498625,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 9.3,
-          "completion": 4.6
-        },
-        "meta": {
-          "spend": 895110.0,
-          "revenue": 1013800.0,
-          "roas": 1.13,
-          "ctr": 3.54,
-          "cvr": 2.58,
-          "cpa": 47111,
-          "purchases": 19.0,
-          "hook_rate": 53.4,
-          "hold_rate": 44.7,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_7.0s.jpg",
-        "f05_13.9s.jpg",
-        "f06_20.9s.jpg",
-        "f07_27.8s.jpg",
-        "f08_34.8s.jpg",
-        "f09_41.7s.jpg"
-      ],
-      "transcript": "52, 내 뱀을 좀 보세요 3주 전 그리고 지금 한 대에 800만 원 ㅈㄴ하게 다 부었지",
-      "analyzed": true,
-      "base": {
-        "hook_type": "나이 제시 + 전후 비교 선언",
-        "first_3s": "만화풍 애니 52세 남성이 배를 내밀고 손가락으로 나이를 표시 + '52세' 자막",
-        "appeal_angle": "중년 남성 뱃살 3주 전후",
-        "cta": "약함",
-        "keywords": [
-          "52세",
-          "3주 전 그리고 지금",
-          "밟는 경락판",
-          "지압볼",
-          "뱃살"
-        ]
-      },
-      "audio": {
-        "opening_line": "52, 내 배를 좀 보세요. 3주 전 그리고 지금",
-        "voice_style": "중년 남성 무심한 톤, 대사량 적음",
-        "narration_mode": "1인칭 짧은 대사 + 자막 위주"
-      },
-      "visual": {
-        "format": "2D 만화 애니(AI 고지문 표기)",
-        "mechanism_viz": "제품 지압볼 클로즈업 위주",
-        "before_after": "전후 비교를 서사로 제시",
-        "subtitle_style": "흰 굵은 자막"
-      },
-      "target": {
-        "gender": "남성",
-        "age": "50대",
-        "segment": "뱃살 신경 쓰는 중년 남성",
-        "appeal_axis": "전후 변화 + 자기비하 유머"
-      },
-      "trust": {
-        "evidence": "본인 전후 주장",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ 3주 만의 체형 변화 단정, 경락·혈 자극 등 한방 표현"
-      },
-      "one_liner": "중년 남성을 만화로 그려 거부감 없이 뱃살 얘기를 꺼내는 건 영리한 선택이고 타겟도 선명하다. 다만 대사가 거의 없어 전후 주장만 남고 근거 구간이 비어 있다.",
-      "why": "만화 포맷 덕에 체형 소재를 불쾌감 없이 다루지만, 메커니즘 설명과 오퍼가 얇아 클릭 이후를 받쳐주지 못한다. 같은 캐릭터로 원리 컷을 붙이는 게 개선 방향."
+      "one_liner": "훅과 가격 메시지는 선명한데 소구가 종아리 붓기로 좁아진 반면 화면은 발 클로즈업뿐이라, 이 제품의 주력인 복부 소구와 따로 논다.",
+      "why": "붓기는 보조 소구라 구매 동기가 약하고, 사용 전후나 복부 변화 장면이 없어 결정 근거가 얇다. 같은 오퍼를 복부 소구에 얹는 편이 낫다."
     },
     {
       "key": "tw에그언니PPL_T",
       "rank_note": "top",
-      "roas": 1.91,
-      "spend": 1810381.0,
-      "ctr": 4.97,
-      "cvr": 1.43,
-      "cpa": 27021,
-      "purchases": 67.0,
+      "roas": 2.21,
+      "spend": 1760788.0,
+      "ctr": 5.66,
+      "cvr": 1.72,
+      "cpa": 24120,
+      "purchases": 73.0,
       "platforms": [
-        "google",
-        "meta",
-        "tiktok"
+        "meta"
       ],
       "platform_metrics": {
-        "google": {
-          "spend": 74.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 0.0,
-          "cvr": null,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 40.0,
-          "completion": 0.0
-        },
-        "tiktok": {
-          "spend": 85671.0,
-          "revenue": 64253.0,
-          "roas": 0.75,
-          "ctr": 7.52,
-          "cvr": 0.11,
-          "cpa": 85671,
-          "purchases": 1.0,
-          "hook_rate": 67.3,
-          "hold_rate": 76.1,
-          "play50": null,
-          "completion": null
-        },
         "meta": {
-          "spend": 1724636.0,
-          "revenue": 3387000.0,
-          "roas": 1.96,
-          "ctr": 4.59,
-          "cvr": 1.75,
-          "cpa": 26131,
-          "purchases": 66.0,
-          "hook_rate": 38.5,
-          "hold_rate": 38.4,
+          "spend": 1760788.0,
+          "revenue": 3883100.0,
+          "roas": 2.21,
+          "ctr": 5.66,
+          "cvr": 1.72,
+          "cpa": 24120,
+          "purchases": 73.0,
+          "hook_rate": 41.1,
+          "hold_rate": 39.4,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            83,
+            52,
+            42,
+            35,
+            32,
+            28,
+            25,
+            23,
+            21,
+            21,
+            19,
+            19,
+            18,
+            17,
+            18,
+            11,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 73,
+        "imp_total": 74834,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 4604
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2431
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 49
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 6,
+            "imp": 8820
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2736
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 39
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 20,
+            "imp": 16613
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 2,
+            "imp": 1820
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 36
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 29,
+            "imp": 22176
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3033
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 139
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 12,
+            "imp": 9174
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1682
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 23
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 1,
+            "imp": 1029
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 425
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
@@ -1370,73 +1948,53 @@
       "why": "40대 주인공을 노화가 아닌 '관리 잘 된 동경 대상'으로 세워 중년 타겟이 '나도 저렇게'로 투영함. 23초 안에 효익(붓기)·사용법(10분)·근거(그래프)·오퍼(100% 환불)가 압축돼 정보 손실 없이 빠르게 결정을 돕고, PPL 클립에 환불보장 오퍼를 붙인 점이 전환 트리거로 작동."
     },
     {
-      "key": "tw이예지PPL_T",
-      "rank_note": "bottom",
-      "roas": 1.91,
-      "spend": 1546254.0,
-      "ctr": 3.43,
-      "cvr": 1.53,
-      "cpa": 29147,
-      "purchases": 53.049395,
+      "key": "tw결정이파격Ⅰ_AIP",
+      "rank_note": "top",
+      "roas": 2.1,
+      "spend": 775828.0,
+      "ctr": 6.45,
+      "cvr": 0.49,
+      "cpa": 27708,
+      "purchases": 28.0,
       "platforms": [
-        "google",
-        "meta",
         "tiktok"
       ],
       "platform_metrics": {
-        "google": {
-          "spend": 108436.0,
-          "revenue": 130927.0,
-          "roas": 1.21,
-          "ctr": 0.89,
-          "cvr": 1.45,
-          "cpa": 52911,
-          "purchases": 2.049395,
-          "hook_rate": null,
-          "hold_rate": null,
-          "play50": 6.1,
-          "completion": 3.9
-        },
         "tiktok": {
-          "spend": 132417.0,
-          "revenue": 48994.0,
-          "roas": 0.37,
-          "ctr": 3.82,
-          "cvr": 0.16,
-          "cpa": 132417,
-          "purchases": 1.0,
-          "hook_rate": 45.8,
-          "hold_rate": 81.9,
+          "spend": 775828.0,
+          "revenue": 1629239.0,
+          "roas": 2.1,
+          "ctr": 6.45,
+          "cvr": 0.49,
+          "cpa": 27708,
+          "purchases": 28.0,
+          "hook_rate": 72.8,
+          "hold_rate": 92.3,
           "play50": null,
-          "completion": null
-        },
-        "meta": {
-          "spend": 1305401.0,
-          "revenue": 2775800.0,
-          "roas": 2.13,
-          "ctr": 3.93,
-          "cvr": 1.84,
-          "cpa": 26108,
-          "purchases": 50.0,
-          "hook_rate": 36.6,
-          "hold_rate": 44.2,
-          "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100.0,
+            9.8,
+            6.7,
+            5.9,
+            5.5
+          ]
         }
       },
+      "demo": null,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_7.4s.jpg",
-        "f05_14.7s.jpg",
-        "f06_22.1s.jpg",
-        "f07_29.5s.jpg",
-        "f08_36.8s.jpg",
-        "f09_44.2s.jpg"
+        "f04_8.6s.jpg",
+        "f05_17.3s.jpg",
+        "f06_25.9s.jpg",
+        "f07_34.5s.jpg",
+        "f08_43.2s.jpg",
+        "f09_51.8s.jpg"
       ],
-      "transcript": "러닝하면 다음날 다리 붓기 엄청 심한 거 아시죠? 하체 근육이 뭉치고 안 풀려서 땅땅해지는 거거든요? 그래서 운동 직후 괄사로 마사지 해주는 게 중요한데 저는 최근에 발만 올려두면 저절로 관리되는 하체 회복 발판을 찾았어요 국가대표 하체 회복 루틴에도 사용된다는 서마드 EMS 정밀 전류가 발끝부터 종아리 허벅지 속 근육까지 들어가서 뭉친 속 근육을 쫙쫙 풀어주고 온열 기능으로 하체 붓기까지 싹 디톡스 시켜주는 원리인데 확실히 이거 15분 하면 다음날 러닝할 때 다리 훨씬 가볍고 딱딱했던 종아리 알도 말랑해져요 그리고 무엇보다 하체 독소를 집중 공략해서 빼내주기 때문에 필요없는 군살만 빠지고 탄탄한 하체로 관리되는 거죠 요즘 러닝하고 매일 이걸로 마무리 관리하고 있는데 사용 전 후 다리 붓기 확실히 디톡스된 거 보이시죠? 해외 나가서 러닝할 때도 필수로 챙기는데 접이식이라 휴대하기도 너무 간편하고 이제 재운동 후 필수루틴이 되어버렸습니다 그리고 지금 3일간 단독으로 47% 하네요 불만족식 100% 환불보장 이벤트 하고 있다니까 이 기회 놓치지 말고 꼭 써보세요",
+      "transcript": "누적 방문자 6천만 명에 벌써 15번이나 품절된 똥 뱃살 종결 트위스터 아큐스터! 올 시즌 한 대 가격에 두 대를 들이는 전례 없는 파격 혜택 결정했습니다! 펑퍼짐한 똥 뱃살을 115도로 강제로 비틀어 주변 물렁살 무자비하게 조여내는 고스펙 트위스터! 무너진 복부 탄력 87% 이상 복원시켜서 출산 맘들 선호도 1순위 홈트 기구로 등극했다는데 출시일 1회 역대급 할인 특가창 풀려서 이번에 누적 판매량 100만 개 돌파해버렸대요 무작정 굶어보신 분들은 아시죠? 뱃살은 굶어도 미동조차 없는 거 근데 이 아큐스터는 복부에 동일 자극을 연속으로 꽂아 넣어주니까 숨겨진 S자 굴곡 무조건 찾습니다! 솔직히 PT 1회 값이 8만 원인데 이 고스펙 트위스터가 단돈 4만 원대? 말이 안 되잖아요 그래서 딱 물량 소진까지만 풀어놓는다니까 다급하신 분들은 지금 빨리 챙기세요 다시 한 번 말씀드립니다 최대 50% 파격 특가에 부담 없는 무이자 6개월 할부까지 이 황금 같은 할인 시즌에 한 줌 허리 발굴해보자고요",
       "analyzed": false,
       "base": {},
       "audio": {},
@@ -1449,29 +2007,180 @@
     {
       "key": "tw김예지PPL_T",
       "rank_note": "top",
-      "roas": 1.82,
-      "spend": 2970985.0,
-      "ctr": 4.29,
-      "cvr": 1.39,
-      "cpa": 29127,
-      "purchases": 102.0,
+      "roas": 1.88,
+      "spend": 2536608.0,
+      "ctr": 4.18,
+      "cvr": 1.47,
+      "cpa": 28501,
+      "purchases": 89.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 2970985.0,
-          "revenue": 5410100.0,
-          "roas": 1.82,
-          "ctr": 4.29,
-          "cvr": 1.39,
-          "cpa": 29127,
-          "purchases": 102.0,
-          "hook_rate": 42.7,
-          "hold_rate": 45.7,
+          "spend": 2536608.0,
+          "revenue": 4772700.0,
+          "roas": 1.88,
+          "ctr": 4.18,
+          "cvr": 1.47,
+          "cpa": 28501,
+          "purchases": 89.0,
+          "hook_rate": 41.7,
+          "hold_rate": 40.4,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            80,
+            52,
+            44,
+            37,
+            34,
+            30,
+            26,
+            24,
+            23,
+            21,
+            20,
+            19,
+            19,
+            18,
+            18,
+            12,
+            10,
+            9,
+            4,
+            2,
+            0
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 89,
+        "imp_total": 145029,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 4,
+            "imp": 8536
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 3,
+            "imp": 4072
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 128
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 8,
+            "imp": 19927
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 2,
+            "imp": 6415
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 147
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 21,
+            "imp": 33637
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 4,
+            "imp": 4618
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 111
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 26,
+            "imp": 33594
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 3,
+            "imp": 6358
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 248
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 11,
+            "imp": 17680
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 3,
+            "imp": 5090
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 185
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 2,
+            "imp": 2551
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1709
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 18
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 5
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 0
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
@@ -1527,45 +2236,275 @@
       "why": "과장 없이 '2주 써보니 이렇더라' 만으로 끝까지 간다. 광고 피로도가 낮아 오래 태울 수 있고, 마지막의 '엄마 선물' 한 줄이 구매 명분을 하나 더 만든다."
     },
     {
-      "key": "tw결정이파격Ⅰ_AIP",
-      "rank_note": "top",
-      "roas": 1.8,
-      "spend": 773090.0,
-      "ctr": 6.72,
-      "cvr": 0.42,
-      "cpa": 29734,
-      "purchases": 26.0,
+      "key": "tw추석야랄Ⅰ_AN",
+      "rank_note": "bottom",
+      "roas": 1.77,
+      "spend": 917494.0,
+      "ctr": 16.3,
+      "cvr": 0.19,
+      "cpa": 28672,
+      "purchases": 32.0,
       "platforms": [
         "tiktok"
       ],
       "platform_metrics": {
         "tiktok": {
-          "spend": 773090.0,
-          "revenue": 1391562.0,
-          "roas": 1.8,
-          "ctr": 6.72,
-          "cvr": 0.42,
-          "cpa": 29734,
-          "purchases": 26.0,
-          "hook_rate": 68.5,
-          "hold_rate": 92.6,
+          "spend": 917494.0,
+          "revenue": 1623964.0,
+          "roas": 1.77,
+          "ctr": 16.3,
+          "cvr": 0.19,
+          "cpa": 28672,
+          "purchases": 32.0,
+          "hook_rate": 74.1,
+          "hold_rate": 85.5,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100.0,
+            34.6,
+            22.3,
+            15.5,
+            13.1
+          ]
         }
       },
+      "demo": null,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_8.6s.jpg",
-        "f05_17.3s.jpg",
-        "f06_25.9s.jpg",
-        "f07_34.5s.jpg",
-        "f08_43.2s.jpg",
-        "f09_51.8s.jpg"
+        "f04_11.4s.jpg",
+        "f05_22.8s.jpg",
+        "f06_34.2s.jpg",
+        "f07_45.6s.jpg",
+        "f08_57.0s.jpg",
+        "f09_68.4s.jpg"
       ],
-      "transcript": "누적 방문자 6천만 명에 벌써 15번이나 품절된 똥 뱃살 종결 트위스터 아큐스터! 올 시즌 한 대 가격에 두 대를 들이는 전례 없는 파격 혜택 결정했습니다! 펑퍼짐한 똥 뱃살을 115도로 강제로 비틀어 주변 물렁살 무자비하게 조여내는 고스펙 트위스터! 무너진 복부 탄력 87% 이상 복원시켜서 출산 맘들 선호도 1순위 홈트 기구로 등극했다는데 출시일 1회 역대급 할인 특가창 풀려서 이번에 누적 판매량 100만 개 돌파해버렸대요 무작정 굶어보신 분들은 아시죠? 뱃살은 굶어도 미동조차 없는 거 근데 이 아큐스터는 복부에 동일 자극을 연속으로 꽂아 넣어주니까 숨겨진 S자 굴곡 무조건 찾습니다! 솔직히 PT 1회 값이 8만 원인데 이 고스펙 트위스터가 단돈 4만 원대? 말이 안 되잖아요 그래서 딱 물량 소진까지만 풀어놓는다니까 다급하신 분들은 지금 빨리 챙기세요 다시 한 번 말씀드립니다 최대 50% 파격 특가에 부담 없는 무이자 6개월 할부까지 이 황금 같은 할인 시즌에 한 줌 허리 발굴해보자고요",
+      "transcript": "퀄리티가 개니허리가 됐길래 비결이 뭐냐고 물어보니 야! 큐스터분 발꼽에 없다는데 야랄란데 야랄란데 국가대표라임",
+      "analyzed": true,
+      "base": {
+        "hook_type": "시즌 밈 + 할인 고지",
+        "first_3s": "한옥 마당에서 한복 입은 3D 가족 5명이 제품 위에 올라 춤 + '아큐스터 추석특가 시작 최대 -53%off'",
+        "appeal_angle": "명절 시즌 특가",
+        "cta": "추석특가 최대 53% off",
+        "keywords": [
+          "추석특가",
+          "53% off",
+          "야랄났네",
+          "국가대표라임"
+        ]
+      },
+      "audio": {
+        "opening_line": "허리가 개미허리가 됐길래 비결이 뭐냐고 물어보니",
+        "voice_style": "야랄났네 후렴 재활용 노래",
+        "narration_mode": "노래+짧은 내레이션"
+      },
+      "visual": {
+        "format": "3D 애니(한복·한옥)",
+        "mechanism_viz": "없음",
+        "before_after": "없음",
+        "subtitle_style": "상단 대형 할인 고지 배너 고정"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "30·40·50대",
+        "segment": "명절 소비 시즌 구매층",
+        "appeal_axis": "시즌 할인"
+      },
+      "trust": {
+        "evidence": "없음",
+        "refund": "–",
+        "discount": "최대 53% off 상단 고정",
+        "compliance": "⚠ 상시 할인이면 '추석특가' 한정 표현은 표시광고 리스크"
+      },
+      "one_liner": "야랄났네 후렴을 명절 버전으로 갈아끼운 파생인데 원본(2.07)보다도 낮다.",
+      "why": "할인 배너를 상단에 박은 건 맞는 방향이지만, 소구가 '싸다' 하나뿐이라 시즌이 끝나면 남는 자산이 없다. 밈 파생은 원본 대비 체감 신선도가 떨어진다."
+    },
+    {
+      "key": "tw조선약탈ⅸⅹ_AI",
+      "rank_note": "top",
+      "roas": 1.6,
+      "spend": 757379.0,
+      "ctr": 1.44,
+      "cvr": 1.47,
+      "cpa": 34515,
+      "purchases": 21.943417,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 609536.0,
+          "revenue": 1085358.0,
+          "roas": 1.78,
+          "ctr": 1.0,
+          "cvr": 2.08,
+          "cpa": 30563,
+          "purchases": 19.943417,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 18.0,
+          "completion": 6.6,
+          "ret_curve": [
+            100.0,
+            24.6,
+            18.0,
+            14.6,
+            6.6
+          ]
+        },
+        "meta": {
+          "spend": 147843.0,
+          "revenue": 128700.0,
+          "roas": 0.87,
+          "ctr": 7.76,
+          "cvr": 0.38,
+          "cpa": 73922,
+          "purchases": 2.0,
+          "hook_rate": 63.7,
+          "hold_rate": 31.0,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            89,
+            76,
+            71,
+            60,
+            55,
+            45,
+            37,
+            32,
+            30,
+            28,
+            26,
+            25,
+            24,
+            23,
+            22,
+            19,
+            17,
+            15,
+            10,
+            9,
+            8
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 2,
+        "imp_total": 6800,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 200
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 289
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 8
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 346
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 1,
+            "imp": 437
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 23
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 527
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 456
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 17
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1205
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 884
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 9
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 874
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 979
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 6
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 150
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 390
+          }
+        ]
+      },
+      "frames": [],
+      "transcript": "",
       "analyzed": false,
       "base": {},
       "audio": {},
@@ -1576,114 +2515,353 @@
       "why": ""
     },
     {
-      "key": "tw복스럽다Ⅰ_AN",
+      "key": "tw짝퉁아큐스터Ⅰ_AI",
       "rank_note": "bottom",
-      "roas": 1.42,
-      "spend": 709439.0,
-      "ctr": 3.68,
-      "cvr": 2.37,
-      "cpa": 37339,
-      "purchases": 19.0,
+      "roas": 1.39,
+      "spend": 1142722.0,
+      "ctr": 6.87,
+      "cvr": 0.84,
+      "cpa": 39404,
+      "purchases": 29.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 709439.0,
-          "revenue": 1009000.0,
-          "roas": 1.42,
-          "ctr": 3.68,
-          "cvr": 2.37,
-          "cpa": 37339,
-          "purchases": 19.0,
-          "hook_rate": 60.3,
-          "hold_rate": 29.4,
+          "spend": 1142722.0,
+          "revenue": 1591500.0,
+          "roas": 1.39,
+          "ctr": 6.87,
+          "cvr": 0.84,
+          "cpa": 39404,
+          "purchases": 29.0,
+          "hook_rate": 78.1,
+          "hold_rate": 12.4,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            95,
+            87,
+            80,
+            64,
+            57,
+            44,
+            30,
+            24,
+            20,
+            17,
+            15,
+            14,
+            12,
+            11,
+            10,
+            7,
+            5,
+            4,
+            3,
+            2,
+            1
+          ]
         }
       },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_11.1s.jpg",
-        "f05_22.1s.jpg",
-        "f06_33.2s.jpg",
-        "f07_44.2s.jpg",
-        "f08_55.3s.jpg",
-        "f09_66.3s.jpg"
-      ],
-      "transcript": "복스럽다 복스럽다 복스럽다고 하지마라 복스럽다 복스럽다 복스럽다고 하지마라 복스럽다 복스럽다 복스럽다고 하지마라 위로 계속 집거려만다 하루 10분 바닥 혈자리 콕콕 자극해서 막힌 수남봉 이던 크롭지 내가 살았다 복스럽다고 스터 10분도 1순위 성공 태미 아큐스 이내에서 영영 탈출했다",
-      "analyzed": true,
-      "base": {
-        "hook_type": "'복스럽다고 하지마라' 반복 챈트 훅(3D 애니)",
-        "first_3s": "픽사풍 3D 통통한 여성이 땀 흘리며 발판 위에 서 있고 옆 남자가 '복스럽다' 속삭임 → 여성이 발판을 들어 내리치려는 코믹 컷, 자막 '복스럽다고 하지마라'",
-        "appeal_angle": "통통 체형 놀림에 대한 반격 → 하루 10분 지압으로 슬림 변신",
-        "cta": "하루 10분 / 아큐스터로 (복스럽다에서) 영영 탈출",
-        "keywords": [
-          "복스럽다",
-          "체형놀림",
-          "챈트",
-          "3D애니",
-          "하루10분",
-          "혈자리",
-          "변신",
-          "밈"
+      "demo": {
+        "source": "meta",
+        "pur_total": 29,
+        "imp_total": 50130,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 1,
+            "imp": 2474
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1482
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 76
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 1,
+            "imp": 3510
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1892
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 59
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 6,
+            "imp": 7344
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1251
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 47
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 11,
+            "imp": 15535
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2895
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 112
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 5,
+            "imp": 9231
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 2,
+            "imp": 2365
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 51
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1075
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 727
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 4
+          }
         ]
       },
-      "audio": {
-        "opening_line": "복스럽다 복스럽다 복스럽다고 하지마라",
-        "voice_style": "중독성 챈트/노래, 코믹 톤",
-        "narration_mode": "노래 가사 반복형(후렴 반복)"
-      },
-      "visual": {
-        "format": "AI 3D 애니메이션(픽사풍) 밈 뮤직비디오, 77초",
-        "mechanism_viz": "발바닥 지압 클로즈업 정도, 원리 시각화 없음",
-        "before_after": "통통한 캐릭터 → 크롭티 슬림 캐릭터(극적 변신)",
-        "subtitle_style": "화면 중앙 흰 굵은 자막 고정 반복"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20~30대",
-        "segment": "통통 체형 놀림 경험층, 밈 소비층",
-        "appeal_axis": "체형 변신/자존감"
-      },
-      "trust": {
-        "evidence": "없음",
-        "refund": "없음",
-        "discount": "없음",
-        "compliance": "⚠ '혈자리' 한방 표현, 3D 극적 체형 변신(과장 전후 인상)"
-      },
-      "one_liner": "중독성 챈트와 코믹 반격 연출은 밈으로 재밌지만, 후렴이 길게 반복돼 제품 정보가 거의 없고 변신이 비현실적이라 믿음이 안 간다.",
-      "why": "첫 10초를 같은 후렴 반복에 쓰고 제품 설명은 몇 줄뿐이라 '재밌는 영상'으로 소비되고 끝남. 3D 애니의 극단적 변신은 신뢰를 주지 못하고, 아큐스터의 붓기·순환 맥락 대신 체중 감량으로 읽혀 과장 인상. 오퍼·근거 장치도 없음."
+      "frames": [],
+      "transcript": "",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
     },
     {
       "key": "tw억울해미쳐Ⅷ_T",
-      "rank_note": "bottom",
-      "roas": 1.18,
-      "spend": 1015535.0,
-      "ctr": 7.68,
-      "cvr": 0.7,
-      "cpa": 42314,
-      "purchases": 24.0,
+      "rank_note": "top",
+      "roas": 1.38,
+      "spend": 1240493.0,
+      "ctr": 9.99,
+      "cvr": 0.61,
+      "cpa": 38765,
+      "purchases": 32.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1015535.0,
-          "revenue": 1200500.0,
-          "roas": 1.18,
-          "ctr": 7.68,
-          "cvr": 0.7,
-          "cpa": 42314,
-          "purchases": 24.0,
-          "hook_rate": 81.1,
-          "hold_rate": 71.8,
+          "spend": 1240493.0,
+          "revenue": 1706300.0,
+          "roas": 1.38,
+          "ctr": 9.99,
+          "cvr": 0.61,
+          "cpa": 38765,
+          "purchases": 32.0,
+          "hook_rate": 78.8,
+          "hold_rate": 63.2,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            95,
+            87,
+            80,
+            74,
+            72,
+            67,
+            62,
+            59,
+            57,
+            56,
+            55,
+            54,
+            53,
+            52,
+            52,
+            32,
+            25,
+            22,
+            7,
+            0,
+            0
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 32,
+        "imp_total": 52784,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1196
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 2,
+            "imp": 765
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 25
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 1,
+            "imp": 2340
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 941
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 37
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 6,
+            "imp": 6629
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 764
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 41
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 12,
+            "imp": 19183
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 2,
+            "imp": 2399
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 100
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 8,
+            "imp": 13977
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1923
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 56
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1737
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 660
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 10
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
@@ -1708,111 +2886,556 @@
       "why": ""
     },
     {
-      "key": "tw안전바상황극Ⅰ_AI",
+      "key": "tw빵빵디톡스Ⅷ_AN",
       "rank_note": "bottom",
-      "roas": 0.76,
-      "spend": 831934.0,
-      "ctr": 5.49,
-      "cvr": 0.79,
-      "cpa": 69328,
-      "purchases": 12.0,
+      "roas": 1.1,
+      "spend": 1053763.0,
+      "ctr": 8.19,
+      "cvr": 0.34,
+      "cpa": 47703,
+      "purchases": 22.090276,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 125093.0,
+          "revenue": 147833.0,
+          "roas": 1.18,
+          "ctr": 0.84,
+          "cvr": 2.36,
+          "cpa": 40480,
+          "purchases": 3.090276,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 11.8,
+          "completion": 8.3,
+          "ret_curve": [
+            100.0,
+            16.4,
+            11.8,
+            9.6,
+            8.3
+          ]
+        },
+        "meta": {
+          "spend": 928670.0,
+          "revenue": 1013800.0,
+          "roas": 1.09,
+          "ctr": 9.96,
+          "cvr": 0.3,
+          "cpa": 48877,
+          "purchases": 19.0,
+          "hook_rate": 79.9,
+          "hold_rate": 54.7,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            92,
+            84,
+            82,
+            74,
+            72,
+            66,
+            58,
+            55,
+            52,
+            50,
+            49,
+            48,
+            48,
+            47,
+            46,
+            28,
+            22,
+            19,
+            7,
+            4,
+            0
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 19,
+        "imp_total": 64525,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 3133
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1814
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 76
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 1,
+            "imp": 4979
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2548
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 83
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 5,
+            "imp": 8603
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2062
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 69
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 4,
+            "imp": 18487
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 2,
+            "imp": 4084
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 106
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 5,
+            "imp": 12458
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3367
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 49
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1530
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1071
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 6
+          }
+        ]
+      },
+      "frames": [],
+      "transcript": "",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "tw조선곡식Ⅰ_AI",
+      "rank_note": "bottom",
+      "roas": 0.85,
+      "spend": 817488.0,
+      "ctr": 7.16,
+      "cvr": 0.77,
+      "cpa": 62884,
+      "purchases": 13.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 831934.0,
-          "revenue": 630600.0,
-          "roas": 0.76,
-          "ctr": 5.49,
-          "cvr": 0.79,
-          "cpa": 69328,
-          "purchases": 12.0,
-          "hook_rate": 52.4,
-          "hold_rate": 61.1,
+          "spend": 817488.0,
+          "revenue": 695500.0,
+          "roas": 0.85,
+          "ctr": 7.16,
+          "cvr": 0.77,
+          "cpa": 62884,
+          "purchases": 13.0,
+          "hook_rate": 66.6,
+          "hold_rate": 54.0,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            94,
+            78,
+            69,
+            62,
+            59,
+            55,
+            51,
+            48,
+            46,
+            44,
+            43,
+            43,
+            41,
+            39,
+            38,
+            35,
+            33,
+            29,
+            23,
+            19,
+            17
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 13,
+        "imp_total": 23714,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 444
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 196
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 25
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1442
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 280
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 13
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 5,
+            "imp": 6218
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 436
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 22
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 3,
+            "imp": 8892
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 755
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 57
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 4,
+            "imp": 3914
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 504
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 12
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 364
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 138
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
         "f02_2.0s.jpg",
         "f03_3.0s.jpg",
-        "f04_10.8s.jpg",
-        "f05_21.6s.jpg",
-        "f06_32.3s.jpg",
-        "f07_43.1s.jpg",
-        "f08_53.9s.jpg",
-        "f09_64.7s.jpg"
+        "f04_11.5s.jpg",
+        "f05_23.0s.jpg",
+        "f06_34.5s.jpg",
+        "f07_46.0s.jpg",
+        "f08_57.4s.jpg",
+        "f09_68.9s.jpg"
       ],
-      "transcript": "얼마 전 아들 데리고 놀이공원 갔는데 바이킹 안전바가 배에 걸려 딸깍 소리가 안 나는 거야. 직원이 다가와 몇 번을 눌러보더니 고객님 자세 좀 바꿔서 다시 앉아보시겠어요. 옆에 있던 아들이 고개를 푹 숙이더니 내 손을 슬쩍 놓더라 결국 나만 내려서 벤치에 혼자 앉아 있는데 아들 표정이 계속 눈에 밟혔어. 그날 새벽 4시까지 뱃살 빼는 법만 검색했어. 이것저것 보다가 지압 트위스터로 뱃살 뺐다는 후기들이 자꾸 눈에 띄었고 미쳐야 본전이다 싶어서 하나 주문했어. 올라가자마자 악소리 날 만큼 아프더라. 이게 마사지야 고문이야 싶었지만 일단 양말 신고 버텨봤어. 트위스터도 몇 바퀴 돌리고 나면 허리며 옆구리며 안 뻐근한 데가 없었어. 그래도 아들 얼굴 생각하면서 이 악물고 매일 했어. 그러다 일주일쯤 지나니까 허리가 잘록해진 느낌이 들더라. 두 달쯤 됐을 때 아들이 또 놀이공원 가자고 졸랐어. 안전바를 내리는데 한 번에 걸리는 거야. 아들이 엄마 예뻐졌다 하고 활짝 웃더라. 48에 아들한테 예쁘다는 말 듣는 게 이렇게 행복한 일인 줄 몰랐어. 나처럼 뱃 때문에 자신감 떨어져 있던 사람들 이거 꼭 한번 써봐.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "사연 드라마형(공개 굴욕)",
-        "first_3s": "'실제 사연을 AI로 재구성' 고지 후 놀이공원 바이킹 안전바가 안 잠기는 장면",
-        "appeal_angle": "아들 앞에서의 수치 → 두 달 뒤 '엄마 예뻐졌다'",
-        "cta": "배 때문에 자신감 떨어져 있던 사람들 꼭 써보라",
-        "keywords": [
-          "안전바가 딸깍 안 됨",
-          "아들이 손을 놓더라",
-          "새벽 4시까지 검색",
-          "고문 같은 통증",
-          "48에 예쁘다는 말"
-        ]
-      },
-      "audio": {
-        "opening_line": "얼마 전 아들 데리고 놀이공원 갔는데 바이킹 안전바가 배에 걸려 딸깍 소리가 안 나는 거야",
-        "voice_style": "담담한 반말 회고체",
-        "narration_mode": "1인칭 사연 회고"
-      },
-      "visual": {
-        "format": "AI 생성 실사풍 드라마",
-        "mechanism_viz": "없음",
-        "before_after": "거울 앞 허리 라인 대비",
-        "subtitle_style": "영화 자막풍 흰 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "40·50대",
-        "segment": "복부비만 중년 엄마",
-        "appeal_axis": "가족 앞 수치심 회복"
-      },
-      "trust": {
-        "evidence": "없음(체험 서사만)",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "AI 재구성 고지 있음(양호)"
-      },
-      "one_liner": "서사 완성도는 시리즈 중 가장 높은데 75초 길이와 3초 고지 화면이 성과를 눌렀다.",
-      "why": "'아들이 손을 슬쩍 놓더라' 같은 디테일은 강력하다. 앞 15초만 남긴 숏 버전을 별도로 만들어 재시도할 가치가 있다."
+      "transcript": "조선에 온 외국인들은 조선 여인들을 보고 다들 놀랐습니다. 고봉밥을 먹는데 허리가 잘록했거든요. 자기네 나라 귀부인들이 코르셋을 졸람해도 못 만든 허리선이었죠. 뭘 먹길래 그러냐고 물었습니다. 무슨 귀한 약초라도 있겠거니 했죠. 거꾸로였습니다. 답은 밥상이 아니라 디딜방하였습니다. 찐마다 있던 디딜방하여 곡식 찢는 집. 여인들은 매일 방화를 찌었는데 한 번 찌을 때마다 허리를 비틀어 온몸에 무게를 실었습니다. 그 집 여인들 허리가 동네에서 제일 잘록했죠. 그래서 방화 찢는 날이 아니어도 허리를 비틀어 본 거죠. 그랬더니 고봉밥을 그렇게 먹고도 허리선이 무너지질 않았습니다. 치마끈을 매면 저고리 아래로 허리가 쏙 들어갔고요. 그걸 본 외국인들은 조선 여인들 허리 이야기를 고국에 전했다고 합니다. 왜였을까요? 허리를 잡아주는 건 옆구리를 감싼 근육입니다. 그런데 하루 종일 쪼그려 앉아 일하면 이 근육은 쓸 일이 없어 풀어지고요. 풀어진 채로 하루 이틀 지나면 그게 두루뭉수란 허리가 됩니다. 귀부인들이 코르셋을 아무리 졸람해도 풀면 그대로 다시 퍼졌죠. 미치고 환장할 노릇입니다. 방화질은 풀어진 걸 조였습니다. 허리를 비틀 때마다 옆구리 근육이 쥐어짜듯 조여들거든요. 매일 조이니 허리선은 잘록하게 자리를 잡죠. 300년 전 조선 여인들은 원리는 몰라도 방법은 알고 있었던 거죠. 조선 여인들이 방화 앞에서 비틀던 잘록한 허리 비결 지금도 그대로 씁니다. 하루 10분 조선 여인의 300년 비결을 담은 트위스터 아쿠스터입니다.",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
     },
     {
       "key": "tw마미맘마PPL_T",
       "rank_note": "top",
-      "roas": 0.62,
-      "spend": 766981.0,
-      "ctr": 5.67,
-      "cvr": 0.1,
-      "cpa": 95873,
-      "purchases": 8.0,
+      "roas": 0.52,
+      "spend": 1026541.0,
+      "ctr": 9.63,
+      "cvr": 0.07,
+      "cpa": 114060,
+      "purchases": 9.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 766981.0,
-          "revenue": 473100.0,
-          "roas": 0.62,
-          "ctr": 5.67,
-          "cvr": 0.1,
-          "cpa": 95873,
-          "purchases": 8.0,
-          "hook_rate": 93.0,
-          "hold_rate": 88.9,
+          "spend": 1026541.0,
+          "revenue": 532900.0,
+          "roas": 0.52,
+          "ctr": 9.63,
+          "cvr": 0.07,
+          "cpa": 114060,
+          "purchases": 9.0,
+          "hook_rate": 95.5,
+          "hold_rate": 89.0,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            100,
+            98,
+            97,
+            96,
+            95,
+            94,
+            91,
+            90,
+            89,
+            88,
+            88,
+            88,
+            87,
+            87,
+            87,
+            75,
+            71,
+            69,
+            15,
+            0,
+            0
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 9,
+        "imp_total": 126315,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 5560
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 5820
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 82
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 1,
+            "imp": 9404
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 3,
+            "imp": 9689
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 271
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 8104
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 7279
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 73
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 13837
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 11411
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 220
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 1,
+            "imp": 20177
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 1,
+            "imp": 15749
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 199
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 10057
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 2,
+            "imp": 8335
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 48
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
@@ -1867,80 +3490,191 @@
       "why": "공감 가는 통찰+생활 밀착으로 전환 질이 높음. 효능 과장이 적어 안정적."
     },
     {
-      "key": "tw조선곡식Ⅰ_AI",
-      "rank_note": "bottom",
-      "roas": 0.57,
-      "spend": 1230470.0,
-      "ctr": 6.61,
-      "cvr": 0.56,
-      "cpa": 94652,
-      "purchases": 13.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 1230470.0,
-          "revenue": 696500.0,
-          "roas": 0.57,
-          "ctr": 6.61,
-          "cvr": 0.56,
-          "cpa": 94652,
-          "purchases": 13.0,
-          "hook_rate": 64.4,
-          "hold_rate": 58.9,
-          "play50": null,
-          "completion": null
-        }
-      },
-      "frames": [
-        "f00_0.3s.jpg",
-        "f01_1.0s.jpg",
-        "f02_2.0s.jpg",
-        "f03_3.0s.jpg",
-        "f04_11.5s.jpg",
-        "f05_23.0s.jpg",
-        "f06_34.5s.jpg",
-        "f07_46.0s.jpg",
-        "f08_57.4s.jpg",
-        "f09_68.9s.jpg"
-      ],
-      "transcript": "조선에 온 외국인들은 조선 여인들을 보고 다들 놀랐습니다. 고봉밥을 먹는데 허리가 잘록했거든요. 자기네 나라 귀부인들이 코르셋을 졸람해도 못 만든 허리선이었죠. 뭘 먹길래 그러냐고 물었습니다. 무슨 귀한 약초라도 있겠거니 했죠. 거꾸로였습니다. 답은 밥상이 아니라 디딜방하였습니다. 찐마다 있던 디딜방하여 곡식 찢는 집. 여인들은 매일 방화를 찌었는데 한 번 찌을 때마다 허리를 비틀어 온몸에 무게를 실었습니다. 그 집 여인들 허리가 동네에서 제일 잘록했죠. 그래서 방화 찢는 날이 아니어도 허리를 비틀어 본 거죠. 그랬더니 고봉밥을 그렇게 먹고도 허리선이 무너지질 않았습니다. 치마끈을 매면 저고리 아래로 허리가 쏙 들어갔고요. 그걸 본 외국인들은 조선 여인들 허리 이야기를 고국에 전했다고 합니다. 왜였을까요? 허리를 잡아주는 건 옆구리를 감싼 근육입니다. 그런데 하루 종일 쪼그려 앉아 일하면 이 근육은 쓸 일이 없어 풀어지고요. 풀어진 채로 하루 이틀 지나면 그게 두루뭉수란 허리가 됩니다. 귀부인들이 코르셋을 아무리 졸람해도 풀면 그대로 다시 퍼졌죠. 미치고 환장할 노릇입니다. 방화질은 풀어진 걸 조였습니다. 허리를 비틀 때마다 옆구리 근육이 쥐어짜듯 조여들거든요. 매일 조이니 허리선은 잘록하게 자리를 잡죠. 300년 전 조선 여인들은 원리는 몰라도 방법은 알고 있었던 거죠. 조선 여인들이 방화 앞에서 비틀던 잘록한 허리 비결 지금도 그대로 씁니다. 하루 10분 조선 여인의 300년 비결을 담은 트위스터 아쿠스터입니다.",
-      "analyzed": false,
-      "base": {},
-      "audio": {},
-      "visual": {},
-      "target": {},
-      "trust": {},
-      "one_liner": "",
-      "why": ""
-    },
-    {
       "key": "tw조선황진이Ⅰ_AI",
       "rank_note": "bottom",
-      "roas": 0.29,
-      "spend": 864329.0,
-      "ctr": 5.93,
-      "cvr": 0.29,
-      "cpa": 172866,
-      "purchases": 5.0,
+      "roas": 0.44,
+      "spend": 1081192.0,
+      "ctr": 3.33,
+      "cvr": 0.45,
+      "cpa": 119167,
+      "purchases": 9.072916,
       "platforms": [
+        "google",
         "meta"
       ],
       "platform_metrics": {
+        "google": {
+          "spend": 216863.0,
+          "revenue": 147812.0,
+          "roas": 0.68,
+          "ctr": 0.87,
+          "cvr": 1.13,
+          "cpa": 70572,
+          "purchases": 3.072916,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 26.0,
+          "completion": 6.1,
+          "ret_curve": [
+            100.0,
+            28.9,
+            25.9,
+            17.8,
+            6.2
+          ]
+        },
         "meta": {
           "spend": 864329.0,
-          "revenue": 253400.0,
-          "roas": 0.29,
+          "revenue": 331200.0,
+          "roas": 0.38,
           "ctr": 5.93,
-          "cvr": 0.29,
-          "cpa": 172866,
-          "purchases": 5.0,
+          "cvr": 0.34,
+          "cpa": 144055,
+          "purchases": 6.0,
           "hook_rate": 78.8,
           "hold_rate": 37.2,
           "play50": null,
-          "completion": null
+          "completion": null,
+          "ret_curve": [
+            100,
+            93,
+            85,
+            81,
+            71,
+            64,
+            56,
+            47,
+            42,
+            39,
+            37,
+            35,
+            34,
+            32,
+            31,
+            30,
+            28,
+            27,
+            25,
+            22,
+            16,
+            11
+          ]
         }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 6,
+        "imp_total": 29439,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 639
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 397
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 25
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 1,
+            "imp": 1407
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 538
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 15
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 2,
+            "imp": 5311
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 482
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 27
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 3,
+            "imp": 10408
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1194
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 52
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 6795
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1001
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 55
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 750
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 337
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 6
+          }
+        ]
       },
       "frames": [
         "f00_0.3s.jpg",
@@ -1955,6 +3689,204 @@
         "f09_56.4s.jpg"
       ],
       "transcript": "걸어가는 뒷모습만으로 조선을 들썩이게 한 여인이 있습니다. 황진입니다. 30년을 병만 보고 수행한 스님도 그 자태 앞에서 무너졌다고 하죠. 하지만 기생으로 살며 가녀린 허리를 유지하기는 사실상 불가능에 가깝습니다. 밤마다 술상, 새벽까지 앉아서 이어지는 연회. 그런데도 황진이는 고운 자태를 유지하고 있었습니다. 비단허리띠로 졸람했을까요? 아닙니다. 비밀은 술상이 끝난 뒤에 시작됐거든요. 연회의 마지막은 늘 기생의 춤이었습니다. 조선 춤은 팔이 아니라 허리로 춥니다. 한 번 돌 때마다 허리를 비틀어 몸을 감아 올리죠. 기생이라면 누구나 추는 춤이었지만 황진이는 달랐습니다. 스스로를 송도의 세 가지 명물로 꼽을 만큼 무엇 하나 대충 넘기는 법이 없었죠. 연회가 끝난 밤에도 한 동작이 마음에 찰 때까지 허리를 비틀고 또 비틀었습니다. 500년이 지나도 전해지는 황진이의 자태는 타고난 것이 아니라 황진이가 매일 밤 빚어낸 것이었죠. 허리를 비틀 때마다 옆구리를 감싼 근육이 쥐어자듯 조여들고 거듭되는 몸짓 속에서 허리선이 잔룩하게 자리를 잡거든요. 그러니 밤새 술상 앞에 앉아 있어도 버들허리가 될 수밖에요. 이름도 원리도 몰랐지만 황진이의 허리가 얇을 수밖에 없던 이유는 분명했습니다. 500년 전 조선 최고 미녀 황진이가 비틀던 원리 그대로 잔룩한 허리를 만들어낼 수 있는 기술을 담은 트위스터 아쿠스터드입니다.",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "tw경락언박싱Ⅷ_AI",
+      "rank_note": "bottom",
+      "roas": 0.3,
+      "spend": 627690.0,
+      "ctr": 4.29,
+      "cvr": 0.35,
+      "cpa": 158839,
+      "purchases": 3.951742,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 33301.0,
+          "revenue": 46540.0,
+          "roas": 1.4,
+          "ctr": 0.82,
+          "cvr": 2.64,
+          "cpa": 34990,
+          "purchases": 0.951742,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 45.5,
+          "completion": 38.9,
+          "ret_curve": [
+            100.0,
+            52.0,
+            45.5,
+            41.4,
+            38.9
+          ]
+        },
+        "meta": {
+          "spend": 594389.0,
+          "revenue": 142700.0,
+          "roas": 0.24,
+          "ctr": 4.98,
+          "cvr": 0.28,
+          "cpa": 198130,
+          "purchases": 3.0,
+          "hook_rate": 59.3,
+          "hold_rate": 52.7,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            88,
+            72,
+            61,
+            55,
+            52,
+            48,
+            43,
+            40,
+            38,
+            37,
+            36,
+            35,
+            34,
+            33,
+            34,
+            24,
+            20,
+            17,
+            7,
+            0,
+            0
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 3,
+        "imp_total": 21788,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 724
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 452
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1529
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 739
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 17
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 2,
+            "imp": 3822
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 599
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 10
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 6974
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1190
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 48
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 4030
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 809
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 13
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 1,
+            "imp": 521
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 308
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          }
+        ]
+      },
+      "frames": [],
+      "transcript": "",
       "analyzed": false,
       "base": {},
       "audio": {},
