@@ -156,24 +156,48 @@ function demoBlock(c){
 
 // 📉 시청 유지 곡선
 const RETCOL={meta:'#8e7bef',tiktok:'#f24d7a',google:'#4a9ee0'};
-function sparkline(cv,color){
-  const n=cv.length,W=210,H=44,p=3,clamp=v=>Math.max(0,Math.min(100,v));
-  const pts=cv.map((v,i)=>[p+(W-2*p)*i/(n-1),p+(H-2*p)*(1-clamp(v)/100)]);
-  const ln=pts.map((q,i)=>(i?'L':'M')+q[0].toFixed(1)+' '+q[1].toFixed(1)).join(' ');
-  const ar=`M${p} ${H-p} `+pts.map(q=>'L'+q[0].toFixed(1)+' '+q[1].toFixed(1)).join(' ')+` L${W-p} ${H-p} Z`;
-  return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="flex-shrink:0"><path d="${ar}" fill="${color}" fill-opacity="0.13"/><path d="${ln}" fill="none" stroke="${color}" stroke-width="2"/></svg>`;
+const _sec=s=>s==null?'':(s<10?(Math.round(s*10)/10):Math.round(s))+'초';
+// 유지율이 50%로 떨어지는 시점(초). 곡선 인덱스=영상 진행 비율(균등). 선형보간.
+function cross50(cv,dur){
+  if(!dur)return null; const n=cv.length-1;
+  for(let i=1;i<cv.length;i++){
+    if(cv[i]<50){const t=(cv[i-1]-50)/((cv[i-1]-cv[i])||1);
+      return ((i-1)+t)/n*dur;}
+  }
+  return null;  // 끝까지 50% 이상 유지
 }
+function sparkline(cv,color,dur){
+  const n=cv.length,W=250,H=56,pL=4,pR=4,pT=4,aH=14,plotH=H-pT-aH,clamp=v=>Math.max(0,Math.min(100,v));
+  const X=i=>pL+(W-pL-pR)*i/(n-1), Y=v=>pT+plotH*(1-clamp(v)/100);
+  const pts=cv.map((v,i)=>[X(i),Y(v)]);
+  const ln=pts.map((q,i)=>(i?'L':'M')+q[0].toFixed(1)+' '+q[1].toFixed(1)).join(' ');
+  const ar=`M${pL} ${pT+plotH} `+pts.map(q=>'L'+q[0].toFixed(1)+' '+q[1].toFixed(1)).join(' ')+` L${W-pR} ${pT+plotH} Z`;
+  const ticks=dur?[[0,'0s'],[.25,_s(dur*.25)],[.5,_s(dur*.5)],[.75,_s(dur*.75)],[1,_s(dur)]]
+                 :[[0,'0%'],[.5,'50%'],[1,'100%']];
+  const tk=ticks.map(([f,lbl])=>{const x=pL+(W-pL-pR)*f;
+    return `<line x1="${x}" y1="${pT+plotH}" x2="${x}" y2="${pT+plotH+3}" stroke="var(--tx2)" stroke-width="1" opacity="0.5"/>`
+      +`<text x="${x}" y="${H-3}" fill="var(--tx2)" font-size="9" text-anchor="${f===0?'start':f===1?'end':'middle'}">${lbl}</text>`;}).join('');
+  const y50=Y(50);
+  return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="flex-shrink:0">
+    <line x1="${pL}" y1="${y50}" x2="${W-pR}" y2="${y50}" stroke="${color}" stroke-opacity="0.3" stroke-dasharray="3 3"/>
+    <path d="${ar}" fill="${color}" fill-opacity="0.13"/><path d="${ln}" fill="none" stroke="${color}" stroke-width="2"/>${tk}</svg>`;
+}
+const _s=s=>s<10?(Math.round(s*10)/10)+'s':Math.round(s)+'s';
 function retBlock(c){
-  const pm=c.platform_metrics||{};
+  const pm=c.platform_metrics||{}, dur=c.duration||null;
   const has=['meta','tiktok','google'].filter(k=>pm[k]&&(pm[k].ret_curve||[]).length>1);
   if(!has.length)return '';
   const row=k=>{const cv=pm[k].ret_curve,full=cv.length>6,at=f=>Math.round(cv[Math.round((cv.length-1)*f)]);
-    const note=full?`중반 ${at(0.5)}% · 끝 ${at(1)}%`:`50% ${Math.round(cv[2])}% · 완주 ${Math.round(cv[4])}%`;
+    const c50=cross50(cv,dur);
+    const where=dur?(c50!=null?`유지50% <b>${_sec(c50)}</b>차`:'유지50% 끝까지'):'';
+    const tail=full?`끝 ${at(1)}%`:`완주 ${Math.round(cv[4])}%`;
+    const note=[full?'실측':'사분위 근사',where,tail].filter(Boolean).join(' · ');
     return `<div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
-      <b style="font-size:11px;width:30px">${PLN[k]}</b>${sparkline(cv,RETCOL[k])}
-      <span style="font-size:10.5px;color:var(--tx2)">${full?'실측':'사분위 근사'} · ${note}</span></div>`;};
-  return `<div class="tg"><h4>📉 시청 유지 곡선</h4>${has.map(row).join('')}
-    <div style="font-size:10.5px;color:var(--tx2)">세로=재생 유지율(%)·가로=영상 진행. 메타=22포인트 실측, 틱톡·구글=25/50/75/100% 사분위 근사.</div></div>`;
+      <b style="font-size:11px;width:30px;flex-shrink:0">${PLN[k]}</b>${sparkline(cv,RETCOL[k],dur)}
+      <span style="font-size:10.5px;color:var(--tx2)">${note}</span></div>`;};
+  const durLbl=dur?` <span style="font-size:10.5px;font-weight:400;color:var(--tx2)">· 영상 ${_sec(dur)}</span>`:'';
+  return `<div class="tg"><h4>📉 시청 유지 곡선${durLbl}</h4>${has.map(row).join('')}
+    <div style="font-size:10.5px;color:var(--tx2)">세로=유지율(%)·가로=초(점선=유지율 50%). 메타=22포인트 실측, 틱톡·구글=25/50/75/100% 사분위라 꺾은선 근사${dur?'·초수는 영상 길이 기준 환산':''}.</div></div>`;
 }
 
 function detailHTML(c){

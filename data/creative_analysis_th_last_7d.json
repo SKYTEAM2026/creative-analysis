@@ -63,6 +63,7 @@
         }
       },
       "demo": null,
+      "duration": 46.8,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -290,6 +291,7 @@
           }
         ]
       },
+      "duration": 36.4,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -380,6 +382,7 @@
         }
       },
       "demo": null,
+      "duration": 49.4,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -504,6 +507,7 @@
         }
       },
       "demo": null,
+      "duration": 34.3,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -726,6 +730,7 @@
           }
         ]
       },
+      "duration": 42.6,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -804,6 +809,7 @@
         }
       },
       "demo": null,
+      "duration": 43.2,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -1043,6 +1049,7 @@
           }
         ]
       },
+      "duration": 58.3,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -1271,6 +1278,7 @@
           }
         ]
       },
+      "duration": 43.9,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -1493,6 +1501,7 @@
           }
         ]
       },
+      "duration": 82.7,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -1580,6 +1589,7 @@
         }
       },
       "demo": null,
+      "duration": 43.9,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -1671,6 +1681,7 @@
         }
       },
       "demo": null,
+      "duration": 46.6,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -1758,6 +1769,7 @@
         }
       },
       "demo": null,
+      "duration": 46.6,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -1982,6 +1994,7 @@
           }
         ]
       },
+      "duration": null,
       "frames": [],
       "transcript": "",
       "analyzed": false,
@@ -2207,6 +2220,7 @@
           }
         ]
       },
+      "duration": 56.2,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -2437,6 +2451,7 @@
           }
         ]
       },
+      "duration": null,
       "frames": [],
       "transcript": "",
       "analyzed": false,
@@ -2641,6 +2656,7 @@
           }
         ]
       },
+      "duration": 64.8,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -2883,6 +2899,7 @@
           }
         ]
       },
+      "duration": null,
       "frames": [],
       "transcript": "",
       "analyzed": false,
@@ -2929,6 +2946,7 @@
         }
       },
       "demo": null,
+      "duration": 43.9,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -3151,6 +3169,7 @@
           }
         ]
       },
+      "duration": 45.0,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -3238,6 +3257,7 @@
         }
       },
       "demo": null,
+      "duration": null,
       "frames": [],
       "transcript": "",
       "analyzed": false,
@@ -3421,6 +3441,7 @@
           }
         ]
       },
+      "duration": 55.8,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -3675,6 +3696,7 @@
           }
         ]
       },
+      "duration": 45.4,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -3753,6 +3775,7 @@
         }
       },
       "demo": null,
+      "duration": 64.7,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -3860,6 +3883,7 @@
         }
       },
       "demo": null,
+      "duration": 39.5,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -4081,6 +4105,7 @@
           }
         ]
       },
+      "duration": 45.4,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -4299,6 +4324,7 @@
           }
         ]
       },
+      "duration": 47.9,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -4550,6 +4576,7 @@
           }
         ]
       },
+      "duration": 80.1,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -4738,6 +4765,7 @@
           }
         ]
       },
+      "duration": null,
       "frames": [],
       "transcript": "",
       "analyzed": false,
@@ -4915,6 +4943,7 @@
           }
         ]
       },
+      "duration": 44.9,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -5134,6 +5163,7 @@
           }
         ]
       },
+      "duration": 30.4,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
@@ -5358,6 +5388,7 @@
           }
         ]
       },
+      "duration": null,
       "frames": [],
       "transcript": "",
       "analyzed": false,
@@ -5547,6 +5578,7 @@
           }
         ]
       },
+      "duration": 81.4,
       "frames": [
         "f00_0.3s.jpg",
         "f01_1.0s.jpg",
