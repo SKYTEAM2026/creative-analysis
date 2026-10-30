@@ -112,7 +112,7 @@
 const fCur=n=>n==null?'–':'₩'+Math.round(n).toLocaleString();
 const roasColor=r=>(r==null?'#555':(r>=2?'var(--good)':'var(--bad)'));
 function badges(pl){return (pl||[]).map(p=>`<span class="badge b-${p}">${{google:'G',tiktok:'TT',meta:'M'}[p]||p}</span>`).join('')}
-let DATA=null, curView='overall';
+let DATA=null, curView='overall', SCRUB={};
 const VIEWS=[['overall','통합'],['meta','메타'],['tiktok','틱톡'],['google','구글']];
 const vRoas=c=>curView==='overall'?c.roas:(c.platform_metrics&&c.platform_metrics[curView]?c.platform_metrics[curView].roas:null);
 const vSpend=c=>curView==='overall'?c.spend:(c.platform_metrics&&c.platform_metrics[curView]?c.platform_metrics[curView].spend:0);
@@ -190,38 +190,54 @@ function cross50(cv,dur){
   }
   return null;  // 끝까지 50% 이상 유지
 }
-function sparkline(cv,color,dur){
-  const n=cv.length,W=250,H=56,pL=4,pR=4,pT=4,aH=14,plotH=H-pT-aH,clamp=v=>Math.max(0,Math.min(100,v));
-  const X=i=>pL+(W-pL-pR)*i/(n-1), Y=v=>pT+plotH*(1-clamp(v)/100);
-  const pts=cv.map((v,i)=>[X(i),Y(v)]);
-  const ln=pts.map((q,i)=>(i?'L':'M')+q[0].toFixed(1)+' '+q[1].toFixed(1)).join(' ');
-  const ar=`M${pL} ${pT+plotH} `+pts.map(q=>'L'+q[0].toFixed(1)+' '+q[1].toFixed(1)).join(' ')+` L${W-pR} ${pT+plotH} Z`;
-  const ticks=dur?[[0,'0s'],[.25,_s(dur*.25)],[.5,_s(dur*.5)],[.75,_s(dur*.75)],[1,_s(dur)]]
-                 :[[0,'0%'],[.5,'50%'],[1,'100%']];
-  const tk=ticks.map(([f,lbl])=>{const x=pL+(W-pL-pR)*f;
-    return `<line x1="${x}" y1="${pT+plotH}" x2="${x}" y2="${pT+plotH+3}" stroke="var(--tx2)" stroke-width="1" opacity="0.5"/>`
-      +`<text x="${x}" y="${H-3}" fill="var(--tx2)" font-size="9" text-anchor="${f===0?'start':f===1?'end':'middle'}">${lbl}</text>`;}).join('');
-  const y50=Y(50);
-  return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="flex-shrink:0">
-    <line x1="${pL}" y1="${y50}" x2="${W-pR}" y2="${y50}" stroke="${color}" stroke-opacity="0.3" stroke-dasharray="3 3"/>
-    <path d="${ar}" fill="${color}" fill-opacity="0.13"/><path d="${ln}" fill="none" stroke="${color}" stroke-width="2"/>${tk}</svg>`;
+function interp(cv,frac){const n=cv.length-1,p=Math.max(0,Math.min(n,frac*n)),i=Math.floor(p),f=p-i;return i>=n?cv[n]:cv[i]+(cv[i+1]-cv[i])*f;}
+function nearestFrame(ft,sec){let bi=0,bd=1e9;ft.forEach((t,i)=>{const d=Math.abs(t-sec);if(d<bd){bd=d;bi=i;}});return bi;}
+// 곡선 위를 짚으면 그 초의 유지율 + 그 순간 키프레임 표시
+function scrubAt(key,frac){
+  const s=SCRUB[key]; if(!s)return;
+  const V=s.geo; frac=Math.max(0,Math.min(1,frac));
+  const lx=V.PADL+V.plotW*frac, sec=s.dur?frac*s.dur:null;
+  const sl=document.getElementById('sl_'+key); if(sl){sl.setAttribute('x1',lx);sl.setAttribute('x2',lx);sl.style.opacity=1;}
+  const parts=[]; ['meta','tiktok','google'].forEach(k=>{if(s.curves[k])parts.push(`<span style="color:${RETCOL[k]}">${PLN[k]} <b>${Math.round(interp(s.curves[k],frac))}%</b></span>`);});
+  const rd=document.getElementById('rd_'+key);
+  if(rd)rd.innerHTML=(sec!=null?`⏱ <b>${_sec(sec)}</b> · `:'')+parts.join(' · ');
+  if(s.dur&&s.ft.length&&s.frames.length){const bi=nearestFrame(s.ft,sec);
+    const img=document.getElementById('kf_'+key), cap=document.getElementById('kc_'+key);
+    if(img&&s.frames[bi]){img.src=s.dir+s.frames[bi];img.style.visibility='visible';}
+    if(cap)cap.textContent=`${s.ft[bi].toFixed(1)}초 장면`;}
 }
-const _s=s=>s<10?(Math.round(s*10)/10)+'s':Math.round(s)+'s';
+function scrubMove(e,key){const s=SCRUB[key];if(!s)return;const svg=document.getElementById('cv_'+key),r=svg.getBoundingClientRect();
+  const x=(e.clientX-r.left)*(s.geo.VB_W/r.width);scrubAt(key,(x-s.geo.PADL)/s.geo.plotW);}
 function retBlock(c){
-  const pm=c.platform_metrics||{}, dur=c.duration||null;
-  const has=['meta','tiktok','google'].filter(k=>pm[k]&&(pm[k].ret_curve||[]).length>1);
-  if(!has.length)return '';
-  const row=k=>{const cv=pm[k].ret_curve,full=cv.length>6,at=f=>Math.round(cv[Math.round((cv.length-1)*f)]);
-    const c50=cross50(cv,dur);
-    const where=dur?(c50!=null?`유지50% <b>${_sec(c50)}</b>차`:'유지50% 끝까지'):'';
-    const tail=full?`끝 ${at(1)}%`:`완주 ${Math.round(cv[4])}%`;
-    const note=[full?'실측':'사분위 근사',where,tail].filter(Boolean).join(' · ');
-    return `<div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
-      <b style="font-size:11px;width:30px;flex-shrink:0">${PLN[k]}</b>${sparkline(cv,RETCOL[k],dur)}
-      <span style="font-size:10.5px;color:var(--tx2)">${note}</span></div>`;};
-  const durLbl=dur?` <span style="font-size:10.5px;font-weight:400;color:var(--tx2)">· 영상 ${_sec(dur)}</span>`:'';
-  return `<div class="tg"><h4>📉 시청 유지 곡선${durLbl}</h4>${has.map(row).join('')}
-    <div style="font-size:10.5px;color:var(--tx2)">세로=유지율(%)·가로=초(점선=유지율 50%). 메타=22포인트 실측, 틱톡·구글=25/50/75/100% 사분위라 꺾은선 근사${dur?'·초수는 영상 길이 기준 환산':''}.</div></div>`;
+  const pm=c.platform_metrics||{}, dur=c.duration||null, key=c.key;
+  const curves={}; ['meta','tiktok','google'].forEach(k=>{if(pm[k]&&(pm[k].ret_curve||[]).length>1)curves[k]=pm[k].ret_curve;});
+  const ks=Object.keys(curves); if(!ks.length)return '';
+  const VB_W=460,VB_H=148,PADL=32,PADR=8,PADT=10,PLOTB=118,plotH=PLOTB-PADT,plotW=VB_W-PADL-PADR;
+  const X=f=>PADL+plotW*f, Y=v=>PADT+plotH*(1-Math.max(0,Math.min(100,v))/100);
+  SCRUB[key]={dur,curves,geo:{VB_W,PADL,plotW},frames:c.frames||[],ft:c.frame_times||[],dir:`analysis/${key}/`};
+  let g=''; [25,50,75,100].forEach(v=>{const y=Y(v);g+=`<line x1="${PADL}" y1="${y}" x2="${VB_W-PADR}" y2="${y}" stroke="var(--bd)" stroke-dasharray="${v===50?'4 3':'2 4'}" opacity="${v===50?0.7:0.35}"/><text x="${PADL-3}" y="${y+3}" text-anchor="end" font-size="8" fill="var(--tx2)">${v}</text>`;});
+  let xt=''; if(dur){const step=dur<=20?5:dur<=70?10:20;for(let s=0;s<=dur+0.1;s+=step){const x=X(s/dur);xt+=`<line x1="${x}" y1="${PADT}" x2="${x}" y2="${PLOTB}" stroke="var(--bd)" opacity="0.16"/><line x1="${x}" y1="${PLOTB}" x2="${x}" y2="${PLOTB+3}" stroke="var(--tx2)" opacity="0.5"/><text x="${x}" y="${PLOTB+13}" text-anchor="middle" font-size="8" fill="var(--tx2)">${Math.round(s)}s</text>`;}}
+  let lines=''; ks.forEach(k=>{const cv=curves[k],n=cv.length;const d=cv.map((v,i)=>(i?'L':'M')+X(i/(n-1)).toFixed(1)+' '+Y(v).toFixed(1)).join(' ');lines+=`<path d="${d}" fill="none" stroke="${RETCOL[k]}" stroke-width="${k==='meta'?2.2:1.5}" opacity="${k==='meta'?1:0.8}"/>`;});
+  const sl=`<line id="sl_${key}" x1="${PADL}" y1="${PADT}" x2="${PADL}" y2="${PLOTB}" stroke="#fff" stroke-width="1" opacity="0"/>`;
+  const hit=`<rect x="${PADL}" y="${PADT}" width="${plotW}" height="${plotH}" fill="transparent" style="cursor:crosshair" onmousemove="scrubMove(event,'${key}')"/>`;
+  const svg=`<svg id="cv_${key}" viewBox="0 0 ${VB_W} ${VB_H}" style="width:100%;height:auto;min-width:230px">${g}${xt}${lines}${sl}${hit}</svg>`;
+  const mcv=curves.meta||curves[ks[0]], c50=cross50(mcv,dur), sec0=(c50!=null?c50:(dur?dur*0.5:0));
+  const bi=(dur&&(c.frame_times||[]).length)?nearestFrame(c.frame_times,sec0):0;
+  const dir=`analysis/${key}/`;
+  const kf=(c.frames||[]).length?`<figure style="margin:0;width:118px;flex-shrink:0"><img id="kf_${key}" src="${dir}${c.frames[bi]}" style="width:118px;border-radius:6px;display:block;background:#000" onerror="this.style.visibility='hidden'"><figcaption id="kc_${key}" style="font-size:10px;color:var(--tx2);text-align:center;margin-top:2px">${(c.frame_times||[])[bi]!=null?c.frame_times[bi].toFixed(1)+'초 장면':''}</figcaption></figure>`:'';
+  const leg=ks.map(k=>`<span style="color:${RETCOL[k]}">■</span> ${PLN[k]}`).join('&nbsp; ');
+  const notes=ks.map(k=>{const cv=curves[k],full=cv.length>6,cc=cross50(cv,dur);
+    return `${PLN[k]} ${full?'실측':'근사'}${dur?(cc!=null?` 유지50%&nbsp;${_sec(cc)}`:' 유지50%&nbsp;끝까지'):''}`;}).join(' · ');
+  const durLbl=dur?`영상 ${_sec(dur)} · `:'';
+  const init=dur&&c50!=null?`⏱ <b>${_sec(sec0)}</b> 부근에서 절반 이탈 — 곡선을 짚어 초별 확인`:'곡선을 짚으면 그 초의 유지율·장면이 나와요';
+  return `<div class="tg"><h4>📉 시청 유지 곡선 <span style="font-size:10.5px;font-weight:400;color:var(--tx2)">· ${durLbl}곡선 짚으면 그 순간 장면</span></h4>
+    <div style="display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap;margin-bottom:4px">
+      ${kf}
+      <div style="flex:1;min-width:230px">
+        <div id="rd_${key}" style="font-size:11.5px;margin-bottom:3px;min-height:16px;color:var(--tx)">${init}</div>
+        ${svg}</div></div>
+    <div style="font-size:10.5px;color:var(--tx2)">${leg} &nbsp;·&nbsp; ${notes}</div>
+    <div style="font-size:10.5px;color:var(--tx2);margin-top:2px">세로=유지율(%)·가로=초(점선=50%). 메타=22포인트 실측, 틱톡·구글=4지점 사분위 근사. 장면은 초반 3초+이후 약 10초 간격 키프레임(더 촘촘히=J:마운트 후 재추출).</div></div>`;
 }
 
 function detailHTML(c){
