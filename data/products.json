@@ -145,6 +145,41 @@
         "last_30d",
         "last_90d"
       ]
+    },
+    {
+      "code": "be",
+      "product": "벨로컷",
+      "files": {
+        "last_14d": "creative_analysis_be_last_14d.json",
+        "last_30d": "creative_analysis_be_last_30d.json",
+        "last_7d": "creative_analysis_be_last_7d.json",
+        "last_90d": "creative_analysis_be_last_90d.json"
+      },
+      "counts": {
+        "last_14d": {
+          "n": 8,
+          "analyzed": 0
+        },
+        "last_30d": {
+          "n": 8,
+          "analyzed": 0
+        },
+        "last_7d": {
+          "n": 8,
+          "analyzed": 0
+        },
+        "last_90d": {
+          "n": 8,
+          "analyzed": 0
+        }
+      },
+      "generated": "2026-11-04",
+      "ranges": [
+        "last_7d",
+        "last_14d",
+        "last_30d",
+        "last_90d"
+      ]
     }
   ]
 }
