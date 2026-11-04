@@ -158,19 +158,19 @@
       "counts": {
         "last_14d": {
           "n": 8,
-          "analyzed": 0
+          "analyzed": 8
         },
         "last_30d": {
           "n": 8,
-          "analyzed": 0
+          "analyzed": 8
         },
         "last_7d": {
           "n": 8,
-          "analyzed": 0
+          "analyzed": 8
         },
         "last_90d": {
           "n": 8,
-          "analyzed": 0
+          "analyzed": 8
         }
       },
       "generated": "2026-11-04",
