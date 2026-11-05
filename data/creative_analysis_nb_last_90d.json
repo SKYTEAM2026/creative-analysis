@@ -80,7 +80,133 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 79,
+        "imp_total": 268124,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 6,
+            "imp": 24175
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 3,
+            "imp": 27509
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 496
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 15,
+            "imp": 43290
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 6,
+            "imp": 34332
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 432
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 20,
+            "imp": 36242
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 5,
+            "imp": 20265
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 189
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 12,
+            "imp": 27731
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 5,
+            "imp": 19374
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 194
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 4,
+            "imp": 12617
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 3,
+            "imp": 12865
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 87
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 3614
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 4646
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 47
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 10
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 9
+          }
+        ]
+      },
       "duration": 39.6,
       "frames": [
         "f00_0.1s.jpg",
@@ -234,7 +360,139 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 48,
+        "imp_total": 121624,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 3,
+            "imp": 16347
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 1,
+            "imp": 8142
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 230
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 22,
+            "imp": 35325
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 2,
+            "imp": 9296
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 153
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 4,
+            "imp": 14808
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 4,
+            "imp": 5379
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 88
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 5,
+            "imp": 10701
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 7064
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 100
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 4712
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 2,
+            "imp": 6001
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 42
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1301
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 2,
+            "imp": 1903
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 29
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 3,
+            "imp": 0
+          }
+        ]
+      },
       "duration": 33.8,
       "frames": [
         "f00_0.1s.jpg",
@@ -388,7 +646,133 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 58,
+        "imp_total": 172945,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 4,
+            "imp": 13867
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 3,
+            "imp": 11409
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 254
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 13,
+            "imp": 40551
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 5,
+            "imp": 14210
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 222
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 13,
+            "imp": 24517
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 4,
+            "imp": 10074
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 136
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 10,
+            "imp": 19258
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 2,
+            "imp": 12829
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 135
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 2,
+            "imp": 9169
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 1,
+            "imp": 10383
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 72
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2354
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3451
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 48
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3
+          }
+        ]
+      },
       "duration": 48.0,
       "frames": [
         "f00_0.1s.jpg",
@@ -543,7 +927,139 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 213,
+        "imp_total": 694526,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 10,
+            "imp": 34467
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 6,
+            "imp": 17782
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 290
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 103,
+            "imp": 365483
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 37,
+            "imp": 138791
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1079
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 29,
+            "imp": 58069
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 7,
+            "imp": 30617
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 182
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 11,
+            "imp": 15480
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 5,
+            "imp": 11362
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 102
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 3,
+            "imp": 7642
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 8270
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 55
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2094
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2704
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 31
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 22
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 2,
+            "imp": 0
+          }
+        ]
+      },
       "duration": 56.8,
       "frames": [
         "f00_0.1s.jpg",
@@ -696,7 +1212,139 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 704,
+        "imp_total": 1622581,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 35,
+            "imp": 90000
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 9,
+            "imp": 43953
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 1999
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 167,
+            "imp": 368544
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 36,
+            "imp": 83949
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 2,
+            "imp": 2585
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 189,
+            "imp": 336727
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 32,
+            "imp": 90108
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 2256
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 136,
+            "imp": 252406
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 33,
+            "imp": 113403
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2728
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 34,
+            "imp": 100944
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 21,
+            "imp": 87183
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1320
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 4,
+            "imp": 17407
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 3,
+            "imp": 26775
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 266
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 21
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 6
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 1
+          }
+        ]
+      },
       "duration": 57.7,
       "frames": [
         "f00_0.1s.jpg",
@@ -849,7 +1497,139 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 374,
+        "imp_total": 907728,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 36,
+            "imp": 151508
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 2,
+            "imp": 14900
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1080
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 192,
+            "imp": 501542
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 10,
+            "imp": 28043
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1773
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 81,
+            "imp": 120805
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 4,
+            "imp": 10359
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 461
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 34,
+            "imp": 46910
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 4,
+            "imp": 8781
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 258
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 9,
+            "imp": 10689
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 6062
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 53
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2564
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1866
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 37
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 34
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 0
+          }
+        ]
+      },
       "duration": 71.6,
       "frames": [
         "f00_0.1s.jpg",
@@ -1004,7 +1784,139 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 113,
+        "imp_total": 189964,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 11,
+            "imp": 19226
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3286
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 204
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 47,
+            "imp": 87191
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 2,
+            "imp": 7637
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 279
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 29,
+            "imp": 41167
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2835
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 157
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 13,
+            "imp": 19348
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 2,
+            "imp": 2193
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 122
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 5,
+            "imp": 4282
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1031
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 14
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 1,
+            "imp": 650
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 322
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 10
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 7
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 2,
+            "imp": 0
+          }
+        ]
+      },
       "duration": 41.9,
       "frames": [
         "f00_0.1s.jpg",
@@ -1097,7 +2009,7 @@
         "discount": "반타작 특가",
         "compliance": "⚠ 지흡 대체 표현"
       },
-      "one_liner": "'사라진대'는 희소성 + '지흡 1/100 가격' 앵커링으로 특가를 민다. 뉴베로 오퍼형 상위(2.63).",
+      "one_liner": "'사라진대'는 희소성 + '지흡 1/100 가격' 앵커링으로 특가를 민다.",
       "why": "희소성+가격 앵커. 오퍼 전환형."
     },
     {
@@ -1155,7 +2067,127 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 49,
+        "imp_total": 88860,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 1,
+            "imp": 4983
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2727
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 56
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 6,
+            "imp": 18433
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 4472
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 105
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 17,
+            "imp": 21102
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 2,
+            "imp": 3966
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 96
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 18,
+            "imp": 19090
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3930
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 119
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 2,
+            "imp": 5560
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2581
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 26
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 1,
+            "imp": 866
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 740
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 7
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1
+          }
+        ]
+      },
       "duration": 65.3,
       "frames": [
         "f00_0.1s.jpg",
@@ -1250,7 +2282,7 @@
         "discount": "3일 역대급 할인",
         "compliance": "양호"
       },
-      "one_liner": "'특가 당첨'이라는 상황극 + '마동석 팔뚝→뼈말라' 비포애프터로 재미와 오퍼를 결합(2.6).",
+      "one_liner": "'특가 당첨'이라는 상황극 + '마동석 팔뚝→뼈말라' 비포애프터로 재미와 오퍼를 결합.",
       "why": "상황극 오퍼 + 극적 비포애프터."
     },
     {
@@ -1308,7 +2340,121 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 47,
+        "imp_total": 179025,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 1,
+            "imp": 4987
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3535
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 142
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 5,
+            "imp": 17276
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 7698
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 263
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 10,
+            "imp": 20046
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 1,
+            "imp": 8372
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 243
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 15,
+            "imp": 33380
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 2,
+            "imp": 21743
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 362
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 6,
+            "imp": 22170
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 5,
+            "imp": 24808
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 307
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 2,
+            "imp": 4352
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 9251
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 90
+          }
+        ]
+      },
       "duration": 52.5,
       "frames": [
         "f00_0.1s.jpg",
@@ -1462,7 +2608,133 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 73,
+        "imp_total": 113994,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 1,
+            "imp": 4616
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 296
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 38
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 18,
+            "imp": 28616
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1446
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 97
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 21,
+            "imp": 35082
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1410
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 144
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 24,
+            "imp": 27198
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2030
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 1,
+            "imp": 175
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 4,
+            "imp": 9065
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2036
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 49
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 933
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 1,
+            "imp": 751
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 10
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 2,
+            "imp": 0
+          }
+        ]
+      },
       "duration": 36.6,
       "frames": [
         "f00_0.1s.jpg",
@@ -1558,7 +2830,7 @@
         "discount": "45%",
         "compliance": "⚠ '지방 독소가 쏟아져 나간다·유착된 지방을 빼낸다'는 근거 없는 효능 표현. '국내 유일·국가대표 공식'은 입증자료 필요"
       },
-      "one_liner": "메타 단독 지출 227만에 ROAS 1.51, CVR 2.35%로 뉴베로 풀에서는 상위지만 절대 수익성은 얇다.",
+      "one_liner": "'운동해도 굵어진다'는 좌절을 먼저 인정하고 원인을 재정의하는 자학 별명형 소재.",
       "why": "'운동해도 굵어진다'는 좌절 경험을 먼저 인정해주고 원인을 지방 유착으로 재정의하는 구조가 클릭·전환을 끌었다."
     },
     {
@@ -1616,7 +2888,139 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 89,
+        "imp_total": 231682,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 13,
+            "imp": 37572
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1770
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 187
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 39,
+            "imp": 121791
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 4,
+            "imp": 5867
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 445
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 16,
+            "imp": 45390
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 2,
+            "imp": 2225
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 160
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 11,
+            "imp": 12311
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 815
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 54
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 4,
+            "imp": 2109
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 326
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 11
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 509
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 111
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 10
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 16
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "Unknown",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1
+          }
+        ]
+      },
       "duration": 52.8,
       "frames": [
         "f00_0.1s.jpg",
@@ -1769,7 +3173,127 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 22,
+        "imp_total": 64089,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 2,
+            "imp": 3809
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 810
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 42
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 7,
+            "imp": 15220
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2176
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 100
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 2,
+            "imp": 11791
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2022
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 71
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 7,
+            "imp": 11041
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3993
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 82
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 2,
+            "imp": 5444
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 4886
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 33
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1022
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1536
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 8
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 3
+          }
+        ]
+      },
       "duration": 59.4,
       "frames": [
         "f00_0.1s.jpg",
@@ -1923,7 +3447,127 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 4,
+        "imp_total": 17111,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 480
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 384
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 30
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1563
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 680
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 11
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 2,
+            "imp": 2824
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1012
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 15
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 3921
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1828
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 31
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 2,
+            "imp": 1805
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1618
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 8
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 301
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 594
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2
+          }
+        ]
+      },
       "duration": 43.2,
       "frames": [
         "f00_0.1s.jpg",
@@ -2077,7 +3721,121 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 4,
+        "imp_total": 37524,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1517
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 890
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 34
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2018
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1231
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 16
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 3683
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1506
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 102
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 2,
+            "imp": 5632
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 4837
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 91
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 1,
+            "imp": 5333
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 6421
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 62
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1416
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2726
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 9
+          }
+        ]
+      },
       "duration": 45.7,
       "frames": [
         "f00_0.1s.jpg",
@@ -2231,7 +3989,133 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 24,
+        "imp_total": 81560,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 6415
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 481
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 35
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 10,
+            "imp": 38860
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2239
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 114
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 7,
+            "imp": 19030
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1045
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 63
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 6,
+            "imp": 9012
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 778
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 41
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2244
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 624
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 306
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 263
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 6
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1
+          }
+        ]
+      },
       "duration": 57.9,
       "frames": [
         "f00_0.1s.jpg",
@@ -2327,7 +4211,7 @@
         "discount": "한정 프로모션",
         "compliance": "⛔ '지방 분해·지방 세포 크기 축소·콜라겐 생성·시술급 효과·피부과 원장 사용' — 의료 시술 대체를 직접 주장. 등록 금지어 기준 차단 수준으로 카피 전면 수정 필요"
       },
-      "one_liner": "지출 306만에 ROAS 0.95로 사실상 본전 미만인데 풀 안에서는 상위로 잡혔다 — 뉴베로 전체 효율이 낮다는 뜻이지 이 소재가 잘 됐다는 뜻이 아니다.",
+      "one_liner": "'3일·2주' 즉효 약속으로 시선을 끌지만 기대를 과하게 올리고, 시술 대체 표현이 심의 리스크다.",
       "why": "'3일·2주' 즉효 약속이 기대를 과하게 올려 반품·낮은 회수로 이어질 소지가 있고, 시술 대체 표현은 심의 리스크가 커 증액 대상이 아니다."
     },
     {
@@ -2385,7 +4269,127 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 14,
+        "imp_total": 50327,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1709
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 611
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 26
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 3,
+            "imp": 10574
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1195
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 51
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 2,
+            "imp": 10097
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1339
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 90
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 5,
+            "imp": 11134
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 3128
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 71
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 2,
+            "imp": 5097
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3190
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 39
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 974
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 994
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 7
+          },
+          {
+            "age": "Unknown",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1
+          }
+        ]
+      },
       "duration": 50.2,
       "frames": [
         "f00_0.1s.jpg",
@@ -2481,7 +4485,7 @@
         "discount": "–",
         "compliance": "⚠ '87% 집중 분해', '2주면 직각 어깨 성공률 100%' — 수치·확률 단정 과장"
       },
-      "one_liner": "지출 217만에 ROAS 0.8로 뉴베로 중 최악. CTR 2.98은 나쁘지 않아 훅은 통했는데, 약속한 결과(직각 어깨)와 실제 제품(팔뚝 밴드)의 거리가 멀다.",
+      "one_liner": "통념 반박 훅은 통하지만, 약속한 결과(직각 어깨)와 실제 제품(팔뚝 밴드)의 거리가 멀다.",
       "why": "'직각 어깨' 훅으로 데려온 기대와 팔뚝 지방 분해라는 실제 효익이 어긋난다. 클릭은 오지만 상세페이지에서 납득이 안 돼 이탈."
     },
     {
@@ -2539,7 +4543,121 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 3,
+        "imp_total": 22784,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 597
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 262
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2479
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 757
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 11
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 2,
+            "imp": 3592
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 983
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 23
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 1,
+            "imp": 4806
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2281
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 63
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 2950
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2691
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 36
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 476
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 768
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 6
+          }
+        ]
+      },
       "duration": 46.5,
       "frames": [
         "f00_0.1s.jpg",
@@ -2635,7 +4753,7 @@
         "discount": "반값 할인 링크",
         "compliance": "⚠ '패배자의 인생' 등 비하 표현, 노화 지적 강함"
       },
-      "one_liner": "142만원에 ROAS 0.66. 해부 CG로 원리는 잘 보여주지만 인물이 없어 감정 이입 지점이 없고, CTR 2.97로 초반 흡인이 약했다.",
+      "one_liner": "해부 CG로 원리는 잘 보여주지만 인물이 없어 감정 이입 지점이 없고, 노력 부정과 노화 지적 프레임이 겹친다.",
       "why": "'헬스 3년 다녀도 소용없다'는 노력 부정 + 노화 지적 조합은 이 계정에서 반복적으로 저성과를 냈다(노화 지적 프레임 = 전환 하락). 원리 CG는 재활용하되 훅을 교체할 것."
     },
     {
@@ -2693,7 +4811,121 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 6,
+        "imp_total": 24132,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 745
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 198
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 10
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 2,
+            "imp": 3833
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 495
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 19
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 1,
+            "imp": 5259
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 562
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 30
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 1,
+            "imp": 6208
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 1306
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 24
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 1,
+            "imp": 2942
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1470
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 16
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 473
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 541
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1
+          }
+        ]
+      },
       "duration": 37.9,
       "frames": [
         "f00_0.1s.jpg",
@@ -2789,7 +5021,7 @@
         "discount": "8월 가격 인상 예고(희소성)",
         "compliance": "⛔ '인모드급', '주사바늘이 혈관 찾아 딱 붙이듯' — 시술·의료 비유. 수정 필요"
       },
-      "one_liner": "세 기간 모두 ROAS 0.37로 뉴베로 내에서도 최하위권이다. 116만원을 태워 구매 4건에 그쳤다.",
+      "one_liner": "문제 공감 없이 곧바로 명령과 전문샵 권위로 들어가 처음 보는 사람이 붙을 자리가 없다.",
       "why": "훅에 문제 공감이 없고 곧바로 명령·전문샵 권위로 들어가 콜드 트래픽이 붙지 않았다. 컴플라이언스 리스크까지 겹쳐 즉시 중단이 맞다."
     },
     {
@@ -2847,7 +5079,127 @@
           ]
         }
       },
-      "demo": null,
+      "demo": {
+        "source": "meta",
+        "pur_total": 0,
+        "imp_total": 11290,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 29
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 178
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 105
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 772
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 7
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 145
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2233
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 217
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 4057
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 14
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 123
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 2881
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 11
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 504
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "Unknown",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1
+          }
+        ]
+      },
       "duration": 68.2,
       "frames": [
         "f00_0.1s.jpg",
@@ -2943,7 +5295,7 @@
         "discount": "–",
         "compliance": "⛔ 치료 효능 단정이 전면에 깔림: '통증 환자', '병원 재활 치료 원리 그대로', '임상 환자 통증 87% 경감', '통증 완벽하게 종결', '손목 수명 20년 연장'. 의료기기 아님 고지와 정면 충돌 — 집행 중단 후 카피 전면 재작성 필요"
       },
-      "one_liner": "메타 지출 52만에 매출 0원, ROAS 0.0 · 구매 0건. CTR 1.71%로 클릭조차 약했다.",
+      "one_liner": "기존 승리축인 팔뚝 콤플렉스를 벗어나 손목 통증으로 가서 상세페이지와 소구가 어긋난다.",
       "why": "뉴베로의 기존 승자축은 '팔뚝 굵기 콤플렉스'인데 이 소재는 손목 통증이라는 완전히 다른 축으로 갔다. 상세페이지·오퍼가 팔뚝살 기준이라 클릭이 착지할 곳이 없다. 새 소구축을 테스트하려면 랜딩까지 세트로 맞춰야 한다. 심의 리스크도 커서 이 상태로는 재집행 불가."
     }
   ]
