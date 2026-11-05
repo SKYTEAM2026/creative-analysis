@@ -2,7 +2,7 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_30d",
-  "generated": "2026-10-30",
+  "generated": "2026-11-05",
   "criteria": "유의미 지출(제한없음↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -29,24 +29,24 @@
       "key": "nb팔뚝툭튀Ⅱ_AP",
       "rank_note": "top",
       "roas": 1.62,
-      "spend": 3768450.0,
+      "spend": 3926775.0,
       "ctr": 2.22,
-      "cvr": 2.44,
-      "cpa": 81923,
-      "purchases": 46.0,
+      "cvr": 2.48,
+      "cpa": 81808,
+      "purchases": 48.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3768450.0,
-          "revenue": 6122400.0,
+          "spend": 3926775.0,
+          "revenue": 6348400.0,
           "roas": 1.62,
           "ctr": 2.22,
-          "cvr": 2.44,
-          "cpa": 81923,
-          "purchases": 46.0,
-          "hook_rate": 31.2,
+          "cvr": 2.48,
+          "cpa": 81808,
+          "purchases": 48.0,
+          "hook_rate": 31.4,
           "hold_rate": 17.4,
           "play50": null,
           "completion": null,
@@ -55,7 +55,7 @@
             69,
             42,
             32,
-            26,
+            27,
             22,
             18,
             15,
@@ -78,20 +78,20 @@
       },
       "demo": {
         "source": "meta",
-        "pur_total": 46,
-        "imp_total": 84925,
+        "pur_total": 48,
+        "imp_total": 87104,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
             "pur": 1,
-            "imp": 4801
+            "imp": 4898
           },
           {
             "age": "18-24",
             "gender": "male",
             "pur": 1,
-            "imp": 2585
+            "imp": 2668
           },
           {
             "age": "18-24",
@@ -103,67 +103,67 @@
             "age": "25-34",
             "gender": "female",
             "pur": 6,
-            "imp": 17766
+            "imp": 18109
           },
           {
             "age": "25-34",
             "gender": "male",
             "pur": 0,
-            "imp": 4250
+            "imp": 4378
           },
           {
             "age": "25-34",
             "gender": "unknown",
             "pur": 0,
-            "imp": 100
+            "imp": 104
           },
           {
             "age": "35-44",
             "gender": "female",
-            "pur": 15,
-            "imp": 20129
+            "pur": 17,
+            "imp": 20599
           },
           {
             "age": "35-44",
             "gender": "male",
             "pur": 2,
-            "imp": 3770
+            "imp": 3902
           },
           {
             "age": "35-44",
             "gender": "unknown",
             "pur": 0,
-            "imp": 88
+            "imp": 95
           },
           {
             "age": "45-54",
             "gender": "female",
             "pur": 17,
-            "imp": 18213
+            "imp": 18705
           },
           {
             "age": "45-54",
             "gender": "male",
             "pur": 0,
-            "imp": 3756
+            "imp": 3865
           },
           {
             "age": "45-54",
             "gender": "unknown",
             "pur": 0,
-            "imp": 114
+            "imp": 117
           },
           {
             "age": "55-64",
             "gender": "female",
             "pur": 2,
-            "imp": 5287
+            "imp": 5484
           },
           {
             "age": "55-64",
             "gender": "male",
             "pur": 1,
-            "imp": 2442
+            "imp": 2519
           },
           {
             "age": "55-64",
@@ -175,13 +175,13 @@
             "age": "65+",
             "gender": "female",
             "pur": 1,
-            "imp": 840
+            "imp": 853
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 0,
-            "imp": 700
+            "imp": 724
           },
           {
             "age": "65+",
@@ -295,43 +295,296 @@
       "why": "상황극 오퍼 + 극적 비포애프터."
     },
     {
-      "key": "nb할인좀Ⅱ_AIP",
+      "key": "nb김예빈PPL_T",
       "rank_note": "top",
-      "roas": 1.43,
-      "spend": 7418927.0,
-      "ctr": 1.33,
-      "cvr": 2.31,
-      "cpa": 96350,
-      "purchases": 77.0,
+      "roas": 1.38,
+      "spend": 413619.0,
+      "ctr": 2.06,
+      "cvr": 1.32,
+      "cpa": 103405,
+      "purchases": 4.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 7418927.0,
-          "revenue": 10638000.0,
-          "roas": 1.43,
-          "ctr": 1.33,
-          "cvr": 2.31,
-          "cpa": 96350,
-          "purchases": 77.0,
-          "hook_rate": 16.0,
+          "spend": 413619.0,
+          "revenue": 570000.0,
+          "roas": 1.38,
+          "ctr": 2.06,
+          "cvr": 1.32,
+          "cpa": 103405,
+          "purchases": 4.0,
+          "hook_rate": 20.6,
+          "hold_rate": 14.1,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            66,
+            31,
+            21,
+            15,
+            9,
+            8,
+            7,
+            6,
+            4,
+            4,
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 4,
+        "imp_total": 14698,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 1,
+            "imp": 3227
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 188
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 16
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 1,
+            "imp": 9051
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 271
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 25
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 2,
+            "imp": 1298
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 70
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 362
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 46
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 80
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 22
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 26
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 13
+          }
+        ]
+      },
+      "duration": 71.6,
+      "frames": [
+        "f00_0.1s.jpg",
+        "f01_0.3s.jpg",
+        "f02_1.0s.jpg",
+        "f03_2.0s.jpg",
+        "f04_3.0s.jpg",
+        "f05_3.4s.jpg",
+        "f06_6.8s.jpg",
+        "f07_10.2s.jpg",
+        "f08_13.6s.jpg",
+        "f09_17.1s.jpg",
+        "f10_20.5s.jpg",
+        "f11_23.9s.jpg",
+        "f12_27.3s.jpg",
+        "f13_30.7s.jpg",
+        "f14_34.1s.jpg",
+        "f15_37.5s.jpg",
+        "f16_40.9s.jpg",
+        "f17_44.3s.jpg",
+        "f18_47.7s.jpg",
+        "f19_51.2s.jpg",
+        "f20_54.6s.jpg",
+        "f21_58.0s.jpg",
+        "f22_61.4s.jpg",
+        "f23_64.8s.jpg",
+        "f24_68.2s.jpg",
+        "f25_71.5s.jpg"
+      ],
+      "frame_times": [
+        0.1,
+        0.3,
+        1.0,
+        2.0,
+        3.0,
+        3.4,
+        6.8,
+        10.2,
+        13.6,
+        17.1,
+        20.5,
+        23.9,
+        27.3,
+        30.7,
+        34.1,
+        37.5,
+        40.9,
+        44.3,
+        47.7,
+        51.2,
+        54.6,
+        58.0,
+        61.4,
+        64.8,
+        68.2,
+        71.5
+      ],
+      "transcript": "지금 팔뚝 이렇게 보정하고 있는 사람들 다 들어와. 팔뚝 덜렁살 2주만에 없앤 치트키 알려드릴게요. 8월 휴가가 얼마 안 남았는데 제가 나름 옛날 핫바디였던 시절이 있거든요. 과거에 나는 어디 가고 비키니랑 나시를 입을 때 팔뚝이 진짜 장군이더라고요. 쫓기듯이 시작한 팔뚝살 다이어트. 저는 이거 하나로 쉽게 뺐어요. 바로 뉴베로 리프팅 밴드인데요. 이거 딱 10분이면 끝나더라고요. EMS 초미세전류랑 레드라이트가 동시에 자극하는 듀얼 구조라 확 막힌 순환을 뚫어주고 쳐진 탄력까지 동시에 짱짱하게 조여주더라고요. 화면 할수록 쳐진 살 위로 쫙 올라 붙고 동살 라인 정리되는 게 눈으로 보여요. 처음에 속근육을 쥐어짜는 강렬한 자극에 놀랐는데 이 하고 나면 뻑뻑한 자극이 살 빠지는 느낌이라 기분 좋더라고요. 딱 2주 채우니까 팔라인이 눈에 띄게 예뻐지고 지금 딱 여름 시즌이라 45% 파격할인에 효과 없으면 100% 환불까지 보장이 된다니까 밑절 본전인데 안 할 이유가 없겠죠? 저는 일단 대만족이라 쟁렸어요. 휴가 가서 인생샷 건져야 되잖아요 우리. 팔뚝살 때문에 스트레스 받지 말고 지금 당장 시작하세요. 레츠고!",
+      "analyzed": true,
+      "base": {
+        "hook_type": "지목·소환형",
+        "first_3s": "'지금 팔뚝 이렇게 보정하고 있는 사람들 다 들어와'로 대상 특정",
+        "appeal_angle": "휴가 D-day 압박 + 2주 만에 뺀 치트키",
+        "cta": "45% 할인 + 효과 없으면 100% 환불, 지금 시작",
+        "keywords": [
+          "팔뚝 덜렁살",
+          "2주",
+          "치트키",
+          "10분",
+          "45% 할인",
+          "100% 환불"
+        ]
+      },
+      "audio": {
+        "opening_line": "지금 팔뚝 이렇게 보정하고 있는 사람들 다 들어와",
+        "voice_style": "친구에게 말하듯 반말·존댓말 혼용 텐션",
+        "narration_mode": "1인칭 인플루언서 후기"
+      },
+      "visual": {
+        "format": "실사 PPL",
+        "mechanism_viz": "EMS + 레드라이트 듀얼 구조 자막 설명",
+        "before_after": "과거 핫바디 시절 vs 현재 언급",
+        "subtitle_style": "굵은 컬러 자막"
+      },
+      "target": {
+        "gender": "여성",
+        "age": "20·30대",
+        "segment": "여름 휴가·비키니 준비층",
+        "appeal_axis": "미용(팔라인) + 시즌 압박"
+      },
+      "trust": {
+        "evidence": "본인 2주 사용 후기",
+        "refund": "효과 없으면 100% 환불",
+        "discount": "45%",
+        "compliance": "⚠ '2주 만에 없앤다' 기간·효과 확정 표현"
+      },
+      "one_liner": "'사진 보정하는 사람들'이라는 아주 좁은 행동으로 대상을 소환해 자기 얘기로 만든다.",
+      "why": "타겟을 상태가 아니라 '행동'으로 지목한 훅 + 시즌 마감 압박 + 환불 안전장치 조합."
+    },
+    {
+      "key": "nb할인좀Ⅱ_AIP",
+      "rank_note": "top",
+      "roas": 1.27,
+      "spend": 3491611.0,
+      "ctr": 1.58,
+      "cvr": 2.43,
+      "cpa": 109113,
+      "purchases": 32.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 3491611.0,
+          "revenue": 4437000.0,
+          "roas": 1.27,
+          "ctr": 1.58,
+          "cvr": 2.43,
+          "cpa": 109113,
+          "purchases": 32.0,
+          "hook_rate": 21.5,
           "hold_rate": 27.3,
           "play50": null,
           "completion": null,
           "ret_curve": [
             100,
             60,
-            31,
+            30,
             23,
             19,
             16,
-            13,
+            14,
             12,
             11,
             10,
+            10,
             9,
-            8,
             8,
             7,
             7,
@@ -347,122 +600,122 @@
       },
       "demo": {
         "source": "meta",
-        "pur_total": 77,
-        "imp_total": 249837,
+        "pur_total": 32,
+        "imp_total": 83495,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
+            "pur": 1,
+            "imp": 6795
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 1,
+            "imp": 3588
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 115
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
             "pur": 5,
-            "imp": 15619
-          },
-          {
-            "age": "18-24",
-            "gender": "male",
-            "pur": 3,
-            "imp": 8085
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 227
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 13,
-            "imp": 62479
+            "imp": 27381
           },
           {
             "age": "25-34",
             "gender": "male",
-            "pur": 6,
-            "imp": 14900
+            "pur": 2,
+            "imp": 5817
           },
           {
             "age": "25-34",
             "gender": "unknown",
             "pur": 0,
-            "imp": 278
+            "imp": 105
           },
           {
             "age": "35-44",
             "gender": "female",
-            "pur": 24,
-            "imp": 46061
+            "pur": 9,
+            "imp": 17240
           },
           {
             "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 4103
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 71
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 11,
+            "imp": 9265
+          },
+          {
+            "age": "45-54",
             "gender": "male",
             "pur": 1,
-            "imp": 14146
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 294
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 15,
-            "imp": 34433
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 3,
-            "imp": 17553
+            "imp": 3225
           },
           {
             "age": "45-54",
             "gender": "unknown",
             "pur": 0,
-            "imp": 390
+            "imp": 70
           },
           {
             "age": "55-64",
             "gender": "female",
-            "pur": 6,
-            "imp": 14467
+            "pur": 2,
+            "imp": 2793
           },
           {
             "age": "55-64",
             "gender": "male",
-            "pur": 1,
-            "imp": 13735
+            "pur": 0,
+            "imp": 1823
           },
           {
             "age": "55-64",
             "gender": "unknown",
             "pur": 0,
-            "imp": 81
+            "imp": 17
           },
           {
             "age": "65+",
             "gender": "female",
             "pur": 0,
-            "imp": 2659
+            "imp": 574
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 0,
-            "imp": 4409
+            "imp": 505
           },
           {
             "age": "65+",
             "gender": "unknown",
             "pur": 0,
-            "imp": 16
+            "imp": 5
           },
           {
             "age": "Unknown",
             "gender": "female",
             "pur": 0,
-            "imp": 4
+            "imp": 2
           },
           {
             "age": "Unknown",
@@ -572,47 +825,47 @@
     {
       "key": "nb바르젠PPL_T",
       "rank_note": "top",
-      "roas": 1.18,
-      "spend": 1122940.0,
-      "ctr": 2.08,
-      "cvr": 2.04,
-      "cpa": 93578,
-      "purchases": 12.0,
+      "roas": 0.53,
+      "spend": 260057.0,
+      "ctr": 1.85,
+      "cvr": 0.72,
+      "cpa": 260057,
+      "purchases": 1.0,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 1122940.0,
-          "revenue": 1323400.0,
-          "roas": 1.18,
-          "ctr": 2.08,
-          "cvr": 2.04,
-          "cpa": 93578,
-          "purchases": 12.0,
-          "hook_rate": 25.6,
-          "hold_rate": 20.1,
+          "spend": 260057.0,
+          "revenue": 137000.0,
+          "roas": 0.53,
+          "ctr": 1.85,
+          "cvr": 0.72,
+          "cpa": 260057,
+          "purchases": 1.0,
+          "hook_rate": 21.4,
+          "hold_rate": 10.5,
           "play50": null,
           "completion": null,
           "ret_curve": [
             100,
-            66,
-            40,
-            26,
-            17,
-            14,
-            11,
-            10,
+            63,
+            36,
+            22,
+            12,
             9,
-            8,
-            8,
-            7,
             7,
             6,
             6,
-            6,
+            5,
             4,
+            4,
+            4,
+            3,
+            3,
+            3,
             2,
+            1,
             0,
             0,
             0,
@@ -622,110 +875,98 @@
       },
       "demo": {
         "source": "meta",
-        "pur_total": 12,
-        "imp_total": 28334,
+        "pur_total": 1,
+        "imp_total": 7530,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
-            "pur": 1,
-            "imp": 2024
+            "pur": 0,
+            "imp": 629
           },
           {
             "age": "18-24",
             "gender": "male",
             "pur": 0,
-            "imp": 272
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 5
+            "imp": 43
           },
           {
             "age": "25-34",
             "gender": "female",
-            "pur": 4,
-            "imp": 13795
+            "pur": 0,
+            "imp": 4677
           },
           {
             "age": "25-34",
             "gender": "male",
             "pur": 0,
-            "imp": 673
+            "imp": 125
           },
           {
             "age": "25-34",
             "gender": "unknown",
             "pur": 0,
-            "imp": 14
+            "imp": 3
           },
           {
             "age": "35-44",
-            "gender": "female",
-            "pur": 6,
-            "imp": 5980
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 466
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 21
-          },
-          {
-            "age": "45-54",
             "gender": "female",
             "pur": 1,
-            "imp": 3284
+            "imp": 1332
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 62
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 452
           },
           {
             "age": "45-54",
             "gender": "male",
             "pur": 0,
-            "imp": 408
+            "imp": 36
           },
           {
             "age": "45-54",
             "gender": "unknown",
             "pur": 0,
-            "imp": 17
+            "imp": 6
           },
           {
             "age": "55-64",
             "gender": "female",
             "pur": 0,
-            "imp": 789
+            "imp": 103
           },
           {
             "age": "55-64",
             "gender": "male",
             "pur": 0,
-            "imp": 365
-          },
-          {
-            "age": "55-64",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 4
+            "imp": 27
           },
           {
             "age": "65+",
             "gender": "female",
             "pur": 0,
-            "imp": 111
+            "imp": 26
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 0,
-            "imp": 106
+            "imp": 7
           }
         ]
       },
@@ -829,1309 +1070,6 @@
       },
       "one_liner": "전후 비교 한 컷으로 궁금증을 걸고, 같은 여성이 일상 속에서 감고 다니는 모습으로 '나도 쉽게 할 수 있겠다'를 보여주는 담백한 PPL 후기.",
       "why": "팔뚝살 고민 여성이라는 실제 구매층에게 정확히 맞는 훅(결과 질문)과 화자를 썼고, 과장 없이 '감기만 하면'·'손이 자유롭다'는 생활 편의 소구로 진입장벽을 낮춤. 전후 비교→착용→기능→생활 장면 순 구조가 짧고 명확해 신뢰감 있는 후기로 읽힘."
-    },
-    {
-      "key": "nb김예빈PPL_T",
-      "rank_note": "top",
-      "roas": 1.1,
-      "spend": 2857783.0,
-      "ctr": 1.92,
-      "cvr": 1.55,
-      "cpa": 102064,
-      "purchases": 28.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 2857783.0,
-          "revenue": 3144400.0,
-          "roas": 1.1,
-          "ctr": 1.92,
-          "cvr": 1.55,
-          "cpa": 102064,
-          "purchases": 28.0,
-          "hook_rate": 21.7,
-          "hold_rate": 13.7,
-          "play50": null,
-          "completion": null,
-          "ret_curve": [
-            100,
-            68,
-            32,
-            22,
-            15,
-            10,
-            8,
-            7,
-            6,
-            5,
-            4,
-            4,
-            4,
-            3,
-            3,
-            4,
-            2,
-            2,
-            2,
-            1,
-            1,
-            1
-          ]
-        }
-      },
-      "demo": {
-        "source": "meta",
-        "pur_total": 28,
-        "imp_total": 94039,
-        "buckets": [
-          {
-            "age": "18-24",
-            "gender": "female",
-            "pur": 3,
-            "imp": 18552
-          },
-          {
-            "age": "18-24",
-            "gender": "male",
-            "pur": 0,
-            "imp": 1246
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 81
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 12,
-            "imp": 55854
-          },
-          {
-            "age": "25-34",
-            "gender": "male",
-            "pur": 1,
-            "imp": 2254
-          },
-          {
-            "age": "25-34",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 139
-          },
-          {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 6,
-            "imp": 10177
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 629
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 34
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 4,
-            "imp": 3430
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 0,
-            "imp": 382
-          },
-          {
-            "age": "45-54",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 12
-          },
-          {
-            "age": "55-64",
-            "gender": "female",
-            "pur": 2,
-            "imp": 732
-          },
-          {
-            "age": "55-64",
-            "gender": "male",
-            "pur": 0,
-            "imp": 222
-          },
-          {
-            "age": "55-64",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 1
-          },
-          {
-            "age": "65+",
-            "gender": "female",
-            "pur": 0,
-            "imp": 203
-          },
-          {
-            "age": "65+",
-            "gender": "male",
-            "pur": 0,
-            "imp": 86
-          },
-          {
-            "age": "65+",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 1
-          },
-          {
-            "age": "Unknown",
-            "gender": "female",
-            "pur": 0,
-            "imp": 4
-          }
-        ]
-      },
-      "duration": 71.6,
-      "frames": [
-        "f00_0.1s.jpg",
-        "f01_0.3s.jpg",
-        "f02_1.0s.jpg",
-        "f03_2.0s.jpg",
-        "f04_3.0s.jpg",
-        "f05_3.4s.jpg",
-        "f06_6.8s.jpg",
-        "f07_10.2s.jpg",
-        "f08_13.6s.jpg",
-        "f09_17.1s.jpg",
-        "f10_20.5s.jpg",
-        "f11_23.9s.jpg",
-        "f12_27.3s.jpg",
-        "f13_30.7s.jpg",
-        "f14_34.1s.jpg",
-        "f15_37.5s.jpg",
-        "f16_40.9s.jpg",
-        "f17_44.3s.jpg",
-        "f18_47.7s.jpg",
-        "f19_51.2s.jpg",
-        "f20_54.6s.jpg",
-        "f21_58.0s.jpg",
-        "f22_61.4s.jpg",
-        "f23_64.8s.jpg",
-        "f24_68.2s.jpg",
-        "f25_71.5s.jpg"
-      ],
-      "frame_times": [
-        0.1,
-        0.3,
-        1.0,
-        2.0,
-        3.0,
-        3.4,
-        6.8,
-        10.2,
-        13.6,
-        17.1,
-        20.5,
-        23.9,
-        27.3,
-        30.7,
-        34.1,
-        37.5,
-        40.9,
-        44.3,
-        47.7,
-        51.2,
-        54.6,
-        58.0,
-        61.4,
-        64.8,
-        68.2,
-        71.5
-      ],
-      "transcript": "지금 팔뚝 이렇게 보정하고 있는 사람들 다 들어와. 팔뚝 덜렁살 2주만에 없앤 치트키 알려드릴게요. 8월 휴가가 얼마 안 남았는데 제가 나름 옛날 핫바디였던 시절이 있거든요. 과거에 나는 어디 가고 비키니랑 나시를 입을 때 팔뚝이 진짜 장군이더라고요. 쫓기듯이 시작한 팔뚝살 다이어트. 저는 이거 하나로 쉽게 뺐어요. 바로 뉴베로 리프팅 밴드인데요. 이거 딱 10분이면 끝나더라고요. EMS 초미세전류랑 레드라이트가 동시에 자극하는 듀얼 구조라 확 막힌 순환을 뚫어주고 쳐진 탄력까지 동시에 짱짱하게 조여주더라고요. 화면 할수록 쳐진 살 위로 쫙 올라 붙고 동살 라인 정리되는 게 눈으로 보여요. 처음에 속근육을 쥐어짜는 강렬한 자극에 놀랐는데 이 하고 나면 뻑뻑한 자극이 살 빠지는 느낌이라 기분 좋더라고요. 딱 2주 채우니까 팔라인이 눈에 띄게 예뻐지고 지금 딱 여름 시즌이라 45% 파격할인에 효과 없으면 100% 환불까지 보장이 된다니까 밑절 본전인데 안 할 이유가 없겠죠? 저는 일단 대만족이라 쟁렸어요. 휴가 가서 인생샷 건져야 되잖아요 우리. 팔뚝살 때문에 스트레스 받지 말고 지금 당장 시작하세요. 레츠고!",
-      "analyzed": true,
-      "base": {
-        "hook_type": "지목·소환형",
-        "first_3s": "'지금 팔뚝 이렇게 보정하고 있는 사람들 다 들어와'로 대상 특정",
-        "appeal_angle": "휴가 D-day 압박 + 2주 만에 뺀 치트키",
-        "cta": "45% 할인 + 효과 없으면 100% 환불, 지금 시작",
-        "keywords": [
-          "팔뚝 덜렁살",
-          "2주",
-          "치트키",
-          "10분",
-          "45% 할인",
-          "100% 환불"
-        ]
-      },
-      "audio": {
-        "opening_line": "지금 팔뚝 이렇게 보정하고 있는 사람들 다 들어와",
-        "voice_style": "친구에게 말하듯 반말·존댓말 혼용 텐션",
-        "narration_mode": "1인칭 인플루언서 후기"
-      },
-      "visual": {
-        "format": "실사 PPL",
-        "mechanism_viz": "EMS + 레드라이트 듀얼 구조 자막 설명",
-        "before_after": "과거 핫바디 시절 vs 현재 언급",
-        "subtitle_style": "굵은 컬러 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "여름 휴가·비키니 준비층",
-        "appeal_axis": "미용(팔라인) + 시즌 압박"
-      },
-      "trust": {
-        "evidence": "본인 2주 사용 후기",
-        "refund": "효과 없으면 100% 환불",
-        "discount": "45%",
-        "compliance": "⚠ '2주 만에 없앤다' 기간·효과 확정 표현"
-      },
-      "one_liner": "'사진 보정하는 사람들'이라는 아주 좁은 행동으로 대상을 소환해 자기 얘기로 만든다.",
-      "why": "타겟을 상태가 아니라 '행동'으로 지목한 훅 + 시즌 마감 압박 + 환불 안전장치 조합."
-    },
-    {
-      "key": "nb진짜실화Ⅱ_AI",
-      "rank_note": "top",
-      "roas": 1.08,
-      "spend": 431308.0,
-      "ctr": 4.69,
-      "cvr": 0.65,
-      "cpa": 107827,
-      "purchases": 4.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 431308.0,
-          "revenue": 465000.0,
-          "roas": 1.08,
-          "ctr": 4.69,
-          "cvr": 0.65,
-          "cpa": 107827,
-          "purchases": 4.0,
-          "hook_rate": 55.6,
-          "hold_rate": 66.7,
-          "play50": null,
-          "completion": null,
-          "ret_curve": [
-            100,
-            73,
-            60,
-            56,
-            53,
-            52,
-            47,
-            44,
-            42,
-            41,
-            41,
-            40,
-            39,
-            39,
-            39,
-            39,
-            23,
-            17,
-            0,
-            0,
-            0,
-            0
-          ]
-        }
-      },
-      "demo": {
-        "source": "meta",
-        "pur_total": 4,
-        "imp_total": 13082,
-        "buckets": [
-          {
-            "age": "18-24",
-            "gender": "female",
-            "pur": 0,
-            "imp": 621
-          },
-          {
-            "age": "18-24",
-            "gender": "male",
-            "pur": 0,
-            "imp": 120
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 26
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 0,
-            "imp": 2663
-          },
-          {
-            "age": "25-34",
-            "gender": "male",
-            "pur": 0,
-            "imp": 344
-          },
-          {
-            "age": "25-34",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 14
-          },
-          {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 2,
-            "imp": 1883
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 431
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 14
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 2,
-            "imp": 2335
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 0,
-            "imp": 1192
-          },
-          {
-            "age": "45-54",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 10
-          },
-          {
-            "age": "55-64",
-            "gender": "female",
-            "pur": 0,
-            "imp": 1173
-          },
-          {
-            "age": "55-64",
-            "gender": "male",
-            "pur": 0,
-            "imp": 1544
-          },
-          {
-            "age": "55-64",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 12
-          },
-          {
-            "age": "65+",
-            "gender": "female",
-            "pur": 0,
-            "imp": 240
-          },
-          {
-            "age": "65+",
-            "gender": "male",
-            "pur": 0,
-            "imp": 435
-          },
-          {
-            "age": "65+",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 24
-          },
-          {
-            "age": "Unknown",
-            "gender": "female",
-            "pur": 0,
-            "imp": 1
-          }
-        ]
-      },
-      "duration": 26.6,
-      "frames": [
-        "f00_0.1s.jpg",
-        "f01_0.3s.jpg",
-        "f02_1.0s.jpg",
-        "f03_1.3s.jpg",
-        "f04_2.0s.jpg",
-        "f05_2.5s.jpg",
-        "f06_3.0s.jpg",
-        "f07_3.8s.jpg",
-        "f08_5.1s.jpg",
-        "f09_6.3s.jpg",
-        "f10_7.6s.jpg",
-        "f11_8.9s.jpg",
-        "f12_10.1s.jpg",
-        "f13_11.4s.jpg",
-        "f14_12.7s.jpg",
-        "f15_13.9s.jpg",
-        "f16_15.2s.jpg",
-        "f17_16.5s.jpg",
-        "f18_17.7s.jpg",
-        "f19_19.0s.jpg",
-        "f20_20.3s.jpg",
-        "f21_21.5s.jpg",
-        "f22_22.8s.jpg",
-        "f23_24.1s.jpg",
-        "f24_25.3s.jpg",
-        "f25_26.5s.jpg"
-      ],
-      "frame_times": [
-        0.1,
-        0.3,
-        1.0,
-        1.3,
-        2.0,
-        2.5,
-        3.0,
-        3.8,
-        5.1,
-        6.3,
-        7.6,
-        8.9,
-        10.1,
-        11.4,
-        12.7,
-        13.9,
-        15.2,
-        16.5,
-        17.7,
-        19.0,
-        20.3,
-        21.5,
-        22.8,
-        24.1,
-        25.3,
-        26.5
-      ],
-      "transcript": "이이잉! 추석 반값 진짜 싫어? 더 이상 아령 들기 싫은 사람 지금이 기회다 추석인데 맛있는 거 먹으면서 스트레스 받지 마시라고 감기만 해도 지방 털어버리는 디톡스 밴드 지금 여기서만 49% 할인 그냥 앉아서 감고 버튼만 누르면 어머? 가만히 있는데 살이 털리는 중 근데 고작 하루 15분이면 된다니 국내 최초 코어 웨이브 기술로 손으로 잡히지 않는 깊은 속지방층까지 깊숙이 전류를 꽂아버리니까 다음날 리얼로 근육통이 와버린 지금 공식몰에서만 역대급 최저가 할인해 효과 없으면 100% 무료 환불 이벤트까지 할까 얼마 안 남은 물량 빨리 챙겨가세요 지금 이 가격 오늘 아니면 내년 추석까지 기다려야 돼요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "감탄 리액션형",
-        "first_3s": "제품을 얼굴 앞에 들고 흔들며 '이이이잉????' 대문짝 자막",
-        "appeal_angle": "추석 반값 + 아령 운동 대체",
-        "cta": "공식몰 최저가·100% 무료환불·물량 한정",
-        "keywords": [
-          "추석 반값",
-          "아령 들기 싫은 사람",
-          "코어웨이브",
-          "15분",
-          "무료환불"
-        ]
-      },
-      "audio": {
-        "opening_line": "이이잉! 추석 반값 진짜 싫어?",
-        "voice_style": "빠른 하이텐션 여성 내레이션",
-        "narration_mode": "1인 고지형"
-      },
-      "visual": {
-        "format": "실사 언박싱 + 공식몰 화면 캡처",
-        "mechanism_viz": "속지방층 전류 설명(말 위주)",
-        "before_after": "없음",
-        "subtitle_style": "굵은 자막 + 집중선 이펙트"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "팔뚝살·운동 기피층",
-        "appeal_axis": "가격·간편"
-      },
-      "trust": {
-        "evidence": "국내 최초 코어웨이브 기술 주장",
-        "refund": "100% 무료 환불",
-        "discount": "49% 할인",
-        "compliance": "⚠ '감기만 해도 지방 털어버린다'·'속지방층에 전류를 꽂는다' 지방 감소 단정 표현"
-      },
-      "one_liner": "짧고 빠르게 할인만 때려박는 고지형이라 이미 제품을 아는 사람에겐 잘 붙지만, 처음 보는 사람에겐 왜 필요한지가 없다. 리타겟·재방문 지면용 구조.",
-      "why": "문제 제기와 증거 구간 없이 가격만 밀어붙여 신규 획득력은 제한적이다. 인지 있는 사용자에게 마지막 결정을 재촉하는 용도로는 효율적."
-    },
-    {
-      "key": "nb파격결정Ⅱ_AI",
-      "rank_note": "top",
-      "roas": 0.0,
-      "spend": 119688.0,
-      "ctr": 2.41,
-      "cvr": 0.0,
-      "cpa": null,
-      "purchases": 0.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 119688.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 2.41,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": 22.8,
-          "hold_rate": 48.0,
-          "play50": null,
-          "completion": null,
-          "ret_curve": [
-            100,
-            51,
-            29,
-            24,
-            21,
-            19,
-            17,
-            15,
-            14,
-            14,
-            13,
-            13,
-            13,
-            12,
-            12,
-            15,
-            9,
-            8,
-            9,
-            2,
-            1,
-            0
-          ]
-        }
-      },
-      "demo": {
-        "source": "meta",
-        "pur_total": 0,
-        "imp_total": 3817,
-        "buckets": [
-          {
-            "age": "18-24",
-            "gender": "female",
-            "pur": 0,
-            "imp": 493
-          },
-          {
-            "age": "18-24",
-            "gender": "male",
-            "pur": 0,
-            "imp": 289
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 4
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 0,
-            "imp": 1291
-          },
-          {
-            "age": "25-34",
-            "gender": "male",
-            "pur": 0,
-            "imp": 425
-          },
-          {
-            "age": "25-34",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 9
-          },
-          {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 0,
-            "imp": 518
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 138
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 5
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 0,
-            "imp": 312
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 0,
-            "imp": 108
-          },
-          {
-            "age": "55-64",
-            "gender": "female",
-            "pur": 0,
-            "imp": 73
-          },
-          {
-            "age": "55-64",
-            "gender": "male",
-            "pur": 0,
-            "imp": 107
-          },
-          {
-            "age": "65+",
-            "gender": "female",
-            "pur": 0,
-            "imp": 24
-          },
-          {
-            "age": "65+",
-            "gender": "male",
-            "pur": 0,
-            "imp": 21
-          }
-        ]
-      },
-      "duration": 56.6,
-      "frames": [
-        "f00_0.1s.jpg",
-        "f01_0.3s.jpg",
-        "f02_1.0s.jpg",
-        "f03_2.0s.jpg",
-        "f04_2.7s.jpg",
-        "f05_3.0s.jpg",
-        "f06_5.4s.jpg",
-        "f07_8.1s.jpg",
-        "f08_10.8s.jpg",
-        "f09_13.5s.jpg",
-        "f10_16.2s.jpg",
-        "f11_18.9s.jpg",
-        "f12_21.6s.jpg",
-        "f13_24.3s.jpg",
-        "f14_27.0s.jpg",
-        "f15_29.7s.jpg",
-        "f16_32.4s.jpg",
-        "f17_35.1s.jpg",
-        "f18_37.8s.jpg",
-        "f19_40.5s.jpg",
-        "f20_43.2s.jpg",
-        "f21_45.9s.jpg",
-        "f22_48.5s.jpg",
-        "f23_51.2s.jpg",
-        "f24_53.9s.jpg",
-        "f25_56.5s.jpg"
-      ],
-      "frame_times": [
-        0.1,
-        0.3,
-        1.0,
-        2.0,
-        2.7,
-        3.0,
-        5.4,
-        8.1,
-        10.8,
-        13.5,
-        16.2,
-        18.9,
-        21.6,
-        24.3,
-        27.0,
-        29.7,
-        32.4,
-        35.1,
-        37.8,
-        40.5,
-        43.2,
-        45.9,
-        48.5,
-        51.2,
-        53.9,
-        56.5
-      ],
-      "transcript": "누적 방문자 3천만 명에 벌써 8번이나 품절된 팔뚝살 종결템 올 추석에만 딱 한 대 가격에 두 대를 들이는 파격할인 결정했습니다 예신들 사이에서 난리나서 청담 웨딩 플래너들이 애타게 찾던 그 디톡스 밴드 팔을 사방에서 감아 물렁하게 잡히는 속살 깊게 지방 털어버리는 미세전류가 꽂혀 절대 안 빠지던 팔 안쪽 저고리 살부터 순삭드니 솔직히 이런 가격이나 쉽지 않았어요 그래서 그런지 이번 특가 열리자마자 실시간 방문자 수가 1만 명이 넘으면서 서버가 다운되는 문제까지 생겼었는데요 조금만 굶고 운동해보신 분들은 아시죠? 이 복주머니 같은 팔뚝살은 징그럽게 안 빠지는 거 근데 이건 하루 10분씩 감고만 있으면 딱 떨어지는 일자 팔뚝 만드니 안 해보면 손해인 거죠 이거 빼려고 비싼 시수라는 가격 생각하면 월 2만원대 정말 말도 안 된다고 생각하거든요 역대급 파격할인가라 딱 이번 추석에만 짧게 진행하는데 풍절되기 전에 빨리 들어가보세요 지금 최대 49%가 까주는 역대 최저가 여기에 더 빨리 지방 태우는 부스터젤까지 주니까 웨딩 사진 찍던 그때 리즈 팔뚝 되찾고 싶으면 얼른 담아가세요",
-      "analyzed": true,
-      "base": {
-        "hook_type": "품절·실적 과시형",
-        "first_3s": "엄지척 + '누적 방문자 216만 명' 자막, 제품 클로즈업",
-        "appeal_angle": "1+1 파격할인 + 웨딩(예신) 수요",
-        "cta": "추석 한정 1대 가격에 2대·부스터젤 증정",
-        "keywords": [
-          "8번 품절",
-          "1+1",
-          "예신·웨딩",
-          "저고리 살",
-          "부스터젤"
-        ]
-      },
-      "audio": {
-        "opening_line": "누적 방문자 3천만 명에 벌써 8번이나 품절된 팔뚝살 종결템",
-        "voice_style": "하이텐션 쇼호스트형 여성 내레이션",
-        "narration_mode": "1인 고지형"
-      },
-      "visual": {
-        "format": "AI 인물 언박싱(AI 고지문 표기)",
-        "mechanism_viz": "피부 아래 지방층에 미세전류 꽂히는 3D(강함)",
-        "before_after": "없음",
-        "subtitle_style": "노란 대문짝 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "20·30대",
-        "segment": "웨딩 준비·팔뚝 노출 부담층",
-        "appeal_axis": "이벤트(웨딩) 기한 + 가격"
-      },
-      "trust": {
-        "evidence": "누적 방문자·품절 횟수·청담 웨딩플래너 언급",
-        "refund": "–",
-        "discount": "최대 49% + 1+1",
-        "compliance": "⚠ '지방 털어버린다' 단정, '서버 다운' 등 검증 불가한 인기 연출, 시술 가격과 직접 비교"
-      },
-      "one_liner": "품절·대기 서사로 '남들이 이미 산다'를 먼저 깔고 1+1로 밀어붙이는 정공법. 3D 지방층 인서트가 메커니즘을 받쳐줘 가격 소구만 남지 않게 막아준다.",
-      "why": "사회적 증거 + 명절 한정 1+1 + 증정 조합이 결정 문턱을 낮춘다. 웨딩이라는 기한 있는 맥락을 붙여 '지금 사야 할 이유'가 선명하다."
-    },
-    {
-      "key": "nb양궁선수Ⅴ_AI",
-      "rank_note": "bottom",
-      "roas": 0.0,
-      "spend": 31273.0,
-      "ctr": 2.81,
-      "cvr": 0.0,
-      "cpa": null,
-      "purchases": 0.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 31273.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 2.81,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": 34.7,
-          "hold_rate": 21.4,
-          "play50": null,
-          "completion": null,
-          "ret_curve": [
-            100,
-            75,
-            49,
-            38,
-            32,
-            26,
-            19,
-            15,
-            13,
-            12,
-            11,
-            10,
-            9,
-            9,
-            8,
-            9,
-            6,
-            5,
-            4,
-            2,
-            2,
-            2
-          ]
-        }
-      },
-      "demo": {
-        "source": "meta",
-        "pur_total": 0,
-        "imp_total": 6861,
-        "buckets": [
-          {
-            "age": "18-24",
-            "gender": "female",
-            "pur": 0,
-            "imp": 828
-          },
-          {
-            "age": "18-24",
-            "gender": "male",
-            "pur": 0,
-            "imp": 678
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 17
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 0,
-            "imp": 611
-          },
-          {
-            "age": "25-34",
-            "gender": "male",
-            "pur": 0,
-            "imp": 784
-          },
-          {
-            "age": "25-34",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 13
-          },
-          {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 0,
-            "imp": 367
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 411
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 1
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 0,
-            "imp": 360
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 0,
-            "imp": 593
-          },
-          {
-            "age": "45-54",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 4
-          },
-          {
-            "age": "55-64",
-            "gender": "female",
-            "pur": 0,
-            "imp": 555
-          },
-          {
-            "age": "55-64",
-            "gender": "male",
-            "pur": 0,
-            "imp": 909
-          },
-          {
-            "age": "55-64",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 5
-          },
-          {
-            "age": "65+",
-            "gender": "female",
-            "pur": 0,
-            "imp": 224
-          },
-          {
-            "age": "65+",
-            "gender": "male",
-            "pur": 0,
-            "imp": 500
-          },
-          {
-            "age": "65+",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 1
-          }
-        ]
-      },
-      "duration": 110.2,
-      "frames": [
-        "f00_0.1s.jpg",
-        "f01_0.3s.jpg",
-        "f02_1.0s.jpg",
-        "f03_2.0s.jpg",
-        "f04_3.0s.jpg",
-        "f05_5.2s.jpg",
-        "f06_10.5s.jpg",
-        "f07_15.7s.jpg",
-        "f08_21.0s.jpg",
-        "f09_26.2s.jpg",
-        "f10_31.5s.jpg",
-        "f11_36.7s.jpg",
-        "f12_42.0s.jpg",
-        "f13_47.2s.jpg",
-        "f14_52.5s.jpg",
-        "f15_57.7s.jpg",
-        "f16_63.0s.jpg",
-        "f17_68.2s.jpg",
-        "f18_73.5s.jpg",
-        "f19_78.7s.jpg",
-        "f20_84.0s.jpg",
-        "f21_89.2s.jpg",
-        "f22_94.5s.jpg",
-        "f23_99.7s.jpg",
-        "f24_105.0s.jpg",
-        "f25_110.1s.jpg"
-      ],
-      "frame_times": [
-        0.1,
-        0.3,
-        1.0,
-        2.0,
-        3.0,
-        5.2,
-        10.5,
-        15.7,
-        21.0,
-        26.2,
-        31.5,
-        36.7,
-        42.0,
-        47.2,
-        52.5,
-        57.7,
-        63.0,
-        68.2,
-        73.5,
-        78.7,
-        84.0,
-        89.2,
-        94.5,
-        99.7,
-        105.0,
-        110.1
-      ],
-      "transcript": "이제 이거 안 감으면 대회 못 나가겠어요. 양궁은 집중력 싸움이라고들 하는데 사실 활을 당기는 팔이 버텨주지 못하면 아무 소용이 없거든요. 저는 작년에 무리하게 파운드를 올리다가 팔꿈치 힘줄에 염증이 터지고 어깨까지 탈이 나서 거의 두 달을 쉬었는데 그게 최근까지도 후유증처럼 남아 있었어요. 그래서 아예 양궁장에 이거 갖다 놓고 쉴 때마다 매일 팔에 감고 있어요. 이거 쓰고 팔꿈치 통증도 싹 잡히고 운동만으로 잘 안 닿는 부위, 근력까지 차오르는 느낌이라 이제 이거 안 감으면 대회 못 나가겠어요. 코치님이 너 뒤로 갈수록 팔이 떨린다. 관리 좀 해야 하면서 갑자기 무슨 밴드를 주시길래 의아했는데 그게 바로 뉴베로였어요. 진짜 신기한 게 팔에 감고만 있어도 전기 자극이, 전환근, 팔꿈치, 팔 위쪽까지 팔 전체 근육 체인을 따라 쭉 타고 올라오는데 손으로 닿지 않는 깊은 속근육까지 깨우는 느낌? 너무 신기해서 감독님한테 여쭤보니까 EMS 미세전류가 근육 수축, 이완을 돕고 레드라이트가 막힌 혈액을 돌려서 쏠수록 뭉쳐서 고인피랑 노폐물을 빼줄 뿐만 아니라 근력까지 보조해줄 수 있는 메커니심을 갖고 있대요. 어쩐지 다치고 나선 조금만 쏘아도 후반에 팔이 떨려서 점수가 무너졌는데 이젠 하루 300발을 쏘아도 마지막까지 흔들림이 없고 못 넘는 파운드도 드디어 올렸습니다. 실제 국가대표 선수들이 쓴다고 들었는데 다르긴 다른가 봐요. 꼭 저 같은 운동선수가 아니어도 평소 팔통층이나 근력 부족하다고 느끼시는 분들은 쓰시면 무조건 도움 될 것 같아요.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "선수 인터뷰형",
-        "first_3s": "양궁장 실내 사로에서 AI 여성 선수가 핀마이크 차고 정면 인터뷰, '이제 이거 안 감으면 대회 못 나가겠어요'",
-        "appeal_angle": "부상 후유증 있는 선수의 회복·관리 루틴",
-        "cta": "운동선수 아니어도 팔 통증·근력 부족하면 도움",
-        "keywords": [
-          "대회 못 나가겠어요",
-          "팔꿈치 힘줄 염증",
-          "근육 체인",
-          "레드라이트",
-          "국가대표 사용"
-        ]
-      },
-      "audio": {
-        "opening_line": "이제 이거 안 감으면 대회 못 나가겠어요",
-        "voice_style": "20대 여성 차분한 존댓말 인터뷰, 핀마이크 현장음",
-        "narration_mode": "인터뷰 1인칭 증언"
-      },
-      "visual": {
-        "format": "AI 생성 실사(인터뷰 + 경기 장면)",
-        "mechanism_viz": "중간(전류가 팔 근육 체인 타고 오르는 설명)",
-        "before_after": "약함",
-        "subtitle_style": "흰 자막 + 인물 소개 타이틀(이름·나이) 오버레이"
-      },
-      "target": {
-        "gender": "혼성",
-        "age": "20~40대",
-        "segment": "운동인·팔 통증 겪는 층",
-        "appeal_axis": "전문가 신뢰+회복"
-      },
-      "trust": {
-        "evidence": "국가대표 선수 사용, 감독 설명 인용",
-        "refund": "–",
-        "discount": "–",
-        "compliance": "⚠ '팔꿈치 통증도 싹 잡히고', '염증' 등 치료 효능 암시. AI 생성 가상 인물이 실존 선수 증언처럼 읽히는 점도 리스크 — 화면 하단 AI 고지가 작아 잘 안 보인다"
-      },
-      "one_liner": "95초 길이로 뉴베로 소재 중 가장 길다.",
-      "why": "영상 완성도(핀마이크 현장음·인물 일관성)는 높지만 광고로서의 오퍼가 없다 — 할인도 환불 보증도 CTA도 없이 증언만 95초 이어진다. 타겟도 '양궁 선수'로 지나치게 좁아 메타 광범위 타겟과 맞지 않는다. 브랜드·PPL 자산으로는 쓸 만하나 성과형 소재로는 오퍼 블록을 붙이고 길이를 40초 이하로 줄여야 한다."
-    },
-    {
-      "key": "nb엄마졸라Ⅱ_AI",
-      "rank_note": "top",
-      "roas": 0.0,
-      "spend": 6809.0,
-      "ctr": 0.14,
-      "cvr": 0.0,
-      "cpa": null,
-      "purchases": 0.0,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 6809.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 0.14,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": 22.4,
-          "hold_rate": 12.1,
-          "play50": null,
-          "completion": null,
-          "ret_curve": [
-            100,
-            62,
-            36,
-            24,
-            19,
-            15,
-            13,
-            10,
-            8,
-            8,
-            6,
-            5,
-            5,
-            4,
-            3,
-            4,
-            2,
-            3,
-            3,
-            1,
-            0,
-            0
-          ]
-        }
-      },
-      "demo": {
-        "source": "meta",
-        "pur_total": 0,
-        "imp_total": 735,
-        "buckets": [
-          {
-            "age": "18-24",
-            "gender": "female",
-            "pur": 0,
-            "imp": 106
-          },
-          {
-            "age": "18-24",
-            "gender": "male",
-            "pur": 0,
-            "imp": 205
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 2
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 0,
-            "imp": 87
-          },
-          {
-            "age": "25-34",
-            "gender": "male",
-            "pur": 0,
-            "imp": 157
-          },
-          {
-            "age": "25-34",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 1
-          },
-          {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 0,
-            "imp": 45
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 44
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 2
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 0,
-            "imp": 19
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 0,
-            "imp": 23
-          },
-          {
-            "age": "45-54",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 1
-          },
-          {
-            "age": "55-64",
-            "gender": "female",
-            "pur": 0,
-            "imp": 8
-          },
-          {
-            "age": "55-64",
-            "gender": "male",
-            "pur": 0,
-            "imp": 23
-          },
-          {
-            "age": "65+",
-            "gender": "female",
-            "pur": 0,
-            "imp": 7
-          },
-          {
-            "age": "65+",
-            "gender": "male",
-            "pur": 0,
-            "imp": 5
-          }
-        ]
-      },
-      "duration": 72.3,
-      "frames": [
-        "f00_0.1s.jpg",
-        "f01_0.3s.jpg",
-        "f02_1.0s.jpg",
-        "f03_2.0s.jpg",
-        "f04_3.0s.jpg",
-        "f05_3.4s.jpg",
-        "f06_6.9s.jpg",
-        "f07_10.3s.jpg",
-        "f08_13.8s.jpg",
-        "f09_17.2s.jpg",
-        "f10_20.7s.jpg",
-        "f11_24.1s.jpg",
-        "f12_27.5s.jpg",
-        "f13_31.0s.jpg",
-        "f14_34.4s.jpg",
-        "f15_37.9s.jpg",
-        "f16_41.3s.jpg",
-        "f17_44.8s.jpg",
-        "f18_48.2s.jpg",
-        "f19_51.6s.jpg",
-        "f20_55.1s.jpg",
-        "f21_58.5s.jpg",
-        "f22_62.0s.jpg",
-        "f23_65.4s.jpg",
-        "f24_68.9s.jpg",
-        "f25_72.2s.jpg"
-      ],
-      "frame_times": [
-        0.1,
-        0.3,
-        1.0,
-        2.0,
-        3.0,
-        3.4,
-        6.9,
-        10.3,
-        13.8,
-        17.2,
-        20.7,
-        24.1,
-        27.5,
-        31.0,
-        34.4,
-        37.9,
-        41.3,
-        44.8,
-        48.2,
-        51.6,
-        55.1,
-        58.5,
-        62.0,
-        65.4,
-        68.9,
-        72.2
-      ],
-      "transcript": "그 팔뚝밴드 효과 너무 좋더라. 자기 전에 10분씩 감고 잤더니 뽑기 전 반팔에 쏙 들어가대. 친구들도 갖고 싶다는데 혹시 할인 좀 안 해? 오 잘 됐네. 지금 추석 특가로 14만 5천원에서 8만 9천원까지 내려갔거든. 어때 완전 싸지? 8만 9천원 너무 비싸다 야. 에이 엄마도 알잖아. 이거 그냥 마사지기 같은 거랑은 차원이 다른 거. 미세전류가 깊은 속근육까지 찌릿찌릿 자극하는 거 느꼈지? 국가대표 리듬체조 선수들도 팔 뻗을 때 선 예쁘게 잡히려고 대회 직전까지 감아서 사용하는 거잖아. 그래서 엄마 아무리 아령 들고 운동해도 안 빠지던 그 나이 살까지 잡아주는 거야. 그러니까 더 싸게는 못 팔아. 에휴 그래. 그럼 30년 지기 친구들한테 손절 당해야지 뭐. 아 알겠어 알겠어. 그럼 한 대에 8만 2천 원은 어때? 그 이상은 진짜 안 돼. 응 좀 아쉬운데? 진짜 이러면 안 되는데? 그럼 딱 3일만 2대에 14만 7천 원. 그러니까 한 대에 7만 3천 500원인 거야. 이 정도면 대박이지? 두 대씩 사서 친구들 나눠주면 되겠네. 대박이네. 근데 만약 친구들은 효과 없으면 어떡하지? 2주 써보고 마음에 안 들면 전부 무료 환불해줘. 그래 그럴 일은 없겠지만 엄마 부탁이니까 일단 들어줄게. 대신 딱 3일만이다?",
-      "analyzed": true,
-      "base": {
-        "hook_type": "통화 네고 상황극",
-        "first_3s": "사무실 책상 위 스마트폰 거치대 + '사무실에서 엄마랑 네고한 썰' 자막",
-        "appeal_angle": "모녀 흥정으로 가격 낮추기 + 친구 선물 수요",
-        "cta": "딱 3일 2대 특가·2주 무료환불",
-        "keywords": [
-          "엄마랑 네고",
-          "추석 특가",
-          "2대 구매",
-          "무료환불",
-          "팔뚝밴드"
-        ]
-      },
-      "audio": {
-        "opening_line": "그 팔뚝밴드 효과 너무 좋더라",
-        "voice_style": "모녀 대화체, AI 보이스",
-        "narration_mode": "2인 통화 대화극"
-      },
-      "visual": {
-        "format": "AI 인물 드라마(AI 고지문 표기)",
-        "mechanism_viz": "미세전류 언급 위주, 도해 약함",
-        "before_after": "없음",
-        "subtitle_style": "흰 큰 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "40·50대(구매자)·2030(화자)",
-        "segment": "팔뚝살 고민 + 친구 선물 수요",
-        "appeal_axis": "가격·선물"
-      },
-      "trust": {
-        "evidence": "리듬체조 국가대표 대회 직전 사용 인용",
-        "refund": "2주 무료 환불",
-        "discount": "추석 2대 특가",
-        "compliance": "⚠ '아무리 운동해도 안 빠지던 나이살까지 잡아준다' 체형 변화 단정, 국가대표 권위 인용"
-      },
-      "one_liner": "네고 포맷 자체는 검증된 구조인데, 화자가 마스크를 쓴 채 사무실에서 통화만 해 제품 체감 장면이 하나도 없다. 팔뚝이 어떻게 달라지는지 안 보이니 가격 얘기만 남는다.",
-      "why": "오퍼 서사와 환불 보장은 갖췄지만 착용·전후 인서트가 빠져 시각적 증거가 부족하다. 통화 컷 사이에 팔뚝 착용 장면만 끼워도 개선 여지가 크다."
     }
   ]
 }
