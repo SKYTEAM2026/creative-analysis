@@ -35,6 +35,10 @@
       "cvr": 3.74,
       "cpa": 8658,
       "purchases": 33.0,
+      "real_rev": 327000,
+      "real_orders": 7,
+      "real_spend": 285707.0,
+      "real_roas": 1.14,
       "platforms": [
         "meta"
       ],
@@ -268,6 +272,10 @@
       "cvr": 5.9,
       "cpa": 12689,
       "purchases": 37.0,
+      "real_rev": 37400,
+      "real_orders": 1,
+      "real_spend": 469509.0,
+      "real_roas": 0.08,
       "platforms": [
         "meta"
       ],
@@ -512,6 +520,10 @@
       "cvr": 4.94,
       "cpa": 20616,
       "purchases": 17.0,
+      "real_rev": 209400,
+      "real_orders": 5,
+      "real_spend": 350465.0,
+      "real_roas": 0.6,
       "platforms": [
         "meta"
       ],
@@ -751,6 +763,10 @@
       "cvr": 5.62,
       "cpa": 22848,
       "purchases": 2712.0,
+      "real_rev": 74992400,
+      "real_orders": 1617,
+      "real_spend": 61965067.0,
+      "real_roas": 1.21,
       "platforms": [
         "meta"
       ],
@@ -1032,6 +1048,10 @@
       "cvr": 6.07,
       "cpa": 23569,
       "purchases": 1309.0,
+      "real_rev": 45156600,
+      "real_orders": 1053,
+      "real_spend": 30851940.0,
+      "real_roas": 1.46,
       "platforms": [
         "meta"
       ],
@@ -1313,6 +1333,10 @@
       "cvr": 2.24,
       "cpa": 25262,
       "purchases": 14.0,
+      "real_rev": 244800,
+      "real_orders": 6,
+      "real_spend": 353668.0,
+      "real_roas": 0.69,
       "platforms": [
         "meta"
       ],
@@ -1551,6 +1575,10 @@
       "cvr": 0.12,
       "cpa": 32950,
       "purchases": 12.0,
+      "real_rev": 231800,
+      "real_orders": 5,
+      "real_spend": 395394.0,
+      "real_roas": 0.59,
       "platforms": [
         "tiktok"
       ],
@@ -1681,6 +1709,10 @@
       "cvr": 6.82,
       "cpa": 32370,
       "purchases": 32.0,
+      "real_rev": 1653300,
+      "real_orders": 34,
+      "real_spend": 1035848.0,
+      "real_roas": 1.6,
       "platforms": [
         "meta"
       ],
@@ -1944,6 +1976,10 @@
       "cvr": 0.86,
       "cpa": 45633,
       "purchases": 11.0,
+      "real_rev": 229800,
+      "real_orders": 5,
+      "real_spend": 501964.0,
+      "real_roas": 0.46,
       "platforms": [
         "meta"
       ],
@@ -2176,6 +2212,10 @@
       "cvr": 0.03,
       "cpa": 66166,
       "purchases": 1.0,
+      "real_rev": 48900,
+      "real_orders": 1,
+      "real_spend": 66166.0,
+      "real_roas": 0.74,
       "platforms": [
         "meta",
         "tiktok"
@@ -2291,6 +2331,10 @@
       "cvr": 0.1,
       "cpa": 138238,
       "purchases": 180.0,
+      "real_rev": 1805300,
+      "real_orders": 35,
+      "real_spend": 24882762.0,
+      "real_roas": 0.07,
       "platforms": [
         "meta"
       ],
@@ -2573,6 +2617,10 @@
       "cvr": 0.3,
       "cpa": 191262,
       "purchases": 1.0,
+      "real_rev": 36400,
+      "real_orders": 1,
+      "real_spend": 191262.0,
+      "real_roas": 0.19,
       "platforms": [
         "meta"
       ],
@@ -2806,6 +2854,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 35106.0,
+      "real_roas": 0.0,
       "platforms": [
         "tiktok"
       ],
@@ -2906,6 +2958,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 285.0,
+      "real_roas": null,
       "platforms": [
         "tiktok"
       ],
@@ -3006,6 +3062,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 27.0,
+      "real_roas": null,
       "platforms": [
         "tiktok"
       ],

@@ -34,6 +34,10 @@
       "cvr": 2.35,
       "cpa": 83766,
       "purchases": 32.0,
+      "real_rev": 2097400,
+      "real_orders": 19,
+      "real_spend": 2680503.0,
+      "real_roas": 0.78,
       "platforms": [
         "meta"
       ],

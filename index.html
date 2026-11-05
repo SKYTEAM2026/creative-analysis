@@ -103,9 +103,9 @@
   <div class="patterns" id="patterns"></div>
   <table id="tbl"><thead><tr>
     <th data-k="rank">#</th><th data-k="key">소재</th><th data-k="platforms">플랫폼</th>
-    <th data-k="roas" class="num">ROAS</th><th data-k="spend" class="num">지출</th><th data-k="cpa" class="num">CPA</th>
+    <th data-k="roas" class="num">ROAS</th><th data-k="real_roas" class="num" title="cafe24 실매출 ÷ 지출(메타+틱톡+구글). 매체보고 아닌 진짜 전환 기준">실ROAS</th><th data-k="spend" class="num">지출</th><th data-k="cpa" class="num">CPA</th>
     <th data-k="hook">훅타입</th><th data-k="angle">소구앵글</th><th data-k="one">한줄평</th>
-  </tr></thead><tbody id="tb"><tr><td colspan="9" class="empty">데이터 로딩…</td></tr></tbody></table>
+  </tr></thead><tbody id="tb"><tr><td colspan="10" class="empty">데이터 로딩…</td></tr></tbody></table>
   <div class="sub" style="margin-top:14px">행을 클릭하면 프레임·태그·대사·한줄평 상세가 열립니다.</div>
 </div>
 <script>
@@ -282,7 +282,7 @@ function render(){
     ['지출('+viewLabel+')']:fCur([...tops,...bots].reduce((s,c)=>s+(vSpend(c)||0),0))
   }).map(([l,v])=>`<div class="kpi"><div class="v">${v}</div><div class="l">${l}</div></div>`).join('');
   const tb=document.getElementById('tb'); tb.innerHTML='';
-  if(!pool.length){tb.innerHTML='<tr><td colspan="9" class="empty">이 매체에 유의미 지출(50만↑) 소재가 없습니다</td></tr>';return}
+  if(!pool.length){tb.innerHTML='<tr><td colspan="10" class="empty">이 매체에 유의미 지출(50만↑) 소재가 없습니다</td></tr>';return}
   const addRow=(c,rank,isTop)=>{
     const r=vRoas(c);
     const tr=document.createElement('tr'); tr.className='row';
@@ -292,19 +292,20 @@ function render(){
       <td><b>${esc(c.key)}</b>${c.analyzed?'':' <span style="color:#e0a63a;font-size:11px">· 분석대기</span>'}</td>
       <td>${badges(c.platforms)}</td>
       <td class="num"><span class="roas" style="background:${roasColor(r)};color:#0b0d10">${r??'–'}</span></td>
+      <td class="num" title="${c.real_roas!=null?`cafe24 실매출 ${fCur(c.real_rev)} / 구매 ${c.real_orders}건`:'실매출 데이터 없음'}">${c.real_roas!=null?`<span class="roas" style="background:${roasColor(c.real_roas)};color:#0b0d10;box-shadow:0 0 0 2px rgba(255,255,255,.25) inset">${c.real_roas}</span>`:'<span style="color:#555">–</span>'}</td>
       <td class="num">${fCur(vSpend(c))}</td>
       <td class="num">${fCur(vCpa(c))}</td>
       <td>${esc(c.base?.hook_type||'–')}</td>
       <td>${esc(c.base?.appeal_angle||'–')}</td>
       <td class="oneliner">${esc((c.one_liner||'').slice(0,70))}${(c.one_liner||'').length>70?'…':''}</td>`;
     const det=document.createElement('tr'); det.className='detail'; det.style.display='none';
-    det.innerHTML=`<td colspan="9">${detailHTML(c)}</td>`;
+    det.innerHTML=`<td colspan="10">${detailHTML(c)}</td>`;
     tr.onclick=()=>{det.style.display=det.style.display==='none'?'':'none'};
     tb.appendChild(tr); tb.appendChild(det);
   };
   const sectionRow=(label,color,sub)=>{
     const tr=document.createElement('tr');
-    tr.innerHTML=`<td colspan="9" style="background:${color};color:#0b0d10;font-weight:800;font-size:13px;padding:8px 12px;letter-spacing:.5px">${label} <span style="font-weight:600;opacity:.75">${sub||''}</span></td>`;
+    tr.innerHTML=`<td colspan="10" style="background:${color};color:#0b0d10;font-weight:800;font-size:13px;padding:8px 12px;letter-spacing:.5px">${label} <span style="font-weight:600;opacity:.75">${sub||''}</span></td>`;
     tb.appendChild(tr);
   };
   const avgLbl=arr=>arr.length?`평균 ROAS ${avg(arr)}`:'';

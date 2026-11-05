@@ -20,6 +20,10 @@
       "cvr": 1.3,
       "cpa": 65078,
       "purchases": 9.84532,
+      "real_rev": 214000,
+      "real_orders": 2,
+      "real_spend": 640716.0,
+      "real_roas": 0.33,
       "platforms": [
         "google",
         "meta"
@@ -191,6 +195,10 @@
       "cvr": 1.11,
       "cpa": 71930,
       "purchases": 11.040722,
+      "real_rev": 980000,
+      "real_orders": 8,
+      "real_spend": 794158.0,
+      "real_roas": 1.23,
       "platforms": [
         "google",
         "meta"
@@ -363,6 +371,10 @@
       "cvr": 0.82,
       "cpa": 86706,
       "purchases": 11.459728,
+      "real_rev": 312000,
+      "real_orders": 3,
+      "real_spend": 993627.0,
+      "real_roas": 0.31,
       "platforms": [
         "google",
         "meta"
@@ -535,6 +547,10 @@
       "cvr": 0.5,
       "cpa": 206912,
       "purchases": 2.9915279999999997,
+      "real_rev": 196000,
+      "real_orders": 2,
+      "real_spend": 618982.0,
+      "real_roas": 0.32,
       "platforms": [
         "google",
         "meta"
@@ -707,6 +723,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 216000,
+      "real_orders": 2,
+      "real_spend": 304162.0,
+      "real_roas": 0.71,
       "platforms": [
         "meta"
       ],
@@ -858,6 +878,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 149073.0,
+      "real_roas": 0.0,
       "platforms": [
         "meta"
       ],
@@ -1009,6 +1033,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 106000,
+      "real_orders": 1,
+      "real_spend": 70621.0,
+      "real_roas": 1.5,
       "platforms": [
         "meta"
       ],
@@ -1160,6 +1188,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 36429.0,
+      "real_roas": 0.0,
       "platforms": [
         "meta"
       ],
@@ -1312,6 +1344,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 98000,
+      "real_orders": 1,
+      "real_spend": 35745.0,
+      "real_roas": 2.74,
       "platforms": [
         "meta"
       ],
@@ -1465,6 +1501,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 26209.0,
+      "real_roas": 0.0,
       "platforms": [
         "meta"
       ],

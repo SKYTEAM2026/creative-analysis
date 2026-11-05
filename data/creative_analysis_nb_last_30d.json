@@ -34,6 +34,10 @@
       "cvr": 2.48,
       "cpa": 81808,
       "purchases": 48.0,
+      "real_rev": 3343400,
+      "real_orders": 29,
+      "real_spend": 3926775.0,
+      "real_roas": 0.85,
       "platforms": [
         "meta"
       ],
@@ -303,6 +307,10 @@
       "cvr": 1.32,
       "cpa": 103405,
       "purchases": 4.0,
+      "real_rev": 423000,
+      "real_orders": 3,
+      "real_spend": 413619.0,
+      "real_roas": 1.02,
       "platforms": [
         "meta"
       ],
@@ -556,6 +564,10 @@
       "cvr": 2.43,
       "cpa": 109113,
       "purchases": 32.0,
+      "real_rev": 2167000,
+      "real_orders": 17,
+      "real_spend": 3491611.0,
+      "real_roas": 0.62,
       "platforms": [
         "meta"
       ],
@@ -831,6 +843,10 @@
       "cvr": 0.72,
       "cpa": 260057,
       "purchases": 1.0,
+      "real_rev": 156000,
+      "real_orders": 1,
+      "real_spend": 260057.0,
+      "real_roas": 0.6,
       "platforms": [
         "meta"
       ],
