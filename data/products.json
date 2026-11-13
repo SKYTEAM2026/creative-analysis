@@ -17,23 +17,23 @@
       },
       "counts": {
         "last_14d": {
-          "n": 35,
-          "analyzed": 31
+          "n": 34,
+          "analyzed": 28
         },
         "last_30d": {
           "n": 44,
           "analyzed": 42
         },
         "last_7d": {
-          "n": 25,
-          "analyzed": 20
+          "n": 26,
+          "analyzed": 19
         },
         "last_90d": {
-          "n": 52,
-          "analyzed": 51
+          "n": 53,
+          "analyzed": 52
         }
       },
-      "generated": "2026-11-09",
+      "generated": "2026-11-13",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -68,7 +68,7 @@
           "analyzed": 18
         }
       },
-      "generated": "2026-11-09",
+      "generated": "2026-11-13",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -87,23 +87,23 @@
       },
       "counts": {
         "last_14d": {
-          "n": 32,
-          "analyzed": 28
+          "n": 30,
+          "analyzed": 22
         },
         "last_30d": {
           "n": 41,
-          "analyzed": 37
+          "analyzed": 36
         },
         "last_7d": {
-          "n": 22,
-          "analyzed": 17
+          "n": 21,
+          "analyzed": 10
         },
         "last_90d": {
-          "n": 48,
-          "analyzed": 45
+          "n": 50,
+          "analyzed": 46
         }
       },
-      "generated": "2026-11-09",
+      "generated": "2026-11-13",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -134,11 +134,11 @@
           "analyzed": 3
         },
         "last_90d": {
-          "n": 8,
-          "analyzed": 8
+          "n": 6,
+          "analyzed": 6
         }
       },
-      "generated": "2026-11-09",
+      "generated": "2026-11-13",
       "ranges": [
         "last_7d",
         "last_14d",
@@ -157,23 +157,23 @@
       },
       "counts": {
         "last_14d": {
-          "n": 10,
+          "n": 13,
           "analyzed": 10
         },
         "last_30d": {
-          "n": 10,
+          "n": 13,
           "analyzed": 10
         },
         "last_7d": {
-          "n": 10,
-          "analyzed": 10
+          "n": 9,
+          "analyzed": 6
         },
         "last_90d": {
-          "n": 10,
+          "n": 13,
           "analyzed": 10
         }
       },
-      "generated": "2026-11-09",
+      "generated": "2026-11-13",
       "ranges": [
         "last_7d",
         "last_14d",

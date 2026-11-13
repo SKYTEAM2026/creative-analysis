@@ -2,7 +2,7 @@
   "code": "be",
   "product": "벨로컷",
   "range": "last_14d",
-  "generated": "2026-11-09",
+  "generated": "2026-11-13",
   "criteria": "유의미 지출(제한없음↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -14,39 +14,39 @@
     {
       "key": "be차이비교Ⅲ_AI",
       "rank_note": "top",
-      "roas": 4.01,
-      "spend": 1247611.0,
-      "ctr": 1.78,
-      "cvr": 2.1,
-      "cpa": 31902,
-      "purchases": 39.107123,
-      "real_rev": 730000,
-      "real_orders": 7,
-      "real_spend": 1247611.0,
-      "real_roas": 0.59,
+      "roas": 4.84,
+      "spend": 1933829.0,
+      "ctr": 1.12,
+      "cvr": 2.41,
+      "cpa": 25964,
+      "purchases": 74.47975299999999,
+      "real_rev": 1162000,
+      "real_orders": 11,
+      "real_spend": 1933829.0,
+      "real_roas": 0.6,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 1062068.0,
-          "revenue": 4772534.0,
-          "roas": 4.49,
-          "ctr": 1.74,
-          "cvr": 2.18,
-          "cpa": 27871,
-          "purchases": 38.107123,
+          "spend": 1748286.0,
+          "revenue": 9124104.0,
+          "roas": 5.22,
+          "ctr": 1.1,
+          "cvr": 2.46,
+          "cpa": 23793,
+          "purchases": 73.47975299999999,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 15.9,
-          "completion": 8.4,
+          "play50": 9.4,
+          "completion": 4.7,
           "ret_curve": [
             100.0,
-            27.1,
-            15.9,
-            11.2,
-            8.4
+            16.5,
+            9.4,
+            6.4,
+            4.7
           ]
         },
         "meta": {
@@ -291,39 +291,39 @@
     {
       "key": "be생기는일Ⅰ_AI",
       "rank_note": "top",
-      "roas": 2.96,
-      "spend": 1701528.0,
-      "ctr": 2.2,
-      "cvr": 1.37,
-      "cpa": 39003,
-      "purchases": 43.625729,
-      "real_rev": 1101000,
-      "real_orders": 10,
-      "real_spend": 1701528.0,
-      "real_roas": 0.65,
+      "roas": 3.55,
+      "spend": 3309677.0,
+      "ctr": 1.23,
+      "cvr": 1.58,
+      "cpa": 33577,
+      "purchases": 98.56997,
+      "real_rev": 2002000,
+      "real_orders": 18,
+      "real_spend": 3309677.0,
+      "real_roas": 0.6,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 1206115.0,
-          "revenue": 4902774.0,
-          "roas": 4.06,
-          "ctr": 2.08,
-          "cvr": 1.51,
-          "cpa": 28295,
-          "purchases": 42.625729,
+          "spend": 2814264.0,
+          "revenue": 11623964.0,
+          "roas": 4.13,
+          "ctr": 1.18,
+          "cvr": 1.66,
+          "cpa": 28844,
+          "purchases": 97.56997,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 15.9,
-          "completion": 7.7,
+          "play50": 9.5,
+          "completion": 4.3,
           "ret_curve": [
             100.0,
-            27.5,
-            15.9,
-            11.5,
-            7.7
+            17.1,
+            9.5,
+            6.7,
+            4.3
           ]
         },
         "meta": {
@@ -575,39 +575,39 @@
     {
       "key": "be해골쓰리Ⅲ_AI",
       "rank_note": "top",
-      "roas": 2.4,
-      "spend": 1614918.0,
-      "ctr": 2.18,
-      "cvr": 1.54,
-      "cpa": 52386,
-      "purchases": 30.827052,
-      "real_rev": 1520000,
-      "real_orders": 13,
-      "real_spend": 1614918.0,
-      "real_roas": 0.94,
+      "roas": 3.16,
+      "spend": 2355519.0,
+      "ctr": 1.27,
+      "cvr": 1.76,
+      "cpa": 39952,
+      "purchases": 58.959374,
+      "real_rev": 2804000,
+      "real_orders": 24,
+      "real_spend": 2355519.0,
+      "real_roas": 1.19,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 1152519.0,
-          "revenue": 3869934.0,
-          "roas": 3.36,
-          "ctr": 2.08,
-          "cvr": 1.75,
-          "cpa": 37387,
-          "purchases": 30.827052,
+          "spend": 1893120.0,
+          "revenue": 7449438.0,
+          "roas": 3.94,
+          "ctr": 1.21,
+          "cvr": 1.9,
+          "cpa": 32109,
+          "purchases": 58.959374,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 15.0,
-          "completion": 9.3,
+          "play50": 12.5,
+          "completion": 8.0,
           "ret_curve": [
             100.0,
-            20.6,
-            15.0,
-            12.0,
-            9.3
+            18.2,
+            12.5,
+            10.0,
+            8.0
           ]
         },
         "meta": {
@@ -845,181 +845,406 @@
       "why": "통증 공감을 해골 비주얼로 희화화해 거부감 없이 몰입시키고, '무선 안마사 고용' 비유로 가치를 쉽게 전달. 신경 압박·해방 같은 의료적 표현은 컴플라 주의"
     },
     {
+      "key": "be왜군약탈Ⅲ_AI",
+      "rank_note": "top",
+      "roas": 2.74,
+      "spend": 39369.0,
+      "ctr": 7.84,
+      "cvr": 1.2,
+      "cpa": 39369,
+      "purchases": 1.0,
+      "real_rev": 206000,
+      "real_orders": 2,
+      "real_spend": 39369.0,
+      "real_roas": 5.23,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 39369.0,
+          "revenue": 108000.0,
+          "roas": 2.74,
+          "ctr": 7.84,
+          "cvr": 1.2,
+          "cpa": 39369,
+          "purchases": 1.0,
+          "hook_rate": 50.0,
+          "hold_rate": 52.6,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            88,
+            62,
+            55,
+            50,
+            45,
+            41,
+            39,
+            37,
+            35,
+            34,
+            33,
+            33,
+            32,
+            31,
+            29,
+            26,
+            22,
+            20,
+            18,
+            12,
+            8
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 1,
+        "imp_total": 1059,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 12
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 8
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 49
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 12
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 77
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 24
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 255
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 32
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 412
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 3
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 11
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 156
+          }
+        ]
+      },
+      "duration": 66.1,
+      "frames": [
+        "f00_0.1s.jpg",
+        "f01_0.3s.jpg",
+        "f02_1.0s.jpg",
+        "f03_2.0s.jpg",
+        "f04_3.0s.jpg",
+        "f05_3.1s.jpg",
+        "f06_6.3s.jpg",
+        "f07_9.4s.jpg",
+        "f08_12.6s.jpg",
+        "f09_15.7s.jpg",
+        "f10_18.9s.jpg",
+        "f11_22.0s.jpg",
+        "f12_25.2s.jpg",
+        "f13_28.3s.jpg",
+        "f14_31.5s.jpg",
+        "f15_34.6s.jpg",
+        "f16_37.8s.jpg",
+        "f17_40.9s.jpg",
+        "f18_44.1s.jpg",
+        "f19_47.2s.jpg",
+        "f20_50.3s.jpg",
+        "f21_53.5s.jpg",
+        "f22_56.6s.jpg",
+        "f23_59.8s.jpg",
+        "f24_62.9s.jpg",
+        "f25_66.0s.jpg"
+      ],
+      "frame_times": [
+        0.1,
+        0.3,
+        1.0,
+        2.0,
+        3.0,
+        3.1,
+        6.3,
+        9.4,
+        12.6,
+        15.7,
+        18.9,
+        22.0,
+        25.2,
+        28.3,
+        31.5,
+        34.6,
+        37.8,
+        40.9,
+        44.1,
+        47.2,
+        50.3,
+        53.5,
+        56.6,
+        59.8,
+        62.9,
+        66.0
+      ],
+      "transcript": "1592년 임진왜란, 외군은 서적과 활자뿐 아니라 조선의 학자와 기술자들까지 약탈해갔습니다. 당시 조선이 그만큼 항문과 기술에 엄청나게 밝았기 때문이죠. 그 시절 당대 명이 허준이 발전시킨 놀라운 비법이 있었습니다. 조선 백성들은 매일 험한 산을 타고 고된 반일을 해도 하룻밤 사이 뭉친 담과 근육통을 금방 털어냈거든요. 수많은 의서를 거쳐 동의보감에 기록된 회복법 바로 부합입니다. 음압으로 혈액순환을 돕고 뭉친 통증을 완화하는 탁월한 원리죠. 부합법은 지금까지 전 세계 80여개국에서 쓰이고 있습니다. 하지만 치명적인 한계가 있었습니다. 수십 번 바늘로 찔러 죽음피를 직접 빼내는 방식이었죠. 매번 피를 닦아내야 하는 번거로움은 물론이고 2차 감염 위험까지 안고 있었습니다. 그래서 오늘날 현대 기술 미세전류를 더하기 시작했습니다. 부합으로 피부를 끌어올리고 상처없이 혈류를 뚫어주는 45Hz 특수 파장을 찾아낸 건데요. 혈액 사이사이 산소공급을 증가시켜 죽음피를 억지로 빼지 않고도 깨끗한 피로 순환시켜주는 원리인 거죠. 이 결합으로 무려 3배 이상의 회복 시너지를 만들어낸 겁니다. 수백 년 전 허주는 이미 대사회복의 방법을 알고 있었던 겁니다. 동의보감이 증명한 부합원리에 현대 기술인 EMS, 온열까지 하나로 담은 기기, BELLOCOT입니다.",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
       "key": "be핵심기술Ⅰ_AI",
       "rank_note": "top",
-      "roas": 2.17,
-      "spend": 1699255.0,
-      "ctr": 2.33,
-      "cvr": 1.19,
-      "cpa": 55527,
-      "purchases": 30.602064000000002,
-      "real_rev": 740400,
-      "real_orders": 8,
-      "real_spend": 1699255.0,
-      "real_roas": 0.44,
+      "roas": 2.13,
+      "spend": 2828065.0,
+      "ctr": 1.67,
+      "cvr": 1.16,
+      "cpa": 57093,
+      "purchases": 49.534161999999995,
+      "real_rev": 2415400,
+      "real_orders": 23,
+      "real_spend": 2828065.0,
+      "real_roas": 0.85,
       "platforms": [
         "google",
         "meta"
       ],
       "platform_metrics": {
         "google": {
-          "spend": 1166586.0,
-          "revenue": 3102564.0,
-          "roas": 2.66,
-          "ctr": 1.19,
-          "cvr": 2.16,
-          "cpa": 47418,
-          "purchases": 24.602064000000002,
+          "spend": 1633288.0,
+          "revenue": 4524495.0,
+          "roas": 2.77,
+          "ctr": 0.86,
+          "cvr": 1.81,
+          "cpa": 45964,
+          "purchases": 35.534161999999995,
           "hook_rate": null,
           "hold_rate": null,
-          "play50": 11.7,
-          "completion": 8.9,
+          "play50": 7.5,
+          "completion": 5.5,
           "ret_curve": [
             100.0,
-            15.4,
-            11.7,
-            10.1,
-            8.9
+            10.2,
+            7.5,
+            6.3,
+            5.5
           ]
         },
         "meta": {
-          "spend": 532669.0,
-          "revenue": 583400.0,
-          "roas": 1.1,
-          "ctr": 9.88,
-          "cvr": 0.42,
-          "cpa": 88778,
-          "purchases": 6.0,
-          "hook_rate": 73.7,
-          "hold_rate": 60.4,
+          "spend": 1194777.0,
+          "revenue": 1512400.0,
+          "roas": 1.27,
+          "ctr": 8.35,
+          "cvr": 0.6,
+          "cpa": 85341,
+          "purchases": 14.0,
+          "hook_rate": 66.7,
+          "hold_rate": 58.1,
           "play50": null,
           "completion": null,
           "ret_curve": [
             100,
-            91,
-            80,
-            75,
-            65,
-            61,
-            56,
-            53,
-            52,
+            88,
+            74,
+            68,
+            59,
+            55,
             51,
-            50,
-            49,
-            48,
-            48,
             47,
-            47,
-            34,
-            29,
+            46,
+            44,
+            44,
+            43,
+            42,
+            42,
+            41,
+            41,
+            30,
             26,
+            24,
             10,
-            2,
+            3,
             0
           ]
         }
       },
       "demo": {
         "source": "meta",
-        "pur_total": 6,
-        "imp_total": 14398,
+        "pur_total": 14,
+        "imp_total": 27777,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
-            "pur": 0,
-            "imp": 435
+            "pur": 1,
+            "imp": 803
           },
           {
             "age": "18-24",
             "gender": "male",
             "pur": 0,
-            "imp": 126
+            "imp": 150
           },
           {
             "age": "18-24",
             "gender": "unknown",
             "pur": 0,
-            "imp": 1
+            "imp": 3
           },
           {
             "age": "25-34",
             "gender": "female",
             "pur": 0,
-            "imp": 930
+            "imp": 2232
           },
           {
             "age": "25-34",
             "gender": "male",
             "pur": 0,
-            "imp": 338
+            "imp": 457
           },
           {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 0,
-            "imp": 1775
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 501
-          },
-          {
-            "age": "35-44",
+            "age": "25-34",
             "gender": "unknown",
             "pur": 0,
             "imp": 2
           },
           {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 4389
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 740
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 6
+          },
+          {
             "age": "45-54",
             "gender": "female",
-            "pur": 2,
-            "imp": 3880
+            "pur": 6,
+            "imp": 8288
           },
           {
             "age": "45-54",
             "gender": "male",
             "pur": 0,
-            "imp": 1123
+            "imp": 1500
           },
           {
             "age": "45-54",
             "gender": "unknown",
             "pur": 0,
-            "imp": 10
+            "imp": 14
           },
           {
             "age": "55-64",
             "gender": "female",
-            "pur": 1,
-            "imp": 2868
+            "pur": 4,
+            "imp": 5804
           },
           {
             "age": "55-64",
             "gender": "male",
             "pur": 2,
-            "imp": 1277
+            "imp": 1658
           },
           {
             "age": "55-64",
             "gender": "unknown",
             "pur": 0,
-            "imp": 10
+            "imp": 17
           },
           {
             "age": "65+",
             "gender": "female",
             "pur": 0,
-            "imp": 627
+            "imp": 1158
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 1,
-            "imp": 488
+            "imp": 549
           },
           {
             "age": "65+",
@@ -1127,6 +1352,529 @@
       },
       "one_liner": "제품 체험이 아니라 'X-컨투어 기술의 기원'을 부항 역사와 엮어 권위로 파는 다큐형 브랜드 소재",
       "why": "효능 선언 대신 기술·역사 서사로 신뢰를 쌓는 접근이라 설득 톤이 다름. 다만 의료 증상 나열과 전극패드·의료인 복장 연상 연출이 '권위 빌리기' 컴플라 리스크로 가장 두드러짐"
+    },
+    {
+      "key": "be퇴물들Ⅲ_AI",
+      "rank_note": "top",
+      "roas": 0.49,
+      "spend": 496704.0,
+      "ctr": 3.3,
+      "cvr": 0.38,
+      "cpa": 496704,
+      "purchases": 1.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 496704.0,
+      "real_roas": 0.0,
+      "platforms": [
+        "meta"
+      ],
+      "platform_metrics": {
+        "meta": {
+          "spend": 496704.0,
+          "revenue": 244000.0,
+          "roas": 0.49,
+          "ctr": 3.3,
+          "cvr": 0.38,
+          "cpa": 496704,
+          "purchases": 1.0,
+          "hook_rate": 50.5,
+          "hold_rate": 35.3,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            79,
+            61,
+            52,
+            44,
+            40,
+            35,
+            29,
+            26,
+            25,
+            23,
+            21,
+            20,
+            19,
+            19,
+            19,
+            13,
+            11,
+            9,
+            6,
+            4,
+            0
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 1,
+        "imp_total": 8055,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 48
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 44
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 197
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 293
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 12
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 626
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1215
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 10
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 1294
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 1,
+            "imp": 2283
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 25
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 620
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 1149
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 73
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 159
+          },
+          {
+            "age": "65+",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          }
+        ]
+      },
+      "duration": 59.7,
+      "frames": [
+        "f00_0.1s.jpg",
+        "f01_0.3s.jpg",
+        "f02_1.0s.jpg",
+        "f03_2.0s.jpg",
+        "f04_2.8s.jpg",
+        "f05_3.0s.jpg",
+        "f06_5.7s.jpg",
+        "f07_8.5s.jpg",
+        "f08_11.4s.jpg",
+        "f09_14.2s.jpg",
+        "f10_17.1s.jpg",
+        "f11_19.9s.jpg",
+        "f12_22.8s.jpg",
+        "f13_25.6s.jpg",
+        "f14_28.5s.jpg",
+        "f15_31.3s.jpg",
+        "f16_34.1s.jpg",
+        "f17_37.0s.jpg",
+        "f18_39.8s.jpg",
+        "f19_42.7s.jpg",
+        "f20_45.5s.jpg",
+        "f21_48.4s.jpg",
+        "f22_51.2s.jpg",
+        "f23_54.1s.jpg",
+        "f24_56.9s.jpg",
+        "f25_59.6s.jpg"
+      ],
+      "frame_times": [
+        0.1,
+        0.3,
+        1.0,
+        2.0,
+        2.8,
+        3.0,
+        5.7,
+        8.5,
+        11.4,
+        14.2,
+        17.1,
+        19.9,
+        22.8,
+        25.6,
+        28.5,
+        31.3,
+        34.1,
+        37.0,
+        39.8,
+        42.7,
+        45.5,
+        48.4,
+        51.2,
+        54.1,
+        56.9,
+        59.6
+      ],
+      "transcript": "안녕? 난 니 지긋지긋한 통증을 끝내러 온 신세대 구원투수 흡입 괄사기기야 아직도 겉피부만 벅벅 문지르는 퇴물들 쓰고 있어? 어? 내 스펙을 보면 당장 다 버리게 될 걸! 손목 떨어져라! 문지르는 괄사? 난 그냥 뭉친 곳에 1초 원터치 흡착! 부처만 두면 진공청소기처럼 속금막까지 쫙 끌어당겨 막힌 노폐물 통로를 열어줘! 뼈만 때리고 무겁게 튕겨나가는 마사지건! 난 아프게 때리지 않아! 무통증 45Hz 주파수가 엉겨붙은 혈구 사이사이 산소머기를 공급해주지! 대충 겉만쯤으로 다 끝나는 일반 마사지기? 난 노는 물이 달라! 내 몸 굴곡에 단 1mm의 틈도 없이 8개 롤러가 완벽 밀착해 뜨끈한 온혈을 쏘니까 최소 3배의 효과를 내주는 거지! 이건 단순한 마사지기가 아니야! 초선시대 동의보감의 부합 원리를 담아 통증의 뿌리만 뽑아내는 엑스컨투어 기술을 적용했다고! 어때? 아직도 겉만 핥는 구시대 테물들 쓸래? 근본부터 통증을 해결해주는 벨로컷을 써보라고! 지금 이 영상 끝까지 본 너한테만 제일 싼 최저가 링크 열어줄게!",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
+    },
+    {
+      "key": "be신세대벨로컷Ⅲ_AI",
+      "rank_note": "bottom",
+      "roas": 0.19,
+      "spend": 161705.0,
+      "ctr": 5.45,
+      "cvr": 0.03,
+      "cpa": 1267439,
+      "purchases": 0.127584,
+      "real_rev": 506000,
+      "real_orders": 5,
+      "real_spend": 161705.0,
+      "real_roas": 3.13,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 20782.0,
+          "revenue": 30365.0,
+          "roas": 1.46,
+          "ctr": 1.37,
+          "cvr": 0.33,
+          "cpa": 162889,
+          "purchases": 0.127584,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 34.1,
+          "completion": 28.7,
+          "ret_curve": [
+            100.0,
+            40.9,
+            34.1,
+            30.9,
+            28.7
+          ]
+        },
+        "meta": {
+          "spend": 140923.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 8.03,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 80.0,
+          "hold_rate": 68.3,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            96,
+            88,
+            82,
+            74,
+            71,
+            67,
+            65,
+            63,
+            62,
+            61,
+            60,
+            60,
+            59,
+            59,
+            58,
+            41,
+            34,
+            31,
+            14,
+            9,
+            0
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 0,
+        "imp_total": 4481,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 105
+          },
+          {
+            "age": "18-24",
+            "gender": "male",
+            "pur": 0,
+            "imp": 132
+          },
+          {
+            "age": "18-24",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 229
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 221
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 303
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 0,
+            "imp": 387
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 5
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 634
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 817
+          },
+          {
+            "age": "45-54",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 568
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 709
+          },
+          {
+            "age": "55-64",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 2
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 134
+          },
+          {
+            "age": "65+",
+            "gender": "male",
+            "pur": 0,
+            "imp": 227
+          }
+        ]
+      },
+      "duration": 56.0,
+      "frames": [
+        "f00_0.1s.jpg",
+        "f01_0.3s.jpg",
+        "f02_1.0s.jpg",
+        "f03_2.0s.jpg",
+        "f04_2.7s.jpg",
+        "f05_3.0s.jpg",
+        "f06_5.3s.jpg",
+        "f07_8.0s.jpg",
+        "f08_10.7s.jpg",
+        "f09_13.3s.jpg",
+        "f10_16.0s.jpg",
+        "f11_18.7s.jpg",
+        "f12_21.3s.jpg",
+        "f13_24.0s.jpg",
+        "f14_26.6s.jpg",
+        "f15_29.3s.jpg",
+        "f16_32.0s.jpg",
+        "f17_34.6s.jpg",
+        "f18_37.3s.jpg",
+        "f19_40.0s.jpg",
+        "f20_42.6s.jpg",
+        "f21_45.3s.jpg",
+        "f22_48.0s.jpg",
+        "f23_50.6s.jpg",
+        "f24_53.3s.jpg",
+        "f25_55.9s.jpg"
+      ],
+      "frame_times": [
+        0.1,
+        0.3,
+        1.0,
+        2.0,
+        2.7,
+        3.0,
+        5.3,
+        8.0,
+        10.7,
+        13.3,
+        16.0,
+        18.7,
+        21.3,
+        24.0,
+        26.6,
+        29.3,
+        32.0,
+        34.6,
+        37.3,
+        40.0,
+        42.6,
+        45.3,
+        48.0,
+        50.6,
+        53.3,
+        55.9
+      ],
+      "transcript": "저는 1세대 마사지 기계 예전엔 사람들이 절을 써서 지나고 닮걸리는 통증들을 잡으려고 했죠 하지만 전 너무 낡았어요 이젠 여러분의 통증을 통째로 날려줄 신세대 구원 투수를 소개해 줄게요 안녕 난 벨로컷 폐물 디바이스들과는 다르게 온열 EMS 부합 기술을 동시에 발사해서 마치 개인 마사지사 고용한 듯 원하는 부위마다 뭉쳐있는 근육을 분리해 주고 노폐물 통로를 열어주니까 1년간 굳어있는 닮통증이 비로소 풀리는 거야 이제 겉만 주무르는 발사 온열기 마사지 건은 버리라고 나 혼자 충분하니까 심지어 내 음압은 65kPa 조선시대 때부터 내려온 전통 부합 요법과 같아 어깨, 목 등 통증이 있는 곳이라면 어디든 사용할 수 있고 자체 개발된 45hz 무통증 황금 주파수가 들어올린 근막 사이로 막힌 림프절을 뚫어주지 거기다가 8개의 마사지 볼이 지친 근육을 롤링해줘 지금 출시 기념으로 15만원 싸게 판매 중이야 내가 다니는 관리센터보다 10배는 싼 가격이지 써보고 효과 없으면 100% 무료 환불도 해줄테니까 그냥 무료 체험 한번 해보라고",
+      "analyzed": true,
+      "base": {
+        "hook_type": "캐릭터 의인화형",
+        "first_3s": "병원 침대에 누운 낡은 1세대 부항기 캐릭터가 '저는 1세대 마사지 기계'라고 고백",
+        "appeal_angle": "구세대 기기의 세대교체 서사: 온열·EMS·음압 올인원으로 담·결림을 풀어준다",
+        "cta": "써보고 효과 없으면 환불, 무료 체험처럼 해보라고",
+        "keywords": [
+          "1세대",
+          "신세대",
+          "의인화",
+          "담결림",
+          "65kPa",
+          "45Hz",
+          "전통요법",
+          "100%환불"
+        ]
+      },
+      "audio": {
+        "opening_line": "저는 1세대 마사지 기계, 예전엔 사람들이 저를 써서",
+        "voice_style": "늙은 캐릭터→당당한 마스코트 캐릭터 보이스",
+        "narration_mode": "캐릭터 1인칭"
+      },
+      "visual": {
+        "format": "3D 의인화 캐릭터 _AI",
+        "mechanism_viz": "음압·EMS 피부 단면, 노폐물 통로, 45Hz 헤드 클로즈업",
+        "before_after": "구형 기기 쇠락→신형 등장",
+        "subtitle_style": "중앙 흰 굵은 자막"
+      },
+      "target": {
+        "gender": "공용",
+        "age": "35~60",
+        "segment": "담·결림·어깨 뭉침층",
+        "appeal_axis": "통증회피+기기 세대교체"
+      },
+      "trust": {
+        "evidence": "65kPa·45Hz 스펙, 조선시대 전통요법 언급",
+        "refund": "효과 없으면 100% 환불",
+        "discount": "출시 기념 15만원 할인, 관리센터보다 10배 저렴 주장",
+        "compliance": "⚠ '부항'은 의료기기 품목명이라 직접 언급·전통 요법 동일시 위험, '통증을 날려준다'·'막힌 림프절을 뚫어준다'·'노폐물 통로' 의료효과 표현, 병원 침상 세트, '무통증 황금 주파수' 과장"
+      },
+      "one_liner": "구세대 기기가 병상에 누운 오프닝이 재미있어 시선은 잡지만, 스펙과 의료성 표현이 쏟아져 후반이 무거워진다",
+      "why": "의인화 세대교체 서사가 경쟁 기기 비교를 웃기게 풀어내고, 환불로 마무리해 오퍼도 분명하다. 다만 캐릭터 재미에 비해 사람의 담·결림 장면이 없어 고객 고민이 잘 보이지 않고, 온열·EMS·음압·45Hz·볼을 한꺼번에 나열해 핵심 한 가지가 남지 않는다. 부항·림프 표현은 심의 전 수정이 필요하다"
     },
     {
       "key": "be여친이Ⅳ_T",
@@ -1389,19 +2137,40 @@
       "key": "be해골무리Ⅳ_AI",
       "rank_note": "top",
       "roas": 0.0,
-      "spend": 224991.0,
-      "ctr": 7.78,
+      "spend": 225291.0,
+      "ctr": 7.75,
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
       "real_rev": 293000,
       "real_orders": 2,
-      "real_spend": 224991.0,
+      "real_spend": 225291.0,
       "real_roas": 1.3,
       "platforms": [
+        "google",
         "meta"
       ],
       "platform_metrics": {
+        "google": {
+          "spend": 300.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 0.0,
+          "cvr": null,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 0.0,
+          "completion": 0.0,
+          "ret_curve": [
+            100.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
         "meta": {
           "spend": 224991.0,
           "revenue": 0.0,
@@ -1649,271 +2418,6 @@
       "why": "평범한 실사·미녀 비주얼 피로를 해골 밈의 기괴함으로 깨 주목을 낚고, 숫자 서사(5명·30일)가 신뢰감을 흉내 냄. 다만 유사임상·부항 비주얼은 효능 오인 컴플라 리스크"
     },
     {
-      "key": "be신세대벨로컷Ⅲ_AI",
-      "rank_note": "bottom",
-      "roas": 0.0,
-      "spend": 132198.0,
-      "ctr": 8.06,
-      "cvr": 0.0,
-      "cpa": null,
-      "purchases": 0.0,
-      "real_rev": 400000,
-      "real_orders": 4,
-      "real_spend": 132198.0,
-      "real_roas": 3.03,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 132198.0,
-          "revenue": 0.0,
-          "roas": 0.0,
-          "ctr": 8.06,
-          "cvr": 0.0,
-          "cpa": null,
-          "purchases": 0.0,
-          "hook_rate": 80.3,
-          "hold_rate": 68.9,
-          "play50": null,
-          "completion": null,
-          "ret_curve": [
-            100,
-            96,
-            88,
-            83,
-            75,
-            72,
-            68,
-            66,
-            64,
-            63,
-            62,
-            61,
-            61,
-            60,
-            60,
-            59,
-            41,
-            34,
-            31,
-            14,
-            9,
-            0
-          ]
-        }
-      },
-      "demo": {
-        "source": "meta",
-        "pur_total": 0,
-        "imp_total": 4134,
-        "buckets": [
-          {
-            "age": "18-24",
-            "gender": "female",
-            "pur": 0,
-            "imp": 104
-          },
-          {
-            "age": "18-24",
-            "gender": "male",
-            "pur": 0,
-            "imp": 132
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 2
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 0,
-            "imp": 218
-          },
-          {
-            "age": "25-34",
-            "gender": "male",
-            "pur": 0,
-            "imp": 209
-          },
-          {
-            "age": "25-34",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 2
-          },
-          {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 0,
-            "imp": 273
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 359
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 5
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 0,
-            "imp": 562
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 0,
-            "imp": 753
-          },
-          {
-            "age": "45-54",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 3
-          },
-          {
-            "age": "55-64",
-            "gender": "female",
-            "pur": 0,
-            "imp": 512
-          },
-          {
-            "age": "55-64",
-            "gender": "male",
-            "pur": 0,
-            "imp": 656
-          },
-          {
-            "age": "55-64",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 2
-          },
-          {
-            "age": "65+",
-            "gender": "female",
-            "pur": 0,
-            "imp": 130
-          },
-          {
-            "age": "65+",
-            "gender": "male",
-            "pur": 0,
-            "imp": 212
-          }
-        ]
-      },
-      "duration": 56.0,
-      "frames": [
-        "f00_0.1s.jpg",
-        "f01_0.3s.jpg",
-        "f02_1.0s.jpg",
-        "f03_2.0s.jpg",
-        "f04_2.7s.jpg",
-        "f05_3.0s.jpg",
-        "f06_5.3s.jpg",
-        "f07_8.0s.jpg",
-        "f08_10.7s.jpg",
-        "f09_13.3s.jpg",
-        "f10_16.0s.jpg",
-        "f11_18.7s.jpg",
-        "f12_21.3s.jpg",
-        "f13_24.0s.jpg",
-        "f14_26.6s.jpg",
-        "f15_29.3s.jpg",
-        "f16_32.0s.jpg",
-        "f17_34.6s.jpg",
-        "f18_37.3s.jpg",
-        "f19_40.0s.jpg",
-        "f20_42.6s.jpg",
-        "f21_45.3s.jpg",
-        "f22_48.0s.jpg",
-        "f23_50.6s.jpg",
-        "f24_53.3s.jpg",
-        "f25_55.9s.jpg"
-      ],
-      "frame_times": [
-        0.1,
-        0.3,
-        1.0,
-        2.0,
-        2.7,
-        3.0,
-        5.3,
-        8.0,
-        10.7,
-        13.3,
-        16.0,
-        18.7,
-        21.3,
-        24.0,
-        26.6,
-        29.3,
-        32.0,
-        34.6,
-        37.3,
-        40.0,
-        42.6,
-        45.3,
-        48.0,
-        50.6,
-        53.3,
-        55.9
-      ],
-      "transcript": "저는 1세대 마사지 기계 예전엔 사람들이 절을 써서 지나고 닮걸리는 통증들을 잡으려고 했죠 하지만 전 너무 낡았어요 이젠 여러분의 통증을 통째로 날려줄 신세대 구원 투수를 소개해 줄게요 안녕 난 벨로컷 폐물 디바이스들과는 다르게 온열 EMS 부합 기술을 동시에 발사해서 마치 개인 마사지사 고용한 듯 원하는 부위마다 뭉쳐있는 근육을 분리해 주고 노폐물 통로를 열어주니까 1년간 굳어있는 닮통증이 비로소 풀리는 거야 이제 겉만 주무르는 발사 온열기 마사지 건은 버리라고 나 혼자 충분하니까 심지어 내 음압은 65kPa 조선시대 때부터 내려온 전통 부합 요법과 같아 어깨, 목 등 통증이 있는 곳이라면 어디든 사용할 수 있고 자체 개발된 45hz 무통증 황금 주파수가 들어올린 근막 사이로 막힌 림프절을 뚫어주지 거기다가 8개의 마사지 볼이 지친 근육을 롤링해줘 지금 출시 기념으로 15만원 싸게 판매 중이야 내가 다니는 관리센터보다 10배는 싼 가격이지 써보고 효과 없으면 100% 무료 환불도 해줄테니까 그냥 무료 체험 한번 해보라고",
-      "analyzed": true,
-      "base": {
-        "hook_type": "캐릭터 의인화형",
-        "first_3s": "병원 침대에 누운 낡은 1세대 부항기 캐릭터가 '저는 1세대 마사지 기계'라고 고백",
-        "appeal_angle": "구세대 기기의 세대교체 서사: 온열·EMS·음압 올인원으로 담·결림을 풀어준다",
-        "cta": "써보고 효과 없으면 환불, 무료 체험처럼 해보라고",
-        "keywords": [
-          "1세대",
-          "신세대",
-          "의인화",
-          "담결림",
-          "65kPa",
-          "45Hz",
-          "전통요법",
-          "100%환불"
-        ]
-      },
-      "audio": {
-        "opening_line": "저는 1세대 마사지 기계, 예전엔 사람들이 저를 써서",
-        "voice_style": "늙은 캐릭터→당당한 마스코트 캐릭터 보이스",
-        "narration_mode": "캐릭터 1인칭"
-      },
-      "visual": {
-        "format": "3D 의인화 캐릭터 _AI",
-        "mechanism_viz": "음압·EMS 피부 단면, 노폐물 통로, 45Hz 헤드 클로즈업",
-        "before_after": "구형 기기 쇠락→신형 등장",
-        "subtitle_style": "중앙 흰 굵은 자막"
-      },
-      "target": {
-        "gender": "공용",
-        "age": "35~60",
-        "segment": "담·결림·어깨 뭉침층",
-        "appeal_axis": "통증회피+기기 세대교체"
-      },
-      "trust": {
-        "evidence": "65kPa·45Hz 스펙, 조선시대 전통요법 언급",
-        "refund": "효과 없으면 100% 환불",
-        "discount": "출시 기념 15만원 할인, 관리센터보다 10배 저렴 주장",
-        "compliance": "⚠ '부항'은 의료기기 품목명이라 직접 언급·전통 요법 동일시 위험, '통증을 날려준다'·'막힌 림프절을 뚫어준다'·'노폐물 통로' 의료효과 표현, 병원 침상 세트, '무통증 황금 주파수' 과장"
-      },
-      "one_liner": "구세대 기기가 병상에 누운 오프닝이 재미있어 시선은 잡지만, 스펙과 의료성 표현이 쏟아져 후반이 무거워진다",
-      "why": "의인화 세대교체 서사가 경쟁 기기 비교를 웃기게 풀어내고, 환불로 마무리해 오퍼도 분명하다. 다만 캐릭터 재미에 비해 사람의 담·결림 장면이 없어 고객 고민이 잘 보이지 않고, 온열·EMS·음압·45Hz·볼을 한꺼번에 나열해 핵심 한 가지가 남지 않는다. 부항·림프 표현은 심의 전 수정이 필요하다"
-    },
-    {
       "key": "be단종된대Ⅱ_T",
       "rank_note": "top",
       "roas": 0.0,
@@ -1922,10 +2426,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
-      "real_rev": 683000,
-      "real_orders": 6,
+      "real_rev": 791000,
+      "real_orders": 7,
       "real_spend": 87008.0,
-      "real_roas": 7.85,
+      "real_roas": 9.09,
       "platforms": [
         "meta"
       ],
@@ -2185,10 +2689,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
-      "real_rev": 0,
-      "real_orders": 0,
+      "real_rev": 237000,
+      "real_orders": 2,
       "real_spend": 76624.0,
-      "real_roas": 0.0,
+      "real_roas": 3.09,
       "platforms": [
         "meta"
       ],
@@ -2428,10 +2932,10 @@
       "cvr": 0.0,
       "cpa": null,
       "purchases": 0.0,
-      "real_rev": 0,
-      "real_orders": 0,
+      "real_rev": 108000,
+      "real_orders": 1,
       "real_spend": 45729.0,
-      "real_roas": 0.0,
+      "real_roas": 2.36,
       "platforms": [
         "meta"
       ],
@@ -2664,6 +3168,192 @@
       },
       "one_liner": "가시 빼기 비유가 신선하고 음압 원리를 쉽게 풀지만, 제품과 어깨 고민이 늦게 나오는 우회형 훅이다",
       "why": "핀셋 vs 식초 비유로 '억지로 문지르지 말고 들어 올려라'를 한 번에 이해시키는 구조는 좋다. 그러나 초반 내내 승모근 고민층이 자기 이야기로 느낄 단서가 없어 타겟이 걸러지지 않고, 가격·환불 오퍼 없이 끝나 구매 동력이 약하다"
+    },
+    {
+      "key": "be근막결절Ⅰ_T",
+      "rank_note": "bottom",
+      "roas": 0.0,
+      "spend": 32664.0,
+      "ctr": 1.07,
+      "cvr": 0.0,
+      "cpa": null,
+      "purchases": 0.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 32664.0,
+      "real_roas": 0.0,
+      "platforms": [
+        "google",
+        "meta"
+      ],
+      "platform_metrics": {
+        "google": {
+          "spend": 26506.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 0.99,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": null,
+          "hold_rate": null,
+          "play50": 33.4,
+          "completion": 25.6,
+          "ret_curve": [
+            100.0,
+            43.9,
+            33.4,
+            28.9,
+            25.6
+          ]
+        },
+        "meta": {
+          "spend": 6158.0,
+          "revenue": 0.0,
+          "roas": 0.0,
+          "ctr": 3.45,
+          "cvr": 0.0,
+          "cpa": null,
+          "purchases": 0.0,
+          "hook_rate": 58.6,
+          "hold_rate": 42.6,
+          "play50": null,
+          "completion": null,
+          "ret_curve": [
+            100,
+            93,
+            80,
+            63,
+            56,
+            44,
+            40,
+            37,
+            36,
+            36,
+            34,
+            30,
+            29,
+            27,
+            27,
+            27,
+            16,
+            11,
+            13,
+            6,
+            0,
+            0
+          ]
+        }
+      },
+      "demo": {
+        "source": "meta",
+        "pur_total": 0,
+        "imp_total": 116,
+        "buckets": [
+          {
+            "age": "18-24",
+            "gender": "female",
+            "pur": 0,
+            "imp": 4
+          },
+          {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 12
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 12
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 48
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 33
+          },
+          {
+            "age": "65+",
+            "gender": "female",
+            "pur": 0,
+            "imp": 7
+          }
+        ]
+      },
+      "duration": 47.7,
+      "frames": [
+        "f00_0.1s.jpg",
+        "f01_0.3s.jpg",
+        "f02_1.0s.jpg",
+        "f03_2.0s.jpg",
+        "f04_2.3s.jpg",
+        "f05_3.0s.jpg",
+        "f06_4.5s.jpg",
+        "f07_6.8s.jpg",
+        "f08_9.1s.jpg",
+        "f09_11.4s.jpg",
+        "f10_13.6s.jpg",
+        "f11_15.9s.jpg",
+        "f12_18.2s.jpg",
+        "f13_20.4s.jpg",
+        "f14_22.7s.jpg",
+        "f15_25.0s.jpg",
+        "f16_27.2s.jpg",
+        "f17_29.5s.jpg",
+        "f18_31.8s.jpg",
+        "f19_34.1s.jpg",
+        "f20_36.3s.jpg",
+        "f21_38.6s.jpg",
+        "f22_40.9s.jpg",
+        "f23_43.1s.jpg",
+        "f24_45.4s.jpg",
+        "f25_47.6s.jpg"
+      ],
+      "frame_times": [
+        0.1,
+        0.3,
+        1.0,
+        2.0,
+        2.3,
+        3.0,
+        4.5,
+        6.8,
+        9.1,
+        11.4,
+        13.6,
+        15.9,
+        18.2,
+        20.4,
+        22.7,
+        25.0,
+        27.2,
+        29.5,
+        31.8,
+        34.1,
+        36.3,
+        38.6,
+        40.9,
+        43.1,
+        45.4,
+        47.6
+      ],
+      "transcript": "운동하면 점점 커지는 거북목, 승모근의 공통점이 있습니다 바로 금막 깊숙이 굳어있는 결절 때문인데요 이 결절은 마치 껌처럼 피부 속 깊은 곳에 엉겨붙어 있어 스트레칭이나 겉만 주무르는 마사지만으로 절대 풀어지지 않습니다 그렇다면 어떻게 해야 할까요? 그 해답은 조선시대 동의보관부터 내려온 전통음화법에 있습니다 여기에 최신 EMS 기술을 결합해 전통의 깊이와 현대의 기술력을 더한 3배 강력한 효과를 냅니다 이 국내 유일 X-CONTOUR 기술을 적용해 65kPa의 강력한 부합으로 깊게 뭉친 조직을 쫙 끌어올린 뒤 8개의 구슬롤러와 무통증 황금주파수가 껌처럼 질긴 결절을 풀어주고 막힌 혈로를 시원하게 뚫어주죠 요즘 떠오르는 K-테라피로 한방 스파샵에서 몇십만원씩 주고받아야 했던 관리를 하루 300원에 집에서 그대로 누릴 수 있는 겁니다 뭉친 곳에 은은하게 올라오는 자국 바로 20년간 쌓여있던 독소와 노폐물이 빠져나가는 증거입니다 거북목, 솟은 어깨를 일자라인으로 되돌리고 싶다면 지금 바로 시작해보세요",
+      "analyzed": false,
+      "base": {},
+      "audio": {},
+      "visual": {},
+      "target": {},
+      "trust": {},
+      "one_liner": "",
+      "why": ""
     }
   ]
 }
