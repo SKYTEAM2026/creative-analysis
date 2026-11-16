@@ -2,7 +2,7 @@
   "code": "nb",
   "product": "뉴베로",
   "range": "last_30d",
-  "generated": "2026-11-13",
+  "generated": "2026-11-16",
   "criteria": "유의미 지출(제한없음↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -28,44 +28,44 @@
     {
       "key": "nb팔뚝툭튀Ⅱ_AP",
       "rank_note": "top",
-      "roas": 1.62,
-      "spend": 3926775.0,
-      "ctr": 2.22,
-      "cvr": 2.48,
-      "cpa": 81808,
+      "roas": 1.63,
+      "spend": 3884697.0,
+      "ctr": 2.25,
+      "cvr": 2.49,
+      "cpa": 80931,
       "purchases": 48.0,
       "real_rev": 3343400,
       "real_orders": 29,
-      "real_spend": 3926775.0,
-      "real_roas": 0.85,
+      "real_spend": 3884697.0,
+      "real_roas": 0.86,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 3926775.0,
+          "spend": 3884697.0,
           "revenue": 6348400.0,
-          "roas": 1.62,
-          "ctr": 2.22,
-          "cvr": 2.48,
-          "cpa": 81808,
+          "roas": 1.63,
+          "ctr": 2.25,
+          "cvr": 2.49,
+          "cpa": 80931,
           "purchases": 48.0,
-          "hook_rate": 31.4,
+          "hook_rate": 31.5,
           "hold_rate": 17.4,
           "play50": null,
           "completion": null,
           "ret_curve": [
             100,
-            69,
+            70,
             42,
-            32,
+            33,
             27,
             22,
             18,
             15,
             13,
             12,
-            10,
+            11,
             8,
             7,
             7,
@@ -83,91 +83,91 @@
       "demo": {
         "source": "meta",
         "pur_total": 48,
-        "imp_total": 87104,
+        "imp_total": 85672,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
             "pur": 1,
-            "imp": 4898
+            "imp": 4730
           },
           {
             "age": "18-24",
             "gender": "male",
             "pur": 1,
-            "imp": 2668
+            "imp": 2571
           },
           {
             "age": "18-24",
             "gender": "unknown",
             "pur": 0,
-            "imp": 53
+            "imp": 51
           },
           {
             "age": "25-34",
             "gender": "female",
             "pur": 6,
-            "imp": 18109
+            "imp": 17860
           },
           {
             "age": "25-34",
             "gender": "male",
             "pur": 0,
-            "imp": 4378
+            "imp": 4253
           },
           {
             "age": "25-34",
             "gender": "unknown",
             "pur": 0,
-            "imp": 104
+            "imp": 103
           },
           {
             "age": "35-44",
             "gender": "female",
             "pur": 17,
-            "imp": 20599
+            "imp": 20361
           },
           {
             "age": "35-44",
             "gender": "male",
             "pur": 2,
-            "imp": 3902
+            "imp": 3787
           },
           {
             "age": "35-44",
             "gender": "unknown",
             "pur": 0,
-            "imp": 95
+            "imp": 94
           },
           {
             "age": "45-54",
             "gender": "female",
             "pur": 17,
-            "imp": 18705
+            "imp": 18513
           },
           {
             "age": "45-54",
             "gender": "male",
             "pur": 0,
-            "imp": 3865
+            "imp": 3790
           },
           {
             "age": "45-54",
             "gender": "unknown",
             "pur": 0,
-            "imp": 117
+            "imp": 115
           },
           {
             "age": "55-64",
             "gender": "female",
             "pur": 2,
-            "imp": 5484
+            "imp": 5430
           },
           {
             "age": "55-64",
             "gender": "male",
             "pur": 1,
-            "imp": 2519
+            "imp": 2446
           },
           {
             "age": "55-64",
@@ -179,13 +179,13 @@
             "age": "65+",
             "gender": "female",
             "pur": 1,
-            "imp": 853
+            "imp": 828
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 0,
-            "imp": 724
+            "imp": 709
           },
           {
             "age": "65+",
@@ -297,273 +297,6 @@
       },
       "one_liner": "'특가 당첨'이라는 상황극 + '마동석 팔뚝→뼈말라' 비포애프터로 재미와 오퍼를 결합.",
       "why": "상황극 오퍼 + 극적 비포애프터."
-    },
-    {
-      "key": "nb할인좀Ⅱ_AIP",
-      "rank_note": "top",
-      "roas": 1.18,
-      "spend": 430124.0,
-      "ctr": 2.25,
-      "cvr": 1.74,
-      "cpa": 143375,
-      "purchases": 3.0,
-      "real_rev": 89000,
-      "real_orders": 1,
-      "real_spend": 430124.0,
-      "real_roas": 0.21,
-      "platforms": [
-        "meta"
-      ],
-      "platform_metrics": {
-        "meta": {
-          "spend": 430124.0,
-          "revenue": 507700.0,
-          "roas": 1.18,
-          "ctr": 2.25,
-          "cvr": 1.74,
-          "cpa": 143375,
-          "purchases": 3.0,
-          "hook_rate": 30.3,
-          "hold_rate": 33.8,
-          "play50": null,
-          "completion": null,
-          "ret_curve": [
-            100,
-            65,
-            38,
-            31,
-            26,
-            23,
-            20,
-            18,
-            17,
-            16,
-            16,
-            14,
-            13,
-            12,
-            11,
-            11,
-            7,
-            6,
-            6,
-            5,
-            2,
-            0
-          ]
-        }
-      },
-      "demo": {
-        "source": "meta",
-        "pur_total": 3,
-        "imp_total": 7646,
-        "buckets": [
-          {
-            "age": "18-24",
-            "gender": "female",
-            "pur": 0,
-            "imp": 621
-          },
-          {
-            "age": "18-24",
-            "gender": "male",
-            "pur": 0,
-            "imp": 319
-          },
-          {
-            "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 11
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 1,
-            "imp": 2459
-          },
-          {
-            "age": "25-34",
-            "gender": "male",
-            "pur": 0,
-            "imp": 455
-          },
-          {
-            "age": "25-34",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 16
-          },
-          {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 0,
-            "imp": 1677
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 0,
-            "imp": 302
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 6
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 1,
-            "imp": 1016
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 0,
-            "imp": 232
-          },
-          {
-            "age": "45-54",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 9
-          },
-          {
-            "age": "55-64",
-            "gender": "female",
-            "pur": 1,
-            "imp": 283
-          },
-          {
-            "age": "55-64",
-            "gender": "male",
-            "pur": 0,
-            "imp": 152
-          },
-          {
-            "age": "55-64",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 2
-          },
-          {
-            "age": "65+",
-            "gender": "female",
-            "pur": 0,
-            "imp": 43
-          },
-          {
-            "age": "65+",
-            "gender": "male",
-            "pur": 0,
-            "imp": 41
-          },
-          {
-            "age": "65+",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 2
-          }
-        ]
-      },
-      "duration": 57.7,
-      "frames": [
-        "f00_0.1s.jpg",
-        "f01_0.3s.jpg",
-        "f02_1.0s.jpg",
-        "f03_2.0s.jpg",
-        "f04_2.7s.jpg",
-        "f05_3.0s.jpg",
-        "f06_5.5s.jpg",
-        "f07_8.2s.jpg",
-        "f08_11.0s.jpg",
-        "f09_13.7s.jpg",
-        "f10_16.5s.jpg",
-        "f11_19.2s.jpg",
-        "f12_22.0s.jpg",
-        "f13_24.7s.jpg",
-        "f14_27.5s.jpg",
-        "f15_30.2s.jpg",
-        "f16_33.0s.jpg",
-        "f17_35.7s.jpg",
-        "f18_38.5s.jpg",
-        "f19_41.2s.jpg",
-        "f20_44.0s.jpg",
-        "f21_46.7s.jpg",
-        "f22_49.5s.jpg",
-        "f23_52.2s.jpg",
-        "f24_55.0s.jpg",
-        "f25_57.6s.jpg"
-      ],
-      "frame_times": [
-        0.1,
-        0.3,
-        1.0,
-        2.0,
-        2.7,
-        3.0,
-        5.5,
-        8.2,
-        11.0,
-        13.7,
-        16.5,
-        19.2,
-        22.0,
-        24.7,
-        27.5,
-        30.2,
-        33.0,
-        35.7,
-        38.5,
-        41.2,
-        44.0,
-        46.7,
-        49.5,
-        52.2,
-        55.0,
-        57.6
-      ],
-      "transcript": "이거 할인 좀 해주세요. 이거 한 개에 정가 14만 5천 원짜리에요. 그럼 얼마까지 할인해줄 수 있으세요? 무슨 할인이에요? 지금 테니스 선수들까지 팔 라인 관리용으로 쓰던 프로급 EMS 기술이라 소문나서 없어서 못 판다고 이미 난리인데. 그러니까 고맙잖아요. 감사 이벤트 하셔야죠. 그럼 11만 원 정도는 어때요? 그런 애매한 할인 할 거면 집어치우세요. 이거 유럽 독점이었던 코어 웨이브 기술로 발동 속지방 제거를 한 균푸순환을 한 번에 해결할 수 있는 거 아시잖아요? 운동 안 하고 가만히 팔만 감아도도 지방은 빠지고 아인이 잡힌다고요? 그러니까 사람들 다 사용해보게 더 할인 가셔야죠. 아 그럼 개당 89,000원. 이거보다 더 싸게 드리면 마진도 안 남아요. 대신 무료배송. 아 좀 약한데. 그럼 이거 한 개 사면 한 개 더 주세요. 무슨 1플러스 1이에요? 아 안 돼요. 아니 시후만 감아도 덤벨 200개 든 효과랑 똑같다고 난리나서 이거 궁금한 분들 많으실 테니까 1플러스 1 드리자고요. 해주세요. 한 개 사면 한 개 더. 아 알겠어요. 대신 딱 일주일 만에.",
-      "analyzed": true,
-      "base": {
-        "hook_type": "할인 협상 상황극",
-        "first_3s": "AI 인물이 제품 건네며 '이거 할인 좀 해주세요'",
-        "appeal_angle": "가격·희소성",
-        "cta": "감사 이벤트 하셔야죠",
-        "keywords": [
-          "할인 협상",
-          "14만5천원",
-          "테니스선수",
-          "없어서 못 판다"
-        ]
-      },
-      "audio": {
-        "opening_line": "이거 할인 좀 해주세요",
-        "voice_style": "홈쇼핑식 밀당 대화",
-        "narration_mode": "AI 상황극"
-      },
-      "visual": {
-        "format": "AI 생성",
-        "mechanism_viz": "제품 실물 클로즈업",
-        "before_after": "–",
-        "subtitle_style": "깔끔 자막"
-      },
-      "target": {
-        "gender": "여성",
-        "age": "30·40대",
-        "segment": "가격 민감·특가 반응",
-        "appeal_axis": "오퍼+희소성"
-      },
-      "trust": {
-        "evidence": "코어웨이브, 테니스선수 사용",
-        "refund": "–",
-        "discount": "할인 밀당",
-        "compliance": "양호"
-      },
-      "one_liner": "'할인 좀 해달라'는 밀당 상황극으로 '없어서 못 판다'는 희소성을 각인시킨다.",
-      "why": "상황극 오퍼 훅 + 희소성. 물량은 크나 효율은 중간."
     }
   ]
 }

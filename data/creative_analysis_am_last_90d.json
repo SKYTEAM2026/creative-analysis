@@ -2,7 +2,7 @@
   "code": "am",
   "product": "아치핀 맥스",
   "range": "last_90d",
-  "generated": "2026-11-13",
+  "generated": "2026-11-16",
   "criteria": "유의미 지출(제한없음↑, 제품 규모 자동조정) 소재 중 → 🏆상위=지출가중 ROAS(ROAS×√지출) 상위(지출 크고 ROAS 높은 검증된 승자), 📉하위=순수 ROAS 낮은 소재(지출 무관 실패작). 지출 적은 고ROAS는 상·하위 어디에도 안 넣고 '판단 보류'로 제외. '통합'=3매체 합산, '메타/틱톡/구글'=각 매체 독립 선정(그 매체 지출 50만↑). 영상 원본 매칭분만, PPL·이미지 제외.",
   "platforms": [
     "meta",
@@ -29,52 +29,52 @@
     {
       "key": "am축구선수도Ⅳ_T",
       "rank_note": "top",
-      "roas": 9.62,
-      "spend": 37985.0,
-      "ctr": 5.65,
-      "cvr": 3.59,
-      "cpa": 5426,
-      "purchases": 7.0,
-      "real_rev": 97200,
-      "real_orders": 2,
-      "real_spend": 37985.0,
-      "real_roas": 2.56,
+      "roas": 11.99,
+      "spend": 8075.0,
+      "ctr": 4.17,
+      "cvr": 5.88,
+      "cpa": 4038,
+      "purchases": 2.0,
+      "real_rev": 0,
+      "real_orders": 0,
+      "real_spend": 8075.0,
+      "real_roas": null,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 37985.0,
-          "revenue": 365600.0,
-          "roas": 9.62,
-          "ctr": 5.65,
-          "cvr": 3.59,
-          "cpa": 5426,
-          "purchases": 7.0,
-          "hook_rate": 49.0,
-          "hold_rate": 69.3,
+          "spend": 8075.0,
+          "revenue": 96800.0,
+          "roas": 11.99,
+          "ctr": 4.17,
+          "cvr": 5.88,
+          "cpa": 4038,
+          "purchases": 2.0,
+          "hook_rate": 45.5,
+          "hold_rate": 65.0,
           "play50": null,
           "completion": null,
           "ret_curve": [
             100,
-            80,
-            63,
-            52,
-            46,
-            44,
+            76,
+            59,
+            48,
             42,
             40,
-            39,
-            39,
-            38,
-            38,
             37,
-            37,
-            37,
-            38,
-            25,
-            21,
-            19,
+            35,
+            34,
+            34,
+            33,
+            33,
+            33,
+            33,
+            32,
+            34,
+            22,
+            18,
+            18,
             5,
             2,
             0
@@ -83,110 +83,98 @@
       },
       "demo": {
         "source": "meta",
-        "pur_total": 7,
-        "imp_total": 3452,
+        "pur_total": 2,
+        "imp_total": 815,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
-            "pur": 1,
-            "imp": 186
+            "pur": 0,
+            "imp": 52
           },
           {
             "age": "18-24",
             "gender": "male",
             "pur": 1,
-            "imp": 567
+            "imp": 149
           },
           {
             "age": "18-24",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 7
-          },
-          {
-            "age": "25-34",
-            "gender": "female",
-            "pur": 0,
-            "imp": 176
-          },
-          {
-            "age": "25-34",
-            "gender": "male",
-            "pur": 1,
-            "imp": 623
-          },
-          {
-            "age": "25-34",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 15
-          },
-          {
-            "age": "35-44",
-            "gender": "female",
-            "pur": 0,
-            "imp": 183
-          },
-          {
-            "age": "35-44",
-            "gender": "male",
-            "pur": 1,
-            "imp": 268
-          },
-          {
-            "age": "35-44",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 4
-          },
-          {
-            "age": "45-54",
-            "gender": "female",
-            "pur": 1,
-            "imp": 440
-          },
-          {
-            "age": "45-54",
-            "gender": "male",
-            "pur": 0,
-            "imp": 367
-          },
-          {
-            "age": "45-54",
-            "gender": "unknown",
-            "pur": 0,
-            "imp": 2
-          },
-          {
-            "age": "55-64",
-            "gender": "female",
-            "pur": 0,
-            "imp": 279
-          },
-          {
-            "age": "55-64",
-            "gender": "male",
-            "pur": 1,
-            "imp": 242
-          },
-          {
-            "age": "55-64",
             "gender": "unknown",
             "pur": 0,
             "imp": 1
           },
           {
+            "age": "25-34",
+            "gender": "female",
+            "pur": 0,
+            "imp": 50
+          },
+          {
+            "age": "25-34",
+            "gender": "male",
+            "pur": 0,
+            "imp": 166
+          },
+          {
+            "age": "25-34",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 6
+          },
+          {
+            "age": "35-44",
+            "gender": "female",
+            "pur": 0,
+            "imp": 43
+          },
+          {
+            "age": "35-44",
+            "gender": "male",
+            "pur": 1,
+            "imp": 59
+          },
+          {
+            "age": "35-44",
+            "gender": "unknown",
+            "pur": 0,
+            "imp": 1
+          },
+          {
+            "age": "45-54",
+            "gender": "female",
+            "pur": 0,
+            "imp": 102
+          },
+          {
+            "age": "45-54",
+            "gender": "male",
+            "pur": 0,
+            "imp": 75
+          },
+          {
+            "age": "55-64",
+            "gender": "female",
+            "pur": 0,
+            "imp": 56
+          },
+          {
+            "age": "55-64",
+            "gender": "male",
+            "pur": 0,
+            "imp": 46
+          },
+          {
             "age": "65+",
             "gender": "female",
-            "pur": 1,
-            "imp": 50
+            "pur": 0,
+            "imp": 5
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 0,
-            "imp": 42
+            "imp": 4
           }
         ]
       },
@@ -260,51 +248,51 @@
     {
       "key": "am순식간뼈벅지Ⅰ_T",
       "rank_note": "top",
-      "roas": 2.29,
-      "spend": 334931.0,
-      "ctr": 1.69,
-      "cvr": 5.21,
-      "cpa": 20933,
+      "roas": 2.93,
+      "spend": 262205.0,
+      "ctr": 1.6,
+      "cvr": 7.08,
+      "cpa": 16388,
       "purchases": 16.0,
       "real_rev": 209400,
       "real_orders": 5,
-      "real_spend": 334931.0,
-      "real_roas": 0.63,
+      "real_spend": 262205.0,
+      "real_roas": 0.8,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 334931.0,
+          "spend": 262205.0,
           "revenue": 767000.0,
-          "roas": 2.29,
-          "ctr": 1.69,
-          "cvr": 5.21,
-          "cpa": 20933,
+          "roas": 2.93,
+          "ctr": 1.6,
+          "cvr": 7.08,
+          "cpa": 16388,
           "purchases": 16.0,
-          "hook_rate": 37.2,
-          "hold_rate": 34.9,
+          "hook_rate": 38.3,
+          "hold_rate": 35.2,
           "play50": null,
           "completion": null,
           "ret_curve": [
             100,
-            88,
-            61,
-            39,
-            29,
-            24,
+            89,
+            62,
+            40,
+            30,
+            25,
+            22,
             21,
             20,
             19,
-            18,
             17,
+            16,
             16,
             15,
             14,
             14,
-            14,
             10,
-            6,
+            7,
             5,
             2,
             0,
@@ -315,55 +303,55 @@
       "demo": {
         "source": "meta",
         "pur_total": 16,
-        "imp_total": 18185,
+        "imp_total": 14163,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
             "pur": 1,
-            "imp": 2257
+            "imp": 1660
           },
           {
             "age": "18-24",
             "gender": "male",
             "pur": 0,
-            "imp": 1299
+            "imp": 986
           },
           {
             "age": "18-24",
             "gender": "unknown",
             "pur": 0,
-            "imp": 15
+            "imp": 12
           },
           {
             "age": "25-34",
             "gender": "female",
             "pur": 3,
-            "imp": 2466
+            "imp": 1841
           },
           {
             "age": "25-34",
             "gender": "male",
             "pur": 0,
-            "imp": 1217
+            "imp": 920
           },
           {
             "age": "25-34",
             "gender": "unknown",
             "pur": 0,
-            "imp": 24
+            "imp": 17
           },
           {
             "age": "35-44",
             "gender": "female",
             "pur": 3,
-            "imp": 2487
+            "imp": 1948
           },
           {
             "age": "35-44",
             "gender": "male",
             "pur": 1,
-            "imp": 851
+            "imp": 672
           },
           {
             "age": "35-44",
@@ -375,31 +363,31 @@
             "age": "45-54",
             "gender": "female",
             "pur": 4,
-            "imp": 3463
+            "imp": 2726
           },
           {
             "age": "45-54",
             "gender": "male",
             "pur": 3,
-            "imp": 1307
+            "imp": 1096
           },
           {
             "age": "45-54",
             "gender": "unknown",
             "pur": 0,
-            "imp": 20
+            "imp": 15
           },
           {
             "age": "55-64",
             "gender": "female",
             "pur": 0,
-            "imp": 1537
+            "imp": 1249
           },
           {
             "age": "55-64",
             "gender": "male",
             "pur": 1,
-            "imp": 808
+            "imp": 661
           },
           {
             "age": "55-64",
@@ -411,19 +399,19 @@
             "age": "65+",
             "gender": "female",
             "pur": 0,
-            "imp": 200
+            "imp": 161
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 0,
-            "imp": 214
+            "imp": 180
           },
           {
             "age": "65+",
             "gender": "unknown",
             "pur": 0,
-            "imp": 5
+            "imp": 4
           },
           {
             "age": "Unknown",
@@ -503,30 +491,30 @@
     {
       "key": "am맥스업글Ⅵ_T",
       "rank_note": "top",
-      "roas": 2.12,
-      "spend": 55789578.0,
-      "ctr": 1.5,
-      "cvr": 5.66,
-      "cpa": 23149,
-      "purchases": 2410.0,
-      "real_rev": 68222900,
-      "real_orders": 1482,
-      "real_spend": 55789578.0,
-      "real_roas": 1.22,
+      "roas": 2.07,
+      "spend": 53858271.0,
+      "ctr": 1.53,
+      "cvr": 5.55,
+      "cpa": 23478,
+      "purchases": 2294.0,
+      "real_rev": 64959200,
+      "real_orders": 1420,
+      "real_spend": 53858271.0,
+      "real_roas": 1.21,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 55789578.0,
-          "revenue": 118122780.0,
-          "roas": 2.12,
-          "ctr": 1.5,
-          "cvr": 5.66,
-          "cpa": 23149,
-          "purchases": 2410.0,
-          "hook_rate": 23.0,
-          "hold_rate": 37.4,
+          "spend": 53858271.0,
+          "revenue": 111731174.0,
+          "roas": 2.07,
+          "ctr": 1.53,
+          "cvr": 5.55,
+          "cpa": 23478,
+          "purchases": 2294.0,
+          "hook_rate": 23.1,
+          "hold_rate": 37.3,
           "play50": null,
           "completion": null,
           "ret_curve": [
@@ -557,122 +545,122 @@
       },
       "demo": {
         "source": "meta",
-        "pur_total": 2410,
-        "imp_total": 2833560,
+        "pur_total": 2294,
+        "imp_total": 2703725,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
-            "pur": 126,
-            "imp": 230063
+            "pur": 121,
+            "imp": 220953
           },
           {
             "age": "18-24",
             "gender": "male",
-            "pur": 98,
-            "imp": 174789
+            "pur": 92,
+            "imp": 167427
           },
           {
             "age": "18-24",
             "gender": "unknown",
             "pur": 0,
-            "imp": 3987
+            "imp": 3894
           },
           {
             "age": "25-34",
             "gender": "female",
-            "pur": 264,
-            "imp": 377562
+            "pur": 253,
+            "imp": 362659
           },
           {
             "age": "25-34",
             "gender": "male",
-            "pur": 213,
-            "imp": 273755
+            "pur": 202,
+            "imp": 264093
           },
           {
             "age": "25-34",
             "gender": "unknown",
             "pur": 2,
-            "imp": 4168
+            "imp": 4014
           },
           {
             "age": "35-44",
             "gender": "female",
-            "pur": 493,
-            "imp": 514086
+            "pur": 464,
+            "imp": 485646
           },
           {
             "age": "35-44",
             "gender": "male",
-            "pur": 177,
-            "imp": 254643
+            "pur": 171,
+            "imp": 243749
           },
           {
             "age": "35-44",
             "gender": "unknown",
             "pur": 3,
-            "imp": 3594
+            "imp": 3479
           },
           {
             "age": "45-54",
             "gender": "female",
-            "pur": 590,
-            "imp": 496352
+            "pur": 558,
+            "imp": 469777
           },
           {
             "age": "45-54",
             "gender": "male",
-            "pur": 179,
-            "imp": 223640
+            "pur": 174,
+            "imp": 213123
           },
           {
             "age": "45-54",
             "gender": "unknown",
             "pur": 3,
-            "imp": 3359
+            "imp": 3194
           },
           {
             "age": "55-64",
             "gender": "female",
-            "pur": 156,
-            "imp": 156428
+            "pur": 150,
+            "imp": 149617
           },
           {
             "age": "55-64",
             "gender": "male",
-            "pur": 60,
-            "imp": 77045
+            "pur": 53,
+            "imp": 73634
           },
           {
             "age": "55-64",
             "gender": "unknown",
             "pur": 0,
-            "imp": 1008
+            "imp": 942
           },
           {
             "age": "65+",
             "gender": "female",
-            "pur": 31,
-            "imp": 22380
+            "pur": 32,
+            "imp": 21458
           },
           {
             "age": "65+",
             "gender": "male",
-            "pur": 8,
-            "imp": 16323
+            "pur": 9,
+            "imp": 15708
           },
           {
             "age": "65+",
             "gender": "unknown",
             "pur": 0,
-            "imp": 300
+            "imp": 285
           },
           {
             "age": "Unknown",
             "gender": "female",
             "pur": 0,
-            "imp": 54
+            "imp": 49
           },
           {
             "age": "Unknown",
@@ -788,36 +776,36 @@
     {
       "key": "am동일인오다리Ⅲ_T",
       "rank_note": "top",
-      "roas": 1.83,
-      "spend": 29685646.0,
-      "ctr": 1.38,
-      "cvr": 5.99,
-      "cpa": 24076,
-      "purchases": 1233.0,
-      "real_rev": 42604300,
-      "real_orders": 998,
-      "real_spend": 29685646.0,
-      "real_roas": 1.44,
+      "roas": 1.81,
+      "spend": 29196763.0,
+      "ctr": 1.39,
+      "cvr": 5.96,
+      "cpa": 24331,
+      "purchases": 1200.0,
+      "real_rev": 41532400,
+      "real_orders": 975,
+      "real_spend": 29196763.0,
+      "real_roas": 1.42,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 29685646.0,
-          "revenue": 54357945.0,
-          "roas": 1.83,
-          "ctr": 1.38,
-          "cvr": 5.99,
-          "cpa": 24076,
-          "purchases": 1233.0,
+          "spend": 29196763.0,
+          "revenue": 52791345.0,
+          "roas": 1.81,
+          "ctr": 1.39,
+          "cvr": 5.96,
+          "cpa": 24331,
+          "purchases": 1200.0,
           "hook_rate": 19.5,
           "hold_rate": 20.3,
           "play50": null,
           "completion": null,
           "ret_curve": [
             100,
-            73,
-            31,
+            74,
+            32,
             19,
             14,
             11,
@@ -826,7 +814,7 @@
             8,
             7,
             6,
-            5,
+            6,
             5,
             4,
             4,
@@ -842,128 +830,128 @@
       },
       "demo": {
         "source": "meta",
-        "pur_total": 1233,
-        "imp_total": 1488019,
+        "pur_total": 1200,
+        "imp_total": 1448360,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
-            "pur": 35,
-            "imp": 106085
+            "pur": 36,
+            "imp": 104411
           },
           {
             "age": "18-24",
             "gender": "male",
             "pur": 9,
-            "imp": 32465
+            "imp": 31968
           },
           {
             "age": "18-24",
             "gender": "unknown",
             "pur": 2,
-            "imp": 715
+            "imp": 705
           },
           {
             "age": "25-34",
             "gender": "female",
-            "pur": 224,
-            "imp": 338884
+            "pur": 228,
+            "imp": 330910
           },
           {
             "age": "25-34",
             "gender": "male",
-            "pur": 53,
-            "imp": 99228
+            "pur": 54,
+            "imp": 98377
           },
           {
             "age": "25-34",
             "gender": "unknown",
             "pur": 1,
-            "imp": 1311
+            "imp": 1309
           },
           {
             "age": "35-44",
             "gender": "female",
-            "pur": 286,
-            "imp": 303695
+            "pur": 273,
+            "imp": 292165
           },
           {
             "age": "35-44",
             "gender": "male",
-            "pur": 77,
-            "imp": 106158
+            "pur": 78,
+            "imp": 105055
           },
           {
             "age": "35-44",
             "gender": "unknown",
             "pur": 1,
-            "imp": 1542
+            "imp": 1505
           },
           {
             "age": "45-54",
             "gender": "female",
-            "pur": 296,
-            "imp": 222293
+            "pur": 279,
+            "imp": 213113
           },
           {
             "age": "45-54",
             "gender": "male",
-            "pur": 63,
-            "imp": 99944
+            "pur": 60,
+            "imp": 98313
           },
           {
             "age": "45-54",
             "gender": "unknown",
-            "pur": 1,
-            "imp": 1452
+            "pur": 0,
+            "imp": 1412
           },
           {
             "age": "55-64",
             "gender": "female",
-            "pur": 118,
-            "imp": 97727
+            "pur": 114,
+            "imp": 94342
           },
           {
             "age": "55-64",
             "gender": "male",
             "pur": 39,
-            "imp": 48243
+            "imp": 47272
           },
           {
             "age": "55-64",
             "gender": "unknown",
             "pur": 0,
-            "imp": 663
+            "imp": 653
           },
           {
             "age": "65+",
             "gender": "female",
-            "pur": 19,
-            "imp": 17091
+            "pur": 17,
+            "imp": 16554
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 3,
-            "imp": 10325
+            "imp": 10100
           },
           {
             "age": "65+",
             "gender": "unknown",
             "pur": 0,
-            "imp": 154
+            "imp": 152
           },
           {
             "age": "Unknown",
             "gender": "female",
             "pur": 0,
-            "imp": 35
+            "imp": 36
           },
           {
             "age": "Unknown",
             "gender": "male",
             "pur": 0,
-            "imp": 9
+            "imp": 8
           },
           {
             "age": "Unknown",
@@ -1073,52 +1061,52 @@
     {
       "key": "am직접실험Ⅰ_T",
       "rank_note": "bottom",
-      "roas": 0.32,
-      "spend": 24626535.0,
-      "ctr": 4.55,
-      "cvr": 0.08,
-      "cpa": 169838,
-      "purchases": 145.0,
-      "real_rev": 860900,
-      "real_orders": 17,
-      "real_spend": 24626535.0,
+      "roas": 0.28,
+      "spend": 24478780.0,
+      "ctr": 4.57,
+      "cvr": 0.07,
+      "cpa": 194276,
+      "purchases": 126.0,
+      "real_rev": 642400,
+      "real_orders": 12,
+      "real_spend": 24478780.0,
       "real_roas": 0.03,
       "platforms": [
         "meta"
       ],
       "platform_metrics": {
         "meta": {
-          "spend": 24626535.0,
-          "revenue": 7818500.0,
-          "roas": 0.32,
-          "ctr": 4.55,
-          "cvr": 0.08,
-          "cpa": 169838,
-          "purchases": 145.0,
-          "hook_rate": 76.6,
-          "hold_rate": 77.1,
+          "spend": 24478780.0,
+          "revenue": 6861200.0,
+          "roas": 0.28,
+          "ctr": 4.57,
+          "cvr": 0.07,
+          "cpa": 194276,
+          "purchases": 126.0,
+          "hook_rate": 76.7,
+          "hold_rate": 78.5,
           "play50": null,
           "completion": null,
           "ret_curve": [
             100,
-            96,
+            97,
             88,
             85,
-            83,
+            84,
             83,
             79,
-            74,
+            75,
+            73,
             72,
             71,
-            70,
+            72,
+            71,
+            71,
             71,
             70,
-            69,
-            69,
-            69,
-            63,
+            64,
+            62,
             61,
-            59,
             0,
             0,
             0
@@ -1127,116 +1115,116 @@
       },
       "demo": {
         "source": "meta",
-        "pur_total": 145,
-        "imp_total": 4108213,
+        "pur_total": 126,
+        "imp_total": 4058408,
         "buckets": [
           {
             "age": "18-24",
             "gender": "female",
-            "pur": 5,
-            "imp": 117173
+            "pur": 4,
+            "imp": 116863
           },
           {
             "age": "18-24",
             "gender": "male",
-            "pur": 7,
-            "imp": 124475
+            "pur": 6,
+            "imp": 125328
           },
           {
             "age": "18-24",
             "gender": "unknown",
             "pur": 0,
-            "imp": 2682
+            "imp": 2699
           },
           {
             "age": "25-34",
             "gender": "female",
             "pur": 12,
-            "imp": 294624
+            "imp": 292153
           },
           {
             "age": "25-34",
             "gender": "male",
-            "pur": 17,
-            "imp": 284905
+            "pur": 11,
+            "imp": 285643
           },
           {
             "age": "25-34",
             "gender": "unknown",
             "pur": 1,
-            "imp": 4638
+            "imp": 4605
           },
           {
             "age": "35-44",
             "gender": "female",
-            "pur": 11,
-            "imp": 337413
+            "pur": 8,
+            "imp": 329350
           },
           {
             "age": "35-44",
             "gender": "male",
-            "pur": 12,
-            "imp": 271421
+            "pur": 11,
+            "imp": 270716
           },
           {
             "age": "35-44",
             "gender": "unknown",
             "pur": 0,
-            "imp": 3561
+            "imp": 3556
           },
           {
             "age": "45-54",
             "gender": "female",
             "pur": 20,
-            "imp": 499707
+            "imp": 485499
           },
           {
             "age": "45-54",
             "gender": "male",
-            "pur": 19,
-            "imp": 428365
+            "pur": 18,
+            "imp": 419651
           },
           {
             "age": "45-54",
             "gender": "unknown",
             "pur": 0,
-            "imp": 5742
+            "imp": 5680
           },
           {
             "age": "55-64",
             "gender": "female",
-            "pur": 17,
-            "imp": 657326
+            "pur": 16,
+            "imp": 650259
           },
           {
             "age": "55-64",
             "gender": "male",
-            "pur": 15,
-            "imp": 522739
+            "pur": 12,
+            "imp": 515089
           },
           {
             "age": "55-64",
             "gender": "unknown",
             "pur": 0,
-            "imp": 9896
+            "imp": 9704
           },
           {
             "age": "65+",
             "gender": "female",
             "pur": 4,
-            "imp": 288389
+            "imp": 289291
           },
           {
             "age": "65+",
             "gender": "male",
             "pur": 2,
-            "imp": 252038
+            "imp": 249204
           },
           {
             "age": "65+",
             "gender": "unknown",
             "pur": 0,
-            "imp": 3108
+            "imp": 3107
           },
           {
             "age": "Unknown",
@@ -1253,7 +1241,7 @@
           {
             "age": "Unknown",
             "gender": "unknown",
-            "pur": 3,
+            "pur": 1,
             "imp": 0
           }
         ]
