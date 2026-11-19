@@ -18,15 +18,15 @@
       "counts": {
         "last_14d": {
           "n": 32,
-          "analyzed": 29
+          "analyzed": 32
         },
         "last_30d": {
           "n": 41,
-          "analyzed": 39
+          "analyzed": 41
         },
         "last_7d": {
           "n": 26,
-          "analyzed": 24
+          "analyzed": 26
         },
         "last_90d": {
           "n": 53,
@@ -88,19 +88,19 @@
       "counts": {
         "last_14d": {
           "n": 33,
-          "analyzed": 29
+          "analyzed": 33
         },
         "last_30d": {
           "n": 38,
-          "analyzed": 35
+          "analyzed": 38
         },
         "last_7d": {
           "n": 24,
-          "analyzed": 18
+          "analyzed": 24
         },
         "last_90d": {
           "n": 50,
-          "analyzed": 47
+          "analyzed": 50
         }
       },
       "generated": "2026-11-19",
@@ -158,19 +158,19 @@
       "counts": {
         "last_14d": {
           "n": 14,
-          "analyzed": 12
+          "analyzed": 14
         },
         "last_30d": {
           "n": 15,
-          "analyzed": 13
+          "analyzed": 15
         },
         "last_7d": {
           "n": 12,
-          "analyzed": 10
+          "analyzed": 12
         },
         "last_90d": {
           "n": 15,
-          "analyzed": 13
+          "analyzed": 15
         }
       },
       "generated": "2026-11-19",
